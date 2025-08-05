@@ -1,0 +1,90 @@
+
+tt_zuotubiao.png
+size: 388,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bd_01
+  rotate: true
+  xy: 183, 2
+  size: 54, 67
+  orig: 90, 90
+  offset: 19, 11
+  index: -1
+bd_02
+  rotate: false
+  xy: 252, 4
+  size: 51, 50
+  orig: 90, 90
+  offset: 19, 19
+  index: -1
+bd_03
+  rotate: false
+  xy: 327, 7
+  size: 54, 55
+  orig: 90, 90
+  offset: 17, 17
+  index: -1
+bd_04
+  rotate: true
+  xy: 331, 134
+  size: 60, 55
+  orig: 90, 90
+  offset: 14, 18
+  index: -1
+bd_05
+  rotate: true
+  xy: 183, 58
+  size: 61, 59
+  orig: 90, 90
+  offset: 14, 17
+  index: -1
+bd_06
+  rotate: false
+  xy: 259, 56
+  size: 66, 66
+  orig: 90, 90
+  offset: 12, 15
+  index: -1
+bd_07
+  rotate: false
+  xy: 259, 124
+  size: 70, 70
+  orig: 90, 90
+  offset: 10, 12
+  index: -1
+bd_08
+  rotate: false
+  xy: 183, 121
+  size: 74, 73
+  orig: 90, 90
+  offset: 8, 9
+  index: -1
+gd
+  rotate: false
+  xy: 305, 19
+  size: 14, 14
+  orig: 18, 18
+  offset: 2, 2
+  index: -1
+xg_01
+  rotate: false
+  xy: 305, 35
+  size: 18, 19
+  orig: 22, 22
+  offset: 2, 2
+  index: -1
+xm_475
+  rotate: false
+  xy: 327, 64
+  size: 58, 58
+  orig: 90, 90
+  offset: 15, 16
+  index: -1
+zuotubiao1
+  rotate: true
+  xy: 2, 24
+  size: 170, 179
+  orig: 170, 179
+  offset: 0, 0
+  index: -1

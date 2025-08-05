@@ -1,0 +1,153 @@
+
+jackpot_jl_02.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fasanlizi/fasanlizi_00
+  rotate: true
+  xy: 29, 137
+  size: 34, 43
+  orig: 86, 92
+  offset: 27, 26
+  index: -1
+fasanlizi/fasanlizi_02
+  rotate: true
+  xy: 207, 136
+  size: 35, 42
+  orig: 86, 92
+  offset: 26, 27
+  index: -1
+fasanlizi/fasanlizi_04
+  rotate: true
+  xy: 2, 99
+  size: 36, 42
+  orig: 86, 92
+  offset: 25, 26
+  index: -1
+fasanlizi/fasanlizi_06
+  rotate: true
+  xy: 131, 98
+  size: 37, 42
+  orig: 86, 92
+  offset: 25, 26
+  index: -1
+fasanlizi/fasanlizi_08
+  rotate: true
+  xy: 127, 58
+  size: 38, 41
+  orig: 86, 92
+  offset: 24, 27
+  index: -1
+fasanlizi/fasanlizi_10
+  rotate: true
+  xy: 170, 57
+  size: 38, 41
+  orig: 86, 92
+  offset: 24, 27
+  index: -1
+fasanlizi/fasanlizi_12
+  rotate: false
+  xy: 175, 97
+  size: 38, 37
+  orig: 86, 92
+  offset: 24, 27
+  index: -1
+fasanlizi/fasanlizi_14
+  rotate: false
+  xy: 215, 97
+  size: 38, 37
+  orig: 86, 92
+  offset: 24, 27
+  index: -1
+fasanlizi/fasanlizi_16
+  rotate: true
+  xy: 2, 60
+  size: 37, 39
+  orig: 86, 92
+  offset: 25, 26
+  index: -1
+fasanlizi/fasanlizi_18
+  rotate: true
+  xy: 46, 99
+  size: 36, 41
+  orig: 86, 92
+  offset: 26, 24
+  index: -1
+fasanlizi/fasanlizi_20
+  rotate: true
+  xy: 89, 99
+  size: 36, 40
+  orig: 86, 92
+  offset: 26, 25
+  index: -1
+fasanlizi/fasanlizi_21
+  rotate: true
+  xy: 43, 60
+  size: 37, 40
+  orig: 86, 92
+  offset: 25, 25
+  index: -1
+fasanlizi/fasanlizi_23
+  rotate: true
+  xy: 85, 60
+  size: 37, 40
+  orig: 86, 92
+  offset: 25, 25
+  index: -1
+fasanlizi/fasanlizi_25
+  rotate: true
+  xy: 74, 137
+  size: 34, 41
+  orig: 86, 92
+  offset: 27, 25
+  index: -1
+fasanlizi/fasanlizi_27
+  rotate: true
+  xy: 117, 137
+  size: 34, 43
+  orig: 86, 92
+  offset: 27, 25
+  index: -1
+fasanlizi/fasanlizi_29
+  rotate: true
+  xy: 162, 137
+  size: 34, 43
+  orig: 86, 92
+  offset: 27, 26
+  index: -1
+fuhao/theme122_s_14
+  rotate: true
+  xy: 114, 3
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+fuhao/theme122_s_15
+  rotate: true
+  xy: 170, 2
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+fuhao/theme122_s_16
+  rotate: true
+  xy: 58, 7
+  size: 51, 54
+  orig: 53, 54
+  offset: 1, 0
+  index: -1
+fuhao/theme122_s_17
+  rotate: true
+  xy: 2, 15
+  size: 43, 54
+  orig: 53, 54
+  offset: 4, 0
+  index: -1
+theme122_jp_suo5
+  rotate: true
+  xy: 2, 152
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1

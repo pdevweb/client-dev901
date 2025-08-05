@@ -1,0 +1,27 @@
+
+di.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+theme122_popup_bg_04
+  rotate: false
+  xy: 2, 2
+  size: 746, 523
+  orig: 746, 523
+  offset: 0, 0
+  index: -1
+theme122_wheel_bg2
+  rotate: true
+  xy: 750, 381
+  size: 144, 133
+  orig: 144, 133
+  offset: 0, 0
+  index: -1
+theme122_wheel_bg3
+  rotate: true
+  xy: 750, 262
+  size: 117, 89
+  orig: 117, 89
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+383_l4.png
+size: 492,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l4xhs1
+  rotate: false
+  xy: 429, 196
+  size: 55, 55
+  orig: 57, 57
+  offset: 1, 2
+  index: -1
+l4xhs2
+  rotate: false
+  xy: 429, 145
+  size: 45, 49
+  orig: 53, 52
+  offset: 8, 3
+  index: -1
+l4yy1
+  rotate: true
+  xy: 429, 26
+  size: 25, 41
+  orig: 26, 42
+  offset: 1, 0
+  index: -1
+l4yy2
+  rotate: true
+  xy: 429, 53
+  size: 90, 40
+  orig: 94, 41
+  offset: 4, 0
+  index: -1
+xxx1
+  rotate: true
+  xy: 429, 253
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+图层 45
+  rotate: false
+  xy: 2, 2
+  size: 425, 312
+  orig: 425, 312
+  offset: 0, 0
+  index: -1

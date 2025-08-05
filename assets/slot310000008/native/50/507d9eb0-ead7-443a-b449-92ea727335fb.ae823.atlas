@@ -1,0 +1,244 @@
+
+jp_jieshou.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gd
+  rotate: false
+  xy: 251, 59
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+guangxiao03
+  rotate: false
+  xy: 49, 54
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lz_01
+  rotate: false
+  xy: 789, 4
+  size: 71, 31
+  orig: 128, 107
+  offset: 36, 14
+  index: -1
+lz_02
+  rotate: false
+  xy: 316, 13
+  size: 83, 39
+  orig: 128, 107
+  offset: 27, 14
+  index: -1
+lz_03
+  rotate: false
+  xy: 132, 7
+  size: 93, 45
+  orig: 128, 107
+  offset: 21, 14
+  index: -1
+lz_04
+  rotate: true
+  xy: 1005, 47
+  size: 102, 52
+  orig: 128, 107
+  offset: 15, 14
+  index: -1
+lz_05
+  rotate: true
+  xy: 869, 42
+  size: 105, 56
+  orig: 128, 107
+  offset: 13, 14
+  index: -1
+lz_06
+  rotate: true
+  xy: 910, 149
+  size: 105, 55
+  orig: 128, 107
+  offset: 13, 15
+  index: -1
+lz_07
+  rotate: true
+  xy: 967, 151
+  size: 103, 62
+  orig: 128, 107
+  offset: 13, 17
+  index: -1
+lz_08
+  rotate: true
+  xy: 1031, 158
+  size: 96, 73
+  orig: 128, 107
+  offset: 13, 14
+  index: -1
+lz_09
+  rotate: true
+  xy: 49, 3
+  size: 49, 81
+  orig: 128, 107
+  offset: 58, 14
+  index: -1
+lz_10
+  rotate: true
+  xy: 227, 11
+  size: 41, 87
+  orig: 128, 107
+  offset: 62, 15
+  index: -1
+lz_11
+  rotate: true
+  xy: 889, 6
+  size: 34, 68
+  orig: 128, 107
+  offset: 69, 36
+  index: -1
+lz_12
+  rotate: true
+  xy: 631, 2
+  size: 22, 21
+  orig: 128, 107
+  offset: 80, 82
+  index: -1
+ssg1
+  rotate: true
+  xy: 2, 11
+  size: 243, 45
+  orig: 257, 59
+  offset: 7, 7
+  index: -1
+ssg2
+  rotate: true
+  xy: 251, 74
+  size: 180, 37
+  orig: 194, 51
+  offset: 7, 7
+  index: -1
+ssg3
+  rotate: true
+  xy: 290, 134
+  size: 120, 35
+  orig: 134, 49
+  offset: 7, 7
+  index: -1
+ssg4
+  rotate: true
+  xy: 327, 134
+  size: 120, 35
+  orig: 134, 49
+  offset: 7, 7
+  index: -1
+xg_01
+  rotate: false
+  xy: 862, 10
+  size: 25, 25
+  orig: 26, 26
+  offset: 0, 1
+  index: -1
+xl1_01
+  rotate: true
+  xy: 829, 149
+  size: 105, 79
+  orig: 128, 128
+  offset: 13, 23
+  index: -1
+xl1_03
+  rotate: true
+  xy: 927, 44
+  size: 103, 76
+  orig: 128, 128
+  offset: 15, 23
+  index: -1
+xl1_05
+  rotate: true
+  xy: 789, 37
+  size: 107, 78
+  orig: 128, 128
+  offset: 14, 24
+  index: -1
+xl1_07
+  rotate: true
+  xy: 520, 140
+  size: 114, 73
+  orig: 128, 128
+  offset: 8, 24
+  index: -1
+xl1_09
+  rotate: true
+  xy: 364, 137
+  size: 117, 76
+  orig: 128, 128
+  offset: 6, 24
+  index: -1
+xl1_11
+  rotate: true
+  xy: 405, 18
+  size: 117, 75
+  orig: 128, 128
+  offset: 6, 24
+  index: -1
+xl1_13
+  rotate: true
+  xy: 442, 139
+  size: 115, 76
+  orig: 128, 128
+  offset: 6, 25
+  index: -1
+xl1_15
+  rotate: true
+  xy: 561, 24
+  size: 114, 68
+  orig: 128, 128
+  offset: 7, 26
+  index: -1
+xl1_17
+  rotate: true
+  xy: 674, 141
+  size: 113, 71
+  orig: 128, 128
+  offset: 7, 23
+  index: -1
+xl1_19
+  rotate: true
+  xy: 631, 26
+  size: 113, 75
+  orig: 128, 128
+  offset: 7, 23
+  index: -1
+xl1_21
+  rotate: true
+  xy: 482, 23
+  size: 114, 77
+  orig: 128, 128
+  offset: 8, 25
+  index: -1
+xl1_23
+  rotate: true
+  xy: 595, 141
+  size: 113, 77
+  orig: 128, 128
+  offset: 10, 26
+  index: -1
+xl1_25
+  rotate: false
+  xy: 290, 54
+  size: 113, 78
+  orig: 128, 128
+  offset: 10, 25
+  index: -1
+xl1_27
+  rotate: true
+  xy: 708, 28
+  size: 111, 79
+  orig: 128, 128
+  offset: 10, 24
+  index: -1
+xl1_29
+  rotate: true
+  xy: 747, 146
+  size: 108, 80
+  orig: 128, 128
+  offset: 11, 23
+  index: -1

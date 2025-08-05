@@ -1,0 +1,258 @@
+
+eff_bg_light.png
+size: 1896,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinchang/light1_00000
+  rotate: false
+  xy: 2, 5
+  size: 211, 64
+  orig: 236, 70
+  offset: 18, 0
+  index: -1
+jinchang/light1_00001
+  rotate: false
+  xy: 215, 5
+  size: 211, 64
+  orig: 236, 70
+  offset: 18, 0
+  index: -1
+jinchang/light1_00002
+  rotate: false
+  xy: 1049, 2
+  size: 211, 65
+  orig: 236, 70
+  offset: 18, 0
+  index: -1
+jinchang/light1_00003
+  rotate: false
+  xy: 1262, 2
+  size: 210, 65
+  orig: 236, 70
+  offset: 18, 0
+  index: -1
+jinchang/light1_00004
+  rotate: false
+  xy: 1474, 2
+  size: 209, 65
+  orig: 236, 70
+  offset: 18, 0
+  index: -1
+jinchang/light1_00005
+  rotate: false
+  xy: 1685, 2
+  size: 207, 65
+  orig: 236, 70
+  offset: 18, 0
+  index: -1
+jinchang/light1_00006
+  rotate: false
+  xy: 629, 4
+  size: 204, 64
+  orig: 236, 70
+  offset: 19, 1
+  index: -1
+jinchang/light1_00007
+  rotate: false
+  xy: 428, 5
+  size: 199, 64
+  orig: 236, 70
+  offset: 19, 1
+  index: -1
+jinchang/light1_00008
+  rotate: false
+  xy: 826, 134
+  size: 197, 62
+  orig: 236, 70
+  offset: 19, 3
+  index: -1
+jinchang/light1_00009
+  rotate: false
+  xy: 1025, 134
+  size: 197, 62
+  orig: 236, 70
+  offset: 19, 3
+  index: -1
+jinchang/light1_00010
+  rotate: false
+  xy: 1224, 134
+  size: 196, 62
+  orig: 236, 70
+  offset: 19, 3
+  index: -1
+jinchang/light1_00011
+  rotate: false
+  xy: 1054, 69
+  size: 194, 63
+  orig: 236, 70
+  offset: 20, 3
+  index: -1
+jinchang/light1_00012
+  rotate: false
+  xy: 1422, 134
+  size: 194, 62
+  orig: 236, 70
+  offset: 20, 3
+  index: -1
+jinchang/light1_00013
+  rotate: false
+  xy: 2, 198
+  size: 193, 61
+  orig: 236, 70
+  offset: 20, 4
+  index: -1
+jinchang/light1_00014
+  rotate: false
+  xy: 197, 198
+  size: 192, 61
+  orig: 236, 70
+  offset: 21, 4
+  index: -1
+jinchang/light1_00015
+  rotate: false
+  xy: 391, 198
+  size: 192, 61
+  orig: 236, 70
+  offset: 21, 4
+  index: -1
+jinchang/light1_00016
+  rotate: false
+  xy: 585, 198
+  size: 191, 61
+  orig: 236, 70
+  offset: 22, 4
+  index: -1
+jinchang/light1_00017
+  rotate: false
+  xy: 778, 198
+  size: 190, 61
+  orig: 236, 70
+  offset: 23, 4
+  index: -1
+jinchang/light1_00018
+  rotate: false
+  xy: 970, 198
+  size: 188, 61
+  orig: 236, 70
+  offset: 24, 4
+  index: -1
+jinchang/light1_00019
+  rotate: false
+  xy: 1160, 198
+  size: 189, 61
+  orig: 236, 70
+  offset: 23, 3
+  index: -1
+jinchang/light1_00020
+  rotate: false
+  xy: 1351, 198
+  size: 192, 61
+  orig: 236, 70
+  offset: 21, 3
+  index: -1
+jinchang/light1_00021
+  rotate: false
+  xy: 1545, 198
+  size: 196, 61
+  orig: 236, 70
+  offset: 19, 2
+  index: -1
+jinchang/light1_00022
+  rotate: false
+  xy: 2, 135
+  size: 199, 61
+  orig: 236, 70
+  offset: 18, 2
+  index: -1
+jinchang/light1_00023
+  rotate: false
+  xy: 203, 135
+  size: 201, 61
+  orig: 236, 70
+  offset: 19, 2
+  index: -1
+jinchang/light1_00024
+  rotate: false
+  xy: 1618, 134
+  size: 206, 62
+  orig: 236, 70
+  offset: 18, 1
+  index: -1
+jinchang/light1_00025
+  rotate: false
+  xy: 406, 135
+  size: 208, 61
+  orig: 236, 70
+  offset: 18, 1
+  index: -1
+jinchang/light1_00026
+  rotate: false
+  xy: 616, 135
+  size: 208, 61
+  orig: 236, 70
+  offset: 19, 1
+  index: -1
+jinchang/light1_00027
+  rotate: false
+  xy: 2, 71
+  size: 208, 62
+  orig: 236, 70
+  offset: 20, 0
+  index: -1
+jinchang/light1_00028
+  rotate: false
+  xy: 212, 71
+  size: 207, 62
+  orig: 236, 70
+  offset: 21, 0
+  index: -1
+jinchang/light1_00029
+  rotate: false
+  xy: 421, 71
+  size: 209, 62
+  orig: 236, 70
+  offset: 20, 0
+  index: -1
+jinchang/light1_00030
+  rotate: false
+  xy: 632, 70
+  size: 209, 62
+  orig: 236, 70
+  offset: 20, 0
+  index: -1
+jinchang/light1_00031
+  rotate: false
+  xy: 843, 70
+  size: 209, 62
+  orig: 236, 70
+  offset: 20, 0
+  index: -1
+jinchang/light1_00032
+  rotate: false
+  xy: 1250, 69
+  size: 210, 63
+  orig: 236, 70
+  offset: 19, 0
+  index: -1
+jinchang/light1_00033
+  rotate: false
+  xy: 1462, 69
+  size: 212, 63
+  orig: 236, 70
+  offset: 18, 0
+  index: -1
+jinchang/light1_00034
+  rotate: false
+  xy: 1676, 69
+  size: 211, 63
+  orig: 236, 70
+  offset: 18, 0
+  index: -1
+jinchang/light1_00035
+  rotate: false
+  xy: 835, 4
+  size: 212, 64
+  orig: 236, 70
+  offset: 18, 0
+  index: -1

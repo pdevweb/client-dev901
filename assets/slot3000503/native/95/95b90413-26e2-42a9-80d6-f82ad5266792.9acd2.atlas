@@ -1,0 +1,146 @@
+
+eff_bsht.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bst/bsjt_00000
+  rotate: false
+  xy: 2, 242
+  size: 482, 58
+  orig: 482, 58
+  offset: 0, 0
+  index: -1
+images/bst/bsjt_00001
+  rotate: false
+  xy: 486, 242
+  size: 482, 58
+  orig: 482, 58
+  offset: 0, 0
+  index: -1
+images/bst/bsjt_00002
+  rotate: false
+  xy: 970, 242
+  size: 482, 58
+  orig: 482, 58
+  offset: 0, 0
+  index: -1
+images/bst/bsjt_00003
+  rotate: false
+  xy: 1454, 242
+  size: 482, 58
+  orig: 482, 58
+  offset: 0, 0
+  index: -1
+images/bst/bsjt_00004
+  rotate: false
+  xy: 2, 182
+  size: 482, 58
+  orig: 482, 58
+  offset: 0, 0
+  index: -1
+images/bst/bsjt_00005
+  rotate: false
+  xy: 486, 182
+  size: 482, 58
+  orig: 482, 58
+  offset: 0, 0
+  index: -1
+images/bst/bsjt_00006
+  rotate: false
+  xy: 970, 182
+  size: 482, 58
+  orig: 482, 58
+  offset: 0, 0
+  index: -1
+images/bst/bsjt_00007
+  rotate: false
+  xy: 1454, 182
+  size: 482, 58
+  orig: 482, 58
+  offset: 0, 0
+  index: -1
+images/bst/bsjt_00008
+  rotate: false
+  xy: 2, 122
+  size: 482, 58
+  orig: 482, 58
+  offset: 0, 0
+  index: -1
+images/bst/bsjt_00009
+  rotate: false
+  xy: 486, 122
+  size: 482, 58
+  orig: 482, 58
+  offset: 0, 0
+  index: -1
+images/bst/bsjt_00010
+  rotate: false
+  xy: 970, 122
+  size: 482, 58
+  orig: 482, 58
+  offset: 0, 0
+  index: -1
+images/bst/bsjt_00011
+  rotate: false
+  xy: 1454, 122
+  size: 482, 58
+  orig: 482, 58
+  offset: 0, 0
+  index: -1
+images/bst/bsjt_00012
+  rotate: false
+  xy: 2, 62
+  size: 482, 58
+  orig: 482, 58
+  offset: 0, 0
+  index: -1
+images/bst/bsjt_00013
+  rotate: false
+  xy: 486, 62
+  size: 482, 58
+  orig: 482, 58
+  offset: 0, 0
+  index: -1
+images/bst/bsjt_00014
+  rotate: false
+  xy: 970, 62
+  size: 482, 58
+  orig: 482, 58
+  offset: 0, 0
+  index: -1
+images/bst/bsjt_00015
+  rotate: false
+  xy: 1454, 62
+  size: 482, 58
+  orig: 482, 58
+  offset: 0, 0
+  index: -1
+images/bst/bsjt_00016
+  rotate: false
+  xy: 2, 2
+  size: 482, 58
+  orig: 482, 58
+  offset: 0, 0
+  index: -1
+images/bst/bsjt_00017
+  rotate: false
+  xy: 486, 2
+  size: 482, 58
+  orig: 482, 58
+  offset: 0, 0
+  index: -1
+images/bst/bsjt_00018
+  rotate: false
+  xy: 970, 2
+  size: 482, 58
+  orig: 482, 58
+  offset: 0, 0
+  index: -1
+images/bst/bsjt_00019
+  rotate: false
+  xy: 1454, 2
+  size: 482, 58
+  orig: 482, 58
+  offset: 0, 0
+  index: -1

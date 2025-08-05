@@ -1,0 +1,195 @@
+
+383_jpxzg_tc.png
+size: 1129,526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_fd2
+  rotate: false
+  xy: 269, 225
+  size: 321, 57
+  orig: 321, 57
+  offset: 0, 0
+  index: -1
+1_gxx1
+  rotate: false
+  xy: 269, 284
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+1_gxx2
+  rotate: false
+  xy: 912, 329
+  size: 195, 195
+  orig: 196, 195
+  offset: 0, 0
+  index: -1
+1_gxx3
+  rotate: false
+  xy: 2, 174
+  size: 265, 350
+  orig: 265, 350
+  offset: 0, 0
+  index: -1
+1_lzg
+  rotate: false
+  xy: 511, 287
+  size: 200, 237
+  orig: 200, 237
+  offset: 0, 0
+  index: -1
+1_st
+  rotate: true
+  xy: 127, 2
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+2_bj1
+  rotate: true
+  xy: 2, 4
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+2_bj2
+  rotate: true
+  xy: 269, 190
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+2_bj3
+  rotate: true
+  xy: 1013, 129
+  size: 98, 104
+  orig: 98, 104
+  offset: 0, 0
+  index: -1
+2_gx3
+  rotate: false
+  xy: 420, 11
+  size: 198, 177
+  orig: 199, 177
+  offset: 1, 0
+  index: -1
+3_bj1
+  rotate: true
+  xy: 27, 4
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+3_bj2
+  rotate: true
+  xy: 303, 190
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+3_bj3
+  rotate: true
+  xy: 815, 5
+  size: 98, 105
+  orig: 98, 105
+  offset: 0, 0
+  index: -1
+3_gx1
+  rotate: true
+  xy: 620, 60
+  size: 225, 193
+  orig: 228, 194
+  offset: 2, 0
+  index: -1
+4_bj1
+  rotate: true
+  xy: 52, 4
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+4_bj2
+  rotate: true
+  xy: 337, 190
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+4_bj3
+  rotate: true
+  xy: 922, 5
+  size: 98, 105
+  orig: 98, 105
+  offset: 0, 0
+  index: -1
+4_gx3
+  rotate: false
+  xy: 2, 30
+  size: 228, 142
+  orig: 228, 142
+  offset: 0, 0
+  index: -1
+5_bj1
+  rotate: true
+  xy: 77, 4
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+5_bj2
+  rotate: true
+  xy: 371, 190
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+5_bj3
+  rotate: false
+  xy: 1029, 23
+  size: 98, 104
+  orig: 98, 104
+  offset: 0, 0
+  index: -1
+5_gx3
+  rotate: true
+  xy: 815, 105
+  size: 199, 196
+  orig: 202, 200
+  offset: 1, 2
+  index: -1
+6_bj1
+  rotate: true
+  xy: 102, 4
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+6_bj2
+  rotate: true
+  xy: 405, 190
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+6_bj3
+  rotate: true
+  xy: 1013, 229
+  size: 98, 105
+  orig: 98, 105
+  offset: 0, 0
+  index: -1
+6_gx3
+  rotate: false
+  xy: 232, 5
+  size: 186, 167
+  orig: 186, 167
+  offset: 0, 0
+  index: -1
+gx1
+  rotate: false
+  xy: 713, 306
+  size: 197, 218
+  orig: 201, 228
+  offset: 2, 4
+  index: -1

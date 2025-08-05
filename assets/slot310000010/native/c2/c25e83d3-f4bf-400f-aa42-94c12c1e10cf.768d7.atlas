@@ -1,0 +1,132 @@
+
+jdt_xh.png
+size: 1552,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/xh/xh_0
+  rotate: false
+  xy: 2, 147
+  size: 514, 27
+  orig: 542, 50
+  offset: 14, 13
+  index: -1
+tx/xh/xh_1
+  rotate: false
+  xy: 2, 118
+  size: 514, 27
+  orig: 542, 50
+  offset: 14, 13
+  index: -1
+tx/xh/xh_10
+  rotate: false
+  xy: 518, 60
+  size: 514, 27
+  orig: 542, 50
+  offset: 14, 13
+  index: -1
+tx/xh/xh_11
+  rotate: false
+  xy: 1034, 89
+  size: 514, 27
+  orig: 542, 50
+  offset: 14, 13
+  index: -1
+tx/xh/xh_12
+  rotate: false
+  xy: 2, 2
+  size: 514, 27
+  orig: 542, 50
+  offset: 14, 13
+  index: -1
+tx/xh/xh_13
+  rotate: false
+  xy: 518, 31
+  size: 514, 27
+  orig: 542, 50
+  offset: 14, 13
+  index: -1
+tx/xh/xh_14
+  rotate: false
+  xy: 1034, 60
+  size: 514, 27
+  orig: 542, 50
+  offset: 14, 13
+  index: -1
+tx/xh/xh_15
+  rotate: false
+  xy: 518, 2
+  size: 514, 27
+  orig: 542, 50
+  offset: 14, 13
+  index: -1
+tx/xh/xh_16
+  rotate: false
+  xy: 1034, 31
+  size: 514, 27
+  orig: 542, 50
+  offset: 14, 13
+  index: -1
+tx/xh/xh_17
+  rotate: false
+  xy: 1034, 2
+  size: 514, 27
+  orig: 542, 50
+  offset: 14, 13
+  index: -1
+tx/xh/xh_2
+  rotate: false
+  xy: 518, 147
+  size: 514, 27
+  orig: 542, 50
+  offset: 14, 13
+  index: -1
+tx/xh/xh_3
+  rotate: false
+  xy: 2, 89
+  size: 514, 27
+  orig: 542, 50
+  offset: 14, 13
+  index: -1
+tx/xh/xh_4
+  rotate: false
+  xy: 518, 118
+  size: 514, 27
+  orig: 542, 50
+  offset: 14, 13
+  index: -1
+tx/xh/xh_5
+  rotate: false
+  xy: 1034, 147
+  size: 514, 27
+  orig: 542, 50
+  offset: 14, 13
+  index: -1
+tx/xh/xh_6
+  rotate: false
+  xy: 2, 60
+  size: 514, 27
+  orig: 542, 50
+  offset: 14, 13
+  index: -1
+tx/xh/xh_7
+  rotate: false
+  xy: 518, 89
+  size: 514, 27
+  orig: 542, 50
+  offset: 14, 13
+  index: -1
+tx/xh/xh_8
+  rotate: false
+  xy: 1034, 118
+  size: 514, 27
+  orig: 542, 50
+  offset: 14, 13
+  index: -1
+tx/xh/xh_9
+  rotate: false
+  xy: 2, 31
+  size: 514, 27
+  orig: 542, 50
+  offset: 14, 13
+  index: -1

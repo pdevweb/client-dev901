@@ -1,0 +1,55 @@
+
+eff_Touch.png
+size: 348,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangdian3
+  rotate: false
+  xy: 2, 2
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 106, 2
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+yezi
+  rotate: true
+  xy: 210, 20
+  size: 84, 72
+  orig: 84, 72
+  offset: 0, 0
+  index: -1
+yezi1
+  rotate: true
+  xy: 284, 25
+  size: 79, 53
+  orig: 79, 53
+  offset: 0, 0
+  index: -1
+yezi2
+  rotate: false
+  xy: 339, 66
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+yezi3
+  rotate: false
+  xy: 339, 77
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+yezi4
+  rotate: true
+  xy: 339, 90
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1

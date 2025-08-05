@@ -1,0 +1,13 @@
+
+307_shuiw.png
+size: 240,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+y_00
+  rotate: false
+  xy: 2, 2
+  size: 234, 232
+  orig: 256, 256
+  offset: 14, 14
+  index: -1

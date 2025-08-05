@@ -1,0 +1,97 @@
+
+slot_bigwin_text2.png
+size: 604,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 472, 2
+  size: 94, 118
+  orig: 94, 118
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 189, 35
+  size: 104, 125
+  orig: 104, 125
+  offset: 0, 0
+  index: -1
+Eff_shanguang_028
+  rotate: false
+  xy: 244, 287
+  size: 58, 16
+  orig: 64, 32
+  offset: 6, 8
+  index: -1
+ball32
+  rotate: false
+  xy: 295, 97
+  size: 64, 63
+  orig: 64, 64
+  offset: 0, 1
+  index: -1
+big
+  rotate: true
+  xy: 472, 98
+  size: 205, 109
+  orig: 225, 130
+  offset: 10, 13
+  index: -1
+epic
+  rotate: true
+  xy: 361, 32
+  size: 271, 109
+  orig: 276, 118
+  offset: 5, 4
+  index: -1
+flare1_tc_512_blue2
+  rotate: false
+  xy: 2, 7
+  size: 113, 73
+  orig: 126, 77
+  offset: 3, 2
+  index: -1
+gxx
+  rotate: false
+  xy: 2, 276
+  size: 240, 240
+  orig: 248, 242
+  offset: 4, 1
+  index: -1
+mega
+  rotate: false
+  xy: 2, 162
+  size: 357, 112
+  orig: 360, 135
+  offset: 2, 18
+  index: -1
+super
+  rotate: false
+  xy: 244, 305
+  size: 357, 102
+  orig: 360, 124
+  offset: 2, 11
+  index: -1
+ultimate
+  rotate: false
+  xy: 244, 409
+  size: 355, 107
+  orig: 360, 136
+  offset: 3, 18
+  index: -1
+win
+  rotate: false
+  xy: 2, 82
+  size: 185, 78
+  orig: 197, 82
+  offset: 6, 2
+  index: -1
+xx_00
+  rotate: false
+  xy: 295, 47
+  size: 50, 48
+  orig: 64, 64
+  offset: 7, 8
+  index: -1

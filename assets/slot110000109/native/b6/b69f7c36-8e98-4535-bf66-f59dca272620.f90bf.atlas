@@ -1,0 +1,279 @@
+
+bigwin.png
+size: 364,916
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+16
+  rotate: false
+  xy: 128, 799
+  size: 114, 47
+  orig: 115, 50
+  offset: 1, 1
+  index: -1
+17
+  rotate: true
+  xy: 2, 761
+  size: 68, 96
+  orig: 90, 140
+  offset: 10, 9
+  index: -1
+18
+  rotate: true
+  xy: 258, 816
+  size: 64, 77
+  orig: 70, 87
+  offset: 3, 5
+  index: -1
+19
+  rotate: false
+  xy: 2, 698
+  size: 141, 59
+  orig: 175, 79
+  offset: 19, 8
+  index: -1
+20
+  rotate: false
+  xy: 145, 697
+  size: 141, 60
+  orig: 178, 104
+  offset: 18, 12
+  index: -1
+21
+  rotate: true
+  xy: 288, 671
+  size: 143, 72
+  orig: 175, 94
+  offset: 20, 13
+  index: -1
+22
+  rotate: false
+  xy: 2, 155
+  size: 245, 102
+  orig: 250, 184
+  offset: 0, 35
+  index: -1
+23
+  rotate: true
+  xy: 2, 15
+  size: 138, 209
+  orig: 140, 250
+  offset: 2, 36
+  index: -1
+24
+  rotate: false
+  xy: 2, 282
+  size: 89, 87
+  orig: 125, 125
+  offset: 16, 15
+  index: -1
+25
+  rotate: false
+  xy: 244, 593
+  size: 91, 76
+  orig: 125, 100
+  offset: 13, 8
+  index: -1
+26
+  rotate: false
+  xy: 93, 259
+  size: 251, 73
+  orig: 266, 148
+  offset: 8, 32
+  index: -1
+27
+  rotate: false
+  xy: 2, 630
+  size: 240, 65
+  orig: 250, 144
+  offset: 8, 37
+  index: -1
+bace_gg
+  rotate: true
+  xy: 249, 143
+  size: 114, 110
+  orig: 117, 112
+  offset: 1, 1
+  index: -1
+fantasy_Turntable_bg_01
+  rotate: false
+  xy: 213, 2
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1
+fantasy_Turntable_bg_02
+  rotate: false
+  xy: 100, 759
+  size: 185, 38
+  orig: 185, 38
+  offset: 0, 0
+  index: -1
+light/light_000
+  rotate: true
+  xy: 264, 507
+  size: 84, 86
+  orig: 175, 175
+  offset: 43, 45
+  index: -1
+light/light_001
+  rotate: true
+  xy: 2, 459
+  size: 84, 86
+  orig: 175, 175
+  offset: 44, 45
+  index: -1
+light/light_002
+  rotate: false
+  xy: 89, 371
+  size: 85, 85
+  orig: 175, 175
+  offset: 43, 46
+  index: -1
+light/light_003
+  rotate: false
+  xy: 176, 335
+  size: 85, 85
+  orig: 175, 175
+  offset: 43, 46
+  index: -1
+light/light_004
+  rotate: true
+  xy: 2, 545
+  size: 83, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_005
+  rotate: true
+  xy: 89, 545
+  size: 83, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_006
+  rotate: false
+  xy: 90, 458
+  size: 84, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_007
+  rotate: true
+  xy: 176, 422
+  size: 84, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_008
+  rotate: true
+  xy: 263, 421
+  size: 84, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_009
+  rotate: false
+  xy: 263, 334
+  size: 85, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_010
+  rotate: true
+  xy: 2, 373
+  size: 84, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_011
+  rotate: true
+  xy: 176, 508
+  size: 83, 86
+  orig: 175, 175
+  offset: 44, 45
+  index: -1
+mingzi/zp_Atavistic crocodile
+  rotate: false
+  xy: 2, 899
+  size: 133, 15
+  orig: 133, 15
+  offset: 0, 0
+  index: -1
+mingzi/zp_Bomb crab
+  rotate: false
+  xy: 137, 899
+  size: 72, 15
+  orig: 72, 15
+  offset: 0, 0
+  index: -1
+mingzi/zp_Drill crab
+  rotate: false
+  xy: 211, 899
+  size: 71, 15
+  orig: 71, 15
+  offset: 0, 0
+  index: -1
+mingzi/zp_Golden Shark
+  rotate: false
+  xy: 2, 882
+  size: 93, 15
+  orig: 93, 15
+  offset: 0, 0
+  index: -1
+mingzi/zp_Jade Piranha
+  rotate: false
+  xy: 97, 882
+  size: 90, 15
+  orig: 90, 15
+  offset: 0, 0
+  index: -1
+mingzi/zp_Kraken
+  rotate: false
+  xy: 284, 899
+  size: 50, 15
+  orig: 50, 15
+  offset: 0, 0
+  index: -1
+mingzi/zp_Mechanical birds
+  rotate: false
+  xy: 189, 882
+  size: 118, 15
+  orig: 118, 15
+  offset: 0, 0
+  index: -1
+mingzi/zp_Mutant Sturgeon
+  rotate: false
+  xy: 2, 865
+  size: 118, 15
+  orig: 118, 15
+  offset: 0, 0
+  index: -1
+mingzi/zp_Poisonous jellyfish
+  rotate: false
+  xy: 122, 865
+  size: 134, 15
+  orig: 134, 15
+  offset: 0, 0
+  index: -1
+mingzi/zp_Sawtooth shark
+  rotate: false
+  xy: 2, 848
+  size: 114, 15
+  orig: 114, 15
+  offset: 0, 0
+  index: -1
+mingzi/zp_Starry manta rays
+  rotate: false
+  xy: 118, 848
+  size: 131, 15
+  orig: 131, 15
+  offset: 0, 0
+  index: -1
+mingzi/zp_Templar narwhal
+  rotate: false
+  xy: 2, 831
+  size: 124, 15
+  orig: 124, 15
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+277_mapxjd.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao1
+  rotate: false
+  xy: 2, 105
+  size: 141, 144
+  orig: 155, 157
+  offset: 6, 7
+  index: -1
+dan12_3
+  rotate: true
+  xy: 89, 56
+  size: 47, 109
+  orig: 60, 113
+  offset: 8, 4
+  index: -1
+dg
+  rotate: false
+  xy: 2, 17
+  size: 85, 86
+  orig: 86, 86
+  offset: 1, 0
+  index: -1
+jinbi
+  rotate: false
+  xy: 89, 18
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+xt2_00
+  rotate: true
+  xy: 2, 2
+  size: 13, 281
+  orig: 241, 335
+  offset: 114, 19
+  index: -1
+yt/yt_00
+  rotate: false
+  xy: 189, 17
+  size: 27, 6
+  orig: 63, 96
+  offset: 20, 13
+  index: -1
+yt/yt_01
+  rotate: false
+  xy: 285, 5
+  size: 41, 18
+  orig: 63, 96
+  offset: 12, 12
+  index: -1
+yt/yt_02
+  rotate: false
+  xy: 189, 25
+  size: 42, 29
+  orig: 63, 96
+  offset: 12, 11
+  index: -1
+yt/yt_03
+  rotate: true
+  xy: 283, 25
+  size: 44, 39
+  orig: 63, 96
+  offset: 11, 11
+  index: -1
+yt/yt_04
+  rotate: false
+  xy: 200, 56
+  size: 53, 49
+  orig: 63, 96
+  offset: 3, 11
+  index: -1
+yt/yt_05
+  rotate: false
+  xy: 249, 123
+  size: 53, 60
+  orig: 63, 96
+  offset: 3, 11
+  index: -1
+yt/yt_06
+  rotate: false
+  xy: 145, 180
+  size: 54, 69
+  orig: 63, 96
+  offset: 3, 12
+  index: -1
+yt/yt_07
+  rotate: false
+  xy: 145, 106
+  size: 50, 72
+  orig: 63, 96
+  offset: 8, 12
+  index: -1
+yt/yt_08
+  rotate: false
+  xy: 197, 107
+  size: 50, 71
+  orig: 63, 96
+  offset: 8, 14
+  index: -1
+yt/yt_09
+  rotate: false
+  xy: 201, 185
+  size: 50, 64
+  orig: 63, 96
+  offset: 8, 22
+  index: -1
+yt/yt_10
+  rotate: false
+  xy: 253, 196
+  size: 50, 53
+  orig: 63, 96
+  offset: 8, 33
+  index: -1
+yt/yt_11
+  rotate: true
+  xy: 255, 71
+  size: 50, 43
+  orig: 63, 96
+  offset: 8, 43
+  index: -1
+yt/yt_12
+  rotate: false
+  xy: 138, 22
+  size: 49, 32
+  orig: 63, 96
+  offset: 8, 54
+  index: -1
+yt/yt_13
+  rotate: false
+  xy: 233, 33
+  size: 48, 21
+  orig: 63, 96
+  offset: 8, 64
+  index: -1
+yt/yt_14
+  rotate: false
+  xy: 233, 20
+  size: 42, 11
+  orig: 63, 96
+  offset: 12, 74
+  index: -1

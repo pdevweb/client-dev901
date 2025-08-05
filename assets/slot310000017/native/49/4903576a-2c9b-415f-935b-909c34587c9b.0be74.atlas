@@ -1,0 +1,174 @@
+
+eff_dakuang.png
+size: 596,1044
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bkg
+  rotate: false
+  xy: 238, 14
+  size: 88, 222
+  orig: 119, 274
+  offset: 16, 26
+  index: -1
+bklg
+  rotate: true
+  xy: 480, 101
+  size: 53, 108
+  orig: 67, 131
+  offset: 7, 12
+  index: -1
+guangxiao03
+  rotate: false
+  xy: 328, 2
+  size: 150, 152
+  orig: 200, 200
+  offset: 26, 22
+  index: -1
+jili_01
+  rotate: true
+  xy: 233, 593
+  size: 112, 228
+  orig: 122, 250
+  offset: 7, 11
+  index: -1
+jili_02
+  rotate: true
+  xy: 2, 586
+  size: 118, 227
+  orig: 122, 250
+  offset: 4, 11
+  index: -1
+jili_03
+  rotate: true
+  xy: 2, 706
+  size: 116, 229
+  orig: 122, 250
+  offset: 5, 10
+  index: -1
+jili_04
+  rotate: true
+  xy: 231, 475
+  size: 116, 226
+  orig: 122, 250
+  offset: 5, 12
+  index: -1
+jili_05
+  rotate: false
+  xy: 463, 592
+  size: 122, 220
+  orig: 122, 250
+  offset: 0, 15
+  index: -1
+jili_06
+  rotate: false
+  xy: 459, 372
+  size: 122, 218
+  orig: 122, 250
+  offset: 0, 16
+  index: -1
+jili_07
+  rotate: true
+  xy: 2, 237
+  size: 120, 222
+  orig: 122, 250
+  offset: 2, 14
+  index: -1
+jili_08
+  rotate: false
+  xy: 474, 814
+  size: 120, 226
+  orig: 122, 250
+  offset: 1, 12
+  index: -1
+jili_09
+  rotate: true
+  xy: 230, 357
+  size: 116, 224
+  orig: 122, 250
+  offset: 5, 13
+  index: -1
+jili_10
+  rotate: true
+  xy: 233, 707
+  size: 115, 228
+  orig: 122, 250
+  offset: 6, 11
+  index: -1
+jili_11
+  rotate: true
+  xy: 2, 359
+  size: 111, 224
+  orig: 122, 250
+  offset: 8, 13
+  index: -1
+jili_12
+  rotate: false
+  xy: 2, 13
+  size: 116, 222
+  orig: 122, 250
+  offset: 5, 14
+  index: -1
+jili_13
+  rotate: false
+  xy: 120, 13
+  size: 116, 222
+  orig: 122, 250
+  offset: 5, 14
+  index: -1
+jili_14
+  rotate: true
+  xy: 226, 238
+  size: 117, 218
+  orig: 122, 250
+  offset: 4, 16
+  index: -1
+jili_15
+  rotate: false
+  xy: 456, 156
+  size: 116, 214
+  orig: 122, 250
+  offset: 5, 18
+  index: -1
+jili_16
+  rotate: true
+  xy: 238, 824
+  size: 110, 230
+  orig: 122, 250
+  offset: 8, 10
+  index: -1
+jili_17
+  rotate: true
+  xy: 2, 932
+  size: 108, 234
+  orig: 122, 250
+  offset: 9, 8
+  index: -1
+jili_18
+  rotate: true
+  xy: 238, 936
+  size: 104, 234
+  orig: 122, 250
+  offset: 11, 8
+  index: -1
+jili_19
+  rotate: true
+  xy: 2, 824
+  size: 106, 230
+  orig: 122, 250
+  offset: 10, 10
+  index: -1
+jili_20
+  rotate: true
+  xy: 2, 472
+  size: 112, 226
+  orig: 122, 250
+  offset: 7, 12
+  index: -1
+xg_01
+  rotate: true
+  xy: 328, 186
+  size: 50, 47
+  orig: 64, 64
+  offset: 8, 8
+  index: -1

@@ -1,0 +1,279 @@
+
+jp_jiesuo.png
+size: 364,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gx1
+  rotate: false
+  xy: 103, 635
+  size: 127, 127
+  orig: 128, 128
+  offset: 1, 1
+  index: -1
+hy_01
+  rotate: true
+  xy: 290, 429
+  size: 53, 44
+  orig: 64, 85
+  offset: 0, 0
+  index: -1
+hy_02
+  rotate: true
+  xy: 277, 176
+  size: 64, 81
+  orig: 64, 85
+  offset: 0, 0
+  index: -1
+hy_03
+  rotate: false
+  xy: 132, 351
+  size: 64, 85
+  orig: 64, 85
+  offset: 0, 0
+  index: -1
+hy_04
+  rotate: true
+  xy: 277, 306
+  size: 64, 85
+  orig: 64, 85
+  offset: 0, 0
+  index: -1
+hy_05
+  rotate: true
+  xy: 277, 242
+  size: 62, 85
+  orig: 64, 85
+  offset: 2, 0
+  index: -1
+hy_06
+  rotate: false
+  xy: 2, 10
+  size: 62, 84
+  orig: 64, 85
+  offset: 2, 1
+  index: -1
+hy_07
+  rotate: false
+  xy: 66, 34
+  size: 62, 78
+  orig: 64, 85
+  offset: 2, 7
+  index: -1
+hy_08
+  rotate: false
+  xy: 162, 103
+  size: 62, 64
+  orig: 64, 85
+  offset: 2, 21
+  index: -1
+hy_09
+  rotate: false
+  xy: 130, 40
+  size: 44, 61
+  orig: 64, 85
+  offset: 20, 24
+  index: -1
+hy_10
+  rotate: false
+  xy: 176, 55
+  size: 33, 46
+  orig: 64, 85
+  offset: 31, 39
+  index: -1
+hy_11
+  rotate: false
+  xy: 103, 596
+  size: 17, 37
+  orig: 64, 85
+  offset: 41, 44
+  index: -1
+jsg1
+  rotate: true
+  xy: 2, 537
+  size: 491, 99
+  orig: 491, 99
+  offset: 0, 0
+  index: -1
+jsg2
+  rotate: true
+  xy: 2, 317
+  size: 218, 75
+  orig: 218, 75
+  offset: 0, 0
+  index: -1
+ssg1
+  rotate: false
+  xy: 103, 996
+  size: 256, 32
+  orig: 284, 43
+  offset: 14, 6
+  index: -1
+ssg2
+  rotate: true
+  xy: 343, 550
+  size: 128, 19
+  orig: 142, 33
+  offset: 7, 7
+  index: -1
+xl1_01
+  rotate: true
+  xy: 308, 894
+  size: 100, 37
+  orig: 318, 90
+  offset: 56, 24
+  index: -1
+xl1_02
+  rotate: true
+  xy: 277, 39
+  size: 135, 46
+  orig: 318, 90
+  offset: 40, 21
+  index: -1
+xl1_03
+  rotate: true
+  xy: 226, 52
+  size: 154, 49
+  orig: 318, 90
+  offset: 37, 19
+  index: -1
+xl1_04
+  rotate: false
+  xy: 198, 372
+  size: 164, 52
+  orig: 318, 90
+  offset: 36, 17
+  index: -1
+xl1_05
+  rotate: true
+  xy: 220, 208
+  size: 162, 55
+  orig: 318, 90
+  offset: 36, 15
+  index: -1
+xl1_06
+  rotate: true
+  xy: 232, 599
+  size: 163, 56
+  orig: 318, 90
+  offset: 37, 14
+  index: -1
+xl1_07
+  rotate: true
+  xy: 232, 426
+  size: 171, 56
+  orig: 318, 90
+  offset: 38, 14
+  index: -1
+xl1_08
+  rotate: true
+  xy: 162, 169
+  size: 180, 56
+  orig: 318, 90
+  offset: 39, 14
+  index: -1
+xl1_09
+  rotate: false
+  xy: 103, 764
+  size: 201, 56
+  orig: 318, 90
+  offset: 41, 14
+  index: -1
+xl1_10
+  rotate: false
+  xy: 103, 938
+  size: 203, 56
+  orig: 318, 90
+  offset: 42, 14
+  index: -1
+xl1_11
+  rotate: false
+  xy: 103, 822
+  size: 202, 56
+  orig: 318, 90
+  offset: 45, 15
+  index: -1
+xl1_12
+  rotate: false
+  xy: 103, 880
+  size: 203, 56
+  orig: 318, 90
+  offset: 47, 15
+  index: -1
+xl1_13
+  rotate: true
+  xy: 307, 680
+  size: 198, 55
+  orig: 318, 90
+  offset: 54, 15
+  index: -1
+xl1_14
+  rotate: true
+  xy: 132, 438
+  size: 195, 53
+  orig: 318, 90
+  offset: 58, 16
+  index: -1
+xl1_15
+  rotate: true
+  xy: 108, 136
+  size: 196, 52
+  orig: 318, 90
+  offset: 59, 16
+  index: -1
+xl1_16
+  rotate: true
+  xy: 53, 114
+  size: 201, 53
+  orig: 318, 90
+  offset: 52, 15
+  index: -1
+xl1_17
+  rotate: true
+  xy: 79, 334
+  size: 201, 51
+  orig: 318, 90
+  offset: 51, 15
+  index: -1
+xl1_18
+  rotate: true
+  xy: 290, 484
+  size: 194, 51
+  orig: 318, 90
+  offset: 53, 15
+  index: -1
+xl1_19
+  rotate: true
+  xy: 187, 460
+  size: 173, 43
+  orig: 318, 90
+  offset: 58, 23
+  index: -1
+xl1_20
+  rotate: true
+  xy: 325, 2
+  size: 172, 35
+  orig: 318, 90
+  offset: 63, 31
+  index: -1
+xl1_21
+  rotate: false
+  xy: 130, 2
+  size: 170, 35
+  orig: 318, 90
+  offset: 70, 32
+  index: -1
+xl1_22
+  rotate: true
+  xy: 176, 39
+  size: 14, 3
+  orig: 318, 90
+  offset: 192, 51
+  index: -1
+xl1_23
+  rotate: true
+  xy: 2, 96
+  size: 219, 49
+  orig: 318, 90
+  offset: 45, 19
+  index: -1

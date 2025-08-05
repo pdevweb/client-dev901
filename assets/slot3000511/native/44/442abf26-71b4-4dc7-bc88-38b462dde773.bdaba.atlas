@@ -1,0 +1,132 @@
+
+eff_free_tip.png
+size: 1356,1272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+freespins
+  rotate: true
+  xy: 1253, 199
+  size: 439, 72
+  orig: 440, 72
+  offset: 0, 0
+  index: -1
+jieshutankuang_1
+  rotate: false
+  xy: 2, 78
+  size: 818, 90
+  orig: 818, 90
+  offset: 0, 0
+  index: -1
+jieshutankuang_10
+  rotate: false
+  xy: 1327, 588
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+jieshutankuang_11
+  rotate: false
+  xy: 1145, 8
+  size: 34, 630
+  orig: 34, 630
+  offset: 0, 0
+  index: -1
+jieshutankuang_12
+  rotate: false
+  xy: 882, 87
+  size: 58, 81
+  orig: 58, 81
+  offset: 0, 0
+  index: -1
+jieshutankuang_13
+  rotate: true
+  xy: 942, 88
+  size: 39, 97
+  orig: 39, 97
+  offset: 0, 0
+  index: -1
+jieshutankuang_14
+  rotate: false
+  xy: 1327, 536
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+jieshutankuang_15
+  rotate: false
+  xy: 1181, 8
+  size: 34, 630
+  orig: 34, 630
+  offset: 0, 0
+  index: -1
+jieshutankuang_16
+  rotate: true
+  xy: 1083, 33
+  size: 1237, 29
+  orig: 1237, 29
+  offset: 0, 0
+  index: -1
+jieshutankuang_17
+  rotate: true
+  xy: 1114, 33
+  size: 1237, 29
+  orig: 1237, 29
+  offset: 0, 0
+  index: -1
+jieshutankuang_18
+  rotate: false
+  xy: 2, 170
+  size: 1079, 547
+  orig: 1079, 547
+  offset: 0, 0
+  index: -1
+jieshutankuang_2
+  rotate: false
+  xy: 647, 20
+  size: 289, 56
+  orig: 289, 56
+  offset: 0, 0
+  index: -1
+jieshutankuang_4
+  rotate: false
+  xy: 2, 2
+  size: 643, 74
+  orig: 643, 74
+  offset: 0, 0
+  index: -1
+jieshutankuang_5
+  rotate: true
+  xy: 1217, 160
+  size: 478, 34
+  orig: 478, 34
+  offset: 0, 0
+  index: -1
+jieshutankuang_6
+  rotate: true
+  xy: 1145, 640
+  size: 630, 199
+  orig: 630, 199
+  offset: 0, 0
+  index: -1
+jieshutankuang_7
+  rotate: false
+  xy: 2, 719
+  size: 1079, 551
+  orig: 1079, 551
+  offset: 0, 0
+  index: -1
+jieshutankuang_8
+  rotate: false
+  xy: 822, 87
+  size: 58, 81
+  orig: 58, 81
+  offset: 0, 0
+  index: -1
+jieshutankuang_9
+  rotate: true
+  xy: 942, 129
+  size: 39, 97
+  orig: 39, 97
+  offset: 0, 0
+  index: -1

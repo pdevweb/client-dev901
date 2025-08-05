@@ -1,0 +1,20 @@
+
+383_xds_lan.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chacao_xds
+  rotate: false
+  xy: 2, 176
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+未标题-1
+  rotate: false
+  xy: 5, 2
+  size: 236, 175
+  orig: 236, 175
+  offset: 0, 0
+  index: -1

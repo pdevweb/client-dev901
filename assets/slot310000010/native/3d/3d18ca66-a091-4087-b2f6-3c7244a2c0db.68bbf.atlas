@@ -1,0 +1,41 @@
+
+239_symbol_m4.png
+size: 288,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 113, 8
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+bg1
+  rotate: false
+  xy: 2, 2
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+scj
+  rotate: true
+  xy: 218, 6
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+scj1
+  rotate: false
+  xy: 218, 29
+  size: 66, 82
+  orig: 66, 82
+  offset: 0, 0
+  index: -1
+sg1
+  rotate: false
+  xy: 261, 21
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1

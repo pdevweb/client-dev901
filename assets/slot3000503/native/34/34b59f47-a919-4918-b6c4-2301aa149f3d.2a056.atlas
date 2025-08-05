@@ -1,0 +1,503 @@
+
+SPIN.png
+size: 1492,1096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Button_Particular_Large_20FPS_0.66/Button_Particular_Large_00000
+  rotate: false
+  xy: 2, 793
+  size: 255, 149
+  orig: 400, 240
+  offset: 72, 44
+  index: -1
+Button_Particular_Large_20FPS_0.66/Button_Particular_Large_00001
+  rotate: true
+  xy: 1255, 694
+  size: 254, 140
+  orig: 400, 240
+  offset: 73, 52
+  index: -1
+Button_Particular_Large_20FPS_0.66/Button_Particular_Large_00002
+  rotate: false
+  xy: 2, 59
+  size: 255, 142
+  orig: 400, 240
+  offset: 73, 52
+  index: -1
+Button_Particular_Large_20FPS_0.66/Button_Particular_Large_00003
+  rotate: true
+  xy: 406, 688
+  size: 255, 137
+  orig: 400, 240
+  offset: 73, 52
+  index: -1
+Button_Particular_Large_20FPS_0.66/Button_Particular_Large_00004
+  rotate: true
+  xy: 689, 690
+  size: 255, 138
+  orig: 400, 240
+  offset: 73, 50
+  index: -1
+Button_Particular_Large_20FPS_0.66/Button_Particular_Large_00005
+  rotate: true
+  xy: 259, 430
+  size: 255, 141
+  orig: 400, 240
+  offset: 73, 49
+  index: -1
+Button_Particular_Large_20FPS_0.66/Button_Particular_Large_00006
+  rotate: false
+  xy: 2, 497
+  size: 255, 145
+  orig: 400, 240
+  offset: 73, 47
+  index: -1
+Button_Particular_Large_20FPS_0.66/Button_Particular_Large_00007
+  rotate: true
+  xy: 973, 691
+  size: 255, 138
+  orig: 400, 240
+  offset: 73, 53
+  index: -1
+Button_Particular_Large_20FPS_0.66/Button_Particular_Large_00008
+  rotate: false
+  xy: 2, 944
+  size: 255, 150
+  orig: 400, 240
+  offset: 73, 43
+  index: -1
+Button_Particular_Large_20FPS_0.66/Button_Particular_Large_00009
+  rotate: true
+  xy: 1113, 693
+  size: 255, 140
+  orig: 400, 240
+  offset: 73, 51
+  index: -1
+Button_Particular_Large_20FPS_0.66/Button_Particular_Large_00010
+  rotate: true
+  xy: 259, 687
+  size: 256, 145
+  orig: 400, 240
+  offset: 71, 48
+  index: -1
+Button_Particular_Large_20FPS_0.66/Button_Particular_Large_00011
+  rotate: false
+  xy: 2, 203
+  size: 254, 144
+  orig: 400, 240
+  offset: 73, 50
+  index: -1
+Button_Particular_Large_20FPS_0.66/Button_Particular_Large_00012
+  rotate: false
+  xy: 771, 948
+  size: 254, 146
+  orig: 400, 240
+  offset: 73, 48
+  index: -1
+Button_Particular_Large_20FPS_0.66/Button_Particular_Large_00013
+  rotate: false
+  xy: 515, 947
+  size: 254, 147
+  orig: 400, 240
+  offset: 73, 46
+  index: -1
+Button_Particular_Large_20FPS_0.66/Button_Particular_Large_00014
+  rotate: false
+  xy: 259, 945
+  size: 254, 149
+  orig: 400, 240
+  offset: 73, 44
+  index: -1
+Button_Particular_Large_20FPS_0.66/Button_Particular_Large_00015
+  rotate: false
+  xy: 1027, 950
+  size: 255, 144
+  orig: 400, 240
+  offset: 72, 51
+  index: -1
+Button_Particular_Large_20FPS_0.66/Button_Particular_Large_00016
+  rotate: true
+  xy: 545, 690
+  size: 255, 142
+  orig: 400, 240
+  offset: 72, 49
+  index: -1
+Button_Particular_Large_20FPS_0.66/Button_Particular_Large_00017
+  rotate: true
+  xy: 829, 691
+  size: 255, 142
+  orig: 400, 240
+  offset: 72, 50
+  index: -1
+Button_Particular_Large_20FPS_0.66/Button_Particular_Large_00018
+  rotate: false
+  xy: 2, 349
+  size: 254, 146
+  orig: 400, 240
+  offset: 73, 48
+  index: -1
+Button_Particular_Large_20FPS_0.66/Button_Particular_Large_00019
+  rotate: false
+  xy: 2, 644
+  size: 255, 147
+  orig: 400, 240
+  offset: 72, 46
+  index: -1
+Button_Particular_Small_20FPS_0.66/Button_Particular_Small_00000
+  rotate: true
+  xy: 610, 460
+  size: 228, 124
+  orig: 240, 140
+  offset: 7, 4
+  index: -1
+Button_Particular_Small_20FPS_0.66/Button_Particular_Small_00001
+  rotate: false
+  xy: 259, 75
+  size: 231, 127
+  orig: 240, 140
+  offset: 5, 2
+  index: -1
+Button_Particular_Small_20FPS_0.66/Button_Particular_Small_00002
+  rotate: true
+  xy: 736, 460
+  size: 228, 117
+  orig: 240, 140
+  offset: 3, 14
+  index: -1
+Button_Particular_Small_20FPS_0.66/Button_Particular_Small_00003
+  rotate: false
+  xy: 1081, 330
+  size: 217, 116
+  orig: 240, 140
+  offset: 16, 17
+  index: -1
+Button_Particular_Small_20FPS_0.66/Button_Particular_Small_00004
+  rotate: false
+  xy: 1126, 579
+  size: 217, 112
+  orig: 240, 140
+  offset: 13, 22
+  index: -1
+Button_Particular_Small_20FPS_0.66/Button_Particular_Small_00005
+  rotate: false
+  xy: 1142, 212
+  size: 216, 116
+  orig: 240, 140
+  offset: 16, 20
+  index: -1
+Button_Particular_Small_20FPS_0.66/Button_Particular_Small_00006
+  rotate: false
+  xy: 1126, 467
+  size: 216, 110
+  orig: 240, 140
+  offset: 18, 18
+  index: -1
+Button_Particular_Small_20FPS_0.66/Button_Particular_Small_00007
+  rotate: false
+  xy: 1144, 96
+  size: 220, 114
+  orig: 240, 140
+  offset: 16, 16
+  index: -1
+Button_Particular_Small_20FPS_0.66/Button_Particular_Small_00008
+  rotate: false
+  xy: 929, 88
+  size: 213, 118
+  orig: 240, 140
+  offset: 14, 14
+  index: -1
+Button_Particular_Small_20FPS_0.66/Button_Particular_Small_00009
+  rotate: false
+  xy: 713, 81
+  size: 214, 121
+  orig: 240, 140
+  offset: 15, 13
+  index: -1
+Button_Particular_Small_20FPS_0.66/Button_Particular_Small_00010
+  rotate: false
+  xy: 627, 204
+  size: 218, 125
+  orig: 240, 140
+  offset: 13, 11
+  index: -1
+Button_Particular_Small_20FPS_0.66/Button_Particular_Small_00011
+  rotate: false
+  xy: 627, 331
+  size: 220, 127
+  orig: 240, 140
+  offset: 12, 11
+  index: -1
+Button_Particular_Small_20FPS_0.66/Button_Particular_Small_00012
+  rotate: true
+  xy: 386, 204
+  size: 224, 122
+  orig: 240, 140
+  offset: 10, 14
+  index: -1
+Button_Particular_Small_20FPS_0.66/Button_Particular_Small_00013
+  rotate: false
+  xy: 855, 448
+  size: 226, 113
+  orig: 240, 140
+  offset: 10, 12
+  index: -1
+Button_Particular_Small_20FPS_0.66/Button_Particular_Small_00014
+  rotate: false
+  xy: 849, 330
+  size: 230, 116
+  orig: 240, 140
+  offset: 8, 11
+  index: -1
+Button_Particular_Small_20FPS_0.66/Button_Particular_Small_00015
+  rotate: true
+  xy: 510, 202
+  size: 234, 115
+  orig: 240, 140
+  offset: 6, 12
+  index: -1
+Button_Particular_Small_20FPS_0.66/Button_Particular_Small_00016
+  rotate: false
+  xy: 847, 208
+  size: 223, 120
+  orig: 240, 140
+  offset: 4, 10
+  index: -1
+Button_Particular_Small_20FPS_0.66/Button_Particular_Small_00017
+  rotate: false
+  xy: 492, 78
+  size: 219, 122
+  orig: 240, 140
+  offset: 10, 10
+  index: -1
+Button_Particular_Small_20FPS_0.66/Button_Particular_Small_00018
+  rotate: false
+  xy: 855, 563
+  size: 223, 126
+  orig: 240, 140
+  offset: 8, 8
+  index: -1
+Button_Particular_Small_20FPS_0.66/Button_Particular_Small_00019
+  rotate: true
+  xy: 258, 204
+  size: 224, 126
+  orig: 240, 140
+  offset: 9, 6
+  index: -1
+SPIN
+  rotate: true
+  xy: 1080, 571
+  size: 118, 44
+  orig: 118, 46
+  offset: 0, 0
+  index: -1
+SPIN_Button_Black
+  rotate: false
+  xy: 1284, 1024
+  size: 206, 70
+  orig: 206, 70
+  offset: 0, 0
+  index: -1
+SPIN_Button_Glow_0.66
+  rotate: true
+  xy: 1345, 485
+  size: 207, 111
+  orig: 228, 136
+  offset: 11, 14
+  index: -1
+SPIN_Button_Gold
+  rotate: true
+  xy: 402, 437
+  size: 248, 102
+  orig: 248, 102
+  offset: 0, 0
+  index: -1
+SPIN_Button_Gold_Black
+  rotate: true
+  xy: 506, 438
+  size: 248, 102
+  orig: 248, 102
+  offset: 0, 0
+  index: -1
+SPIN_Button_Green
+  rotate: false
+  xy: 1284, 952
+  size: 206, 70
+  orig: 206, 70
+  offset: 0, 0
+  index: -1
+SPIN_Button_Red
+  rotate: true
+  xy: 1397, 744
+  size: 206, 70
+  orig: 206, 70
+  offset: 0, 0
+  index: -1
+SPIN_Button_Shadow_0.66
+  rotate: false
+  xy: 492, 2
+  size: 172, 74
+  orig: 172, 74
+  offset: 0, 0
+  index: -1
+SPIN_Storke_0.66
+  rotate: false
+  xy: 1144, 8
+  size: 184, 86
+  orig: 214, 108
+  offset: 15, 11
+  index: -1
+SPIN_Sweep_20FPS_0.66/SPIN_Sweep_00000
+  rotate: false
+  xy: 1360, 212
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+SPIN_Sweep_20FPS_0.66/SPIN_Sweep_00001
+  rotate: true
+  xy: 1469, 924
+  size: 26, 21
+  orig: 172, 76
+  offset: 3, 51
+  index: -1
+SPIN_Sweep_20FPS_0.66/SPIN_Sweep_00002
+  rotate: false
+  xy: 1397, 705
+  size: 42, 37
+  orig: 172, 76
+  offset: 3, 35
+  index: -1
+SPIN_Sweep_20FPS_0.66/SPIN_Sweep_00003
+  rotate: true
+  xy: 1430, 280
+  size: 57, 52
+  orig: 172, 76
+  offset: 3, 20
+  index: -1
+SPIN_Sweep_20FPS_0.66/SPIN_Sweep_00004
+  rotate: true
+  xy: 1080, 13
+  size: 73, 62
+  orig: 172, 76
+  offset: 3, 10
+  index: -1
+SPIN_Sweep_20FPS_0.66/SPIN_Sweep_00005
+  rotate: true
+  xy: 1330, 6
+  size: 88, 67
+  orig: 172, 76
+  offset: 3, 5
+  index: -1
+SPIN_Sweep_20FPS_0.66/SPIN_Sweep_00006
+  rotate: true
+  xy: 1366, 108
+  size: 105, 68
+  orig: 172, 76
+  offset: 3, 4
+  index: -1
+SPIN_Sweep_20FPS_0.66/SPIN_Sweep_00007
+  rotate: true
+  xy: 1072, 208
+  size: 120, 68
+  orig: 172, 76
+  offset: 3, 4
+  index: -1
+SPIN_Sweep_20FPS_0.66/SPIN_Sweep_00008
+  rotate: true
+  xy: 1300, 330
+  size: 135, 68
+  orig: 172, 76
+  offset: 4, 4
+  index: -1
+SPIN_Sweep_20FPS_0.66/SPIN_Sweep_00009
+  rotate: false
+  xy: 929, 18
+  size: 149, 68
+  orig: 172, 76
+  offset: 5, 4
+  index: -1
+SPIN_Sweep_20FPS_0.66/SPIN_Sweep_00010
+  rotate: false
+  xy: 266, 5
+  size: 152, 68
+  orig: 172, 76
+  offset: 12, 4
+  index: -1
+SPIN_Sweep_20FPS_0.66/SPIN_Sweep_00011
+  rotate: true
+  xy: 1370, 339
+  size: 144, 68
+  orig: 172, 76
+  offset: 25, 4
+  index: -1
+SPIN_Sweep_20FPS_0.66/SPIN_Sweep_00012
+  rotate: false
+  xy: 713, 11
+  size: 129, 68
+  orig: 172, 76
+  offset: 40, 4
+  index: -1
+SPIN_Sweep_20FPS_0.66/SPIN_Sweep_00013
+  rotate: true
+  xy: 1360, 215
+  size: 113, 68
+  orig: 172, 76
+  offset: 56, 4
+  index: -1
+SPIN_Sweep_20FPS_0.66/SPIN_Sweep_00014
+  rotate: true
+  xy: 1399, 10
+  size: 96, 68
+  orig: 172, 76
+  offset: 73, 4
+  index: -1
+SPIN_Sweep_20FPS_0.66/SPIN_Sweep_00015
+  rotate: false
+  xy: 844, 11
+  size: 83, 68
+  orig: 172, 76
+  offset: 86, 4
+  index: -1
+SPIN_Sweep_20FPS_0.66/SPIN_Sweep_00016
+  rotate: false
+  xy: 420, 9
+  size: 66, 64
+  orig: 172, 76
+  offset: 103, 4
+  index: -1
+SPIN_Sweep_20FPS_0.66/SPIN_Sweep_00017
+  rotate: false
+  xy: 1440, 430
+  size: 49, 53
+  orig: 172, 76
+  offset: 120, 4
+  index: -1
+SPIN_Sweep_20FPS_0.66/SPIN_Sweep_00018
+  rotate: false
+  xy: 666, 38
+  size: 34, 38
+  orig: 172, 76
+  offset: 135, 4
+  index: -1
+SPIN_Sweep_20FPS_0.66/SPIN_Sweep_00019
+  rotate: true
+  xy: 1469, 904
+  size: 18, 21
+  orig: 172, 76
+  offset: 151, 5
+  index: -1
+STOP
+  rotate: false
+  xy: 2, 13
+  size: 130, 44
+  orig: 130, 46
+  offset: 0, 0
+  index: -1
+STOP_Black
+  rotate: false
+  xy: 134, 13
+  size: 130, 44
+  orig: 130, 46
+  offset: 0, 0
+  index: -1

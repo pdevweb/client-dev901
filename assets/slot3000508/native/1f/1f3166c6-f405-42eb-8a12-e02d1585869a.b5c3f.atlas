@@ -1,0 +1,188 @@
+
+eff_icon_5.png
+size: 712,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 127, 147
+  size: 135, 37
+  orig: 135, 37
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 35
+  size: 136, 92
+  orig: 136, 92
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 176, 18
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 140, 15
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 2
+  size: 77, 31
+  orig: 77, 31
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 2, 129
+  size: 153, 123
+  orig: 153, 123
+  offset: 0, 0
+  index: -1
+jslg/jslg_00000
+  rotate: true
+  xy: 140, 55
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: -1
+jslg/jslg_00002
+  rotate: true
+  xy: 166, 192
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: -1
+jslg/jslg_00004
+  rotate: true
+  xy: 218, 100
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: -1
+jslg/jslg_00006
+  rotate: true
+  xy: 244, 192
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: -1
+jslg/jslg_00008
+  rotate: true
+  xy: 218, 8
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: -1
+jslg/jslg_00010
+  rotate: true
+  xy: 296, 100
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: -1
+jslg/jslg_00012
+  rotate: true
+  xy: 322, 192
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: -1
+jslg/jslg_00014
+  rotate: true
+  xy: 296, 8
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: -1
+jslg/jslg_00016
+  rotate: true
+  xy: 374, 100
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: -1
+jslg/jslg_00018
+  rotate: true
+  xy: 400, 192
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: -1
+jslg/jslg_00020
+  rotate: true
+  xy: 374, 8
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: -1
+jslg/jslg_00022
+  rotate: true
+  xy: 452, 100
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: -1
+jslg/jslg_00024
+  rotate: true
+  xy: 478, 192
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: -1
+jslg/jslg_00026
+  rotate: true
+  xy: 452, 8
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: -1
+jslg/jslg_00028
+  rotate: true
+  xy: 530, 100
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: -1
+jslg/jslg_00030
+  rotate: true
+  xy: 556, 192
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: -1
+jslg/jslg_00032
+  rotate: true
+  xy: 530, 8
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: -1
+jslg/jslg_00034
+  rotate: true
+  xy: 608, 100
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: -1
+jslg/jslg_00036
+  rotate: true
+  xy: 634, 192
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: -1
+jslg/jslg_00038
+  rotate: true
+  xy: 608, 8
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: -1

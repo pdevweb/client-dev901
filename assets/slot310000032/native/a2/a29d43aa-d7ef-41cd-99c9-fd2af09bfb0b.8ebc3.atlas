@@ -1,0 +1,153 @@
+
+eff_icon_07.png
+size: 1952,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+a
+  rotate: false
+  xy: 132, 2
+  size: 68, 66
+  orig: 74, 66
+  offset: 3, 0
+  index: -1
+a/a_0
+  rotate: false
+  xy: 262, 2
+  size: 10, 11
+  orig: 74, 66
+  offset: 3, 2
+  index: -1
+a/a_1
+  rotate: false
+  xy: 392, 2
+  size: 17, 13
+  orig: 74, 66
+  offset: 3, 2
+  index: -1
+a/a_10
+  rotate: false
+  xy: 1562, 2
+  size: 54, 62
+  orig: 74, 66
+  offset: 17, 2
+  index: -1
+a/a_11
+  rotate: false
+  xy: 1692, 2
+  size: 52, 63
+  orig: 74, 66
+  offset: 19, 2
+  index: -1
+a/a_12
+  rotate: false
+  xy: 1822, 2
+  size: 51, 63
+  orig: 74, 66
+  offset: 20, 2
+  index: -1
+a/a_13
+  rotate: false
+  xy: 2, 132
+  size: 51, 63
+  orig: 74, 66
+  offset: 20, 2
+  index: -1
+a/a_14
+  rotate: false
+  xy: 132, 132
+  size: 51, 60
+  orig: 74, 66
+  offset: 20, 5
+  index: -1
+a/a_15
+  rotate: false
+  xy: 262, 132
+  size: 51, 54
+  orig: 74, 66
+  offset: 20, 11
+  index: -1
+a/a_16
+  rotate: false
+  xy: 392, 132
+  size: 34, 33
+  orig: 74, 66
+  offset: 22, 32
+  index: -1
+a/a_17
+  rotate: false
+  xy: 522, 132
+  size: 22, 21
+  orig: 74, 66
+  offset: 29, 44
+  index: -1
+a/a_18
+  rotate: false
+  xy: 652, 132
+  size: 10, 10
+  orig: 74, 66
+  offset: 37, 54
+  index: -1
+a/a_2
+  rotate: false
+  xy: 522, 2
+  size: 28, 17
+  orig: 74, 66
+  offset: 3, 2
+  index: -1
+a/a_3
+  rotate: false
+  xy: 652, 2
+  size: 35, 23
+  orig: 74, 66
+  offset: 3, 2
+  index: -1
+a/a_4
+  rotate: false
+  xy: 782, 2
+  size: 40, 28
+  orig: 74, 66
+  offset: 3, 2
+  index: -1
+a/a_5
+  rotate: false
+  xy: 912, 2
+  size: 48, 33
+  orig: 74, 66
+  offset: 3, 2
+  index: -1
+a/a_6
+  rotate: false
+  xy: 1042, 2
+  size: 54, 38
+  orig: 74, 66
+  offset: 4, 2
+  index: -1
+a/a_7
+  rotate: false
+  xy: 1172, 2
+  size: 58, 42
+  orig: 74, 66
+  offset: 7, 2
+  index: -1
+a/a_8
+  rotate: false
+  xy: 1302, 2
+  size: 58, 55
+  orig: 74, 66
+  offset: 13, 2
+  index: -1
+a/a_9
+  rotate: false
+  xy: 1432, 2
+  size: 56, 61
+  orig: 74, 66
+  offset: 15, 2
+  index: -1

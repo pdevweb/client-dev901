@@ -1,0 +1,111 @@
+
+eff_dakuang.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiman/jiman_00
+  rotate: true
+  xy: 454, 8
+  size: 223, 64
+  orig: 251, 89
+  offset: 21, 7
+  index: -1
+jiman/jiman_01
+  rotate: true
+  xy: 388, 6
+  size: 225, 64
+  orig: 251, 89
+  offset: 19, 7
+  index: -1
+jiman/jiman_02
+  rotate: true
+  xy: 262, 4
+  size: 227, 61
+  orig: 251, 89
+  offset: 17, 7
+  index: -1
+jiman/jiman_03
+  rotate: true
+  xy: 198, 4
+  size: 227, 62
+  orig: 251, 89
+  offset: 16, 7
+  index: -1
+jiman/jiman_04
+  rotate: true
+  xy: 325, 5
+  size: 226, 61
+  orig: 251, 89
+  offset: 17, 7
+  index: -1
+jiman/jiman_05
+  rotate: true
+  xy: 68, 3
+  size: 228, 63
+  orig: 251, 89
+  offset: 16, 7
+  index: -1
+jiman/jiman_06
+  rotate: true
+  xy: 2, 2
+  size: 229, 64
+  orig: 251, 89
+  offset: 15, 7
+  index: -1
+jiman/jiman_07
+  rotate: true
+  xy: 133, 4
+  size: 227, 63
+  orig: 251, 89
+  offset: 16, 7
+  index: -1
+jiman/jiman_08
+  rotate: true
+  xy: 586, 10
+  size: 221, 63
+  orig: 251, 89
+  offset: 17, 7
+  index: -1
+jiman/jiman_09
+  rotate: false
+  xy: 776, 165
+  size: 208, 66
+  orig: 251, 89
+  offset: 19, 7
+  index: -1
+jiman/jiman_10
+  rotate: false
+  xy: 776, 36
+  size: 206, 63
+  orig: 251, 89
+  offset: 19, 7
+  index: -1
+jiman/jiman_11
+  rotate: false
+  xy: 776, 101
+  size: 207, 62
+  orig: 251, 89
+  offset: 21, 7
+  index: -1
+jiman/jiman_12
+  rotate: true
+  xy: 713, 19
+  size: 212, 61
+  orig: 251, 89
+  offset: 20, 7
+  index: -1
+jiman/jiman_13
+  rotate: true
+  xy: 651, 13
+  size: 218, 60
+  orig: 251, 89
+  offset: 22, 7
+  index: -1
+jiman/jiman_14
+  rotate: true
+  xy: 520, 9
+  size: 222, 64
+  orig: 251, 89
+  offset: 22, 7
+  index: -1

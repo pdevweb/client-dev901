@@ -1,0 +1,251 @@
+
+pick_jp_zhongjiang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3zj01
+  rotate: true
+  xy: 2, 13
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+3zj02
+  rotate: true
+  xy: 68, 51
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+3zj03
+  rotate: true
+  xy: 103, 288
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+3zj04
+  rotate: true
+  xy: 134, 68
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+3zj05
+  rotate: true
+  xy: 169, 288
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+3zj06
+  rotate: true
+  xy: 200, 68
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+3zj07
+  rotate: true
+  xy: 235, 288
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+3zj08
+  rotate: false
+  xy: 228, 2
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+3zj09
+  rotate: true
+  xy: 266, 68
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+3zj10
+  rotate: true
+  xy: 301, 288
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+3zj11
+  rotate: true
+  xy: 332, 68
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+3zj12
+  rotate: true
+  xy: 367, 288
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+3zj13
+  rotate: true
+  xy: 398, 68
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+3zj14
+  rotate: true
+  xy: 433, 288
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+3zj15
+  rotate: false
+  xy: 448, 2
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+3zj16
+  rotate: true
+  xy: 464, 68
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+3zj17
+  rotate: true
+  xy: 499, 288
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+3zj18
+  rotate: true
+  xy: 530, 68
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+3zj19
+  rotate: true
+  xy: 565, 288
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+3zj20
+  rotate: true
+  xy: 596, 68
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+3zj21
+  rotate: true
+  xy: 631, 288
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+3zj22
+  rotate: true
+  xy: 662, 68
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+3zj23
+  rotate: true
+  xy: 697, 288
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+3zj24
+  rotate: false
+  xy: 668, 2
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+3zj25
+  rotate: true
+  xy: 728, 68
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+3zj26
+  rotate: true
+  xy: 763, 288
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+3zj27
+  rotate: true
+  xy: 794, 68
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+3zj28
+  rotate: true
+  xy: 829, 288
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+3zj29
+  rotate: true
+  xy: 860, 68
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+3zj30
+  rotate: true
+  xy: 895, 288
+  size: 218, 64
+  orig: 218, 64
+  offset: 0, 0
+  index: -1
+grandlg
+  rotate: true
+  xy: 2, 233
+  size: 273, 52
+  orig: 273, 52
+  offset: 0, 0
+  index: -1
+majorlg
+  rotate: true
+  xy: 56, 271
+  size: 235, 45
+  orig: 235, 45
+  offset: 0, 0
+  index: -1
+minilg
+  rotate: true
+  xy: 961, 350
+  size: 156, 41
+  orig: 156, 41
+  offset: 0, 0
+  index: -1
+minorlg
+  rotate: false
+  xy: 68, 7
+  size: 158, 42
+  orig: 158, 42
+  offset: 0, 0
+  index: -1
+xg_01
+  rotate: false
+  xy: 926, 209
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1

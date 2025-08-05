@@ -1,0 +1,111 @@
+
+eff_zjm_kuang.png
+size: 3740,184
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biankuang_000
+  rotate: false
+  xy: 251, 2
+  size: 247, 180
+  orig: 251, 182
+  offset: 2, 1
+  index: -1
+biankuang_001
+  rotate: false
+  xy: 500, 2
+  size: 247, 180
+  orig: 251, 182
+  offset: 2, 1
+  index: -1
+biankuang_002
+  rotate: false
+  xy: 749, 2
+  size: 247, 180
+  orig: 251, 182
+  offset: 2, 1
+  index: -1
+biankuang_003
+  rotate: false
+  xy: 998, 2
+  size: 247, 180
+  orig: 251, 182
+  offset: 2, 1
+  index: -1
+biankuang_004
+  rotate: false
+  xy: 1247, 2
+  size: 247, 180
+  orig: 251, 182
+  offset: 2, 1
+  index: -1
+biankuang_005
+  rotate: false
+  xy: 1496, 2
+  size: 247, 180
+  orig: 251, 182
+  offset: 2, 1
+  index: -1
+biankuang_006
+  rotate: false
+  xy: 1745, 2
+  size: 247, 180
+  orig: 251, 182
+  offset: 2, 1
+  index: -1
+biankuang_007
+  rotate: false
+  xy: 1994, 2
+  size: 247, 180
+  orig: 251, 182
+  offset: 2, 1
+  index: -1
+biankuang_008
+  rotate: false
+  xy: 2243, 2
+  size: 247, 180
+  orig: 251, 182
+  offset: 2, 1
+  index: -1
+biankuang_009
+  rotate: false
+  xy: 2492, 2
+  size: 247, 180
+  orig: 251, 182
+  offset: 2, 1
+  index: -1
+biankuang_010
+  rotate: false
+  xy: 2741, 2
+  size: 247, 180
+  orig: 251, 182
+  offset: 2, 1
+  index: -1
+biankuang_011
+  rotate: false
+  xy: 2990, 2
+  size: 247, 180
+  orig: 251, 182
+  offset: 2, 1
+  index: -1
+biankuang_012
+  rotate: false
+  xy: 3239, 2
+  size: 247, 180
+  orig: 251, 182
+  offset: 2, 1
+  index: -1
+biankuang_013
+  rotate: false
+  xy: 3488, 2
+  size: 247, 180
+  orig: 251, 182
+  offset: 2, 1
+  index: -1
+biankuang_014
+  rotate: false
+  xy: 2, 2
+  size: 247, 180
+  orig: 251, 182
+  offset: 2, 1
+  index: -1

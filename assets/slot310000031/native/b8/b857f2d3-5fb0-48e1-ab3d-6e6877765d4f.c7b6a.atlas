@@ -1,0 +1,55 @@
+
+Scatter_FX.png
+size: 776,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX/Circle_02
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+FX/Circle_1
+  rotate: true
+  xy: 451, 6
+  size: 122, 124
+  orig: 122, 124
+  offset: 0, 0
+  index: -1
+FX/Jet10_Bullet02_00
+  rotate: false
+  xy: 694, 48
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+FX/SmallStar1
+  rotate: false
+  xy: 577, 17
+  size: 115, 111
+  orig: 115, 111
+  offset: 0, 0
+  index: -1
+FX/circle_outerGlowThin_white
+  rotate: false
+  xy: 451, 130
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+FX/circle_strong_white
+  rotate: false
+  xy: 581, 130
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+FX/guangquan_caise
+  rotate: false
+  xy: 260, 68
+  size: 189, 190
+  orig: 189, 190
+  offset: 0, 0
+  index: -1

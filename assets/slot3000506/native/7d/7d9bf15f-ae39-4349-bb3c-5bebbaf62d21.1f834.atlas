@@ -1,0 +1,111 @@
+
+eff_zjm_kuang.png
+size: 842,842
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuan_00
+  rotate: false
+  xy: 2, 674
+  size: 261, 166
+  orig: 261, 166
+  offset: 0, 0
+  index: -1
+kuan_01
+  rotate: false
+  xy: 2, 506
+  size: 261, 166
+  orig: 261, 166
+  offset: 0, 0
+  index: -1
+kuan_02
+  rotate: false
+  xy: 265, 674
+  size: 261, 166
+  orig: 261, 166
+  offset: 0, 0
+  index: -1
+kuan_03
+  rotate: false
+  xy: 2, 338
+  size: 261, 166
+  orig: 261, 166
+  offset: 0, 0
+  index: -1
+kuan_04
+  rotate: false
+  xy: 265, 506
+  size: 261, 166
+  orig: 261, 166
+  offset: 0, 0
+  index: -1
+kuan_05
+  rotate: false
+  xy: 528, 674
+  size: 261, 166
+  orig: 261, 166
+  offset: 0, 0
+  index: -1
+kuan_06
+  rotate: false
+  xy: 2, 170
+  size: 261, 166
+  orig: 261, 166
+  offset: 0, 0
+  index: -1
+kuan_07
+  rotate: false
+  xy: 265, 338
+  size: 261, 166
+  orig: 261, 166
+  offset: 0, 0
+  index: -1
+kuan_08
+  rotate: false
+  xy: 528, 506
+  size: 261, 166
+  orig: 261, 166
+  offset: 0, 0
+  index: -1
+kuan_09
+  rotate: false
+  xy: 2, 2
+  size: 261, 166
+  orig: 261, 166
+  offset: 0, 0
+  index: -1
+kuan_10
+  rotate: false
+  xy: 265, 170
+  size: 261, 166
+  orig: 261, 166
+  offset: 0, 0
+  index: -1
+kuan_11
+  rotate: false
+  xy: 528, 338
+  size: 261, 166
+  orig: 261, 166
+  offset: 0, 0
+  index: -1
+kuan_12
+  rotate: false
+  xy: 265, 2
+  size: 261, 166
+  orig: 261, 166
+  offset: 0, 0
+  index: -1
+kuan_13
+  rotate: false
+  xy: 528, 170
+  size: 261, 166
+  orig: 261, 166
+  offset: 0, 0
+  index: -1
+kuan_14
+  rotate: false
+  xy: 528, 2
+  size: 261, 166
+  orig: 261, 166
+  offset: 0, 0
+  index: -1

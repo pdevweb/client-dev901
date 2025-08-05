@@ -1,0 +1,55 @@
+
+pick_jp_ydcx.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1yd1
+  rotate: false
+  xy: 2, 219
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+2yd1
+  rotate: false
+  xy: 33, 219
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+3yd1
+  rotate: false
+  xy: 64, 219
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+4yd1
+  rotate: false
+  xy: 2, 183
+  size: 34, 34
+  orig: 37, 37
+  offset: 1, 2
+  index: -1
+5yd1
+  rotate: false
+  xy: 38, 183
+  size: 34, 34
+  orig: 37, 37
+  offset: 1, 2
+  index: -1
+xm_475
+  rotate: true
+  xy: 2, 100
+  size: 81, 82
+  orig: 86, 86
+  offset: 1, 2
+  index: -1
+yh
+  rotate: false
+  xy: 2, 2
+  size: 96, 96
+  orig: 103, 103
+  offset: 4, 3
+  index: -1

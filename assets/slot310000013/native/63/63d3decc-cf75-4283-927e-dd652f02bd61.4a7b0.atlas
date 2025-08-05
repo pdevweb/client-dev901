@@ -1,0 +1,62 @@
+
+245_symbol_m5.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 130, 13
+  size: 96, 110
+  orig: 128, 128
+  offset: 16, 6
+  index: -1
+hk
+  rotate: false
+  xy: 228, 30
+  size: 75, 93
+  orig: 75, 93
+  offset: 0, 0
+  index: -1
+ke
+  rotate: false
+  xy: 305, 19
+  size: 66, 104
+  orig: 66, 104
+  offset: 0, 0
+  index: -1
+sq
+  rotate: true
+  xy: 228, 6
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+sq1
+  rotate: false
+  xy: 2, 2
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+sy
+  rotate: false
+  xy: 438, 32
+  size: 62, 91
+  orig: 63, 91
+  offset: 0, 0
+  index: -1
+sy1
+  rotate: false
+  xy: 373, 32
+  size: 63, 91
+  orig: 63, 91
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 2, 18
+  size: 105, 126
+  orig: 105, 126
+  offset: 0, 0
+  index: -1

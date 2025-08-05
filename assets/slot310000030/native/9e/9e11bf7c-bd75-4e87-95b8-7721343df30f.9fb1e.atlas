@@ -1,0 +1,48 @@
+
+402_combo_jin.png
+size: 540,540
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cg
+  rotate: false
+  xy: 2, 287
+  size: 258, 251
+  orig: 300, 294
+  offset: 20, 20
+  index: -1
+dai_jin2
+  rotate: false
+  xy: 262, 397
+  size: 154, 141
+  orig: 156, 144
+  offset: 0, 0
+  index: -1
+gq01
+  rotate: false
+  xy: 418, 309
+  size: 110, 109
+  orig: 124, 121
+  offset: 8, 6
+  index: -1
+gy_00
+  rotate: true
+  xy: 418, 420
+  size: 118, 120
+  orig: 126, 126
+  offset: 4, 3
+  index: -1
+mlz
+  rotate: false
+  xy: 351, 355
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+xg_0
+  rotate: false
+  xy: 262, 312
+  size: 87, 83
+  orig: 87, 86
+  offset: 0, 3
+  index: -1

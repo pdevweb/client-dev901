@@ -1,0 +1,321 @@
+
+eff_zhuanchang.png
+size: 1904,496
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin02
+  rotate: true
+  xy: 546, 144
+  size: 174, 112
+  orig: 174, 112
+  offset: 0, 0
+  index: -1
+coin03
+  rotate: true
+  xy: 2, 311
+  size: 183, 118
+  orig: 190, 118
+  offset: 4, 0
+  index: -1
+coin05
+  rotate: true
+  xy: 961, 329
+  size: 165, 113
+  orig: 179, 115
+  offset: 7, 1
+  index: -1
+coin07
+  rotate: true
+  xy: 971, 3
+  size: 151, 155
+  orig: 151, 155
+  offset: 0, 0
+  index: -1
+coin08
+  rotate: true
+  xy: 2, 129
+  size: 180, 133
+  orig: 180, 133
+  offset: 0, 0
+  index: -1
+coin10
+  rotate: true
+  xy: 137, 134
+  size: 178, 139
+  orig: 178, 139
+  offset: 0, 0
+  index: -1
+coin11
+  rotate: true
+  xy: 122, 314
+  size: 180, 127
+  orig: 180, 127
+  offset: 0, 0
+  index: -1
+coin14
+  rotate: true
+  xy: 1277, 15
+  size: 155, 125
+  orig: 155, 125
+  offset: 0, 0
+  index: -1
+coin15
+  rotate: false
+  xy: 1736, 382
+  size: 129, 112
+  orig: 129, 112
+  offset: 0, 0
+  index: -1
+coin16
+  rotate: false
+  xy: 906, 156
+  size: 147, 167
+  orig: 147, 167
+  offset: 0, 0
+  index: -1
+coin19
+  rotate: false
+  xy: 820, 2
+  size: 149, 149
+  orig: 149, 149
+  offset: 0, 0
+  index: -1
+coin20
+  rotate: true
+  xy: 424, 143
+  size: 174, 120
+  orig: 183, 130
+  offset: 7, 4
+  index: -1
+coin21
+  rotate: true
+  xy: 592, 2
+  size: 140, 126
+  orig: 140, 126
+  offset: 0, 0
+  index: -1
+coin23
+  rotate: true
+  xy: 278, 141
+  size: 175, 144
+  orig: 175, 144
+  offset: 0, 0
+  index: -1
+coin24
+  rotate: true
+  xy: 1404, 41
+  size: 147, 143
+  orig: 147, 143
+  offset: 0, 0
+  index: -1
+coin25
+  rotate: true
+  xy: 777, 153
+  size: 169, 127
+  orig: 169, 127
+  offset: 0, 0
+  index: -1
+coin28
+  rotate: true
+  xy: 1178, 172
+  size: 157, 102
+  orig: 157, 102
+  offset: 0, 0
+  index: -1
+coin30
+  rotate: true
+  xy: 617, 322
+  size: 172, 111
+  orig: 172, 111
+  offset: 0, 0
+  index: -1
+coin31
+  rotate: true
+  xy: 1395, 190
+  size: 151, 112
+  orig: 151, 112
+  offset: 0, 0
+  index: -1
+coin32
+  rotate: true
+  xy: 1128, 5
+  size: 157, 147
+  orig: 161, 147
+  offset: 2, 0
+  index: -1
+coin35
+  rotate: false
+  xy: 1736, 273
+  size: 129, 107
+  orig: 129, 107
+  offset: 0, 0
+  index: -1
+coin37
+  rotate: true
+  xy: 1321, 343
+  size: 151, 133
+  orig: 151, 133
+  offset: 0, 0
+  index: -1
+coin43
+  rotate: true
+  xy: 1187, 338
+  size: 156, 132
+  orig: 156, 132
+  offset: 0, 0
+  index: -1
+coin46
+  rotate: false
+  xy: 178, 3
+  size: 139, 129
+  orig: 139, 129
+  offset: 0, 0
+  index: -1
+coin47
+  rotate: true
+  xy: 847, 325
+  size: 169, 112
+  orig: 169, 112
+  offset: 0, 0
+  index: -1
+coin55
+  rotate: true
+  xy: 660, 150
+  size: 170, 115
+  orig: 170, 115
+  offset: 0, 0
+  index: -1
+coin56
+  rotate: true
+  xy: 500, 320
+  size: 174, 115
+  orig: 174, 115
+  offset: 0, 0
+  index: -1
+coin60
+  rotate: false
+  xy: 2, 2
+  size: 174, 125
+  orig: 174, 125
+  offset: 0, 0
+  index: -1
+coin65
+  rotate: true
+  xy: 1076, 331
+  size: 163, 109
+  orig: 163, 109
+  offset: 0, 0
+  index: -1
+coin67
+  rotate: true
+  xy: 730, 324
+  size: 170, 115
+  orig: 170, 115
+  offset: 0, 0
+  index: -1
+coin68
+  rotate: true
+  xy: 471, 4
+  size: 137, 119
+  orig: 137, 119
+  offset: 0, 0
+  index: -1
+coin69
+  rotate: true
+  xy: 1055, 164
+  size: 163, 121
+  orig: 163, 121
+  offset: 0, 0
+  index: -1
+coin72
+  rotate: true
+  xy: 720, 4
+  size: 144, 98
+  orig: 144, 98
+  offset: 0, 0
+  index: -1
+coin74
+  rotate: true
+  xy: 1549, 72
+  size: 133, 115
+  orig: 133, 115
+  offset: 0, 0
+  index: -1
+coin77
+  rotate: false
+  xy: 1773, 152
+  size: 126, 119
+  orig: 126, 119
+  offset: 0, 0
+  index: -1
+coin78
+  rotate: false
+  xy: 1601, 361
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+coin79
+  rotate: true
+  xy: 1666, 97
+  size: 129, 105
+  orig: 129, 105
+  offset: 0, 0
+  index: -1
+coin84
+  rotate: true
+  xy: 1773, 25
+  size: 125, 123
+  orig: 125, 123
+  offset: 0, 0
+  index: -1
+coin85
+  rotate: true
+  xy: 1509, 207
+  size: 137, 106
+  orig: 137, 106
+  offset: 0, 0
+  index: -1
+coin86
+  rotate: true
+  xy: 1617, 228
+  size: 131, 99
+  orig: 131, 99
+  offset: 0, 0
+  index: -1
+coin87
+  rotate: true
+  xy: 1282, 182
+  size: 154, 111
+  orig: 172, 111
+  offset: 9, 0
+  index: -1
+coin89
+  rotate: true
+  xy: 319, 2
+  size: 137, 150
+  orig: 137, 150
+  offset: 0, 0
+  index: -1
+coin91
+  rotate: false
+  xy: 251, 318
+  size: 119, 176
+  orig: 119, 176
+  offset: 0, 0
+  index: -1
+coin93
+  rotate: false
+  xy: 372, 319
+  size: 126, 175
+  orig: 126, 175
+  offset: 0, 0
+  index: -1
+coin98
+  rotate: true
+  xy: 1456, 346
+  size: 148, 143
+  orig: 148, 143
+  offset: 0, 0
+  index: -1

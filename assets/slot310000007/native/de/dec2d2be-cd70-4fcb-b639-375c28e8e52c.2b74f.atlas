@@ -1,0 +1,69 @@
+
+wild.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/d
+  rotate: false
+  xy: 47, 2
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+images/di
+  rotate: true
+  xy: 2, 152
+  size: 101, 86
+  orig: 101, 86
+  offset: 0, 0
+  index: -1
+images/huangdi
+  rotate: true
+  xy: 2, 49
+  size: 101, 86
+  orig: 101, 86
+  offset: 0, 0
+  index: -1
+images/i
+  rotate: false
+  xy: 90, 73
+  size: 15, 33
+  orig: 15, 33
+  offset: 0, 0
+  index: -1
+images/l
+  rotate: false
+  xy: 84, 7
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+images/w
+  rotate: false
+  xy: 2, 2
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+images/wildhei
+  rotate: true
+  xy: 90, 139
+  size: 114, 53
+  orig: 114, 53
+  offset: 0, 0
+  index: -1
+images/xx
+  rotate: false
+  xy: 90, 108
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+xxx
+  rotate: false
+  xy: 90, 50
+  size: 20, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1

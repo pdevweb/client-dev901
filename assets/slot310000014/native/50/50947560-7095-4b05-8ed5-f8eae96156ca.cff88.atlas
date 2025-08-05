@@ -1,0 +1,90 @@
+
+307_shui.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cgg
+  rotate: true
+  xy: 82, 52
+  size: 53, 10
+  orig: 55, 10
+  offset: 0, 0
+  index: -1
+gaol2
+  rotate: true
+  xy: 36, 9
+  size: 95, 44
+  orig: 95, 58
+  offset: 0, 0
+  index: -1
+gg
+  rotate: false
+  xy: 36, 2
+  size: 11, 5
+  orig: 22, 7
+  offset: 5, 1
+  index: -1
+l1
+  rotate: true
+  xy: 2, 3
+  size: 101, 32
+  orig: 101, 46
+  offset: 0, 14
+  index: -1
+l3
+  rotate: false
+  xy: 54, 107
+  size: 46, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1
+l4
+  rotate: true
+  xy: 94, 79
+  size: 26, 23
+  orig: 26, 27
+  offset: 0, 4
+  index: -1
+noise
+  rotate: false
+  xy: 54, 129
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+sd
+  rotate: true
+  xy: 82, 9
+  size: 41, 37
+  orig: 42, 40
+  offset: 0, 1
+  index: -1
+sd2
+  rotate: false
+  xy: 94, 52
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+shuid
+  rotate: false
+  xy: 2, 353
+  size: 130, 156
+  orig: 134, 161
+  offset: 0, 5
+  index: -1
+shuid2
+  rotate: false
+  xy: 2, 217
+  size: 129, 134
+  orig: 129, 173
+  offset: 0, 39
+  index: -1
+shuigl1
+  rotate: true
+  xy: 2, 106
+  size: 109, 50
+  orig: 109, 65
+  offset: 0, 10
+  index: -1

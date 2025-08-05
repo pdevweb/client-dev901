@@ -1,0 +1,230 @@
+
+NG_box_shouji.png
+size: 368,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_03_
+  rotate: false
+  xy: 2, 161
+  size: 108, 108
+  orig: 163, 141
+  offset: 28, 18
+  index: -1
+images/j3_00
+  rotate: false
+  xy: 117, 2
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+images/j3_01
+  rotate: false
+  xy: 175, 2
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+images/j3_02
+  rotate: false
+  xy: 112, 207
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+images/j3_03
+  rotate: false
+  xy: 170, 207
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+images/liekai_lizi/liekai_lizi_01
+  rotate: false
+  xy: 337, 110
+  size: 27, 26
+  orig: 67, 58
+  offset: 18, 16
+  index: -1
+images/liekai_lizi/liekai_lizi_02
+  rotate: false
+  xy: 322, 10
+  size: 33, 34
+  orig: 67, 58
+  offset: 15, 11
+  index: -1
+images/liekai_lizi/liekai_lizi_03
+  rotate: false
+  xy: 298, 85
+  size: 37, 43
+  orig: 67, 58
+  offset: 12, 6
+  index: -1
+images/liekai_lizi/liekai_lizi_04
+  rotate: false
+  xy: 267, 173
+  size: 38, 47
+  orig: 67, 58
+  offset: 13, 2
+  index: -1
+images/liekai_lizi/liekai_lizi_05
+  rotate: false
+  xy: 228, 222
+  size: 43, 47
+  orig: 67, 58
+  offset: 11, 2
+  index: -1
+images/liekai_lizi/liekai_lizi_06
+  rotate: false
+  xy: 242, 112
+  size: 43, 48
+  orig: 67, 58
+  offset: 11, 2
+  index: -1
+images/liekai_lizi/liekai_lizi_07
+  rotate: false
+  xy: 233, 16
+  size: 43, 48
+  orig: 67, 58
+  offset: 11, 2
+  index: -1
+images/liekai_lizi/liekai_lizi_08
+  rotate: true
+  xy: 248, 67
+  size: 43, 48
+  orig: 67, 58
+  offset: 11, 2
+  index: -1
+images/liekai_lizi/liekai_lizi_09
+  rotate: true
+  xy: 216, 162
+  size: 43, 49
+  orig: 67, 58
+  offset: 11, 2
+  index: -1
+images/liekai_lizi/liekai_lizi_10
+  rotate: true
+  xy: 197, 66
+  size: 42, 49
+  orig: 67, 58
+  offset: 11, 2
+  index: -1
+images/liekai_lizi/liekai_lizi_11
+  rotate: false
+  xy: 278, 16
+  size: 42, 49
+  orig: 67, 58
+  offset: 11, 2
+  index: -1
+images/liekai_lizi/liekai_lizi_12
+  rotate: true
+  xy: 112, 162
+  size: 43, 50
+  orig: 67, 58
+  offset: 10, 2
+  index: -1
+images/liekai_lizi/liekai_lizi_13
+  rotate: true
+  xy: 164, 162
+  size: 43, 50
+  orig: 67, 58
+  offset: 10, 2
+  index: -1
+images/liekai_lizi/liekai_lizi_14
+  rotate: false
+  xy: 197, 110
+  size: 43, 50
+  orig: 67, 58
+  offset: 10, 2
+  index: -1
+images/liekai_lizi/liekai_lizi_15
+  rotate: true
+  xy: 64, 8
+  size: 43, 51
+  orig: 67, 58
+  offset: 10, 2
+  index: -1
+images/liekai_lizi/liekai_lizi_16
+  rotate: true
+  xy: 307, 182
+  size: 43, 38
+  orig: 67, 58
+  offset: 10, 4
+  index: -1
+images/liekai_lizi/liekai_lizi_17
+  rotate: true
+  xy: 316, 227
+  size: 42, 38
+  orig: 67, 58
+  offset: 10, 4
+  index: -1
+images/liekai_lizi/liekai_lizi_18
+  rotate: true
+  xy: 329, 138
+  size: 42, 37
+  orig: 67, 58
+  offset: 10, 4
+  index: -1
+images/liekai_lizi/liekai_lizi_19
+  rotate: false
+  xy: 322, 46
+  size: 42, 37
+  orig: 67, 58
+  offset: 10, 4
+  index: -1
+shuye/01
+  rotate: true
+  xy: 347, 207
+  size: 18, 19
+  orig: 18, 20
+  offset: 0, 1
+  index: -1
+shuye/02
+  rotate: false
+  xy: 347, 187
+  size: 18, 18
+  orig: 20, 18
+  offset: 1, 0
+  index: -1
+shuye/03
+  rotate: true
+  xy: 337, 89
+  size: 19, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+shuye/baowuTX_yiewangtong_lizi0005
+  rotate: true
+  xy: 2, 6
+  size: 45, 60
+  orig: 70, 70
+  offset: 13, 6
+  index: -1
+shuye/guang_0006
+  rotate: false
+  xy: 287, 130
+  size: 40, 41
+  orig: 52, 55
+  offset: 6, 7
+  index: -1
+shuye/shizi8_000
+  rotate: false
+  xy: 273, 227
+  size: 41, 42
+  orig: 55, 55
+  offset: 7, 6
+  index: -1
+x2
+  rotate: false
+  xy: 2, 53
+  size: 104, 106
+  orig: 106, 106
+  offset: 1, 0
+  index: -1
+zhuanguang01
+  rotate: true
+  xy: 108, 66
+  size: 93, 87
+  orig: 137, 119
+  offset: 19, 16
+  index: -1

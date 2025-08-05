@@ -1,0 +1,104 @@
+
+398_m4.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hudie1_00
+  rotate: true
+  xy: 2, 60
+  size: 65, 50
+  orig: 66, 52
+  offset: 1, 0
+  index: -1
+m4_bg
+  rotate: false
+  xy: 2, 7
+  size: 60, 51
+  orig: 60, 51
+  offset: 0, 0
+  index: -1
+m4_body
+  rotate: true
+  xy: 64, 10
+  size: 6, 23
+  orig: 6, 23
+  offset: 0, 0
+  index: -1
+m4_chibang_r
+  rotate: true
+  xy: 173, 4
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+m4_chuxu_r
+  rotate: false
+  xy: 89, 5
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+m4_eye_l
+  rotate: false
+  xy: 2, 2
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+m4_eye_r
+  rotate: false
+  xy: 7, 2
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+m4_yingzia
+  rotate: true
+  xy: 54, 63
+  size: 62, 40
+  orig: 62, 40
+  offset: 0, 0
+  index: -1
+m4_yingzib
+  rotate: false
+  xy: 109, 6
+  size: 62, 29
+  orig: 62, 29
+  offset: 0, 0
+  index: -1
+xxg
+  rotate: false
+  xy: 64, 18
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+xxg1_00
+  rotate: false
+  xy: 96, 82
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+xxg2_00
+  rotate: false
+  xy: 109, 37
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+xxg3_00
+  rotate: false
+  xy: 141, 82
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+xxg_00
+  rotate: false
+  xy: 154, 37
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1

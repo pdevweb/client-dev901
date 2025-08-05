@@ -1,0 +1,76 @@
+
+eff_icon_06.png
+size: 420,552
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g/ks_diji2_00
+  rotate: true
+  xy: 112, 8
+  size: 98, 95
+  orig: 143, 135
+  offset: 25, 19
+  index: -1
+g/ks_diji2_01
+  rotate: false
+  xy: 2, 2
+  size: 108, 104
+  orig: 143, 135
+  offset: 20, 15
+  index: -1
+g/ks_diji2_02
+  rotate: false
+  xy: 261, 66
+  size: 116, 112
+  orig: 143, 135
+  offset: 16, 11
+  index: -1
+g/ks_diji2_03
+  rotate: false
+  xy: 296, 299
+  size: 121, 118
+  orig: 143, 135
+  offset: 13, 7
+  index: -1
+g/ks_diji2_04
+  rotate: false
+  xy: 134, 111
+  size: 125, 121
+  orig: 143, 135
+  offset: 11, 5
+  index: -1
+g/ks_diji2_05
+  rotate: true
+  xy: 296, 419
+  size: 129, 122
+  orig: 143, 135
+  offset: 9, 4
+  index: -1
+g/ks_diji2_06
+  rotate: false
+  xy: 2, 108
+  size: 130, 124
+  orig: 143, 135
+  offset: 8, 4
+  index: -1
+g/ks_diji2_07
+  rotate: false
+  xy: 296, 180
+  size: 121, 117
+  orig: 143, 135
+  offset: 13, 9
+  index: -1
+sg_00000
+  rotate: false
+  xy: 209, 54
+  size: 46, 55
+  orig: 60, 58
+  offset: 7, 2
+  index: -1
+zjm_icon_ptfdjz_1
+  rotate: false
+  xy: 2, 234
+  size: 292, 314
+  orig: 292, 314
+  offset: 0, 0
+  index: -1

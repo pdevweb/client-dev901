@@ -1,0 +1,272 @@
+
+239_wild_xiao.png
+size: 476,1044
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cx/g_01
+  rotate: false
+  xy: 406, 323
+  size: 62, 70
+  orig: 150, 150
+  offset: 44, 47
+  index: -1
+cx/g_03
+  rotate: true
+  xy: 387, 797
+  size: 93, 85
+  orig: 150, 150
+  offset: 30, 34
+  index: -1
+cx/g_05
+  rotate: true
+  xy: 266, 785
+  size: 105, 119
+  orig: 150, 150
+  offset: 25, 15
+  index: -1
+cx/g_06
+  rotate: false
+  xy: 306, 395
+  size: 122, 125
+  orig: 150, 150
+  offset: 20, 11
+  index: -1
+cx/g_07
+  rotate: false
+  xy: 306, 522
+  size: 125, 126
+  orig: 150, 150
+  offset: 18, 11
+  index: -1
+cx/g_08
+  rotate: false
+  xy: 306, 650
+  size: 133, 133
+  orig: 150, 150
+  offset: 15, 4
+  index: -1
+cx/g_09
+  rotate: false
+  xy: 154, 24
+  size: 148, 145
+  orig: 150, 150
+  offset: 2, 0
+  index: -1
+cx/g_10
+  rotate: true
+  xy: 304, 24
+  size: 145, 148
+  orig: 150, 150
+  offset: 1, 0
+  index: -1
+cx/g_11
+  rotate: false
+  xy: 2, 627
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+cx/g_12
+  rotate: false
+  xy: 2, 475
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+cx/g_13
+  rotate: false
+  xy: 2, 323
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+cx/g_14
+  rotate: false
+  xy: 2, 171
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+cx/g_15
+  rotate: false
+  xy: 2, 19
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+cx/g_16
+  rotate: false
+  xy: 154, 627
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+cx/g_17
+  rotate: false
+  xy: 266, 892
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+cx/g_18
+  rotate: false
+  xy: 154, 475
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+cx/g_19
+  rotate: false
+  xy: 154, 323
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+cx/g_20
+  rotate: false
+  xy: 154, 171
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+cx/quan
+  rotate: false
+  xy: 306, 220
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+s/saog_001
+  rotate: true
+  xy: 2, 2
+  size: 15, 33
+  orig: 100, 46
+  offset: 14, 7
+  index: -1
+s/saog_002
+  rotate: true
+  xy: 430, 396
+  size: 22, 33
+  orig: 100, 46
+  offset: 14, 7
+  index: -1
+s/saog_003
+  rotate: false
+  xy: 441, 725
+  size: 28, 34
+  orig: 100, 46
+  offset: 14, 6
+  index: -1
+s/saog_004
+  rotate: false
+  xy: 433, 525
+  size: 37, 34
+  orig: 100, 46
+  offset: 14, 6
+  index: -1
+s/saog_005
+  rotate: true
+  xy: 433, 604
+  size: 44, 34
+  orig: 100, 46
+  offset: 14, 6
+  index: -1
+s/saog_006
+  rotate: true
+  xy: 430, 469
+  size: 51, 34
+  orig: 100, 46
+  offset: 15, 6
+  index: -1
+s/saog_007
+  rotate: false
+  xy: 406, 287
+  size: 57, 34
+  orig: 100, 46
+  offset: 16, 6
+  index: -1
+s/saog_008
+  rotate: false
+  xy: 306, 184
+  size: 57, 34
+  orig: 100, 46
+  offset: 23, 6
+  index: -1
+s/saog_009
+  rotate: false
+  xy: 418, 897
+  size: 54, 34
+  orig: 100, 46
+  offset: 30, 6
+  index: -1
+s/saog_010
+  rotate: true
+  xy: 430, 420
+  size: 47, 34
+  orig: 100, 46
+  offset: 38, 6
+  index: -1
+s/saog_011
+  rotate: true
+  xy: 433, 561
+  size: 41, 34
+  orig: 100, 46
+  offset: 45, 6
+  index: -1
+s/saog_012
+  rotate: false
+  xy: 441, 761
+  size: 31, 34
+  orig: 100, 46
+  offset: 55, 6
+  index: -1
+s/saog_013
+  rotate: false
+  xy: 441, 690
+  size: 26, 33
+  orig: 100, 46
+  offset: 60, 7
+  index: -1
+s/saog_014
+  rotate: true
+  xy: 154, 4
+  size: 18, 33
+  orig: 100, 46
+  offset: 68, 7
+  index: -1
+wild/d
+  rotate: false
+  xy: 372, 175
+  size: 62, 109
+  orig: 62, 109
+  offset: 0, 0
+  index: -1
+wild/i
+  rotate: false
+  xy: 436, 176
+  size: 37, 109
+  orig: 37, 109
+  offset: 0, 0
+  index: -1
+wild/kuang
+  rotate: true
+  xy: 2, 779
+  size: 263, 262
+  orig: 263, 262
+  offset: 0, 0
+  index: -1
+wild/l
+  rotate: false
+  xy: 418, 933
+  size: 47, 109
+  orig: 47, 109
+  offset: 0, 0
+  index: -1
+wild/w
+  rotate: false
+  xy: 306, 286
+  size: 98, 107
+  orig: 98, 109
+  offset: 0, 0
+  index: -1

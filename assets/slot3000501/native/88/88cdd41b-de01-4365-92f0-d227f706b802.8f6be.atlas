@@ -1,0 +1,34 @@
+
+zj_zibaoshi.png
+size: 200,200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+purplejs_00000
+  rotate: false
+  xy: 100, 106
+  size: 90, 92
+  orig: 90, 92
+  offset: 0, 0
+  index: -1
+sg_00000
+  rotate: false
+  xy: 100, 23
+  size: 69, 81
+  orig: 90, 86
+  offset: 11, 3
+  index: -1
+zjm_icon_ptfdjz_2
+  rotate: false
+  xy: 2, 101
+  size: 96, 97
+  orig: 116, 116
+  offset: 10, 8
+  index: -1
+zjm_icon_ptfdjz_2_1
+  rotate: false
+  xy: 2, 2
+  size: 96, 97
+  orig: 116, 116
+  offset: 10, 8
+  index: -1

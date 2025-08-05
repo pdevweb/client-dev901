@@ -1,0 +1,132 @@
+
+eff_icon_03.png
+size: 1444,496
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gdd_00000
+  rotate: true
+  xy: 1042, 41
+  size: 67, 65
+  orig: 80, 80
+  offset: 5, 7
+  index: -1
+sg/sg_00000
+  rotate: false
+  xy: 1092, 9
+  size: 54, 30
+  orig: 78, 92
+  offset: 1, 62
+  index: -1
+sg/sg_00002
+  rotate: false
+  xy: 1148, 2
+  size: 55, 47
+  orig: 78, 92
+  offset: 1, 45
+  index: -1
+sg/sg_00004
+  rotate: true
+  xy: 1377, 49
+  size: 59, 61
+  orig: 78, 92
+  offset: 6, 30
+  index: -1
+sg/sg_00006
+  rotate: false
+  xy: 1179, 51
+  size: 67, 57
+  orig: 78, 92
+  offset: 6, 19
+  index: -1
+sg/sg_00008
+  rotate: false
+  xy: 1248, 54
+  size: 69, 54
+  orig: 78, 92
+  offset: 7, 12
+  index: -1
+sg/sg_00009
+  rotate: false
+  xy: 1109, 51
+  size: 68, 57
+  orig: 78, 92
+  offset: 8, 4
+  index: -1
+sg/sg_00010
+  rotate: true
+  xy: 1319, 42
+  size: 66, 56
+  orig: 78, 92
+  offset: 10, 0
+  index: -1
+sg/sg_00012
+  rotate: false
+  xy: 1205, 5
+  size: 54, 44
+  orig: 78, 92
+  offset: 22, 0
+  index: -1
+sg/sg_00014
+  rotate: true
+  xy: 1261, 6
+  size: 46, 25
+  orig: 78, 92
+  offset: 30, 0
+  index: -1
+shalou_0_Mask
+  rotate: true
+  xy: 485, 13
+  size: 481, 476
+  orig: 481, 476
+  offset: 0, 0
+  index: -1
+shalou_1
+  rotate: true
+  xy: 963, 110
+  size: 384, 476
+  orig: 384, 476
+  offset: 0, 0
+  index: -1
+shalou_2
+  rotate: false
+  xy: 1008, 8
+  size: 36, 18
+  orig: 36, 18
+  offset: 0, 0
+  index: -1
+shalou_3
+  rotate: true
+  xy: 963, 4
+  size: 22, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1
+shalou_4
+  rotate: false
+  xy: 1288, 8
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+shalou_5
+  rotate: false
+  xy: 2, 4
+  size: 481, 490
+  orig: 481, 490
+  offset: 0, 0
+  index: -1
+sheguang_00000
+  rotate: true
+  xy: 963, 28
+  size: 80, 77
+  orig: 80, 80
+  offset: 0, 3
+  index: -1
+xx
+  rotate: true
+  xy: 1046, 2
+  size: 37, 44
+  orig: 49, 50
+  offset: 6, 3
+  index: -1

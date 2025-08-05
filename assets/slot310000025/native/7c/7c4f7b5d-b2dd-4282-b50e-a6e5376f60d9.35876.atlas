@@ -1,0 +1,153 @@
+
+eff_dakuang.png
+size: 668,344
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaol_00
+  rotate: true
+  xy: 2, 3
+  size: 338, 411
+  orig: 360, 575
+  offset: 11, 63
+  index: -1
+zjlizi01_00/zjlizi01_00
+  rotate: false
+  xy: 526, 125
+  size: 94, 31
+  orig: 136, 58
+  offset: 25, 14
+  index: -1
+zjlizi01_00/zjlizi01_01
+  rotate: true
+  xy: 523, 9
+  size: 104, 32
+  orig: 136, 58
+  offset: 15, 14
+  index: -1
+zjlizi01_00/zjlizi01_02
+  rotate: true
+  xy: 598, 165
+  size: 103, 33
+  orig: 136, 58
+  offset: 14, 14
+  index: -1
+zjlizi01_00/zjlizi01_03
+  rotate: true
+  xy: 526, 158
+  size: 107, 33
+  orig: 136, 58
+  offset: 13, 13
+  index: -1
+zjlizi01_00/zjlizi01_04
+  rotate: true
+  xy: 491, 115
+  size: 109, 33
+  orig: 136, 58
+  offset: 13, 13
+  index: -1
+zjlizi01_00/zjlizi01_05
+  rotate: true
+  xy: 489, 2
+  size: 111, 32
+  orig: 136, 58
+  offset: 12, 14
+  index: -1
+zjlizi01_00/zjlizi01_06
+  rotate: true
+  xy: 454, 2
+  size: 111, 33
+  orig: 136, 58
+  offset: 13, 13
+  index: -1
+zjlizi01_00/zjlizi01_07
+  rotate: false
+  xy: 532, 307
+  size: 113, 34
+  orig: 136, 58
+  offset: 13, 12
+  index: -1
+zjlizi01_00/zjlizi01_08
+  rotate: true
+  xy: 415, 112
+  size: 112, 35
+  orig: 136, 58
+  offset: 13, 12
+  index: -1
+zjlizi01_00/zjlizi01_09
+  rotate: false
+  xy: 415, 305
+  size: 115, 36
+  orig: 136, 58
+  offset: 12, 11
+  index: -1
+zjlizi01_00/zjlizi01_10
+  rotate: false
+  xy: 415, 267
+  size: 112, 36
+  orig: 136, 58
+  offset: 13, 11
+  index: -1
+zjlizi01_00/zjlizi01_11
+  rotate: true
+  xy: 415, 2
+  size: 108, 37
+  orig: 136, 58
+  offset: 12, 10
+  index: -1
+zjlizi01_00/zjlizi01_12
+  rotate: true
+  xy: 452, 115
+  size: 109, 37
+  orig: 136, 58
+  offset: 12, 9
+  index: -1
+zjlizi01_00/zjlizi01_13
+  rotate: false
+  xy: 415, 226
+  size: 109, 39
+  orig: 136, 58
+  offset: 12, 8
+  index: -1
+zjlizi01_00/zjlizi01_14
+  rotate: false
+  xy: 532, 270
+  size: 104, 35
+  orig: 136, 58
+  offset: 16, 13
+  index: -1
+zjlizi01_00/zjlizi01_15
+  rotate: true
+  xy: 561, 164
+  size: 104, 35
+  orig: 136, 58
+  offset: 16, 11
+  index: -1
+zjlizi01_00/zjlizi01_16
+  rotate: true
+  xy: 633, 166
+  size: 102, 33
+  orig: 136, 58
+  offset: 17, 13
+  index: -1
+zjlizi01_00/zjlizi01_17
+  rotate: true
+  xy: 557, 21
+  size: 102, 31
+  orig: 136, 58
+  offset: 17, 15
+  index: -1
+zjlizi01_00/zjlizi01_18
+  rotate: true
+  xy: 590, 23
+  size: 100, 29
+  orig: 136, 58
+  offset: 18, 15
+  index: -1
+zjlizi01_00/zjlizi01_19
+  rotate: true
+  xy: 621, 27
+  size: 96, 31
+  orig: 136, 58
+  offset: 22, 14
+  index: -1

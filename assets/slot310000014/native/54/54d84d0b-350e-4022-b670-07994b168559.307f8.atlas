@@ -1,0 +1,27 @@
+
+307_epiclink2.png
+size: 896,120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beast
+  rotate: false
+  xy: 363, 15
+  size: 287, 103
+  orig: 287, 103
+  offset: 0, 0
+  index: -1
+jungle
+  rotate: false
+  xy: 2, 2
+  size: 359, 116
+  orig: 359, 116
+  offset: 0, 0
+  index: -1
+super
+  rotate: false
+  xy: 652, 34
+  size: 242, 84
+  orig: 242, 84
+  offset: 0, 0
+  index: -1

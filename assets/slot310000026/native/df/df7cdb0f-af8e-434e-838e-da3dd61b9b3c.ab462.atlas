@@ -1,0 +1,55 @@
+
+eff_icon_3.png
+size: 720,720
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/baoshi
+  rotate: true
+  xy: 342, 32
+  size: 276, 257
+  orig: 295, 263
+  offset: 18, 0
+  index: -1
+images/bskuang
+  rotate: true
+  xy: 2, 10
+  size: 298, 338
+  orig: 299, 338
+  offset: 1, 0
+  index: -1
+images/di
+  rotate: false
+  xy: 2, 310
+  size: 505, 408
+  orig: 505, 408
+  offset: 0, 0
+  index: -1
+images/gx_0000
+  rotate: true
+  xy: 601, 124
+  size: 368, 34
+  orig: 402, 101
+  offset: 20, 31
+  index: -1
+images/hen_0000
+  rotate: true
+  xy: 509, 400
+  size: 92, 23
+  orig: 92, 92
+  offset: 0, 30
+  index: -1
+images/lieheng_0000
+  rotate: false
+  xy: 509, 494
+  size: 209, 13
+  orig: 402, 101
+  offset: 99, 43
+  index: -1
+images/yuan_0000
+  rotate: false
+  xy: 509, 509
+  size: 209, 209
+  orig: 393, 393
+  offset: 92, 92
+  index: -1

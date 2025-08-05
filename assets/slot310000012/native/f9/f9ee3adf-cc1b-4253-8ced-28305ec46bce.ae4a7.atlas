@@ -1,0 +1,146 @@
+
+277_djdwenzi.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 437, 2
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+aty_00
+  rotate: false
+  xy: 299, 72
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1
+d
+  rotate: true
+  xy: 148, 4
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+e
+  rotate: false
+  xy: 396, 78
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+end
+  rotate: false
+  xy: 195, 5
+  size: 94, 45
+  orig: 94, 46
+  offset: 0, 0
+  index: -1
+gx/777
+  rotate: true
+  xy: 173, 52
+  size: 72, 64
+  orig: 72, 72
+  offset: 0, 8
+  index: -1
+gx/gd
+  rotate: true
+  xy: 88, 40
+  size: 84, 83
+  orig: 86, 86
+  offset: 2, 0
+  index: -1
+i
+  rotate: true
+  xy: 395, 4
+  size: 17, 40
+  orig: 18, 40
+  offset: 0, 0
+  index: -1
+i2
+  rotate: false
+  xy: 474, 49
+  size: 17, 40
+  orig: 18, 40
+  offset: 0, 0
+  index: -1
+ity_00
+  rotate: true
+  xy: 88, 2
+  size: 36, 58
+  orig: 36, 58
+  offset: 0, 0
+  index: -1
+l
+  rotate: false
+  xy: 463, 91
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+l2
+  rotate: false
+  xy: 469, 2
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+l2ty_00
+  rotate: false
+  xy: 349, 72
+  size: 45, 52
+  orig: 45, 52
+  offset: 0, 0
+  index: -1
+lty_00
+  rotate: false
+  xy: 351, 18
+  size: 42, 52
+  orig: 42, 52
+  offset: 0, 0
+  index: -1
+n
+  rotate: false
+  xy: 430, 78
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+n2
+  rotate: false
+  xy: 436, 37
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+n2ty_00
+  rotate: true
+  xy: 291, 2
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+w
+  rotate: true
+  xy: 395, 23
+  size: 47, 39
+  orig: 47, 40
+  offset: 0, 1
+  index: -1
+winall
+  rotate: true
+  xy: 2, 17
+  size: 107, 84
+  orig: 107, 84
+  offset: 0, 0
+  index: -1
+wty_00
+  rotate: true
+  xy: 239, 59
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1

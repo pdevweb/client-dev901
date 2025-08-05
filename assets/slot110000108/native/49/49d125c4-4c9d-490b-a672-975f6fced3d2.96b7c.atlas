@@ -1,0 +1,146 @@
+
+boss_raid.png
+size: 2036,1320
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2_boss
+  rotate: false
+  xy: 1293, 803
+  size: 726, 276
+  orig: 726, 276
+  offset: 0, 0
+  index: -1
+2_coming
+  rotate: true
+  xy: 1756, 272
+  size: 529, 227
+  orig: 529, 227
+  offset: 0, 0
+  index: -1
+2_xx1
+  rotate: true
+  xy: 1985, 694
+  size: 107, 46
+  orig: 107, 46
+  offset: 0, 0
+  index: -1
+2_xx11
+  rotate: true
+  xy: 2, 2
+  size: 92, 41
+  orig: 92, 41
+  offset: 0, 0
+  index: -1
+2_xx2
+  rotate: true
+  xy: 1695, 664
+  size: 68, 54
+  orig: 68, 54
+  offset: 0, 0
+  index: -1
+2_xx22
+  rotate: true
+  xy: 1293, 400
+  size: 61, 50
+  orig: 61, 50
+  offset: 0, 0
+  index: -1
+2_xx3
+  rotate: true
+  xy: 1756, 110
+  size: 160, 80
+  orig: 160, 80
+  offset: 0, 0
+  index: -1
+2_xx33
+  rotate: false
+  xy: 1605, 734
+  size: 146, 67
+  orig: 146, 67
+  offset: 0, 0
+  index: -1
+boss_001
+  rotate: false
+  xy: 45, 7
+  size: 386, 387
+  orig: 386, 387
+  offset: 0, 0
+  index: -1
+eff1
+  rotate: true
+  xy: 433, 24
+  size: 370, 478
+  orig: 370, 478
+  offset: 0, 0
+  index: -1
+eff2
+  rotate: true
+  xy: 1605, 530
+  size: 202, 88
+  orig: 202, 88
+  offset: 0, 0
+  index: -1
+eff3
+  rotate: true
+  xy: 1349, 4
+  size: 457, 405
+  orig: 457, 405
+  offset: 0, 0
+  index: -1
+eff4
+  rotate: true
+  xy: 913, 36
+  size: 359, 416
+  orig: 359, 416
+  offset: 0, 0
+  index: -1
+eff5
+  rotate: true
+  xy: 42, 396
+  size: 922, 569
+  orig: 922, 569
+  offset: 0, 0
+  index: -1
+eff6
+  rotate: true
+  xy: 1293, 463
+  size: 338, 310
+  orig: 338, 310
+  offset: 0, 0
+  index: -1
+eff_light
+  rotate: true
+  xy: 613, 397
+  size: 682, 678
+  orig: 682, 678
+  offset: 0, 0
+  index: -1
+hong1
+  rotate: false
+  xy: 613, 1081
+  size: 1397, 33
+  orig: 1397, 33
+  offset: 0, 0
+  index: -1
+hong2
+  rotate: true
+  xy: 2, 96
+  size: 1222, 38
+  orig: 1222, 38
+  offset: 0, 0
+  index: -1
+uptp
+  rotate: false
+  xy: 913, 8
+  size: 434, 26
+  orig: 434, 26
+  offset: 0, 0
+  index: -1
+zz
+  rotate: false
+  xy: 613, 1116
+  size: 1416, 202
+  orig: 1416, 202
+  offset: 0, 0
+  index: -1

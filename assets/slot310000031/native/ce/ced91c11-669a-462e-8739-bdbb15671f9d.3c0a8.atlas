@@ -1,0 +1,55 @@
+
+Symbol_10.png
+size: 276,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jpg/Symbol_10_Bg
+  rotate: false
+  xy: 2, 13
+  size: 140, 125
+  orig: 140, 125
+  offset: 0, 0
+  index: -1
+png/Symbol_10_Body
+  rotate: true
+  xy: 2, 140
+  size: 116, 164
+  orig: 116, 164
+  offset: 0, 0
+  index: -1
+png/Symbol_10_Head2
+  rotate: false
+  xy: 144, 2
+  size: 119, 136
+  orig: 144, 136
+  offset: 0, 0
+  index: -1
+png/Symbol_10_jaw_L
+  rotate: false
+  xy: 241, 144
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+png/Symbol_10_xiaba
+  rotate: false
+  xy: 168, 186
+  size: 77, 70
+  orig: 77, 70
+  offset: 0, 0
+  index: -1
+png/Symbol_10_xu_L
+  rotate: false
+  xy: 168, 142
+  size: 71, 42
+  orig: 71, 42
+  offset: 0, 0
+  index: -1
+png/Symbol_10_xu_R
+  rotate: false
+  xy: 247, 200
+  size: 26, 56
+  orig: 29, 63
+  offset: 0, 0
+  index: -1

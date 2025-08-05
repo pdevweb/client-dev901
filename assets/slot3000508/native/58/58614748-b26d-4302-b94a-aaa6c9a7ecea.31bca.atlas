@@ -1,0 +1,174 @@
+
+eff_gaj_ruchang2.png
+size: 1736,676
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dark
+  rotate: false
+  xy: 1475, 94
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+fire/fire_01
+  rotate: false
+  xy: 1293, 381
+  size: 146, 290
+  orig: 180, 369
+  offset: 15, 18
+  index: -1
+fire/fire_02
+  rotate: false
+  xy: 1142, 364
+  size: 149, 307
+  orig: 180, 369
+  offset: 15, 15
+  index: -1
+fire/fire_03
+  rotate: false
+  xy: 992, 359
+  size: 148, 312
+  orig: 180, 369
+  offset: 16, 17
+  index: -1
+fire/fire_04
+  rotate: false
+  xy: 1160, 62
+  size: 153, 300
+  orig: 180, 369
+  offset: 14, 14
+  index: -1
+fire/fire_05
+  rotate: false
+  xy: 1160, 62
+  size: 153, 300
+  orig: 180, 369
+  offset: 14, 14
+  index: -1
+fire/fire_06
+  rotate: false
+  xy: 848, 25
+  size: 153, 317
+  orig: 180, 369
+  offset: 13, 13
+  index: -1
+fire/fire_07
+  rotate: true
+  xy: 327, 3
+  size: 162, 320
+  orig: 180, 369
+  offset: 8, 13
+  index: -1
+fire/fire_08
+  rotate: true
+  xy: 2, 2
+  size: 163, 323
+  orig: 180, 369
+  offset: 7, 15
+  index: -1
+fire/fire_09
+  rotate: true
+  xy: 2, 2
+  size: 163, 323
+  orig: 180, 369
+  offset: 7, 15
+  index: -1
+fire/fire_10
+  rotate: true
+  xy: 366, 170
+  size: 161, 325
+  orig: 180, 369
+  offset: 10, 15
+  index: -1
+fire/fire_11
+  rotate: false
+  xy: 524, 334
+  size: 158, 337
+  orig: 180, 369
+  offset: 11, 16
+  index: -1
+fire/fire_12
+  rotate: false
+  xy: 693, 4
+  size: 153, 332
+  orig: 180, 369
+  offset: 12, 21
+  index: -1
+fire/fire_13
+  rotate: false
+  xy: 693, 4
+  size: 153, 332
+  orig: 180, 369
+  offset: 12, 21
+  index: -1
+fire/fire_14
+  rotate: false
+  xy: 684, 338
+  size: 151, 333
+  orig: 180, 369
+  offset: 19, 20
+  index: -1
+fire/fire_15
+  rotate: false
+  xy: 1315, 87
+  size: 158, 263
+  orig: 180, 369
+  offset: 12, 19
+  index: -1
+fire/fire_16
+  rotate: false
+  xy: 366, 333
+  size: 156, 338
+  orig: 180, 369
+  offset: 12, 18
+  index: -1
+fire/fire_17
+  rotate: false
+  xy: 366, 333
+  size: 156, 338
+  orig: 180, 369
+  offset: 12, 18
+  index: -1
+fire/fire_18
+  rotate: true
+  xy: 1441, 352
+  size: 158, 284
+  orig: 180, 369
+  offset: 13, 16
+  index: -1
+fire/fire_19
+  rotate: true
+  xy: 1441, 512
+  size: 159, 288
+  orig: 180, 369
+  offset: 14, 17
+  index: -1
+fire/fire_20
+  rotate: false
+  xy: 1003, 49
+  size: 155, 308
+  orig: 180, 369
+  offset: 16, 16
+  index: -1
+fire/fire_21
+  rotate: false
+  xy: 1003, 49
+  size: 155, 308
+  orig: 180, 369
+  offset: 16, 16
+  index: -1
+fire/fire_22
+  rotate: false
+  xy: 837, 344
+  size: 153, 327
+  orig: 180, 369
+  offset: 18, 17
+  index: -1
+torches
+  rotate: false
+  xy: 2, 167
+  size: 362, 504
+  orig: 362, 504
+  offset: 0, 0
+  index: -1

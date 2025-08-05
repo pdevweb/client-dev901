@@ -1,0 +1,153 @@
+
+TC_fgjiesuan_jifen.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jfk
+  rotate: false
+  xy: 614, 117
+  size: 650, 136
+  orig: 652, 137
+  offset: 1, 1
+  index: -1
+jiesuanjifenk/1_00
+  rotate: false
+  xy: 2, 2
+  size: 21, 41
+  orig: 652, 137
+  offset: 164, 61
+  index: -1
+jiesuanjifenk/1_01
+  rotate: true
+  xy: 274, 2
+  size: 47, 63
+  orig: 652, 137
+  offset: 164, 40
+  index: -1
+jiesuanjifenk/1_02
+  rotate: true
+  xy: 791, 42
+  size: 73, 65
+  orig: 652, 137
+  offset: 164, 38
+  index: -1
+jiesuanjifenk/1_03
+  rotate: true
+  xy: 587, 4
+  size: 98, 66
+  orig: 652, 137
+  offset: 164, 37
+  index: -1
+jiesuanjifenk/1_04
+  rotate: false
+  xy: 989, 49
+  size: 124, 66
+  orig: 652, 137
+  offset: 164, 37
+  index: -1
+jiesuanjifenk/1_05
+  rotate: true
+  xy: 546, 104
+  size: 149, 66
+  orig: 652, 137
+  offset: 164, 37
+  index: -1
+jiesuanjifenk/1_06
+  rotate: false
+  xy: 410, 5
+  size: 175, 66
+  orig: 652, 137
+  offset: 164, 37
+  index: -1
+jiesuanjifenk/1_07
+  rotate: true
+  xy: 342, 54
+  size: 199, 66
+  orig: 652, 137
+  offset: 165, 37
+  index: -1
+jiesuanjifenk/1_08
+  rotate: true
+  xy: 2, 45
+  size: 208, 66
+  orig: 652, 137
+  offset: 182, 37
+  index: -1
+jiesuanjifenk/1_09
+  rotate: true
+  xy: 70, 45
+  size: 208, 66
+  orig: 652, 137
+  offset: 206, 37
+  index: -1
+jiesuanjifenk/1_10
+  rotate: true
+  xy: 138, 45
+  size: 208, 66
+  orig: 652, 137
+  offset: 232, 37
+  index: -1
+jiesuanjifenk/1_11
+  rotate: true
+  xy: 206, 45
+  size: 208, 66
+  orig: 652, 137
+  offset: 257, 37
+  index: -1
+jiesuanjifenk/1_12
+  rotate: true
+  xy: 274, 51
+  size: 202, 66
+  orig: 652, 137
+  offset: 283, 37
+  index: -1
+jiesuanjifenk/1_13
+  rotate: true
+  xy: 410, 73
+  size: 180, 66
+  orig: 652, 137
+  offset: 308, 37
+  index: -1
+jiesuanjifenk/1_14
+  rotate: true
+  xy: 478, 99
+  size: 154, 66
+  orig: 652, 137
+  offset: 334, 37
+  index: -1
+jiesuanjifenk/1_15
+  rotate: false
+  xy: 858, 49
+  size: 129, 66
+  orig: 652, 137
+  offset: 359, 37
+  index: -1
+jiesuanjifenk/1_16
+  rotate: true
+  xy: 655, 12
+  size: 103, 66
+  orig: 652, 137
+  offset: 385, 37
+  index: -1
+jiesuanjifenk/1_17
+  rotate: true
+  xy: 723, 37
+  size: 78, 66
+  orig: 652, 137
+  offset: 410, 37
+  index: -1
+jiesuanjifenk/1_18
+  rotate: false
+  xy: 1115, 49
+  size: 52, 66
+  orig: 652, 137
+  offset: 436, 37
+  index: -1
+jiesuanjifenk/1_19
+  rotate: true
+  xy: 25, 17
+  size: 26, 55
+  orig: 652, 137
+  offset: 462, 38
+  index: -1

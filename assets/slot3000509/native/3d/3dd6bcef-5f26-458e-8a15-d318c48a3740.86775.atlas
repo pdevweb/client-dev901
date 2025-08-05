@@ -1,0 +1,97 @@
+
+eff_buyfree_tip.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 2, 79
+  size: 325, 230
+  orig: 325, 230
+  offset: 0, 0
+  index: -1
+tx/lg2_00000
+  rotate: false
+  xy: 649, 2
+  size: 324, 306
+  orig: 329, 312
+  offset: 2, 4
+  index: -1
+tx/lg3_00000
+  rotate: false
+  xy: 329, 17
+  size: 318, 291
+  orig: 323, 296
+  offset: 3, 3
+  index: -1
+tx/lg_00000
+  rotate: false
+  xy: 30, 705
+  size: 38, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+tx/lz_00000
+  rotate: true
+  xy: 652, 528
+  size: 215, 216
+  orig: 768, 432
+  offset: 195, 108
+  index: -1
+tx/lz_00001
+  rotate: false
+  xy: 2, 313
+  size: 218, 216
+  orig: 768, 432
+  offset: 192, 108
+  index: -1
+tx/lz_00002
+  rotate: false
+  xy: 222, 311
+  size: 217, 216
+  orig: 768, 432
+  offset: 192, 108
+  index: -1
+tx/lz_00003
+  rotate: true
+  xy: 216, 531
+  size: 212, 216
+  orig: 768, 432
+  offset: 198, 108
+  index: -1
+tx/lz_00004
+  rotate: false
+  xy: 441, 310
+  size: 216, 216
+  orig: 768, 432
+  offset: 194, 108
+  index: -1
+tx/lz_00005
+  rotate: false
+  xy: 659, 310
+  size: 218, 216
+  orig: 768, 432
+  offset: 192, 108
+  index: -1
+tx/lz_00006
+  rotate: true
+  xy: 434, 529
+  size: 214, 216
+  orig: 768, 432
+  offset: 196, 108
+  index: -1
+tx/qsg_00000
+  rotate: false
+  xy: 2, 718
+  size: 26, 25
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 70, 694
+  size: 144, 49
+  orig: 144, 89
+  offset: 0, 40
+  index: -1

@@ -1,0 +1,20 @@
+
+pick_bg.png
+size: 260,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ci_01
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 206, 203
+  offset: 3, 3
+  index: -1
+glow
+  rotate: false
+  xy: 204, 150
+  size: 52, 52
+  orig: 64, 64
+  offset: 6, 6
+  index: -1

@@ -1,0 +1,398 @@
+
+boss.png
+size: 2020,1684
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Streamers1
+  rotate: true
+  xy: 1622, 411
+  size: 184, 74
+  orig: 184, 74
+  offset: 0, 0
+  index: -1
+Streamers2
+  rotate: true
+  xy: 1914, 560
+  size: 117, 100
+  orig: 117, 100
+  offset: 0, 0
+  index: -1
+beard_L1
+  rotate: false
+  xy: 556, 14
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+beard_R1
+  rotate: true
+  xy: 619, 18
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 897, 8
+  size: 222, 147
+  orig: 278, 194
+  offset: 48, 0
+  index: -1
+cjfudai
+  rotate: false
+  xy: 1752, 1007
+  size: 252, 227
+  orig: 252, 234
+  offset: 0, 0
+  index: -1
+cloak1
+  rotate: false
+  xy: 1765, 242
+  size: 164, 158
+  orig: 165, 158
+  offset: 0, 0
+  index: -1
+cloak2
+  rotate: false
+  xy: 1914, 829
+  size: 104, 176
+  orig: 104, 176
+  offset: 0, 0
+  index: -1
+cloak3
+  rotate: false
+  xy: 1534, 66
+  size: 119, 181
+  orig: 120, 181
+  offset: 1, 0
+  index: -1
+cloak_hou
+  rotate: false
+  xy: 1289, 249
+  size: 344, 160
+  orig: 344, 205
+  offset: 0, 5
+  index: -1
+coin/coin2_00000
+  rotate: false
+  xy: 962, 600
+  size: 274, 386
+  orig: 600, 500
+  offset: 142, 109
+  index: -1
+coin/coin2_00001
+  rotate: false
+  xy: 2, 790
+  size: 295, 416
+  orig: 600, 500
+  offset: 129, 78
+  index: -1
+coin/coin2_00002
+  rotate: false
+  xy: 305, 1267
+  size: 315, 415
+  orig: 600, 500
+  offset: 116, 77
+  index: -1
+coin/coin2_00003
+  rotate: false
+  xy: 758, 437
+  size: 202, 419
+  orig: 600, 500
+  offset: 173, 74
+  index: -1
+coin/coin2_00004
+  rotate: true
+  xy: 948, 1245
+  size: 199, 471
+  orig: 600, 500
+  offset: 163, 24
+  index: -1
+coin/coin2_00005
+  rotate: false
+  xy: 518, 821
+  size: 220, 444
+  orig: 600, 500
+  offset: 151, 49
+  index: -1
+coin/coin2_00006
+  rotate: true
+  xy: 1421, 1236
+  size: 224, 463
+  orig: 600, 500
+  offset: 157, 27
+  index: -1
+coin/coin2_00007
+  rotate: true
+  xy: 1349, 991
+  size: 243, 401
+  orig: 600, 500
+  offset: 147, 93
+  index: -1
+coin/coin2_00008
+  rotate: false
+  xy: 1238, 596
+  size: 226, 390
+  orig: 600, 500
+  offset: 174, 102
+  index: -1
+coin/coin2_00009
+  rotate: false
+  xy: 525, 392
+  size: 231, 427
+  orig: 600, 500
+  offset: 180, 59
+  index: -1
+coin/coin2_00010
+  rotate: true
+  xy: 939, 988
+  size: 255, 408
+  orig: 600, 500
+  offset: 168, 81
+  index: -1
+coin/coin2_00011
+  rotate: true
+  xy: 272, 75
+  size: 278, 419
+  orig: 600, 500
+  offset: 156, 61
+  index: -1
+coin/coin2_00012
+  rotate: false
+  xy: 2, 1208
+  size: 301, 474
+  orig: 600, 500
+  offset: 144, 16
+  index: -1
+coin/coin2_00013
+  rotate: false
+  xy: 622, 1287
+  size: 324, 395
+  orig: 600, 500
+  offset: 132, 93
+  index: -1
+coin/coin2_00014
+  rotate: false
+  xy: 2, 353
+  size: 264, 435
+  orig: 600, 500
+  offset: 120, 39
+  index: -1
+coin/coin2_00015
+  rotate: false
+  xy: 693, 2
+  size: 202, 381
+  orig: 600, 500
+  offset: 188, 96
+  index: -1
+coin/coin2_00016
+  rotate: true
+  xy: 1414, 1462
+  size: 220, 476
+  orig: 600, 500
+  offset: 177, 12
+  index: -1
+coin/coin2_00017
+  rotate: false
+  xy: 740, 858
+  size: 197, 427
+  orig: 600, 500
+  offset: 188, 60
+  index: -1
+coin/coin2_00018
+  rotate: false
+  xy: 299, 790
+  size: 217, 416
+  orig: 600, 500
+  offset: 177, 82
+  index: -1
+coin/coin2_00019
+  rotate: true
+  xy: 948, 1446
+  size: 236, 464
+  orig: 600, 500
+  offset: 167, 36
+  index: -1
+coin/coin2_00020
+  rotate: false
+  xy: 268, 355
+  size: 255, 433
+  orig: 600, 500
+  offset: 157, 67
+  index: -1
+coin/coin2_00021
+  rotate: false
+  xy: 1466, 597
+  size: 235, 392
+  orig: 600, 500
+  offset: 147, 96
+  index: -1
+coin/coin2_00022
+  rotate: false
+  xy: 1703, 578
+  size: 209, 411
+  orig: 600, 500
+  offset: 180, 79
+  index: -1
+coin/coin2_00023
+  rotate: true
+  xy: 897, 157
+  size: 226, 390
+  orig: 600, 500
+  offset: 171, 95
+  index: -1
+eff/xx_eff2
+  rotate: false
+  xy: 1635, 272
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fast_eye
+  rotate: true
+  xy: 1961, 417
+  size: 76, 49
+  orig: 76, 49
+  offset: 0, 0
+  index: -1
+fast_lian
+  rotate: false
+  xy: 1338, 73
+  size: 194, 174
+  orig: 194, 174
+  offset: 0, 0
+  index: -1
+fast_shou_l
+  rotate: false
+  xy: 1655, 74
+  size: 162, 166
+  orig: 162, 171
+  offset: 0, 0
+  index: -1
+fast_shou_r
+  rotate: false
+  xy: 1819, 75
+  size: 162, 165
+  orig: 162, 171
+  offset: 0, 0
+  index: -1
+fast_shouz
+  rotate: false
+  xy: 461, 6
+  size: 93, 67
+  orig: 93, 67
+  offset: 0, 0
+  index: -1
+fudai
+  rotate: false
+  xy: 962, 385
+  size: 256, 213
+  orig: 256, 221
+  offset: 0, 0
+  index: -1
+hat_1
+  rotate: true
+  xy: 1914, 679
+  size: 148, 98
+  orig: 148, 98
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 7
+  size: 268, 344
+  orig: 268, 344
+  offset: 0, 0
+  index: -1
+mao_L1
+  rotate: true
+  xy: 1443, 12
+  size: 59, 85
+  orig: 60, 85
+  offset: 0, 0
+  index: -1
+mao_L2
+  rotate: false
+  xy: 305, 1211
+  size: 83, 54
+  orig: 85, 54
+  offset: 2, 0
+  index: -1
+meimao_L1
+  rotate: false
+  xy: 1220, 385
+  size: 56, 24
+  orig: 58, 26
+  offset: 1, 1
+  index: -1
+meimao_R1
+  rotate: false
+  xy: 525, 361
+  size: 58, 29
+  orig: 60, 31
+  offset: 1, 1
+  index: -1
+mouth
+  rotate: false
+  xy: 1338, 10
+  size: 103, 61
+  orig: 103, 61
+  offset: 0, 0
+  index: -1
+pity_eye1
+  rotate: true
+  xy: 1289, 173
+  size: 74, 45
+  orig: 75, 46
+  offset: 0, 1
+  index: -1
+pity_lianj
+  rotate: false
+  xy: 1698, 402
+  size: 194, 174
+  orig: 194, 174
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 1894, 402
+  size: 91, 65
+  orig: 93, 67
+  offset: 1, 1
+  index: -1
+thigh1
+  rotate: true
+  xy: 1121, 8
+  size: 147, 215
+  orig: 149, 217
+  offset: 1, 1
+  index: -1
+thigh2
+  rotate: false
+  xy: 1892, 1465
+  size: 108, 217
+  orig: 110, 219
+  offset: 1, 1
+  index: -1
+waist
+  rotate: false
+  xy: 272, 8
+  size: 187, 65
+  orig: 189, 67
+  offset: 1, 1
+  index: -1
+waist_baoshi
+  rotate: false
+  xy: 1894, 495
+  size: 124, 63
+  orig: 126, 65
+  offset: 1, 1
+  index: -1
+yun
+  rotate: false
+  xy: 1220, 411
+  size: 400, 183
+  orig: 400, 183
+  offset: 0, 0
+  index: -1

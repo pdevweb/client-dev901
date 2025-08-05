@@ -1,0 +1,279 @@
+
+bigwin.png
+size: 1848,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+16
+  rotate: false
+  xy: 830, 6
+  size: 106, 35
+  orig: 128, 128
+  offset: 19, 43
+  index: -1
+17
+  rotate: true
+  xy: 963, 3
+  size: 71, 97
+  orig: 90, 140
+  offset: 10, 9
+  index: -1
+18
+  rotate: true
+  xy: 533, 41
+  size: 133, 97
+  orig: 150, 150
+  offset: 12, 29
+  index: -1
+19
+  rotate: true
+  xy: 228, 28
+  size: 146, 68
+  orig: 160, 100
+  offset: 4, 20
+  index: -1
+20
+  rotate: false
+  xy: 744, 69
+  size: 176, 105
+  orig: 200, 125
+  offset: 15, 11
+  index: -1
+21
+  rotate: false
+  xy: 1096, 13
+  size: 189, 70
+  orig: 250, 150
+  offset: 30, 38
+  index: -1
+22
+  rotate: true
+  xy: 130, 27
+  size: 147, 96
+  orig: 300, 275
+  offset: 97, 77
+  index: -1
+23
+  rotate: true
+  xy: 298, 29
+  size: 145, 92
+  orig: 245, 245
+  offset: 57, 80
+  index: -1
+24
+  rotate: false
+  xy: 939, 76
+  size: 89, 98
+  orig: 125, 125
+  offset: 15, 16
+  index: -1
+25
+  rotate: true
+  xy: 1047, 85
+  size: 89, 77
+  orig: 125, 100
+  offset: 15, 7
+  index: -1
+26
+  rotate: false
+  xy: 1126, 86
+  size: 198, 88
+  orig: 250, 125
+  offset: 27, 24
+  index: -1
+27
+  rotate: true
+  xy: 2, 10
+  size: 164, 126
+  orig: 320, 160
+  offset: 80, 11
+  index: -1
+bace_gg
+  rotate: true
+  xy: 632, 60
+  size: 114, 110
+  orig: 117, 112
+  offset: 1, 1
+  index: -1
+fantasy_Turntable_bg_01
+  rotate: false
+  xy: 392, 35
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1
+fantasy_Turntable_bg_02
+  rotate: false
+  xy: 643, 3
+  size: 185, 38
+  orig: 185, 38
+  offset: 0, 0
+  index: -1
+light/light_000
+  rotate: false
+  xy: 1326, 88
+  size: 84, 86
+  orig: 175, 175
+  offset: 43, 45
+  index: -1
+light/light_001
+  rotate: true
+  xy: 1326, 2
+  size: 84, 86
+  orig: 175, 175
+  offset: 44, 45
+  index: -1
+light/light_002
+  rotate: false
+  xy: 1497, 89
+  size: 85, 85
+  orig: 175, 175
+  offset: 43, 46
+  index: -1
+light/light_003
+  rotate: false
+  xy: 1501, 2
+  size: 85, 85
+  orig: 175, 175
+  offset: 43, 46
+  index: -1
+light/light_004
+  rotate: false
+  xy: 1757, 89
+  size: 83, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_005
+  rotate: false
+  xy: 1760, 2
+  size: 83, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_006
+  rotate: true
+  xy: 1414, 2
+  size: 84, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_007
+  rotate: false
+  xy: 1588, 2
+  size: 84, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_008
+  rotate: false
+  xy: 1671, 89
+  size: 84, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_009
+  rotate: false
+  xy: 1584, 89
+  size: 85, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_010
+  rotate: false
+  xy: 1674, 2
+  size: 84, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_011
+  rotate: false
+  xy: 1412, 88
+  size: 83, 86
+  orig: 175, 175
+  offset: 44, 45
+  index: -1
+zp_Jade Barracuda
+  rotate: false
+  xy: 531, 18
+  size: 110, 15
+  orig: 110, 15
+  offset: 0, 0
+  index: -1
+转盘上鱼种的名字/zp_Big eye anglerfish
+  rotate: false
+  xy: 405, 18
+  size: 124, 15
+  orig: 124, 15
+  offset: 0, 0
+  index: -1
+转盘上鱼种的名字/zp_Bomb crab
+  rotate: true
+  xy: 946, 2
+  size: 72, 15
+  orig: 72, 15
+  offset: 0, 0
+  index: -1
+转盘上鱼种的名字/zp_Crown whales
+  rotate: false
+  xy: 843, 52
+  size: 101, 15
+  orig: 101, 15
+  offset: 0, 0
+  index: -1
+转盘上鱼种的名字/zp_Deep sea shark
+  rotate: false
+  xy: 739, 43
+  size: 102, 15
+  orig: 102, 15
+  offset: 0, 0
+  index: -1
+转盘上鱼种的名字/zp_Dragon Knight
+  rotate: true
+  xy: 922, 74
+  size: 100, 15
+  orig: 100, 15
+  offset: 0, 0
+  index: -1
+转盘上鱼种的名字/zp_Drill crab
+  rotate: true
+  xy: 1079, 12
+  size: 71, 15
+  orig: 71, 15
+  offset: 0, 0
+  index: -1
+转盘上鱼种的名字/zp_Flaming manta rays
+  rotate: false
+  xy: 130, 10
+  size: 137, 15
+  orig: 137, 15
+  offset: 0, 0
+  index: -1
+转盘上鱼种的名字/zp_Golden Whale
+  rotate: true
+  xy: 1030, 77
+  size: 97, 15
+  orig: 97, 15
+  offset: 0, 0
+  index: -1
+转盘上鱼种的名字/zp_Poisonous jellyfish
+  rotate: false
+  xy: 269, 11
+  size: 134, 15
+  orig: 134, 15
+  offset: 0, 0
+  index: -1
+转盘上鱼种的名字/zp_Psionic Wyvern
+  rotate: false
+  xy: 632, 43
+  size: 105, 15
+  orig: 105, 15
+  offset: 0, 0
+  index: -1
+转盘上鱼种的名字/zp_Tiger shark
+  rotate: true
+  xy: 1062, 3
+  size: 80, 15
+  orig: 80, 15
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+eff_free-scene_scene.png
+size: 1420,1420
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qyanwu
+  rotate: true
+  xy: 2, 417
+  size: 607, 413
+  orig: 608, 414
+  offset: 1, 0
+  index: -1
+qyanwu1
+  rotate: false
+  xy: 2, 2
+  size: 607, 413
+  orig: 608, 414
+  offset: 1, 0
+  index: -1
+yanwu2
+  rotate: false
+  xy: 2, 1026
+  size: 618, 389
+  orig: 620, 391
+  offset: 1, 1
+  index: -1
+yanwu2_2
+  rotate: false
+  xy: 622, 1026
+  size: 618, 389
+  orig: 620, 391
+  offset: 1, 1
+  index: -1
+yyanwu
+  rotate: true
+  xy: 417, 427
+  size: 597, 423
+  orig: 598, 423
+  offset: 0, 0
+  index: -1
+yyanwu1
+  rotate: false
+  xy: 611, 2
+  size: 597, 423
+  orig: 598, 423
+  offset: 0, 0
+  index: -1
+zyanwu
+  rotate: false
+  xy: 842, 768
+  size: 398, 256
+  orig: 399, 256
+  offset: 0, 0
+  index: -1
+zyanwu1
+  rotate: false
+  xy: 842, 510
+  size: 398, 256
+  orig: 399, 256
+  offset: 0, 0
+  index: -1

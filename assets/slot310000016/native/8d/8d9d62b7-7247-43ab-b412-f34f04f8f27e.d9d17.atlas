@@ -1,0 +1,531 @@
+
+NG_dajiangyugao.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/glow_00
+  rotate: false
+  xy: 32, 1939
+  size: 70, 37
+  orig: 90, 90
+  offset: 8, 44
+  index: -1
+images/烟/0001
+  rotate: true
+  xy: 231, 1918
+  size: 58, 64
+  orig: 252, 448
+  offset: 99, 1
+  index: -1
+images/烟/0002
+  rotate: true
+  xy: 492, 1883
+  size: 93, 110
+  orig: 252, 448
+  offset: 85, 9
+  index: -1
+images/烟/0003
+  rotate: true
+  xy: 1885, 1848
+  size: 128, 152
+  orig: 252, 448
+  offset: 66, 15
+  index: -1
+images/烟/0004
+  rotate: true
+  xy: 2, 1645
+  size: 149, 202
+  orig: 252, 448
+  offset: 50, 6
+  index: -1
+images/烟/0005
+  rotate: true
+  xy: 1783, 1532
+  size: 159, 237
+  orig: 252, 448
+  offset: 37, 6
+  index: -1
+images/烟/0006
+  rotate: true
+  xy: 497, 1434
+  size: 172, 260
+  orig: 252, 448
+  offset: 30, 12
+  index: -1
+images/烟/0007
+  rotate: true
+  xy: 336, 1249
+  size: 183, 286
+  orig: 252, 448
+  offset: 27, 9
+  index: -1
+images/烟/0008
+  rotate: true
+  xy: 204, 869
+  size: 189, 318
+  orig: 252, 448
+  offset: 27, 0
+  index: -1
+images/烟/0009
+  rotate: true
+  xy: 524, 862
+  size: 189, 330
+  orig: 252, 448
+  offset: 32, 6
+  index: -1
+images/烟/0010
+  rotate: true
+  xy: 856, 843
+  size: 190, 350
+  orig: 252, 448
+  offset: 34, 0
+  index: -1
+images/烟/0011
+  rotate: true
+  xy: 1398, 582
+  size: 197, 361
+  orig: 252, 448
+  offset: 28, 0
+  index: -1
+images/烟/0012
+  rotate: true
+  xy: 219, 265
+  size: 201, 368
+  orig: 252, 448
+  offset: 25, 0
+  index: -1
+images/烟/0013
+  rotate: true
+  xy: 1333, 172
+  size: 202, 371
+  orig: 252, 448
+  offset: 24, 1
+  index: -1
+images/烟/0014
+  rotate: true
+  xy: 589, 219
+  size: 201, 373
+  orig: 252, 448
+  offset: 24, 0
+  index: -1
+images/烟/0015
+  rotate: true
+  xy: 328, 468
+  size: 198, 364
+  orig: 252, 448
+  offset: 25, 8
+  index: -1
+images/烟/0016
+  rotate: true
+  xy: 1330, 381
+  size: 199, 358
+  orig: 252, 448
+  offset: 22, 10
+  index: -1
+images/烟/0017
+  rotate: true
+  xy: 384, 12
+  size: 205, 366
+  orig: 252, 448
+  offset: 22, 6
+  index: -1
+images/烟/0018
+  rotate: false
+  xy: 1706, 2
+  size: 206, 372
+  orig: 252, 448
+  offset: 23, 7
+  index: -1
+images/烟/0019
+  rotate: true
+  xy: 2, 60
+  size: 203, 380
+  orig: 252, 448
+  offset: 26, 3
+  index: -1
+images/烟/0020
+  rotate: true
+  xy: 945, 422
+  size: 198, 383
+  orig: 252, 448
+  offset: 29, 1
+  index: -1
+images/烟/0021
+  rotate: true
+  xy: 345, 668
+  size: 192, 368
+  orig: 252, 448
+  offset: 32, 15
+  index: -1
+images/烟/0022
+  rotate: true
+  xy: 2, 1275
+  size: 181, 332
+  orig: 252, 448
+  offset: 38, 40
+  index: -1
+images/烟/0023
+  rotate: true
+  xy: 318, 1060
+  size: 187, 304
+  orig: 252, 448
+  offset: 34, 70
+  index: -1
+images/烟/0024
+  rotate: true
+  xy: 715, 648
+  size: 193, 289
+  orig: 252, 448
+  offset: 29, 90
+  index: -1
+images/烟/0025
+  rotate: true
+  xy: 1761, 581
+  size: 198, 273
+  orig: 252, 448
+  offset: 25, 108
+  index: -1
+images/烟/0026
+  rotate: true
+  xy: 694, 444
+  size: 202, 249
+  orig: 252, 448
+  offset: 22, 125
+  index: -1
+images/烟/0027
+  rotate: true
+  xy: 2, 267
+  size: 204, 215
+  orig: 252, 448
+  offset: 21, 138
+  index: -1
+images/烟/0028
+  rotate: false
+  xy: 1690, 376
+  size: 204, 203
+  orig: 252, 448
+  offset: 21, 151
+  index: -1
+images/烟/0029
+  rotate: false
+  xy: 2, 897
+  size: 200, 190
+  orig: 252, 448
+  offset: 24, 163
+  index: -1
+images/烟/0030
+  rotate: false
+  xy: 1764, 1346
+  size: 193, 184
+  orig: 252, 448
+  offset: 29, 178
+  index: -1
+images/烟/0031
+  rotate: false
+  xy: 2, 1469
+  size: 185, 174
+  orig: 252, 448
+  offset: 35, 194
+  index: -1
+images/烟/0032
+  rotate: true
+  xy: 1873, 1693
+  size: 153, 160
+  orig: 252, 448
+  offset: 64, 211
+  index: -1
+images/烟/0033
+  rotate: true
+  xy: 1719, 1712
+  size: 143, 152
+  orig: 252, 448
+  offset: 70, 220
+  index: -1
+images/烟/0034
+  rotate: true
+  xy: 1008, 1865
+  size: 111, 141
+  orig: 252, 448
+  offset: 75, 230
+  index: -1
+images/烟/0035
+  rotate: false
+  xy: 396, 1888
+  size: 94, 88
+  orig: 252, 448
+  offset: 81, 240
+  index: -1
+images/礼物/礼物_00000
+  rotate: true
+  xy: 2, 1952
+  size: 24, 28
+  orig: 252, 448
+  offset: 103, 55
+  index: -1
+images/礼物/礼物_00001
+  rotate: true
+  xy: 297, 1902
+  size: 74, 97
+  orig: 252, 448
+  offset: 89, 42
+  index: -1
+images/礼物/礼物_00002
+  rotate: true
+  xy: 604, 1883
+  size: 93, 191
+  orig: 252, 448
+  offset: 81, 19
+  index: -1
+images/礼物/礼物_00003
+  rotate: true
+  xy: 797, 1871
+  size: 105, 209
+  orig: 252, 448
+  offset: 76, 38
+  index: -1
+images/礼物/礼物_00004
+  rotate: true
+  xy: 273, 1759
+  size: 122, 258
+  orig: 252, 448
+  offset: 70, 36
+  index: -1
+images/礼物/礼物_00005
+  rotate: true
+  xy: 1115, 1725
+  size: 136, 294
+  orig: 252, 448
+  offset: 66, 48
+  index: -1
+images/礼物/礼物_00006
+  rotate: true
+  xy: 1411, 1723
+  size: 132, 306
+  orig: 252, 448
+  offset: 58, 44
+  index: -1
+images/礼物/礼物_00007
+  rotate: true
+  xy: 808, 1588
+  size: 135, 335
+  orig: 252, 448
+  offset: 56, 22
+  index: -1
+images/礼物/礼物_00008
+  rotate: true
+  xy: 206, 1622
+  size: 135, 308
+  orig: 252, 448
+  offset: 57, 46
+  index: -1
+images/礼物/礼物_00009
+  rotate: true
+  xy: 516, 1608
+  size: 137, 290
+  orig: 252, 448
+  offset: 56, 57
+  index: -1
+images/礼物/礼物_00010
+  rotate: true
+  xy: 1145, 1581
+  size: 140, 315
+  orig: 252, 448
+  offset: 54, 37
+  index: -1
+images/礼物/礼物_00011
+  rotate: true
+  xy: 1462, 1565
+  size: 145, 319
+  orig: 252, 448
+  offset: 50, 41
+  index: -1
+images/礼物/礼物_00012
+  rotate: true
+  xy: 759, 1429
+  size: 157, 337
+  orig: 252, 448
+  offset: 41, 15
+  index: -1
+images/礼物/礼物_00013
+  rotate: true
+  xy: 1098, 1409
+  size: 170, 327
+  orig: 252, 448
+  offset: 37, 45
+  index: -1
+images/礼物/礼物_00014
+  rotate: true
+  xy: 1427, 1387
+  size: 176, 335
+  orig: 252, 448
+  offset: 36, 47
+  index: -1
+images/礼物/礼物_00015
+  rotate: true
+  xy: 932, 1035
+  size: 186, 324
+  orig: 252, 448
+  offset: 29, 56
+  index: -1
+images/礼物/礼物_00016
+  rotate: true
+  xy: 1208, 819
+  size: 190, 331
+  orig: 252, 448
+  offset: 26, 38
+  index: -1
+images/礼物/礼物_00017
+  rotate: true
+  xy: 2, 676
+  size: 191, 341
+  orig: 252, 448
+  offset: 26, 14
+  index: -1
+images/礼物/礼物_00018
+  rotate: true
+  xy: 624, 1053
+  size: 189, 306
+  orig: 252, 448
+  offset: 29, 41
+  index: -1
+images/礼物/礼物_00019
+  rotate: true
+  xy: 1258, 1011
+  size: 188, 324
+  orig: 252, 448
+  offset: 31, 47
+  index: -1
+images/礼物/礼物_00020
+  rotate: true
+  xy: 934, 1223
+  size: 184, 339
+  orig: 252, 448
+  offset: 37, 44
+  index: -1
+images/礼物/礼物_00021
+  rotate: true
+  xy: 1541, 781
+  size: 190, 347
+  orig: 252, 448
+  offset: 34, 46
+  index: -1
+images/礼物/礼物_00022
+  rotate: true
+  xy: 1006, 622
+  size: 195, 390
+  orig: 252, 448
+  offset: 31, 14
+  index: -1
+images/礼物/礼物_00023
+  rotate: true
+  xy: 964, 178
+  size: 201, 367
+  orig: 252, 448
+  offset: 28, 34
+  index: -1
+images/礼物/礼物_00024
+  rotate: true
+  xy: 2, 473
+  size: 201, 324
+  orig: 252, 448
+  offset: 28, 67
+  index: -1
+images/礼物/礼物_00025
+  rotate: true
+  xy: 1275, 1201
+  size: 184, 326
+  orig: 252, 448
+  offset: 42, 49
+  index: -1
+images/礼物/礼物_00026
+  rotate: true
+  xy: 1584, 973
+  size: 185, 349
+  orig: 252, 448
+  offset: 44, 30
+  index: -1
+images/礼物/礼物_00027
+  rotate: true
+  xy: 1603, 1160
+  size: 184, 368
+  orig: 252, 448
+  offset: 45, 11
+  index: -1
+images/礼物/礼物_00028
+  rotate: true
+  xy: 2, 1089
+  size: 184, 314
+  orig: 252, 448
+  offset: 45, 58
+  index: -1
+images/礼物/礼物_00029
+  rotate: true
+  xy: 624, 1244
+  size: 183, 308
+  orig: 252, 448
+  offset: 44, 51
+  index: -1
+images/礼物/礼物_00030
+  rotate: true
+  xy: 189, 1458
+  size: 162, 306
+  orig: 252, 448
+  offset: 44, 41
+  index: -1
+images/礼物/礼物_00031
+  rotate: true
+  xy: 818, 1737
+  size: 126, 295
+  orig: 252, 448
+  offset: 45, 39
+  index: -1
+images/礼物/礼物_00032
+  rotate: true
+  xy: 533, 1747
+  size: 122, 283
+  orig: 252, 448
+  offset: 47, 35
+  index: -1
+images/礼物/礼物_00033
+  rotate: true
+  xy: 2, 1796
+  size: 120, 269
+  orig: 252, 448
+  offset: 48, 30
+  index: -1
+images/礼物/礼物_00034
+  rotate: true
+  xy: 1411, 1858
+  size: 118, 255
+  orig: 252, 448
+  offset: 49, 25
+  index: -1
+images/礼物/礼物_00035
+  rotate: true
+  xy: 1668, 1857
+  size: 119, 215
+  orig: 252, 448
+  offset: 49, 57
+  index: -1
+images/礼物/礼物_00036
+  rotate: true
+  xy: 1151, 1863
+  size: 113, 128
+  orig: 252, 448
+  offset: 49, 123
+  index: -1
+images/礼物/礼物_00037
+  rotate: true
+  xy: 1281, 1863
+  size: 113, 128
+  orig: 252, 448
+  offset: 48, 119
+  index: -1
+images/礼物/礼物_00038
+  rotate: true
+  xy: 104, 1929
+  size: 47, 125
+  orig: 252, 448
+  offset: 114, 116
+  index: -1

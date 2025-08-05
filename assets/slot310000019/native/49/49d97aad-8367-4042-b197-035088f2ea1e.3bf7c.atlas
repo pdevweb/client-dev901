@@ -1,0 +1,153 @@
+
+TC_zhongfg_title.png
+size: 2048,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+titlezhongFG
+  rotate: false
+  xy: 2, 7
+  size: 522, 52
+  orig: 522, 52
+  offset: 0, 0
+  index: -1
+zhongFG/1_00
+  rotate: false
+  xy: 1421, 38
+  size: 14, 21
+  orig: 522, 52
+  offset: 131, 18
+  index: -1
+zhongFG/1_01
+  rotate: true
+  xy: 1381, 2
+  size: 31, 25
+  orig: 522, 52
+  offset: 131, 15
+  index: -1
+zhongFG/1_02
+  rotate: false
+  xy: 1325, 33
+  size: 51, 26
+  orig: 522, 52
+  offset: 131, 14
+  index: -1
+zhongFG/1_03
+  rotate: false
+  xy: 1248, 5
+  size: 71, 26
+  orig: 522, 52
+  offset: 131, 14
+  index: -1
+zhongFG/1_04
+  rotate: false
+  xy: 1156, 33
+  size: 89, 26
+  orig: 522, 52
+  offset: 131, 14
+  index: -1
+zhongFG/1_05
+  rotate: false
+  xy: 1042, 5
+  size: 110, 26
+  orig: 522, 52
+  offset: 131, 14
+  index: -1
+zhongFG/1_06
+  rotate: false
+  xy: 920, 5
+  size: 120, 26
+  orig: 522, 52
+  offset: 141, 14
+  index: -1
+zhongFG/1_07
+  rotate: false
+  xy: 920, 33
+  size: 123, 26
+  orig: 522, 52
+  offset: 158, 14
+  index: -1
+zhongFG/1_08
+  rotate: false
+  xy: 794, 35
+  size: 124, 24
+  orig: 522, 52
+  offset: 177, 15
+  index: -1
+zhongFG/1_09
+  rotate: false
+  xy: 790, 7
+  size: 128, 25
+  orig: 522, 52
+  offset: 194, 14
+  index: -1
+zhongFG/1_10
+  rotate: false
+  xy: 662, 34
+  size: 130, 25
+  orig: 522, 52
+  offset: 212, 14
+  index: -1
+zhongFG/1_11
+  rotate: false
+  xy: 526, 5
+  size: 133, 26
+  orig: 522, 52
+  offset: 230, 14
+  index: -1
+zhongFG/1_12
+  rotate: false
+  xy: 526, 33
+  size: 134, 26
+  orig: 522, 52
+  offset: 247, 14
+  index: -1
+zhongFG/1_13
+  rotate: false
+  xy: 661, 5
+  size: 127, 26
+  orig: 522, 52
+  offset: 264, 14
+  index: -1
+zhongFG/1_14
+  rotate: false
+  xy: 1045, 33
+  size: 109, 26
+  orig: 522, 52
+  offset: 282, 14
+  index: -1
+zhongFG/1_15
+  rotate: false
+  xy: 1154, 5
+  size: 92, 26
+  orig: 522, 52
+  offset: 299, 14
+  index: -1
+zhongFG/1_16
+  rotate: false
+  xy: 1247, 33
+  size: 76, 26
+  orig: 522, 52
+  offset: 315, 14
+  index: -1
+zhongFG/1_17
+  rotate: false
+  xy: 1321, 5
+  size: 58, 26
+  orig: 522, 52
+  offset: 333, 14
+  index: -1
+zhongFG/1_18
+  rotate: false
+  xy: 1378, 35
+  size: 41, 24
+  orig: 522, 52
+  offset: 350, 15
+  index: -1
+zhongFG/1_19
+  rotate: true
+  xy: 1408, 5
+  size: 28, 24
+  orig: 522, 52
+  offset: 363, 15
+  index: -1

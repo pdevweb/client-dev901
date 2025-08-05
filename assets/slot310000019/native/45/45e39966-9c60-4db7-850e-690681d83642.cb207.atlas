@@ -1,0 +1,41 @@
+
+FG_beijing.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/dizi2_2
+  rotate: false
+  xy: 2, 789
+  size: 1045, 387
+  orig: 1045, 496
+  offset: 0, 0
+  index: -1
+images/qizi2
+  rotate: false
+  xy: 2, 449
+  size: 1045, 338
+  orig: 1045, 338
+  offset: 0, 0
+  index: -1
+images/tiankong
+  rotate: false
+  xy: 2, 136
+  size: 1045, 311
+  orig: 1045, 482
+  offset: 0, 171
+  index: -1
+images/youcao
+  rotate: false
+  xy: 1049, 1030
+  size: 156, 146
+  orig: 156, 146
+  offset: 0, 0
+  index: -1
+images/zuocao
+  rotate: false
+  xy: 2, 2
+  size: 155, 132
+  orig: 155, 132
+  offset: 0, 0
+  index: -1

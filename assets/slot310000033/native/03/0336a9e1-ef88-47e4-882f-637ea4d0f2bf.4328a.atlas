@@ -1,0 +1,181 @@
+
+eff_freegame.png
+size: 1568,1548
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bl_char
+  rotate: false
+  xy: 2, 863
+  size: 523, 681
+  orig: 523, 681
+  offset: 0, 0
+  index: -1
+bl_vfx_a_add
+  rotate: false
+  xy: 976, 950
+  size: 145, 145
+  orig: 145, 145
+  offset: 0, 0
+  index: -1
+bl_vfx_b_add
+  rotate: true
+  xy: 1490, 767
+  size: 153, 73
+  orig: 153, 73
+  offset: 0, 0
+  index: -1
+bonus_loading_texture/0000
+  rotate: false
+  xy: 2, 2
+  size: 116, 42
+  orig: 116, 42
+  offset: 0, 0
+  index: -1
+bonus_loading_texture/0001
+  rotate: true
+  xy: 1420, 445
+  size: 475, 68
+  orig: 475, 68
+  offset: 0, 0
+  index: -1
+bonus_loading_texture/0003
+  rotate: true
+  xy: 1366, 107
+  size: 336, 135
+  orig: 336, 135
+  offset: 0, 0
+  index: -1
+bw_vfx_f_screen
+  rotate: true
+  xy: 1212, 92
+  size: 421, 152
+  orig: 421, 152
+  offset: 0, 0
+  index: -1
+fx/bl_vfx_c_add_00
+  rotate: false
+  xy: 380, 18
+  size: 206, 394
+  orig: 206, 447
+  offset: 0, 53
+  index: -1
+fx/bl_vfx_c_add_01
+  rotate: false
+  xy: 1212, 515
+  size: 206, 405
+  orig: 206, 447
+  offset: 0, 42
+  index: -1
+fx/bl_vfx_c_add_02
+  rotate: true
+  xy: 1151, 1130
+  size: 206, 413
+  orig: 206, 447
+  offset: 0, 34
+  index: -1
+fx/bl_vfx_c_add_03
+  rotate: false
+  xy: 1004, 498
+  size: 206, 422
+  orig: 206, 447
+  offset: 0, 25
+  index: -1
+fx/bl_vfx_c_add_04
+  rotate: false
+  xy: 588, 14
+  size: 206, 429
+  orig: 206, 447
+  offset: 0, 18
+  index: -1
+fx/bl_vfx_c_add_05
+  rotate: false
+  xy: 796, 452
+  size: 206, 435
+  orig: 206, 447
+  offset: 0, 12
+  index: -1
+fx/bl_vfx_c_add_06
+  rotate: false
+  xy: 588, 445
+  size: 206, 442
+  orig: 206, 447
+  offset: 0, 5
+  index: -1
+fx/bl_vfx_c_add_07
+  rotate: false
+  xy: 527, 1097
+  size: 206, 447
+  orig: 206, 447
+  offset: 0, 0
+  index: -1
+fx/bl_vfx_c_add_08
+  rotate: false
+  xy: 735, 1097
+  size: 206, 447
+  orig: 206, 447
+  offset: 0, 0
+  index: -1
+fx/bl_vfx_c_add_09
+  rotate: false
+  xy: 943, 1097
+  size: 206, 447
+  orig: 206, 447
+  offset: 0, 0
+  index: -1
+fx/bl_vfx_c_add_10
+  rotate: true
+  xy: 527, 889
+  size: 206, 447
+  orig: 206, 447
+  offset: 0, 0
+  index: -1
+fx/bl_vfx_c_add_11
+  rotate: false
+  xy: 380, 414
+  size: 206, 447
+  orig: 206, 447
+  offset: 0, 0
+  index: -1
+fx/bl_vfx_c_add_12
+  rotate: true
+  xy: 1151, 922
+  size: 206, 409
+  orig: 206, 447
+  offset: 0, 38
+  index: -1
+fx/bl_vfx_c_add_13
+  rotate: true
+  xy: 1151, 1338
+  size: 206, 415
+  orig: 206, 447
+  offset: 0, 32
+  index: -1
+fx/bl_vfx_c_add_14
+  rotate: false
+  xy: 1004, 76
+  size: 206, 420
+  orig: 206, 447
+  offset: 0, 27
+  index: -1
+fx/bl_vfx_c_add_15
+  rotate: false
+  xy: 796, 23
+  size: 206, 427
+  orig: 206, 447
+  offset: 0, 20
+  index: -1
+mianfeimoskaishitu02
+  rotate: false
+  xy: 2, 46
+  size: 376, 815
+  orig: 376, 815
+  offset: 0, 0
+  index: -1
+spin
+  rotate: false
+  xy: 1212, 12
+  size: 216, 78
+  orig: 216, 78
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+eff_wheel_lv.png
+size: 612,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bian
+  rotate: false
+  xy: 239, 52
+  size: 101, 102
+  orig: 102, 103
+  offset: 0, 1
+  index: -1
+bianjiao
+  rotate: false
+  xy: 262, 12
+  size: 114, 38
+  orig: 117, 39
+  offset: 1, 0
+  index: -1
+biankuang
+  rotate: false
+  xy: 342, 52
+  size: 101, 102
+  orig: 102, 105
+  offset: 0, 0
+  index: -1
+bs
+  rotate: true
+  xy: 498, 6
+  size: 63, 34
+  orig: 64, 47
+  offset: 1, 1
+  index: -1
+bsl
+  rotate: true
+  xy: 568, 4
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+dadipan
+  rotate: true
+  xy: 142, 39
+  size: 115, 95
+  orig: 118, 96
+  offset: 1, 0
+  index: -1
+glwo
+  rotate: false
+  xy: 530, 76
+  size: 78, 78
+  orig: 91, 87
+  offset: 6, 5
+  index: -1
+gxg
+  rotate: true
+  xy: 2, 3
+  size: 151, 138
+  orig: 162, 159
+  offset: 11, 3
+  index: -1
+hongdi
+  rotate: false
+  xy: 445, 71
+  size: 83, 83
+  orig: 91, 87
+  offset: 2, 2
+  index: -1
+wheel
+  rotate: false
+  xy: 378, 16
+  size: 118, 34
+  orig: 121, 37
+  offset: 2, 0
+  index: -1
+wheel_g
+  rotate: false
+  xy: 142, 2
+  size: 118, 35
+  orig: 121, 35
+  offset: 2, 0
+  index: -1
+yuan
+  rotate: false
+  xy: 534, 3
+  size: 32, 32
+  orig: 32, 34
+  offset: 0, 1
+  index: -1
+yuanhuan
+  rotate: false
+  xy: 534, 37
+  size: 37, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1

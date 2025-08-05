@@ -1,0 +1,139 @@
+
+eff_icon_04.png
+size: 552,552
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cc_00000
+  rotate: false
+  xy: 452, 2
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+glow_00000
+  rotate: false
+  xy: 286, 160
+  size: 140, 150
+  orig: 154, 154
+  offset: 7, 2
+  index: -1
+heixingxing_11
+  rotate: true
+  xy: 428, 404
+  size: 146, 111
+  orig: 146, 111
+  offset: 0, 0
+  index: -1
+heixingxing_14
+  rotate: false
+  xy: 183, 394
+  size: 146, 156
+  orig: 146, 156
+  offset: 0, 0
+  index: -1
+heixingxing_19
+  rotate: false
+  xy: 2, 72
+  size: 141, 226
+  orig: 141, 226
+  offset: 0, 0
+  index: -1
+heixingxing_2
+  rotate: false
+  xy: 162, 7
+  size: 146, 66
+  orig: 146, 66
+  offset: 0, 0
+  index: -1
+heixingxing_20
+  rotate: false
+  xy: 286, 83
+  size: 145, 75
+  orig: 145, 75
+  offset: 0, 0
+  index: -1
+heixingxing_21
+  rotate: true
+  xy: 331, 324
+  size: 78, 124
+  orig: 78, 124
+  offset: 0, 0
+  index: -1
+heixingxing_22
+  rotate: false
+  xy: 457, 326
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+heixingxing_23
+  rotate: true
+  xy: 433, 90
+  size: 84, 96
+  orig: 84, 96
+  offset: 0, 0
+  index: -1
+heixingxing_24
+  rotate: false
+  xy: 499, 364
+  size: 45, 38
+  orig: 47, 40
+  offset: 1, 1
+  index: -1
+heixingxing_25
+  rotate: false
+  xy: 499, 331
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+heixingxing_26
+  rotate: false
+  xy: 310, 7
+  size: 140, 74
+  orig: 140, 74
+  offset: 0, 0
+  index: -1
+heixingxing_27
+  rotate: true
+  xy: 2, 3
+  size: 67, 158
+  orig: 67, 158
+  offset: 0, 0
+  index: -1
+heixingxing_28
+  rotate: false
+  xy: 2, 300
+  size: 179, 250
+  orig: 196, 250
+  offset: 17, 0
+  index: -1
+heixingxing_29
+  rotate: false
+  xy: 145, 75
+  size: 139, 223
+  orig: 139, 223
+  offset: 0, 0
+  index: -1
+heixingxing_30
+  rotate: true
+  xy: 457, 355
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+heixingxing_5
+  rotate: false
+  xy: 183, 312
+  size: 146, 80
+  orig: 146, 80
+  offset: 0, 0
+  index: -1
+heixingxing_8
+  rotate: true
+  xy: 428, 176
+  size: 146, 96
+  orig: 146, 96
+  offset: 0, 0
+  index: -1

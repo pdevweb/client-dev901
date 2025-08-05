@@ -1,0 +1,118 @@
+
+eff_quanpan.png
+size: 1720,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fire_15FPS_0.66/Fire_00000
+  rotate: false
+  xy: 1356, 141
+  size: 223, 134
+  orig: 389, 228
+  offset: 71, 0
+  index: -1
+Fire_15FPS_0.66/Fire_00001
+  rotate: false
+  xy: 892, 5
+  size: 222, 136
+  orig: 389, 228
+  offset: 72, 0
+  index: -1
+Fire_15FPS_0.66/Fire_00002
+  rotate: true
+  xy: 1581, 60
+  size: 215, 135
+  orig: 389, 228
+  offset: 74, 0
+  index: -1
+Fire_15FPS_0.66/Fire_00003
+  rotate: false
+  xy: 249, 143
+  size: 216, 132
+  orig: 389, 228
+  offset: 74, 0
+  index: -1
+Fire_15FPS_0.66/Fire_00004
+  rotate: false
+  xy: 29, 144
+  size: 218, 131
+  orig: 389, 228
+  offset: 74, 0
+  index: -1
+Fire_15FPS_0.66/Fire_00005
+  rotate: false
+  xy: 467, 143
+  size: 227, 132
+  orig: 389, 228
+  offset: 69, 0
+  index: -1
+Fire_15FPS_0.66/Fire_00006
+  rotate: false
+  xy: 696, 143
+  size: 218, 132
+  orig: 389, 228
+  offset: 70, 0
+  index: -1
+Fire_15FPS_0.66/Fire_00007
+  rotate: false
+  xy: 916, 143
+  size: 219, 132
+  orig: 389, 228
+  offset: 70, 0
+  index: -1
+Fire_15FPS_0.66/Fire_00008
+  rotate: false
+  xy: 675, 6
+  size: 215, 135
+  orig: 389, 228
+  offset: 71, 0
+  index: -1
+Fire_15FPS_0.66/Fire_00009
+  rotate: false
+  xy: 1137, 143
+  size: 217, 132
+  orig: 389, 228
+  offset: 72, 0
+  index: -1
+Fire_15FPS_0.66/Fire_00010
+  rotate: false
+  xy: 2, 8
+  size: 219, 134
+  orig: 389, 228
+  offset: 72, 0
+  index: -1
+Fire_15FPS_0.66/Fire_00011
+  rotate: false
+  xy: 1342, 2
+  size: 215, 137
+  orig: 389, 228
+  offset: 73, 0
+  index: -1
+Fire_15FPS_0.66/Fire_00012
+  rotate: false
+  xy: 223, 7
+  size: 224, 134
+  orig: 389, 228
+  offset: 68, 0
+  index: -1
+Fire_15FPS_0.66/Fire_00013
+  rotate: false
+  xy: 1116, 5
+  size: 224, 136
+  orig: 389, 228
+  offset: 68, 0
+  index: -1
+Fire_15FPS_0.66/Fire_00014
+  rotate: false
+  xy: 449, 7
+  size: 224, 134
+  orig: 389, 228
+  offset: 69, 0
+  index: -1
+mask
+  rotate: false
+  xy: 2, 250
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1

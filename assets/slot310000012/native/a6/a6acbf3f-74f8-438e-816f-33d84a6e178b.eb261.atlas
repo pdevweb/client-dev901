@@ -1,0 +1,20 @@
+
+277_djdp1.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gx/gd
+  rotate: false
+  xy: 301, 2
+  size: 84, 83
+  orig: 86, 86
+  offset: 2, 0
+  index: -1
+gx/pickone
+  rotate: false
+  xy: 2, 19
+  size: 297, 66
+  orig: 297, 66
+  offset: 0, 0
+  index: -1

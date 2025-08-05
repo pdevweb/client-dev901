@@ -1,0 +1,132 @@
+
+277_djdxzk.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gx/kng_00
+  rotate: false
+  xy: 2, 80
+  size: 360, 60
+  orig: 385, 80
+  offset: 13, 10
+  index: -1
+gx/ksg/ksg_00
+  rotate: false
+  xy: 976, 160
+  size: 38, 62
+  orig: 385, 80
+  offset: 4, 7
+  index: -1
+gx/ksg/ksg_01
+  rotate: false
+  xy: 940, 76
+  size: 70, 72
+  orig: 385, 80
+  offset: 4, 4
+  index: -1
+gx/ksg/ksg_02
+  rotate: false
+  xy: 755, 2
+  size: 103, 72
+  orig: 385, 80
+  offset: 4, 4
+  index: -1
+gx/ksg/ksg_03
+  rotate: false
+  xy: 509, 2
+  size: 135, 72
+  orig: 385, 80
+  offset: 4, 4
+  index: -1
+gx/ksg/ksg_04
+  rotate: false
+  xy: 199, 6
+  size: 165, 72
+  orig: 385, 80
+  offset: 7, 4
+  index: -1
+gx/ksg/ksg_05
+  rotate: false
+  xy: 583, 76
+  size: 189, 72
+  orig: 385, 80
+  offset: 15, 4
+  index: -1
+gx/ksg/ksg_06
+  rotate: false
+  xy: 389, 150
+  size: 195, 72
+  orig: 385, 80
+  offset: 42, 4
+  index: -1
+gx/ksg/ksg_07
+  rotate: false
+  xy: 2, 6
+  size: 195, 72
+  orig: 385, 80
+  offset: 75, 4
+  index: -1
+gx/ksg/ksg_08
+  rotate: false
+  xy: 586, 150
+  size: 193, 72
+  orig: 385, 80
+  offset: 109, 4
+  index: -1
+gx/ksg/ksg_09
+  rotate: false
+  xy: 781, 150
+  size: 193, 72
+  orig: 385, 80
+  offset: 142, 4
+  index: -1
+gx/ksg/ksg_10
+  rotate: false
+  xy: 389, 76
+  size: 192, 72
+  orig: 385, 80
+  offset: 175, 4
+  index: -1
+gx/ksg/ksg_11
+  rotate: false
+  xy: 774, 76
+  size: 164, 72
+  orig: 385, 80
+  offset: 209, 4
+  index: -1
+gx/ksg/ksg_12
+  rotate: false
+  xy: 366, 2
+  size: 141, 72
+  orig: 385, 80
+  offset: 242, 4
+  index: -1
+gx/ksg/ksg_13
+  rotate: false
+  xy: 646, 2
+  size: 107, 72
+  orig: 385, 80
+  offset: 276, 4
+  index: -1
+gx/ksg/ksg_14
+  rotate: false
+  xy: 860, 2
+  size: 74, 72
+  orig: 385, 80
+  offset: 309, 4
+  index: -1
+gx/ksg/ksg_15
+  rotate: false
+  xy: 936, 11
+  size: 40, 63
+  orig: 385, 80
+  offset: 342, 11
+  index: -1
+gx/theme277_reel_8
+  rotate: false
+  xy: 2, 142
+  size: 385, 80
+  orig: 385, 80
+  offset: 0, 0
+  index: -1

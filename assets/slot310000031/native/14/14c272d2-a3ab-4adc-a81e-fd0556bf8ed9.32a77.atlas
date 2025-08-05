@@ -1,0 +1,69 @@
+
+Symbol_08.png
+size: 476,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jpg/Sybmol_Frame
+  rotate: true
+  xy: 129, 3
+  size: 141, 125
+  orig: 141, 125
+  offset: 0, 0
+  index: -1
+jpg/Symbol_08_Bg
+  rotate: true
+  xy: 2, 3
+  size: 141, 125
+  orig: 141, 125
+  offset: 0, 0
+  index: -1
+png/Symbol_08_Beard1
+  rotate: true
+  xy: 256, 4
+  size: 6, 37
+  orig: 6, 39
+  offset: 0, 1
+  index: -1
+png/Symbol_08_Beard2
+  rotate: true
+  xy: 295, 2
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+png/Symbol_08_Fin_L
+  rotate: false
+  xy: 437, 49
+  size: 24, 51
+  orig: 24, 51
+  offset: 0, 0
+  index: -1
+png/Symbol_08_Fin_R
+  rotate: true
+  xy: 437, 102
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+png/Symbol_08_Fish
+  rotate: true
+  xy: 256, 12
+  size: 132, 109
+  orig: 173, 197
+  offset: 38, 88
+  index: -1
+png/Symbol_08_Mouth
+  rotate: true
+  xy: 437, 18
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+png/Symbol_08_Tail
+  rotate: true
+  xy: 367, 15
+  size: 129, 68
+  orig: 129, 68
+  offset: 0, 0
+  index: -1

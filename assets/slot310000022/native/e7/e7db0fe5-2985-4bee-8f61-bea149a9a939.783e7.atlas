@@ -1,0 +1,146 @@
+
+touxiangxiaoshi.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+touxiangxiaoshi/touxiangxiaoshi_00
+  rotate: false
+  xy: 290, 2
+  size: 55, 30
+  orig: 68, 60
+  offset: 8, 5
+  index: -1
+touxiangxiaoshi/touxiangxiaoshi_01
+  rotate: true
+  xy: 249, 5
+  size: 65, 39
+  orig: 68, 60
+  offset: 2, 3
+  index: -1
+touxiangxiaoshi/touxiangxiaoshi_02
+  rotate: false
+  xy: 67, 7
+  size: 67, 50
+  orig: 68, 60
+  offset: 0, 1
+  index: -1
+touxiangxiaoshi/touxiangxiaoshi_03
+  rotate: true
+  xy: 62, 59
+  size: 67, 56
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+touxiangxiaoshi/touxiangxiaoshi_04
+  rotate: true
+  xy: 2, 59
+  size: 67, 58
+  orig: 68, 60
+  offset: 0, 2
+  index: -1
+touxiangxiaoshi/touxiangxiaoshi_05
+  rotate: true
+  xy: 120, 59
+  size: 67, 56
+  orig: 68, 60
+  offset: 0, 4
+  index: -1
+touxiangxiaoshi/touxiangxiaoshi_06
+  rotate: true
+  xy: 178, 61
+  size: 65, 56
+  orig: 68, 60
+  offset: 1, 4
+  index: -1
+touxiangxiaoshi/touxiangxiaoshi_07
+  rotate: false
+  xy: 2, 2
+  size: 63, 55
+  orig: 68, 60
+  offset: 1, 5
+  index: -1
+touxiangxiaoshi/touxiangxiaoshi_08
+  rotate: false
+  xy: 136, 3
+  size: 59, 54
+  orig: 68, 60
+  offset: 4, 6
+  index: -1
+touxiangxiaoshi/touxiangxiaoshi_09
+  rotate: true
+  xy: 197, 2
+  size: 57, 50
+  orig: 68, 60
+  offset: 5, 9
+  index: -1
+touxiangxiaoshi/touxiangxiaoshi_10
+  rotate: true
+  xy: 236, 72
+  size: 54, 49
+  orig: 68, 60
+  offset: 7, 10
+  index: -1
+touxiangxiaoshi/touxiangxiaoshi_11
+  rotate: true
+  xy: 287, 79
+  size: 47, 45
+  orig: 68, 60
+  offset: 10, 13
+  index: -1
+touxiangxiaoshi/touxiangxiaoshi_12
+  rotate: false
+  xy: 290, 34
+  size: 40, 43
+  orig: 68, 60
+  offset: 12, 13
+  index: -1
+touxiangxiaoshi/touxiangxiaoshi_13
+  rotate: false
+  xy: 332, 37
+  size: 38, 40
+  orig: 68, 60
+  offset: 13, 14
+  index: -1
+touxiangxiaoshi/touxiangxiaoshi_14
+  rotate: false
+  xy: 334, 86
+  size: 36, 40
+  orig: 68, 60
+  offset: 15, 12
+  index: -1
+touxiangxiaoshi/touxiangxiaoshi_15
+  rotate: false
+  xy: 347, 3
+  size: 23, 32
+  orig: 68, 60
+  offset: 28, 17
+  index: -1
+touxiangxiaoshi/touxiangxiaoshi_16
+  rotate: false
+  xy: 372, 100
+  size: 22, 26
+  orig: 68, 60
+  offset: 28, 21
+  index: -1
+touxiangxiaoshi/touxiangxiaoshi_17
+  rotate: false
+  xy: 372, 76
+  size: 22, 22
+  orig: 68, 60
+  offset: 28, 22
+  index: -1
+touxiangxiaoshi/touxiangxiaoshi_18
+  rotate: false
+  xy: 372, 53
+  size: 18, 21
+  orig: 68, 60
+  offset: 30, 21
+  index: -1
+touxiangxiaoshi/touxiangxiaoshi_19
+  rotate: false
+  xy: 372, 36
+  size: 14, 15
+  orig: 68, 60
+  offset: 33, 19
+  index: -1

@@ -1,0 +1,111 @@
+
+398_duananniu.png
+size: 512,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/anniu/duan_00000
+  rotate: true
+  xy: 2, 15
+  size: 3, 5
+  orig: 59, 24
+  offset: 9, 4
+  index: -1
+images/anniu/duan_00001
+  rotate: true
+  xy: 34, 9
+  size: 9, 16
+  orig: 59, 24
+  offset: 8, 2
+  index: -1
+images/anniu/duan_00002
+  rotate: true
+  xy: 52, 4
+  size: 14, 16
+  orig: 59, 24
+  offset: 8, 2
+  index: -1
+images/anniu/duan_00003
+  rotate: false
+  xy: 88, 2
+  size: 20, 16
+  orig: 59, 24
+  offset: 8, 2
+  index: -1
+images/anniu/duan_00004
+  rotate: false
+  xy: 110, 2
+  size: 24, 16
+  orig: 59, 24
+  offset: 8, 2
+  index: -1
+images/anniu/duan_00005
+  rotate: false
+  xy: 136, 2
+  size: 29, 16
+  orig: 59, 24
+  offset: 8, 2
+  index: -1
+images/anniu/duan_00006
+  rotate: false
+  xy: 167, 2
+  size: 36, 16
+  orig: 59, 24
+  offset: 8, 2
+  index: -1
+images/anniu/duan_00007
+  rotate: false
+  xy: 205, 2
+  size: 40, 16
+  orig: 59, 24
+  offset: 10, 2
+  index: -1
+images/anniu/duan_00008
+  rotate: false
+  xy: 247, 2
+  size: 36, 16
+  orig: 59, 24
+  offset: 15, 2
+  index: -1
+images/anniu/duan_00009
+  rotate: false
+  xy: 285, 2
+  size: 32, 16
+  orig: 59, 24
+  offset: 19, 2
+  index: -1
+images/anniu/duan_00010
+  rotate: false
+  xy: 319, 2
+  size: 28, 16
+  orig: 59, 24
+  offset: 23, 2
+  index: -1
+images/anniu/duan_00011
+  rotate: false
+  xy: 349, 2
+  size: 22, 16
+  orig: 59, 24
+  offset: 29, 2
+  index: -1
+images/anniu/duan_00012
+  rotate: true
+  xy: 70, 3
+  size: 15, 16
+  orig: 59, 24
+  offset: 36, 2
+  index: -1
+images/anniu/duan_00013
+  rotate: true
+  xy: 18, 11
+  size: 7, 14
+  orig: 59, 24
+  offset: 44, 3
+  index: -1
+images/anniu/duan_00014
+  rotate: true
+  xy: 9, 15
+  size: 3, 7
+  orig: 59, 24
+  offset: 47, 10
+  index: -1

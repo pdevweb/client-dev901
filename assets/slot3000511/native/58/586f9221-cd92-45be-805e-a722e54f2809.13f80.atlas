@@ -1,0 +1,90 @@
+
+eff_loading.png
+size: 720,720
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WILD_22
+  rotate: true
+  xy: 217, 106
+  size: 53, 130
+  orig: 53, 130
+  offset: 0, 0
+  index: -1
+WILD_23
+  rotate: false
+  xy: 627, 183
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: -1
+WILD_24
+  rotate: false
+  xy: 425, 5
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+WILD_25
+  rotate: true
+  xy: 445, 54
+  size: 106, 164
+  orig: 106, 164
+  offset: 0, 0
+  index: -1
+WILD_26
+  rotate: false
+  xy: 445, 162
+  size: 180, 192
+  orig: 224, 192
+  offset: 0, 0
+  index: -1
+WILD_27
+  rotate: false
+  xy: 611, 34
+  size: 94, 126
+  orig: 97, 126
+  offset: 0, 0
+  index: -1
+WILD_28
+  rotate: false
+  xy: 349, 51
+  size: 74, 108
+  orig: 74, 108
+  offset: 0, 0
+  index: -1
+WILD_29
+  rotate: false
+  xy: 217, 161
+  size: 226, 193
+  orig: 226, 193
+  offset: 0, 0
+  index: -1
+WILD_30
+  rotate: false
+  xy: 688, 205
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+WILD_31
+  rotate: true
+  xy: 627, 237
+  size: 117, 85
+  orig: 117, 85
+  offset: 0, 0
+  index: -1
+dibuyan_00000
+  rotate: true
+  xy: 2, 152
+  size: 202, 213
+  orig: 220, 220
+  offset: 3, 3
+  index: -1
+logo
+  rotate: false
+  xy: 2, 356
+  size: 713, 359
+  orig: 713, 359
+  offset: 0, 0
+  index: -1

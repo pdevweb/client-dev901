@@ -1,0 +1,265 @@
+
+eff_mipai.png
+size: 1392,1392
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tex
+  rotate: true
+  xy: 665, 974
+  size: 138, 211
+  orig: 140, 214
+  offset: 2, 2
+  index: -1
+tex1/tex1_00000
+  rotate: false
+  xy: 640, 1114
+  size: 212, 276
+  orig: 229, 310
+  offset: 14, 24
+  index: -1
+tex1/tex1_00001
+  rotate: false
+  xy: 421, 1106
+  size: 217, 284
+  orig: 229, 310
+  offset: 10, 20
+  index: -1
+tex1/tex1_00002
+  rotate: false
+  xy: 217, 195
+  size: 223, 292
+  orig: 229, 310
+  offset: 6, 16
+  index: -1
+tex1/tex1_00003
+  rotate: false
+  xy: 224, 807
+  size: 218, 285
+  orig: 229, 310
+  offset: 3, 12
+  index: -1
+tex1/tex1_00004
+  rotate: false
+  xy: 2, 489
+  size: 218, 294
+  orig: 229, 310
+  offset: 8, 7
+  index: -1
+tex1/tex1_00005
+  rotate: false
+  xy: 2, 1088
+  size: 205, 302
+  orig: 229, 310
+  offset: 4, 3
+  index: -1
+tex1/tex1_00006
+  rotate: false
+  xy: 442, 205
+  size: 203, 288
+  orig: 229, 310
+  offset: 11, 9
+  index: -1
+tex1/tex1_00007
+  rotate: false
+  xy: 2, 194
+  size: 213, 293
+  orig: 229, 310
+  offset: 6, 4
+  index: -1
+tex1/tex1_00008
+  rotate: false
+  xy: 2, 785
+  size: 220, 301
+  orig: 229, 310
+  offset: 3, 0
+  index: -1
+tex1/tex1_00009
+  rotate: false
+  xy: 222, 495
+  size: 223, 288
+  orig: 229, 310
+  offset: 5, 18
+  index: -1
+tex1/tex1_00010
+  rotate: false
+  xy: 209, 1094
+  size: 210, 296
+  orig: 229, 310
+  offset: 9, 14
+  index: -1
+tex1/tex1_00011
+  rotate: false
+  xy: 444, 828
+  size: 219, 276
+  orig: 229, 310
+  offset: 5, 9
+  index: -1
+tex2/tex2_00000
+  rotate: true
+  xy: 864, 385
+  size: 209, 208
+  orig: 226, 242
+  offset: 14, 24
+  index: -1
+tex2/tex2_00001
+  rotate: true
+  xy: 1157, 963
+  size: 205, 215
+  orig: 226, 242
+  offset: 17, 21
+  index: -1
+tex2/tex2_00002
+  rotate: false
+  xy: 653, 603
+  size: 208, 223
+  orig: 226, 242
+  offset: 18, 17
+  index: -1
+tex2/tex2_00003
+  rotate: true
+  xy: 939, 3
+  size: 205, 216
+  orig: 226, 242
+  offset: 13, 13
+  index: -1
+tex2/tex2_00004
+  rotate: false
+  xy: 647, 368
+  size: 215, 224
+  orig: 226, 242
+  offset: 8, 9
+  index: -1
+tex2/tex2_00005
+  rotate: false
+  xy: 447, 594
+  size: 204, 232
+  orig: 226, 242
+  offset: 3, 5
+  index: -1
+tex2/tex2_00006
+  rotate: false
+  xy: 1157, 9
+  size: 203, 208
+  orig: 226, 242
+  offset: 8, 20
+  index: -1
+tex2/tex2_00007
+  rotate: true
+  xy: 1157, 749
+  size: 212, 213
+  orig: 226, 242
+  offset: 4, 16
+  index: -1
+tex2/tex2_00008
+  rotate: true
+  xy: 1157, 1170
+  size: 220, 222
+  orig: 226, 242
+  offset: 0, 11
+  index: -1
+tex2/tex2_00009
+  rotate: true
+  xy: 388, 9
+  size: 184, 231
+  orig: 226, 242
+  offset: 27, 7
+  index: -1
+tex2/tex2_00010
+  rotate: true
+  xy: 2, 2
+  size: 190, 239
+  orig: 226, 242
+  offset: 26, 3
+  index: -1
+tex2/tex2_00011
+  rotate: true
+  xy: 854, 1191
+  size: 199, 192
+  orig: 226, 242
+  offset: 22, 25
+  index: -1
+tex3/tex3_00000
+  rotate: true
+  xy: 878, 994
+  size: 195, 184
+  orig: 217, 194
+  offset: 11, 5
+  index: -1
+tex3/tex3_00001
+  rotate: true
+  xy: 774, 2
+  size: 202, 163
+  orig: 217, 194
+  offset: 9, 31
+  index: -1
+tex3/tex3_00002
+  rotate: false
+  xy: 860, 836
+  size: 208, 136
+  orig: 217, 194
+  offset: 7, 31
+  index: -1
+tex3/tex3_00003
+  rotate: false
+  xy: 665, 834
+  size: 193, 127
+  orig: 217, 194
+  offset: 15, 30
+  index: -1
+tex3/tex3_00004
+  rotate: false
+  xy: 1058, 612
+  size: 200, 135
+  orig: 217, 194
+  offset: 12, 24
+  index: -1
+tex3/tex3_00005
+  rotate: true
+  xy: 243, 7
+  size: 186, 143
+  orig: 217, 194
+  offset: 10, 20
+  index: -1
+tex3/tex3_00006
+  rotate: false
+  xy: 863, 596
+  size: 193, 151
+  orig: 217, 194
+  offset: 8, 15
+  index: -1
+tex3/tex3_00007
+  rotate: false
+  xy: 647, 206
+  size: 200, 160
+  orig: 217, 194
+  offset: 5, 10
+  index: -1
+tex3/tex3_00008
+  rotate: true
+  xy: 1074, 403
+  size: 207, 154
+  orig: 217, 194
+  offset: 2, 15
+  index: -1
+tex3/tex3_00009
+  rotate: false
+  xy: 849, 210
+  size: 214, 156
+  orig: 217, 194
+  offset: 0, 10
+  index: -1
+tex3/tex3_00010
+  rotate: false
+  xy: 1065, 219
+  size: 194, 164
+  orig: 217, 194
+  offset: 7, 5
+  index: -1
+tex3/tex3_00011
+  rotate: true
+  xy: 621, 2
+  size: 201, 151
+  orig: 217, 194
+  offset: 4, 18
+  index: -1

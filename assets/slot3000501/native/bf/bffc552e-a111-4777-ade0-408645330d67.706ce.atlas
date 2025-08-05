@@ -1,0 +1,90 @@
+
+huanghuoyan.png
+size: 740,740
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hhy_00000
+  rotate: true
+  xy: 2, 141
+  size: 126, 304
+  orig: 180, 332
+  offset: 26, 6
+  index: -1
+hhy_00001
+  rotate: true
+  xy: 132, 601
+  size: 134, 312
+  orig: 180, 332
+  offset: 21, 6
+  index: -1
+hhy_00002
+  rotate: true
+  xy: 2, 269
+  size: 138, 315
+  orig: 180, 332
+  offset: 19, 6
+  index: -1
+hhy_00003
+  rotate: true
+  xy: 446, 615
+  size: 120, 291
+  orig: 180, 332
+  offset: 19, 6
+  index: -1
+hhy_00004
+  rotate: false
+  xy: 609, 17
+  size: 122, 294
+  orig: 180, 332
+  offset: 19, 6
+  index: -1
+hhy_00005
+  rotate: false
+  xy: 584, 313
+  size: 125, 300
+  orig: 180, 332
+  offset: 18, 5
+  index: -1
+hhy_00006
+  rotate: true
+  xy: 2, 14
+  size: 125, 304
+  orig: 180, 332
+  offset: 20, 6
+  index: -1
+hhy_00007
+  rotate: false
+  xy: 319, 160
+  size: 126, 312
+  orig: 180, 332
+  offset: 19, 6
+  index: -1
+hhy_00008
+  rotate: false
+  xy: 459, 294
+  size: 123, 319
+  orig: 180, 332
+  offset: 23, 6
+  index: -1
+hhy_00009
+  rotate: true
+  xy: 132, 474
+  size: 125, 325
+  orig: 180, 332
+  offset: 24, 5
+  index: -1
+hhy_00010
+  rotate: false
+  xy: 2, 409
+  size: 128, 326
+  orig: 180, 332
+  offset: 23, 6
+  index: -1
+hhy_00011
+  rotate: true
+  xy: 308, 30
+  size: 128, 299
+  orig: 180, 332
+  offset: 23, 6
+  index: -1

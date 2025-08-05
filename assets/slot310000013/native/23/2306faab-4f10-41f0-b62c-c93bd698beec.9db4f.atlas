@@ -1,0 +1,76 @@
+
+245_symbol_m6.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bb
+  rotate: true
+  xy: 2, 2
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+bd
+  rotate: false
+  xy: 42, 2
+  size: 31, 25
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+bk
+  rotate: false
+  xy: 137, 16
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+bk1
+  rotate: false
+  xy: 192, 16
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+bp
+  rotate: true
+  xy: 157, 51
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+bp1
+  rotate: true
+  xy: 100, 6
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+bs
+  rotate: false
+  xy: 100, 78
+  size: 55, 43
+  orig: 55, 43
+  offset: 0, 0
+  index: -1
+s
+  rotate: false
+  xy: 194, 54
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+sh
+  rotate: true
+  xy: 194, 79
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 2, 29
+  size: 96, 92
+  orig: 96, 92
+  offset: 0, 0
+  index: -1

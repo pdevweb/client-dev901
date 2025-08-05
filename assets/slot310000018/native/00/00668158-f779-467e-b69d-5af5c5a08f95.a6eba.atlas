@@ -1,0 +1,328 @@
+
+NG_jpsuo.png
+size: 960,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11/xl1_00
+  rotate: true
+  xy: 621, 15
+  size: 54, 197
+  orig: 68, 410
+  offset: 9, 0
+  index: -1
+11/xl1_01
+  rotate: true
+  xy: 621, 15
+  size: 54, 197
+  orig: 68, 410
+  offset: 9, 0
+  index: -1
+11/xl1_02
+  rotate: false
+  xy: 410, 97
+  size: 67, 248
+  orig: 68, 410
+  offset: 1, 16
+  index: -1
+11/xl1_03
+  rotate: false
+  xy: 410, 97
+  size: 67, 248
+  orig: 68, 410
+  offset: 1, 16
+  index: -1
+11/xl1_04
+  rotate: false
+  xy: 270, 38
+  size: 68, 304
+  orig: 68, 410
+  offset: 0, 20
+  index: -1
+11/xl1_05
+  rotate: false
+  xy: 130, 21
+  size: 68, 320
+  orig: 68, 410
+  offset: 0, 41
+  index: -1
+11/xl1_06
+  rotate: false
+  xy: 130, 21
+  size: 68, 320
+  orig: 68, 410
+  offset: 0, 41
+  index: -1
+11/xl1_07
+  rotate: false
+  xy: 200, 32
+  size: 68, 310
+  orig: 68, 410
+  offset: 0, 78
+  index: -1
+11/xl1_08
+  rotate: false
+  xy: 200, 32
+  size: 68, 310
+  orig: 68, 410
+  offset: 0, 78
+  index: -1
+11/xl1_09
+  rotate: false
+  xy: 340, 62
+  size: 68, 282
+  orig: 68, 410
+  offset: 0, 128
+  index: -1
+jpFrameDark1
+  rotate: true
+  xy: 553, 357
+  size: 391, 84
+  orig: 391, 84
+  offset: 0, 0
+  index: -1
+jpFrameDark2
+  rotate: false
+  xy: 479, 71
+  size: 214, 67
+  orig: 214, 67
+  offset: 0, 0
+  index: -1
+rj/jpFrame1_0
+  rotate: false
+  xy: 400, 750
+  size: 392, 85
+  orig: 410, 205
+  offset: 9, 60
+  index: -1
+rj/jpFrame1_1
+  rotate: true
+  xy: 371, 347
+  size: 393, 86
+  orig: 410, 205
+  offset: 8, 60
+  index: -1
+rj/jpFrame1_10
+  rotate: true
+  xy: 93, 343
+  size: 397, 92
+  orig: 410, 205
+  offset: 7, 57
+  index: -1
+rj/jpFrame1_11
+  rotate: true
+  xy: 459, 358
+  size: 390, 92
+  orig: 410, 205
+  offset: 14, 57
+  index: -1
+rj/jpFrame1_12
+  rotate: true
+  xy: 639, 369
+  size: 379, 91
+  orig: 410, 205
+  offset: 25, 57
+  index: -1
+rj/jpFrame1_13
+  rotate: true
+  xy: 732, 371
+  size: 377, 88
+  orig: 410, 205
+  offset: 26, 57
+  index: -1
+rj/jpFrame1_14
+  rotate: true
+  xy: 0, 0
+  size: 340, 88
+  orig: 410, 205
+  offset: 29, 57
+  index: -1
+rj/jpFrame1_15
+  rotate: true
+  xy: 90, 19
+  size: 321, 38
+  orig: 410, 205
+  offset: 37, 103
+  index: -1
+rj/jpFrame1_16
+  rotate: false
+  xy: 829, 130
+  size: 131, 22
+  orig: 410, 205
+  offset: 47, 115
+  index: -1
+rj/jpFrame1_2
+  rotate: true
+  xy: 280, 346
+  size: 394, 89
+  orig: 410, 205
+  offset: 8, 58
+  index: -1
+rj/jpFrame1_3
+  rotate: true
+  xy: 187, 344
+  size: 396, 91
+  orig: 410, 205
+  offset: 7, 57
+  index: -1
+rj/jpFrame1_4
+  rotate: false
+  xy: 0, 742
+  size: 397, 92
+  orig: 410, 205
+  offset: 6, 57
+  index: -1
+rj/jpFrame1_5
+  rotate: false
+  xy: 0, 930
+  size: 398, 92
+  orig: 410, 205
+  offset: 6, 57
+  index: -1
+rj/jpFrame1_6
+  rotate: false
+  xy: 400, 837
+  size: 398, 91
+  orig: 410, 205
+  offset: 6, 58
+  index: -1
+rj/jpFrame1_7
+  rotate: true
+  xy: 0, 342
+  size: 398, 91
+  orig: 410, 205
+  offset: 6, 58
+  index: -1
+rj/jpFrame1_8
+  rotate: false
+  xy: 0, 836
+  size: 398, 92
+  orig: 410, 205
+  offset: 6, 57
+  index: -1
+rj/jpFrame1_9
+  rotate: false
+  xy: 400, 930
+  size: 398, 92
+  orig: 410, 205
+  offset: 6, 57
+  index: -1
+rj2/jpFrameDark2_00
+  rotate: true
+  xy: 800, 808
+  size: 214, 68
+  orig: 224, 101
+  offset: 5, 17
+  index: -1
+rj2/jpFrameDark2_01
+  rotate: true
+  xy: 549, 140
+  size: 215, 68
+  orig: 224, 101
+  offset: 4, 17
+  index: -1
+rj2/jpFrameDark2_02
+  rotate: true
+  xy: 870, 807
+  size: 215, 68
+  orig: 224, 101
+  offset: 4, 17
+  index: -1
+rj2/jpFrameDark2_03
+  rotate: true
+  xy: 619, 140
+  size: 215, 68
+  orig: 224, 101
+  offset: 4, 17
+  index: -1
+rj2/jpFrameDark2_04
+  rotate: true
+  xy: 892, 590
+  size: 215, 68
+  orig: 224, 101
+  offset: 4, 17
+  index: -1
+rj2/jpFrameDark2_05
+  rotate: true
+  xy: 479, 140
+  size: 216, 68
+  orig: 224, 101
+  offset: 4, 17
+  index: -1
+rj2/jpFrameDark2_06
+  rotate: true
+  xy: 689, 151
+  size: 216, 68
+  orig: 224, 101
+  offset: 4, 17
+  index: -1
+rj2/jpFrameDark2_07
+  rotate: true
+  xy: 759, 153
+  size: 216, 68
+  orig: 224, 101
+  offset: 4, 17
+  index: -1
+rj2/jpFrameDark2_08
+  rotate: true
+  xy: 892, 373
+  size: 215, 68
+  orig: 224, 101
+  offset: 4, 17
+  index: -1
+rj2/jpFrameDark2_09
+  rotate: true
+  xy: 822, 589
+  size: 216, 68
+  orig: 224, 101
+  offset: 4, 17
+  index: -1
+rj2/jpFrameDark2_10
+  rotate: true
+  xy: 822, 371
+  size: 216, 64
+  orig: 224, 101
+  offset: 4, 21
+  index: -1
+rj2/jpFrameDark2_11
+  rotate: true
+  xy: 829, 154
+  size: 215, 64
+  orig: 224, 101
+  offset: 4, 21
+  index: -1
+rj2/jpFrameDark2_12
+  rotate: true
+  xy: 895, 157
+  size: 214, 59
+  orig: 224, 101
+  offset: 5, 26
+  index: -1
+rj2/jpFrameDark2_13
+  rotate: false
+  xy: 410, 18
+  size: 209, 51
+  orig: 224, 101
+  offset: 9, 34
+  index: -1
+rj2/jpFrameDark2_14
+  rotate: false
+  xy: 695, 95
+  size: 200, 33
+  orig: 224, 101
+  offset: 18, 49
+  index: -1
+rj2/jpFrameDark2_15
+  rotate: true
+  xy: 940, 836
+  size: 186, 17
+  orig: 224, 101
+  offset: 30, 62
+  index: -1
+rj2/jpFrameDark2_16
+  rotate: false
+  xy: 695, 80
+  size: 158, 13
+  orig: 224, 101
+  offset: 33, 60
+  index: -1

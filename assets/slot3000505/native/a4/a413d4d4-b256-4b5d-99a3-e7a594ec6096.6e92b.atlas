@@ -1,0 +1,223 @@
+
+eff_icon_2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daxong_0
+  rotate: true
+  xy: 52, 26
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+daxong_10
+  rotate: false
+  xy: 657, 2
+  size: 108, 96
+  orig: 108, 96
+  offset: 0, 0
+  index: -1
+daxong_3
+  rotate: false
+  xy: 34, 42
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+daxong_4
+  rotate: true
+  xy: 34, 6
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+daxong_5
+  rotate: false
+  xy: 2, 40
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+daxong_7
+  rotate: false
+  xy: 767, 4
+  size: 107, 94
+  orig: 107, 94
+  offset: 0, 0
+  index: -1
+daxong_8
+  rotate: true
+  xy: 2, 7
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+daxong_9
+  rotate: true
+  xy: 2, 7
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+yellowlg/yellowlg_00000
+  rotate: true
+  xy: 658, 248
+  size: 131, 119
+  orig: 147, 141
+  offset: 7, 8
+  index: -1
+yellowlg/yellowlg_00001
+  rotate: false
+  xy: 681, 385
+  size: 127, 118
+  orig: 147, 141
+  offset: 9, 9
+  index: -1
+yellowlg/yellowlg_00002
+  rotate: true
+  xy: 785, 134
+  size: 123, 118
+  orig: 147, 141
+  offset: 12, 9
+  index: -1
+yellowlg/yellowlg_00003
+  rotate: true
+  xy: 876, 11
+  size: 121, 113
+  orig: 147, 141
+  offset: 13, 10
+  index: -1
+yellowlg/yellowlg_00004
+  rotate: false
+  xy: 901, 270
+  size: 120, 114
+  orig: 147, 141
+  offset: 13, 9
+  index: -1
+yellowlg/yellowlg_00005
+  rotate: false
+  xy: 810, 386
+  size: 125, 117
+  orig: 147, 141
+  offset: 10, 9
+  index: -1
+yellowlg/yellowlg_00006
+  rotate: false
+  xy: 548, 381
+  size: 131, 122
+  orig: 147, 141
+  offset: 5, 7
+  index: -1
+yellowlg/yellowlg_00007
+  rotate: true
+  xy: 530, 239
+  size: 137, 126
+  orig: 147, 141
+  offset: 2, 7
+  index: -1
+yellowlg/yellowlg_00008
+  rotate: true
+  xy: 271, 365
+  size: 138, 133
+  orig: 147, 141
+  offset: 2, 6
+  index: -1
+yellowlg/yellowlg_00009
+  rotate: true
+  xy: 2, 73
+  size: 141, 134
+  orig: 147, 141
+  offset: 2, 6
+  index: -1
+yellowlg/yellowlg_00010
+  rotate: true
+  xy: 2, 361
+  size: 142, 134
+  orig: 147, 141
+  offset: 1, 7
+  index: -1
+yellowlg/yellowlg_00011
+  rotate: true
+  xy: 2, 216
+  size: 143, 133
+  orig: 147, 141
+  offset: 1, 7
+  index: -1
+yellowlg/yellowlg_00012
+  rotate: true
+  xy: 137, 217
+  size: 142, 132
+  orig: 147, 141
+  offset: 1, 7
+  index: -1
+yellowlg/yellowlg_00013
+  rotate: true
+  xy: 271, 222
+  size: 141, 129
+  orig: 147, 141
+  offset: 2, 7
+  index: -1
+yellowlg/yellowlg_00014
+  rotate: false
+  xy: 406, 378
+  size: 140, 125
+  orig: 147, 141
+  offset: 2, 9
+  index: -1
+yellowlg/yellowlg_00015
+  rotate: true
+  xy: 529, 84
+  size: 138, 126
+  orig: 147, 141
+  offset: 3, 7
+  index: -1
+yellowlg/yellowlg_00016
+  rotate: true
+  xy: 402, 224
+  size: 139, 126
+  orig: 147, 141
+  offset: 2, 7
+  index: -1
+yellowlg/yellowlg_00017
+  rotate: true
+  xy: 401, 79
+  size: 141, 126
+  orig: 147, 141
+  offset: 1, 7
+  index: -1
+yellowlg/yellowlg_00018
+  rotate: true
+  xy: 271, 79
+  size: 141, 128
+  orig: 147, 141
+  offset: 1, 7
+  index: -1
+yellowlg/yellowlg_00019
+  rotate: true
+  xy: 138, 362
+  size: 141, 131
+  orig: 147, 141
+  offset: 2, 6
+  index: -1
+yellowlg/yellowlg_00020
+  rotate: true
+  xy: 138, 74
+  size: 141, 131
+  orig: 147, 141
+  offset: 2, 6
+  index: -1
+yellowlg/yellowlg_00021
+  rotate: true
+  xy: 657, 100
+  size: 137, 126
+  orig: 147, 141
+  offset: 3, 7
+  index: -1
+yellowlg/yellowlg_00022
+  rotate: true
+  xy: 779, 259
+  size: 124, 120
+  orig: 147, 141
+  offset: 11, 9
+  index: -1

@@ -1,0 +1,48 @@
+
+chuxian.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangquan01
+  rotate: false
+  xy: 99, 6
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+hg_10
+  rotate: false
+  xy: 184, 34
+  size: 42, 41
+  orig: 44, 43
+  offset: 1, 1
+  index: -1
+kgg_00010
+  rotate: true
+  xy: 185, 77
+  size: 97, 44
+  orig: 123, 68
+  offset: 10, 13
+  index: -1
+q_00000
+  rotate: false
+  xy: 2, 80
+  size: 95, 94
+  orig: 95, 94
+  offset: 0, 0
+  index: -1
+qqqqqq_00078
+  rotate: true
+  xy: 2, 2
+  size: 76, 77
+  orig: 83, 81
+  offset: 4, 2
+  index: -1
+xg02
+  rotate: false
+  xy: 99, 91
+  size: 84, 83
+  orig: 86, 86
+  offset: 2, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+245_m3.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/erduo
+  rotate: false
+  xy: 231, 80
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+images/gebo2
+  rotate: false
+  xy: 2, 13
+  size: 84, 59
+  orig: 84, 60
+  offset: 0, 1
+  index: -1
+images/hudie2
+  rotate: true
+  xy: 162, 23
+  size: 49, 36
+  orig: 50, 42
+  offset: 1, 2
+  index: -1
+images/hudiejie
+  rotate: false
+  xy: 88, 27
+  size: 72, 45
+  orig: 73, 45
+  offset: 0, 0
+  index: -1
+images/huzi
+  rotate: false
+  xy: 180, 79
+  size: 49, 32
+  orig: 49, 33
+  offset: 0, 0
+  index: -1
+images/kuang1
+  rotate: false
+  xy: 200, 2
+  size: 141, 75
+  orig: 141, 75
+  offset: 0, 0
+  index: -1
+images/kuang2
+  rotate: true
+  xy: 180, 113
+  size: 141, 134
+  orig: 141, 134
+  offset: 0, 0
+  index: -1
+images/kuangyinying2
+  rotate: true
+  xy: 316, 132
+  size: 122, 111
+  orig: 123, 120
+  offset: 1, 0
+  index: -1
+images/shenti
+  rotate: true
+  xy: 2, 74
+  size: 180, 176
+  orig: 185, 176
+  offset: 5, 0
+  index: -1
+images/tou
+  rotate: false
+  xy: 343, 34
+  size: 95, 96
+  orig: 97, 96
+  offset: 0, 0
+  index: -1
+images/yanbai
+  rotate: false
+  xy: 2, 3
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+images/yanbai2
+  rotate: false
+  xy: 88, 9
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+images/yanqiu
+  rotate: false
+  xy: 20, 2
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+images/yanqiu2
+  rotate: false
+  xy: 33, 2
+  size: 11, 9
+  orig: 12, 11
+  offset: 1, 1
+  index: -1

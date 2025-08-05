@@ -1,0 +1,83 @@
+
+eff_icon_05.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g/g_00
+  rotate: false
+  xy: 412, 255
+  size: 98, 95
+  orig: 143, 135
+  offset: 25, 19
+  index: -1
+g/g_01
+  rotate: false
+  xy: 412, 352
+  size: 108, 104
+  orig: 143, 135
+  offset: 20, 15
+  index: -1
+g/g_02
+  rotate: true
+  xy: 392, 53
+  size: 116, 112
+  orig: 143, 135
+  offset: 16, 11
+  index: -1
+g/g_03
+  rotate: false
+  xy: 289, 338
+  size: 121, 118
+  orig: 143, 135
+  offset: 13, 7
+  index: -1
+g/g_04
+  rotate: false
+  xy: 265, 5
+  size: 125, 121
+  orig: 143, 135
+  offset: 11, 5
+  index: -1
+g/g_05
+  rotate: false
+  xy: 134, 4
+  size: 129, 122
+  orig: 143, 135
+  offset: 9, 4
+  index: -1
+g/g_06
+  rotate: false
+  xy: 2, 2
+  size: 130, 124
+  orig: 143, 135
+  offset: 8, 4
+  index: -1
+g/g_07
+  rotate: false
+  xy: 289, 219
+  size: 121, 117
+  orig: 143, 135
+  offset: 13, 9
+  index: -1
+purplejs_00000
+  rotate: true
+  xy: 289, 157
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+sg_00000
+  rotate: true
+  xy: 353, 171
+  size: 46, 55
+  orig: 60, 58
+  offset: 7, 2
+  index: -1
+zjm_icon_ptfdjz_2
+  rotate: false
+  xy: 2, 128
+  size: 285, 328
+  orig: 285, 328
+  offset: 0, 0
+  index: -1

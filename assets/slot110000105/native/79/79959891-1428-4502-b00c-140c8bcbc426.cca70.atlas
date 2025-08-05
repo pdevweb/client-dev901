@@ -1,0 +1,279 @@
+
+bigwin.png
+size: 1312,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+16
+  rotate: false
+  xy: 1193, 232
+  size: 112, 35
+  orig: 140, 90
+  offset: 16, 31
+  index: -1
+17
+  rotate: false
+  xy: 1237, 28
+  size: 68, 96
+  orig: 90, 140
+  offset: 10, 9
+  index: -1
+18
+  rotate: false
+  xy: 422, 43
+  size: 135, 83
+  orig: 150, 150
+  offset: 9, 37
+  index: -1
+19
+  rotate: false
+  xy: 1192, 126
+  size: 118, 56
+  orig: 155, 110
+  offset: 27, 28
+  index: -1
+20
+  rotate: false
+  xy: 559, 52
+  size: 111, 89
+  orig: 200, 125
+  offset: 43, 15
+  index: -1
+21
+  rotate: false
+  xy: 2, 116
+  size: 357, 151
+  orig: 414, 238
+  offset: 30, 32
+  index: -1
+22
+  rotate: true
+  xy: 617, 152
+  size: 115, 112
+  orig: 300, 275
+  offset: 90, 97
+  index: -1
+23
+  rotate: false
+  xy: 2, 19
+  size: 210, 95
+  orig: 245, 245
+  offset: 16, 77
+  index: -1
+24
+  rotate: true
+  xy: 672, 61
+  size: 89, 87
+  orig: 125, 125
+  offset: 16, 15
+  index: -1
+25
+  rotate: true
+  xy: 1159, 4
+  size: 91, 76
+  orig: 125, 100
+  offset: 13, 8
+  index: -1
+26
+  rotate: true
+  xy: 502, 143
+  size: 124, 113
+  orig: 250, 125
+  offset: 58, 7
+  index: -1
+27
+  rotate: false
+  xy: 214, 39
+  size: 206, 75
+  orig: 320, 160
+  offset: 72, 42
+  index: -1
+bace_gg
+  rotate: true
+  xy: 731, 153
+  size: 114, 110
+  orig: 117, 112
+  offset: 1, 1
+  index: -1
+fantasy_Turntable_bg_01
+  rotate: false
+  xy: 361, 128
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1
+fantasy_Turntable_bg_02
+  rotate: false
+  xy: 715, 21
+  size: 185, 38
+  orig: 185, 38
+  offset: 0, 0
+  index: -1
+light/light_000
+  rotate: true
+  xy: 930, 183
+  size: 84, 86
+  orig: 175, 175
+  offset: 43, 45
+  index: -1
+light/light_001
+  rotate: false
+  xy: 902, 7
+  size: 84, 86
+  orig: 175, 175
+  offset: 44, 45
+  index: -1
+light/light_002
+  rotate: false
+  xy: 761, 66
+  size: 85, 85
+  orig: 175, 175
+  offset: 43, 46
+  index: -1
+light/light_003
+  rotate: false
+  xy: 843, 182
+  size: 85, 85
+  orig: 175, 175
+  offset: 43, 46
+  index: -1
+light/light_004
+  rotate: false
+  xy: 1074, 9
+  size: 83, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_005
+  rotate: false
+  xy: 1107, 97
+  size: 83, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_006
+  rotate: false
+  xy: 935, 96
+  size: 84, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_007
+  rotate: true
+  xy: 1018, 183
+  size: 84, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_008
+  rotate: false
+  xy: 988, 9
+  size: 84, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_009
+  rotate: false
+  xy: 848, 95
+  size: 85, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_010
+  rotate: false
+  xy: 1021, 96
+  size: 84, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_011
+  rotate: true
+  xy: 1105, 184
+  size: 83, 86
+  orig: 175, 175
+  offset: 44, 45
+  index: -1
+zp_Bomb crab
+  rotate: false
+  xy: 558, 26
+  size: 72, 15
+  orig: 72, 15
+  offset: 0, 0
+  index: -1
+zp_Deep sea anglerfish
+  rotate: false
+  xy: 152, 2
+  size: 135, 15
+  orig: 135, 15
+  offset: 0, 0
+  index: -1
+zp_Drill crab
+  rotate: false
+  xy: 596, 9
+  size: 71, 15
+  orig: 71, 15
+  offset: 0, 0
+  index: -1
+zp_Executioner Shark
+  rotate: false
+  xy: 289, 5
+  size: 127, 15
+  orig: 127, 15
+  offset: 0, 0
+  index: -1
+zp_Fire crocodile
+  rotate: false
+  xy: 418, 5
+  size: 96, 15
+  orig: 96, 15
+  offset: 0, 0
+  index: -1
+zp_Killer whales
+  rotate: false
+  xy: 460, 26
+  size: 96, 15
+  orig: 96, 15
+  offset: 0, 0
+  index: -1
+zp_Lobster Soldier
+  rotate: false
+  xy: 350, 22
+  size: 108, 15
+  orig: 108, 15
+  offset: 0, 0
+  index: -1
+zp_Poisonous jellyfish
+  rotate: false
+  xy: 214, 22
+  size: 134, 15
+  orig: 134, 15
+  offset: 0, 0
+  index: -1
+zp_Ride marlin
+  rotate: false
+  xy: 516, 9
+  size: 78, 15
+  orig: 78, 15
+  offset: 0, 0
+  index: -1
+zp_Sirens
+  rotate: false
+  xy: 669, 18
+  size: 44, 15
+  orig: 44, 15
+  offset: 0, 0
+  index: -1
+zp_Transforming sharks
+  rotate: false
+  xy: 2, 2
+  size: 148, 15
+  orig: 148, 15
+  offset: 0, 0
+  index: -1
+zp_Voidfish
+  rotate: false
+  xy: 632, 35
+  size: 58, 15
+  orig: 58, 15
+  offset: 0, 0
+  index: -1

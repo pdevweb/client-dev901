@@ -1,0 +1,104 @@
+
+eff_roller2.png
+size: 1752,908
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_guilun/_0000_light_00014
+  rotate: false
+  xy: 364, 607
+  size: 360, 298
+  orig: 360, 298
+  offset: 0, 0
+  index: -1
+eff_guilun/_0001_light_00013
+  rotate: false
+  xy: 726, 606
+  size: 360, 299
+  orig: 360, 299
+  offset: 0, 0
+  index: -1
+eff_guilun/_0002_light_00012
+  rotate: false
+  xy: 1088, 606
+  size: 360, 299
+  orig: 360, 299
+  offset: 0, 0
+  index: -1
+eff_guilun/_0003_light_00011
+  rotate: true
+  xy: 1450, 545
+  size: 360, 299
+  orig: 360, 299
+  offset: 0, 0
+  index: -1
+eff_guilun/_0004_light_00010
+  rotate: false
+  xy: 726, 304
+  size: 360, 300
+  orig: 360, 300
+  offset: 0, 0
+  index: -1
+eff_guilun/_0005_light_00009
+  rotate: false
+  xy: 1088, 304
+  size: 360, 300
+  orig: 360, 300
+  offset: 0, 0
+  index: -1
+eff_guilun/_0006_light_00008
+  rotate: true
+  xy: 1450, 183
+  size: 360, 300
+  orig: 360, 300
+  offset: 0, 0
+  index: -1
+eff_guilun/_0007_light_00007
+  rotate: false
+  xy: 2, 4
+  size: 360, 300
+  orig: 360, 300
+  offset: 0, 0
+  index: -1
+eff_guilun/_0008_light_00006
+  rotate: false
+  xy: 364, 4
+  size: 360, 300
+  orig: 360, 300
+  offset: 0, 0
+  index: -1
+eff_guilun/_0009_light_00005
+  rotate: false
+  xy: 726, 2
+  size: 360, 300
+  orig: 360, 300
+  offset: 0, 0
+  index: -1
+eff_guilun/_0010_light_00004
+  rotate: false
+  xy: 1088, 2
+  size: 360, 300
+  orig: 360, 300
+  offset: 0, 0
+  index: -1
+eff_guilun/_0011_light_00003
+  rotate: false
+  xy: 2, 607
+  size: 360, 298
+  orig: 360, 298
+  offset: 0, 0
+  index: -1
+eff_guilun/_0012_light_00002
+  rotate: false
+  xy: 2, 306
+  size: 360, 299
+  orig: 360, 299
+  offset: 0, 0
+  index: -1
+eff_guilun/_0013_light_00001
+  rotate: false
+  xy: 364, 306
+  size: 360, 299
+  orig: 360, 299
+  offset: 0, 0
+  index: -1

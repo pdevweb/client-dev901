@@ -1,0 +1,20 @@
+
+239_wheel_xh_low.png
+size: 427,310
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang_000
+  rotate: true
+  xy: 2, 226
+  size: 82, 423
+  orig: 82, 423
+  offset: 0, 0
+  index: -1
+lizi_0007
+  rotate: false
+  xy: 2, 2
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1

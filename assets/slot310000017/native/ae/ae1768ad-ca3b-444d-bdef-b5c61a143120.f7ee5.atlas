@@ -1,0 +1,146 @@
+
+eff_hongli.png
+size: 1940,824
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bing
+  rotate: false
+  xy: 2, 411
+  size: 297, 411
+  orig: 316, 418
+  offset: 15, 3
+  index: -1
+bing_d
+  rotate: false
+  xy: 301, 411
+  size: 297, 411
+  orig: 316, 418
+  offset: 15, 3
+  index: -1
+chgy
+  rotate: false
+  xy: 600, 422
+  size: 120, 107
+  orig: 128, 115
+  offset: 4, 4
+  index: -1
+chk1
+  rotate: false
+  xy: 1660, 582
+  size: 240, 240
+  orig: 256, 256
+  offset: 8, 8
+  index: -1
+gq
+  rotate: false
+  xy: 1614, 57
+  size: 240, 240
+  orig: 256, 256
+  offset: 8, 8
+  index: -1
+guangyun_xj
+  rotate: false
+  xy: 1818, 460
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+gx4
+  rotate: true
+  xy: 2, 2
+  size: 407, 403
+  orig: 412, 405
+  offset: 3, 2
+  index: -1
+light
+  rotate: false
+  xy: 407, 9
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+mohu_lv
+  rotate: false
+  xy: 1369, 7
+  size: 243, 243
+  orig: 280, 280
+  offset: 14, 28
+  index: -1
+qiyuanxing
+  rotate: false
+  xy: 722, 467
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+shexian
+  rotate: false
+  xy: 1388, 544
+  size: 270, 278
+  orig: 300, 300
+  offset: 16, 14
+  index: -1
+syc_00000
+  rotate: true
+  xy: 1597, 299
+  size: 243, 219
+  orig: 280, 280
+  offset: 17, 45
+  index: -1
+ys
+  rotate: false
+  xy: 809, 4
+  size: 278, 232
+  orig: 278, 232
+  offset: 0, 0
+  index: -1
+ys_d
+  rotate: false
+  xy: 1089, 6
+  size: 278, 232
+  orig: 278, 232
+  offset: 0, 0
+  index: -1
+yx
+  rotate: true
+  xy: 851, 532
+  size: 290, 279
+  orig: 290, 279
+  offset: 0, 0
+  index: -1
+yx_d
+  rotate: true
+  xy: 1060, 240
+  size: 290, 279
+  orig: 290, 279
+  offset: 0, 0
+  index: -1
+zs
+  rotate: true
+  xy: 1132, 538
+  size: 284, 254
+  orig: 284, 255
+  offset: 0, 1
+  index: -1
+zs_d
+  rotate: true
+  xy: 1341, 252
+  size: 284, 254
+  orig: 284, 255
+  offset: 0, 1
+  index: -1
+zx
+  rotate: true
+  xy: 600, 531
+  size: 291, 249
+  orig: 291, 250
+  offset: 0, 1
+  index: -1
+zx_d
+  rotate: true
+  xy: 809, 238
+  size: 291, 249
+  orig: 291, 250
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,146 @@
+
+eff_dakuang.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jili04/jili_000
+  rotate: false
+  xy: 223, 7
+  size: 51, 217
+  orig: 66, 225
+  offset: 8, 1
+  index: -1
+jili04/jili_001
+  rotate: false
+  xy: 59, 2
+  size: 53, 222
+  orig: 66, 225
+  offset: 7, 1
+  index: -1
+jili04/jili_002
+  rotate: false
+  xy: 276, 4
+  size: 50, 220
+  orig: 66, 225
+  offset: 10, 2
+  index: -1
+jili04/jili_003
+  rotate: false
+  xy: 431, 4
+  size: 48, 220
+  orig: 66, 225
+  offset: 13, 2
+  index: -1
+jili04/jili_004
+  rotate: false
+  xy: 380, 6
+  size: 49, 218
+  orig: 66, 225
+  offset: 13, 3
+  index: -1
+jili04/jili_005
+  rotate: true
+  xy: 776, 48
+  size: 41, 215
+  orig: 66, 225
+  offset: 12, 5
+  index: -1
+jili04/jili_006
+  rotate: true
+  xy: 776, 135
+  size: 43, 218
+  orig: 66, 225
+  offset: 11, 5
+  index: -1
+jili04/jili_007
+  rotate: true
+  xy: 776, 6
+  size: 40, 217
+  orig: 66, 225
+  offset: 13, 5
+  index: -1
+jili04/jili_008
+  rotate: true
+  xy: 776, 91
+  size: 42, 217
+  orig: 66, 225
+  offset: 12, 4
+  index: -1
+jili04/jili_009
+  rotate: true
+  xy: 776, 180
+  size: 44, 217
+  orig: 66, 225
+  offset: 12, 4
+  index: -1
+jili04/jili_010
+  rotate: false
+  xy: 633, 9
+  size: 46, 215
+  orig: 66, 225
+  offset: 11, 5
+  index: -1
+jili04/jili_011
+  rotate: false
+  xy: 681, 9
+  size: 46, 215
+  orig: 66, 225
+  offset: 12, 4
+  index: -1
+jili04/jili_012
+  rotate: false
+  xy: 729, 11
+  size: 45, 213
+  orig: 66, 225
+  offset: 14, 5
+  index: -1
+jili04/jili_013
+  rotate: false
+  xy: 583, 12
+  size: 48, 212
+  orig: 66, 225
+  offset: 13, 5
+  index: -1
+jili04/jili_014
+  rotate: false
+  xy: 328, 9
+  size: 50, 215
+  orig: 66, 225
+  offset: 13, 5
+  index: -1
+jili04/jili_015
+  rotate: false
+  xy: 169, 5
+  size: 52, 219
+  orig: 66, 225
+  offset: 12, 1
+  index: -1
+jili04/jili_016
+  rotate: false
+  xy: 114, 6
+  size: 53, 218
+  orig: 66, 225
+  offset: 11, 1
+  index: -1
+jili04/jili_017
+  rotate: false
+  xy: 2, 7
+  size: 55, 217
+  orig: 66, 225
+  offset: 10, 2
+  index: -1
+jili04/jili_018
+  rotate: false
+  xy: 481, 9
+  size: 49, 215
+  orig: 66, 225
+  offset: 10, 3
+  index: -1
+jili04/jili_019
+  rotate: false
+  xy: 532, 9
+  size: 49, 215
+  orig: 66, 225
+  offset: 9, 3
+  index: -1

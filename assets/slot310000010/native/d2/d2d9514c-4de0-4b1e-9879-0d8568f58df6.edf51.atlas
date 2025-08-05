@@ -1,0 +1,153 @@
+
+jdt_qz.png
+size: 932,1068
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/fg_0
+  rotate: false
+  xy: 2, 979
+  size: 567, 86
+  orig: 600, 90
+  offset: 15, 3
+  index: -1
+tx/jm/jm_0
+  rotate: true
+  xy: 479, 647
+  size: 330, 117
+  orig: 330, 150
+  offset: 0, 11
+  index: -1
+tx/jm/jm_1
+  rotate: true
+  xy: 471, 315
+  size: 330, 131
+  orig: 330, 150
+  offset: 0, 15
+  index: -1
+tx/jm/jm_10
+  rotate: false
+  xy: 598, 933
+  size: 330, 132
+  orig: 330, 150
+  offset: 0, 18
+  index: -1
+tx/jm/jm_11
+  rotate: true
+  xy: 738, 335
+  size: 328, 129
+  orig: 330, 150
+  offset: 2, 19
+  index: -1
+tx/jm/jm_12
+  rotate: false
+  xy: 598, 665
+  size: 328, 132
+  orig: 330, 150
+  offset: 2, 18
+  index: -1
+tx/jm/jm_13
+  rotate: true
+  xy: 604, 335
+  size: 328, 132
+  orig: 330, 150
+  offset: 2, 18
+  index: -1
+tx/jm/jm_14
+  rotate: false
+  xy: 598, 799
+  size: 330, 132
+  orig: 330, 150
+  offset: 0, 18
+  index: -1
+tx/jm/jm_15
+  rotate: false
+  xy: 2, 832
+  size: 330, 145
+  orig: 330, 150
+  offset: 0, 5
+  index: -1
+tx/jm/jm_16
+  rotate: true
+  xy: 334, 315
+  size: 330, 135
+  orig: 330, 150
+  offset: 0, 14
+  index: -1
+tx/jm/jm_17
+  rotate: false
+  xy: 2, 2
+  size: 329, 123
+  orig: 330, 150
+  offset: 1, 21
+  index: -1
+tx/jm/jm_18
+  rotate: true
+  xy: 790, 5
+  size: 328, 117
+  orig: 330, 150
+  offset: 2, 22
+  index: -1
+tx/jm/jm_19
+  rotate: true
+  xy: 666, 3
+  size: 330, 122
+  orig: 330, 150
+  offset: 0, 12
+  index: -1
+tx/jm/jm_2
+  rotate: false
+  xy: 334, 181
+  size: 330, 132
+  orig: 330, 150
+  offset: 0, 18
+  index: -1
+tx/jm/jm_3
+  rotate: false
+  xy: 2, 262
+  size: 330, 135
+  orig: 330, 150
+  offset: 0, 15
+  index: -1
+tx/jm/jm_4
+  rotate: false
+  xy: 2, 686
+  size: 330, 144
+  orig: 330, 150
+  offset: 0, 6
+  index: -1
+tx/jm/jm_5
+  rotate: false
+  xy: 334, 47
+  size: 330, 132
+  orig: 330, 150
+  offset: 0, 15
+  index: -1
+tx/jm/jm_6
+  rotate: true
+  xy: 334, 647
+  size: 330, 143
+  orig: 330, 150
+  offset: 0, 2
+  index: -1
+tx/jm/jm_7
+  rotate: false
+  xy: 2, 540
+  size: 330, 144
+  orig: 330, 150
+  offset: 0, 6
+  index: -1
+tx/jm/jm_8
+  rotate: false
+  xy: 2, 399
+  size: 330, 139
+  orig: 330, 150
+  offset: 0, 11
+  index: -1
+tx/jm/jm_9
+  rotate: false
+  xy: 2, 127
+  size: 330, 133
+  orig: 330, 150
+  offset: 0, 17
+  index: -1

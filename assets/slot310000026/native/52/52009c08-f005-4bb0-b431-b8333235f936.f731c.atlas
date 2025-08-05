@@ -1,0 +1,41 @@
+
+eff_kuangxz.png
+size: 476,224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EX
+  rotate: false
+  xy: 383, 2
+  size: 87, 66
+  orig: 87, 66
+  offset: 0, 0
+  index: -1
+ggg_00000
+  rotate: true
+  xy: 383, 70
+  size: 64, 90
+  orig: 128, 128
+  offset: 32, 19
+  index: -1
+guang
+  rotate: true
+  xy: 2, 5
+  size: 216, 197
+  orig: 250, 200
+  offset: 17, 1
+  index: -1
+lizi_0007
+  rotate: false
+  xy: 383, 136
+  size: 85, 85
+  orig: 111, 111
+  offset: 13, 13
+  index: -1
+reel_2
+  rotate: true
+  xy: 201, 22
+  size: 199, 180
+  orig: 204, 180
+  offset: 5, 0
+  index: -1

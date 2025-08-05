@@ -1,0 +1,41 @@
+
+slot_bigwin_glow.png
+size: 748,860
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6
+  rotate: true
+  xy: 2, 364
+  size: 491, 484
+  orig: 512, 512
+  offset: 7, 17
+  index: -1
+guangshu_23
+  rotate: false
+  xy: 488, 599
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ring_41
+  rotate: false
+  xy: 488, 469
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+zg
+  rotate: false
+  xy: 2, 2
+  size: 377, 360
+  orig: 410, 410
+  offset: 14, 30
+  index: -1
+zg1
+  rotate: false
+  xy: 381, 5
+  size: 334, 357
+  orig: 334, 357
+  offset: 0, 0
+  index: -1

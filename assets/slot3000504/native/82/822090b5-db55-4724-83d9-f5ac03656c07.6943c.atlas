@@ -1,0 +1,166 @@
+
+eff_xb_ruchang.png
+size: 2039,1809
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1LOGO
+  rotate: false
+  xy: 1301, 1326
+  size: 605, 270
+  orig: 608, 276
+  offset: 2, 1
+  index: -1
+1cao
+  rotate: true
+  xy: 948, 1163
+  size: 284, 294
+  orig: 290, 299
+  offset: 3, 2
+  index: -1
+1cao_yy
+  rotate: false
+  xy: 182, 1732
+  size: 225, 75
+  orig: 230, 79
+  offset: 2, 2
+  index: -1
+1r_boby
+  rotate: true
+  xy: 87, 1763
+  size: 44, 93
+  orig: 72, 93
+  offset: 0, 0
+  index: -1
+1r_piaodai
+  rotate: false
+  xy: 26, 1776
+  size: 59, 31
+  orig: 59, 31
+  offset: 0, 0
+  index: -1
+1r_tou
+  rotate: false
+  xy: 2, 1787
+  size: 22, 20
+  orig: 24, 22
+  offset: 1, 1
+  index: -1
+1yun
+  rotate: false
+  xy: 1305, 1598
+  size: 719, 209
+  orig: 721, 217
+  offset: 1, 6
+  index: -1
+1zw2
+  rotate: true
+  xy: 222, 1449
+  size: 209, 1077
+  orig: 213, 1087
+  offset: 1, 7
+  index: -1
+1zw3
+  rotate: true
+  xy: 409, 1706
+  size: 101, 458
+  orig: 104, 460
+  offset: 2, 1
+  index: -1
+2qiang
+  rotate: true
+  xy: 2, 690
+  size: 473, 936
+  orig: 473, 936
+  offset: 0, 0
+  index: -1
+2shou
+  rotate: true
+  xy: 1244, 946
+  size: 378, 793
+  orig: 378, 858
+  offset: 0, 65
+  index: -1
+3dankong1
+  rotate: false
+  xy: 998, 1665
+  size: 149, 142
+  orig: 152, 155
+  offset: 2, 7
+  index: -1
+3dankong2
+  rotate: false
+  xy: 869, 1686
+  size: 127, 121
+  orig: 133, 131
+  offset: 3, 5
+  index: -1
+3dankong3
+  rotate: true
+  xy: 1149, 1660
+  size: 147, 154
+  orig: 154, 163
+  offset: 6, 6
+  index: -1
+3xs
+  rotate: true
+  xy: 2, 2
+  size: 686, 821
+  orig: 686, 821
+  offset: 0, 0
+  index: -1
+3xs3
+  rotate: true
+  xy: 940, 260
+  size: 684, 819
+  orig: 684, 819
+  offset: 0, 0
+  index: -1
+s1 (2)
+  rotate: false
+  xy: 2, 1167
+  size: 565, 280
+  orig: 712, 326
+  offset: 147, 46
+  index: -1
+s2 (2)
+  rotate: true
+  xy: 569, 1165
+  size: 282, 377
+  orig: 383, 592
+  offset: 101, 0
+  index: -1
+yuanguan
+  rotate: true
+  xy: 2, 1515
+  size: 215, 218
+  orig: 232, 232
+  offset: 10, 7
+  index: -1
+
+eff_xb_ruchang2.png
+size: 1781,1342
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2ren
+  rotate: true
+  xy: 2, 710
+  size: 630, 1777
+  orig: 632, 1779
+  offset: 1, 1
+  index: -1
+3xs2
+  rotate: true
+  xy: 781, 22
+  size: 686, 821
+  orig: 686, 821
+  offset: 0, 0
+  index: -1
+q (2)
+  rotate: true
+  xy: 2, 2
+  size: 706, 777
+  orig: 710, 777
+  offset: 0, 0
+  index: -1

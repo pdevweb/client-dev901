@@ -1,0 +1,90 @@
+
+277_m3j.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: true
+  xy: 197, 44
+  size: 82, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1
+k
+  rotate: true
+  xy: 109, 37
+  size: 89, 86
+  orig: 89, 86
+  offset: 0, 0
+  index: -1
+ke
+  rotate: false
+  xy: 340, 3
+  size: 60, 45
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 279, 2
+  size: 59, 46
+  orig: 59, 46
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 356, 82
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+tx/yw2
+  rotate: true
+  xy: 279, 50
+  size: 76, 75
+  orig: 76, 75
+  offset: 0, 0
+  index: -1
+wb
+  rotate: false
+  xy: 2, 3
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 109, 4
+  size: 83, 31
+  orig: 84, 31
+  offset: 1, 0
+  index: -1
+z1
+  rotate: false
+  xy: 194, 5
+  size: 23, 30
+  orig: 23, 31
+  offset: 0, 1
+  index: -1
+z2
+  rotate: false
+  xy: 247, 8
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+z3
+  rotate: false
+  xy: 219, 8
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+zhuanguang01
+  rotate: true
+  xy: 2, 14
+  size: 112, 105
+  orig: 113, 105
+  offset: 1, 0
+  index: -1

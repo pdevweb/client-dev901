@@ -1,0 +1,272 @@
+
+respinqieping.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lizi001
+  rotate: false
+  xy: 211, 72
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+firetile6
+  rotate: false
+  xy: 461, 8
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+glow1
+  rotate: false
+  xy: 1232, 98
+  size: 36, 36
+  orig: 43, 43
+  offset: 4, 3
+  index: -1
+heidi
+  rotate: false
+  xy: 1352, 144
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+huoqiu
+  rotate: false
+  xy: 62, 70
+  size: 147, 184
+  orig: 147, 184
+  offset: 0, 0
+  index: -1
+huoqiu2
+  rotate: true
+  xy: 549, 22
+  size: 72, 60
+  orig: 72, 60
+  offset: 0, 0
+  index: -1
+huoqiu3
+  rotate: true
+  xy: 383, 5
+  size: 88, 76
+  orig: 88, 76
+  offset: 0, 0
+  index: -1
+huoqiu44
+  rotate: true
+  xy: 2, 21
+  size: 233, 58
+  orig: 233, 62
+  offset: 0, 2
+  index: -1
+tou/tou_00
+  rotate: false
+  xy: 1172, 195
+  size: 58, 59
+  orig: 86, 86
+  offset: 14, 6
+  index: -1
+tou/tou_01
+  rotate: false
+  xy: 1232, 196
+  size: 58, 58
+  orig: 86, 86
+  offset: 14, 6
+  index: -1
+tou/tou_02
+  rotate: false
+  xy: 1232, 136
+  size: 58, 58
+  orig: 86, 86
+  offset: 14, 6
+  index: -1
+tou/tou_03
+  rotate: false
+  xy: 1246, 38
+  size: 58, 58
+  orig: 86, 86
+  offset: 14, 6
+  index: -1
+tou/tou_04
+  rotate: false
+  xy: 1292, 196
+  size: 58, 58
+  orig: 86, 86
+  offset: 14, 6
+  index: -1
+tou/tou_05
+  rotate: false
+  xy: 1292, 136
+  size: 58, 58
+  orig: 86, 86
+  offset: 14, 6
+  index: -1
+tou/tou_06
+  rotate: false
+  xy: 1172, 134
+  size: 58, 59
+  orig: 86, 86
+  offset: 14, 6
+  index: -1
+tou/tou_07
+  rotate: false
+  xy: 1306, 76
+  size: 58, 58
+  orig: 86, 86
+  offset: 14, 6
+  index: -1
+tou/tou_08
+  rotate: false
+  xy: 1306, 16
+  size: 58, 58
+  orig: 86, 86
+  offset: 14, 6
+  index: -1
+tou/tou_09
+  rotate: false
+  xy: 1352, 196
+  size: 58, 58
+  orig: 86, 86
+  offset: 14, 6
+  index: -1
+tuowei/tuowei_00
+  rotate: false
+  xy: 928, 27
+  size: 157, 67
+  orig: 201, 69
+  offset: 5, 0
+  index: -1
+tuowei/tuowei_01
+  rotate: true
+  xy: 966, 97
+  size: 157, 67
+  orig: 201, 69
+  offset: 5, 0
+  index: -1
+tuowei/tuowei_02
+  rotate: false
+  xy: 223, 2
+  size: 158, 68
+  orig: 201, 69
+  offset: 4, 0
+  index: -1
+tuowei/tuowei_03
+  rotate: true
+  xy: 211, 95
+  size: 159, 69
+  orig: 201, 69
+  offset: 3, 0
+  index: -1
+tuowei/tuowei_04
+  rotate: true
+  xy: 417, 96
+  size: 158, 69
+  orig: 201, 69
+  offset: 4, 0
+  index: -1
+tuowei/tuowei_05
+  rotate: false
+  xy: 611, 25
+  size: 157, 69
+  orig: 201, 69
+  offset: 5, 0
+  index: -1
+tuowei/tuowei_06
+  rotate: false
+  xy: 770, 26
+  size: 156, 68
+  orig: 201, 69
+  offset: 6, 0
+  index: -1
+tuowei/tuowei_07
+  rotate: true
+  xy: 1104, 98
+  size: 156, 66
+  orig: 201, 69
+  offset: 6, 0
+  index: -1
+tuowei/tuowei_08
+  rotate: false
+  xy: 1087, 29
+  size: 157, 66
+  orig: 201, 69
+  offset: 5, 0
+  index: -1
+tuowei/tuowei_09
+  rotate: true
+  xy: 695, 96
+  size: 158, 66
+  orig: 201, 69
+  offset: 4, 0
+  index: -1
+tuowei/tuowei_10
+  rotate: true
+  xy: 1035, 97
+  size: 157, 67
+  orig: 201, 69
+  offset: 5, 0
+  index: -1
+tuowei/tuowei_11
+  rotate: true
+  xy: 488, 96
+  size: 158, 67
+  orig: 201, 69
+  offset: 4, 0
+  index: -1
+tuowei/tuowei_12
+  rotate: false
+  xy: 62, 2
+  size: 159, 66
+  orig: 201, 69
+  offset: 3, 0
+  index: -1
+tuowei/tuowei_13
+  rotate: true
+  xy: 557, 96
+  size: 158, 67
+  orig: 201, 69
+  offset: 4, 0
+  index: -1
+tuowei/tuowei_14
+  rotate: true
+  xy: 899, 96
+  size: 158, 65
+  orig: 201, 69
+  offset: 4, 0
+  index: -1
+tuowei/tuowei_15
+  rotate: true
+  xy: 350, 95
+  size: 159, 65
+  orig: 201, 69
+  offset: 3, 0
+  index: -1
+tuowei/tuowei_16
+  rotate: true
+  xy: 282, 95
+  size: 159, 66
+  orig: 201, 69
+  offset: 3, 0
+  index: -1
+tuowei/tuowei_17
+  rotate: true
+  xy: 763, 96
+  size: 158, 66
+  orig: 201, 69
+  offset: 4, 0
+  index: -1
+tuowei/tuowei_18
+  rotate: true
+  xy: 831, 96
+  size: 158, 66
+  orig: 201, 69
+  offset: 4, 0
+  index: -1
+tuowei/tuowei_19
+  rotate: true
+  xy: 626, 96
+  size: 158, 67
+  orig: 201, 69
+  offset: 4, 0
+  index: -1

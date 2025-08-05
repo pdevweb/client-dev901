@@ -1,0 +1,125 @@
+
+eff_kuang.png
+size: 476,476
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cao
+  rotate: true
+  xy: 358, 316
+  size: 38, 84
+  orig: 68, 122
+  offset: 18, 28
+  index: -1
+fk01
+  rotate: false
+  xy: 354, 5
+  size: 117, 112
+  orig: 128, 128
+  offset: 6, 9
+  index: -1
+fk02
+  rotate: true
+  xy: 122, 355
+  size: 117, 116
+  orig: 128, 128
+  offset: 6, 7
+  index: -1
+fk03
+  rotate: true
+  xy: 2, 239
+  size: 117, 116
+  orig: 128, 128
+  offset: 6, 7
+  index: -1
+fk04
+  rotate: false
+  xy: 240, 237
+  size: 116, 116
+  orig: 128, 128
+  offset: 7, 7
+  index: -1
+fk05
+  rotate: false
+  xy: 2, 3
+  size: 115, 116
+  orig: 128, 128
+  offset: 7, 7
+  index: -1
+fk06
+  rotate: true
+  xy: 237, 120
+  size: 115, 116
+  orig: 128, 128
+  offset: 7, 7
+  index: -1
+fk07
+  rotate: false
+  xy: 238, 2
+  size: 114, 116
+  orig: 128, 128
+  offset: 8, 7
+  index: -1
+fk08
+  rotate: false
+  xy: 358, 356
+  size: 113, 116
+  orig: 128, 128
+  offset: 8, 7
+  index: -1
+fk09
+  rotate: false
+  xy: 355, 119
+  size: 115, 116
+  orig: 128, 128
+  offset: 6, 7
+  index: -1
+fk10
+  rotate: true
+  xy: 240, 355
+  size: 117, 116
+  orig: 128, 128
+  offset: 4, 7
+  index: -1
+fk11
+  rotate: false
+  xy: 2, 121
+  size: 116, 116
+  orig: 128, 128
+  offset: 5, 7
+  index: -1
+fk12
+  rotate: true
+  xy: 120, 120
+  size: 117, 115
+  orig: 128, 128
+  offset: 5, 7
+  index: -1
+fk13
+  rotate: false
+  xy: 119, 4
+  size: 117, 114
+  orig: 128, 128
+  offset: 5, 8
+  index: -1
+fk14
+  rotate: false
+  xy: 2, 358
+  size: 118, 114
+  orig: 128, 128
+  offset: 5, 8
+  index: -1
+fk15
+  rotate: false
+  xy: 120, 239
+  size: 118, 114
+  orig: 128, 128
+  offset: 5, 8
+  index: -1
+gd
+  rotate: true
+  xy: 444, 335
+  size: 19, 18
+  orig: 19, 19
+  offset: 0, 0
+  index: -1

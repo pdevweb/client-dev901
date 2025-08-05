@@ -1,0 +1,125 @@
+
+h_tequlia_atlas_symbols.png
+size: 652,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h_tequila_base
+  rotate: true
+  xy: 2, 86
+  size: 165, 179
+  orig: 165, 179
+  offset: 0, 0
+  index: -1
+h_tequila_drink
+  rotate: false
+  xy: 349, 115
+  size: 139, 136
+  orig: 139, 140
+  offset: 0, 2
+  index: -1
+h_tequila_drink_reflection
+  rotate: false
+  xy: 607, 201
+  size: 42, 50
+  orig: 45, 53
+  offset: 1, 1
+  index: -1
+h_tequila_drop_1
+  rotate: false
+  xy: 607, 122
+  size: 8, 8
+  orig: 10, 10
+  offset: 1, 1
+  index: -1
+h_tequila_drop_2
+  rotate: false
+  xy: 617, 122
+  size: 8, 8
+  orig: 11, 10
+  offset: 1, 1
+  index: -1
+h_tequila_drop_3
+  rotate: false
+  xy: 636, 124
+  size: 6, 6
+  orig: 9, 9
+  offset: 1, 2
+  index: -1
+h_tequila_drop_4
+  rotate: false
+  xy: 627, 124
+  size: 7, 6
+  orig: 9, 8
+  offset: 1, 1
+  index: -1
+h_tequila_drop_5
+  rotate: false
+  xy: 630, 115
+  size: 6, 7
+  orig: 9, 9
+  offset: 2, 1
+  index: -1
+h_tequila_glass
+  rotate: true
+  xy: 183, 96
+  size: 155, 164
+  orig: 159, 166
+  offset: 2, 1
+  index: -1
+h_tequila_light
+  rotate: false
+  xy: 183, 6
+  size: 134, 88
+  orig: 138, 95
+  offset: 2, 2
+  index: -1
+h_tequila_lime_1
+  rotate: false
+  xy: 607, 132
+  size: 40, 67
+  orig: 43, 70
+  offset: 3, 2
+  index: -1
+h_tequila_lime_2
+  rotate: true
+  xy: 319, 39
+  size: 55, 28
+  orig: 94, 66
+  offset: 1, 2
+  index: -1
+h_tequila_lime_big
+  rotate: false
+  xy: 2, 3
+  size: 102, 81
+  orig: 104, 81
+  offset: 1, 0
+  index: -1
+h_tequila_salt_rim_back
+  rotate: false
+  xy: 349, 9
+  size: 139, 104
+  orig: 168, 107
+  offset: 28, 2
+  index: -1
+h_tequila_salt_rim_front
+  rotate: true
+  xy: 490, 117
+  size: 134, 115
+  orig: 136, 118
+  offset: 1, 2
+  index: -1
+h_tequila_touchup
+  rotate: false
+  xy: 490, 2
+  size: 138, 113
+  orig: 141, 118
+  offset: 2, 2
+  index: -1
+h_tequlia_ice
+  rotate: false
+  xy: 106, 30
+  size: 51, 54
+  orig: 53, 56
+  offset: 1, 1
+  index: -1

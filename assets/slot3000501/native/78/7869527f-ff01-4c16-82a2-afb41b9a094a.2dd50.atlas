@@ -1,0 +1,209 @@
+
+zj_jiangbei.png
+size: 940,112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiangbeiguang/jiangbeiguang_00009
+  rotate: true
+  xy: 339, 4
+  size: 10, 21
+  orig: 57, 60
+  offset: 1, 26
+  index: -1
+jiangbeiguang/jiangbeiguang_00010
+  rotate: true
+  xy: 397, 4
+  size: 17, 32
+  orig: 57, 60
+  offset: 1, 18
+  index: -1
+jiangbeiguang/jiangbeiguang_00011
+  rotate: false
+  xy: 910, 9
+  size: 25, 49
+  orig: 57, 60
+  offset: 1, 4
+  index: -1
+jiangbeiguang/jiangbeiguang_00012
+  rotate: false
+  xy: 877, 7
+  size: 31, 50
+  orig: 57, 60
+  offset: 2, 4
+  index: -1
+jiangbeiguang/jiangbeiguang_00013
+  rotate: false
+  xy: 838, 6
+  size: 37, 51
+  orig: 57, 60
+  offset: 2, 4
+  index: -1
+jiangbeiguang/jiangbeiguang_00014
+  rotate: false
+  xy: 793, 6
+  size: 43, 51
+  orig: 57, 60
+  offset: 1, 5
+  index: -1
+jiangbeiguang/jiangbeiguang_00015
+  rotate: true
+  xy: 526, 2
+  size: 50, 51
+  orig: 57, 60
+  offset: 1, 5
+  index: -1
+jiangbeiguang/jiangbeiguang_00016
+  rotate: false
+  xy: 721, 59
+  size: 51, 51
+  orig: 57, 60
+  offset: 2, 5
+  index: -1
+jiangbeiguang/jiangbeiguang_00017
+  rotate: false
+  xy: 667, 58
+  size: 52, 52
+  orig: 57, 60
+  offset: 2, 5
+  index: -1
+jiangbeiguang/jiangbeiguang_00018
+  rotate: true
+  xy: 559, 57
+  size: 53, 52
+  orig: 57, 60
+  offset: 2, 5
+  index: -1
+jiangbeiguang/jiangbeiguang_00019
+  rotate: false
+  xy: 686, 4
+  size: 52, 52
+  orig: 57, 60
+  offset: 3, 5
+  index: -1
+jiangbeiguang/jiangbeiguang_00020
+  rotate: true
+  xy: 633, 2
+  size: 53, 51
+  orig: 57, 60
+  offset: 3, 6
+  index: -1
+jiangbeiguang/jiangbeiguang_00021
+  rotate: true
+  xy: 579, 2
+  size: 53, 52
+  orig: 57, 60
+  offset: 3, 5
+  index: -1
+jiangbeiguang/jiangbeiguang_00022
+  rotate: true
+  xy: 613, 57
+  size: 53, 52
+  orig: 57, 60
+  offset: 3, 5
+  index: -1
+jiangbeiguang/jiangbeiguang_00023
+  rotate: false
+  xy: 740, 6
+  size: 51, 51
+  orig: 57, 60
+  offset: 4, 5
+  index: -1
+jiangbeiguang/jiangbeiguang_00024
+  rotate: false
+  xy: 774, 59
+  size: 51, 51
+  orig: 57, 60
+  offset: 4, 5
+  index: -1
+jiangbeiguang/jiangbeiguang_00025
+  rotate: false
+  xy: 827, 59
+  size: 42, 51
+  orig: 57, 60
+  offset: 12, 5
+  index: -1
+jiangbeiguang/jiangbeiguang_00026
+  rotate: false
+  xy: 871, 59
+  size: 33, 51
+  orig: 57, 60
+  offset: 21, 5
+  index: -1
+jiangbeiguang/jiangbeiguang_00027
+  rotate: false
+  xy: 906, 60
+  size: 24, 50
+  orig: 57, 60
+  offset: 28, 5
+  index: -1
+jiangbeiguang/jiangbeiguang_00028
+  rotate: true
+  xy: 431, 6
+  size: 15, 48
+  orig: 57, 60
+  offset: 37, 7
+  index: -1
+jiubei_0_Mask
+  rotate: true
+  xy: 465, 27
+  size: 83, 59
+  orig: 83, 59
+  offset: 0, 0
+  index: -1
+jiubei_1
+  rotate: false
+  xy: 217, 11
+  size: 83, 99
+  orig: 83, 99
+  offset: 0, 0
+  index: -1
+jiubei_2
+  rotate: true
+  xy: 526, 54
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1
+jiubei_3
+  rotate: true
+  xy: 302, 3
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+jiubei_4
+  rotate: true
+  xy: 321, 3
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+jiubei_5
+  rotate: true
+  xy: 397, 23
+  size: 87, 66
+  orig: 87, 66
+  offset: 0, 0
+  index: -1
+jiubei_6
+  rotate: true
+  xy: 302, 16
+  size: 94, 93
+  orig: 94, 93
+  offset: 0, 0
+  index: -1
+sanguang_00000
+  rotate: true
+  xy: 112, 2
+  size: 108, 103
+  orig: 120, 120
+  offset: 6, 8
+  index: -1
+xg_00000
+  rotate: false
+  xy: 2, 2
+  size: 108, 108
+  orig: 120, 120
+  offset: 6, 6
+  index: -1

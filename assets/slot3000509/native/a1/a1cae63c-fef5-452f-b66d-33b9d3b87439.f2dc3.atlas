@@ -1,0 +1,139 @@
+
+eff_icon_tx_1.png
+size: 712,712
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h_27
+  rotate: true
+  xy: 162, 287
+  size: 85, 68
+  orig: 139, 119
+  offset: 25, 28
+  index: -1
+h_28
+  rotate: true
+  xy: 605, 137
+  size: 124, 104
+  orig: 139, 119
+  offset: 6, 10
+  index: -1
+h_29
+  rotate: false
+  xy: 502, 17
+  size: 133, 110
+  orig: 139, 119
+  offset: 2, 6
+  index: -1
+h_30
+  rotate: true
+  xy: 490, 129
+  size: 132, 113
+  orig: 139, 119
+  offset: 3, 3
+  index: -1
+h_31
+  rotate: false
+  xy: 368, 5
+  size: 132, 118
+  orig: 139, 119
+  offset: 4, 1
+  index: -1
+h_32
+  rotate: false
+  xy: 235, 157
+  size: 135, 117
+  orig: 139, 119
+  offset: 2, 0
+  index: -1
+h_33
+  rotate: true
+  xy: 372, 125
+  size: 136, 116
+  orig: 139, 119
+  offset: 2, 0
+  index: -1
+h_34
+  rotate: true
+  xy: 253, 20
+  size: 135, 113
+  orig: 139, 119
+  offset: 3, 3
+  index: -1
+h_35
+  rotate: true
+  xy: 135, 19
+  size: 136, 116
+  orig: 139, 119
+  offset: 3, 1
+  index: -1
+h_36
+  rotate: false
+  xy: 143, 169
+  size: 90, 116
+  orig: 139, 119
+  offset: 43, 0
+  index: -1
+h_37
+  rotate: false
+  xy: 162, 374
+  size: 71, 96
+  orig: 139, 119
+  offset: 53, 12
+  index: -1
+sg1_43
+  rotate: false
+  xy: 2, 312
+  size: 158, 158
+  orig: 239, 235
+  offset: 41, 39
+  index: -1
+sg1_44
+  rotate: false
+  xy: 241, 276
+  size: 201, 200
+  orig: 239, 235
+  offset: 19, 18
+  index: -1
+sg1_45
+  rotate: false
+  xy: 473, 485
+  size: 223, 222
+  orig: 239, 235
+  offset: 9, 7
+  index: -1
+sg1_46
+  rotate: false
+  xy: 2, 472
+  size: 237, 235
+  orig: 239, 235
+  offset: 1, 0
+  index: -1
+sg1_47
+  rotate: true
+  xy: 241, 478
+  size: 229, 230
+  orig: 239, 235
+  offset: 6, 3
+  index: -1
+sg1_48
+  rotate: true
+  xy: 473, 263
+  size: 220, 221
+  orig: 239, 235
+  offset: 10, 6
+  index: -1
+sg1_49
+  rotate: false
+  xy: 2, 172
+  size: 139, 138
+  orig: 239, 235
+  offset: 51, 47
+  index: -1
+sg1_50
+  rotate: false
+  xy: 2, 39
+  size: 131, 131
+  orig: 239, 235
+  offset: 54, 50
+  index: -1

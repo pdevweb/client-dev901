@@ -1,0 +1,279 @@
+
+bigwin.png
+size: 1192,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+16
+  rotate: false
+  xy: 2, 2
+  size: 88, 39
+  orig: 113, 113
+  offset: 13, 35
+  index: -1
+17
+  rotate: false
+  xy: 621, 30
+  size: 73, 99
+  orig: 90, 140
+  offset: 9, 9
+  index: -1
+18
+  rotate: true
+  xy: 497, 24
+  size: 104, 88
+  orig: 113, 113
+  offset: 5, 12
+  index: -1
+19
+  rotate: true
+  xy: 486, 130
+  size: 140, 66
+  orig: 141, 66
+  offset: 1, 0
+  index: -1
+20
+  rotate: true
+  xy: 259, 94
+  size: 176, 74
+  orig: 217, 124
+  offset: 20, 12
+  index: -1
+21
+  rotate: true
+  xy: 695, 133
+  size: 137, 62
+  orig: 154, 76
+  offset: 10, 5
+  index: -1
+22
+  rotate: true
+  xy: 696, 37
+  size: 94, 64
+  orig: 141, 106
+  offset: 33, 13
+  index: -1
+23
+  rotate: true
+  xy: 335, 119
+  size: 151, 149
+  orig: 233, 200
+  offset: 41, 48
+  index: -1
+24
+  rotate: true
+  xy: 279, 3
+  size: 89, 87
+  orig: 125, 125
+  offset: 16, 15
+  index: -1
+25
+  rotate: true
+  xy: 759, 179
+  size: 91, 76
+  orig: 125, 100
+  offset: 13, 8
+  index: -1
+26
+  rotate: true
+  xy: 2, 43
+  size: 227, 62
+  orig: 249, 214
+  offset: 11, 76
+  index: -1
+27
+  rotate: false
+  xy: 66, 56
+  size: 191, 214
+  orig: 324, 281
+  offset: 80, 36
+  index: -1
+bace_gg
+  rotate: true
+  xy: 368, 3
+  size: 114, 110
+  orig: 117, 112
+  offset: 1, 1
+  index: -1
+fantasy_Turntable_bg_01
+  rotate: false
+  xy: 554, 131
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1
+fantasy_Turntable_bg_02
+  rotate: false
+  xy: 92, 16
+  size: 185, 38
+  orig: 185, 38
+  offset: 0, 0
+  index: -1
+light/light_000
+  rotate: false
+  xy: 762, 57
+  size: 84, 86
+  orig: 175, 175
+  offset: 43, 45
+  index: -1
+light/light_001
+  rotate: false
+  xy: 837, 184
+  size: 84, 86
+  orig: 175, 175
+  offset: 44, 45
+  index: -1
+light/light_002
+  rotate: false
+  xy: 923, 185
+  size: 85, 85
+  orig: 175, 175
+  offset: 43, 46
+  index: -1
+light/light_003
+  rotate: false
+  xy: 933, 98
+  size: 85, 85
+  orig: 175, 175
+  offset: 43, 46
+  index: -1
+light/light_004
+  rotate: false
+  xy: 1105, 11
+  size: 83, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_005
+  rotate: false
+  xy: 1106, 98
+  size: 83, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_006
+  rotate: false
+  xy: 933, 11
+  size: 84, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_007
+  rotate: false
+  xy: 1019, 11
+  size: 84, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_008
+  rotate: false
+  xy: 1020, 98
+  size: 84, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_009
+  rotate: false
+  xy: 1010, 185
+  size: 85, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_010
+  rotate: false
+  xy: 1097, 185
+  size: 84, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_011
+  rotate: false
+  xy: 848, 57
+  size: 83, 86
+  orig: 175, 175
+  offset: 44, 45
+  index: -1
+mingzi/zp_Bat rays
+  rotate: false
+  xy: 823, 145
+  size: 60, 15
+  orig: 60, 15
+  offset: 0, 0
+  index: -1
+mingzi/zp_Cow King
+  rotate: false
+  xy: 759, 145
+  size: 62, 15
+  orig: 62, 15
+  offset: 0, 0
+  index: -1
+mingzi/zp_Emerald crocodile
+  rotate: true
+  xy: 587, 2
+  size: 127, 15
+  orig: 127, 15
+  offset: 0, 0
+  index: -1
+mingzi/zp_Gilded Phoenix
+  rotate: true
+  xy: 604, 28
+  size: 101, 15
+  orig: 101, 15
+  offset: 0, 0
+  index: -1
+mingzi/zp_Golden shark
+  rotate: false
+  xy: 740, 20
+  size: 93, 15
+  orig: 93, 15
+  offset: 0, 0
+  index: -1
+mingzi/zp_Lantern fish
+  rotate: false
+  xy: 740, 3
+  size: 86, 15
+  orig: 86, 15
+  offset: 0, 0
+  index: -1
+mingzi/zp_Poisonous jellyfish
+  rotate: false
+  xy: 604, 11
+  size: 134, 15
+  orig: 134, 15
+  offset: 0, 0
+  index: -1
+mingzi/zp_Silver Shark
+  rotate: false
+  xy: 497, 7
+  size: 87, 15
+  orig: 87, 15
+  offset: 0, 0
+  index: -1
+mingzi/zp_Treasure shark
+  rotate: true
+  xy: 480, 9
+  size: 108, 15
+  orig: 108, 15
+  offset: 0, 0
+  index: -1
+mingzi/zp_sailfish
+  rotate: false
+  xy: 832, 162
+  size: 54, 15
+  orig: 54, 15
+  offset: 0, 0
+  index: -1
+zp_bombcrab
+  rotate: false
+  xy: 828, 3
+  size: 72, 15
+  orig: 75, 15
+  offset: 1, 0
+  index: -1
+zp_drillcrab
+  rotate: false
+  xy: 759, 162
+  size: 71, 15
+  orig: 71, 15
+  offset: 0, 0
+  index: -1

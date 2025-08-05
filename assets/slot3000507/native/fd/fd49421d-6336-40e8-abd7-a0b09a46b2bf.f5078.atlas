@@ -1,0 +1,83 @@
+
+eff_baozha.png
+size: 980,980
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sj/sj_00001
+  rotate: false
+  xy: 296, 31
+  size: 130, 128
+  orig: 315, 315
+  offset: 94, 97
+  index: -1
+sj/sj_00003
+  rotate: false
+  xy: 2, 669
+  size: 307, 308
+  orig: 315, 315
+  offset: 4, 2
+  index: -1
+sj/sj_00005
+  rotate: false
+  xy: 2, 359
+  size: 307, 308
+  orig: 315, 315
+  offset: 4, 2
+  index: -1
+sj/sj_00007
+  rotate: false
+  xy: 311, 669
+  size: 307, 308
+  orig: 315, 315
+  offset: 4, 2
+  index: -1
+sj/sj_00009
+  rotate: false
+  xy: 2, 65
+  size: 292, 292
+  orig: 315, 315
+  offset: 10, 5
+  index: -1
+sj/sj_00011
+  rotate: false
+  xy: 311, 391
+  size: 274, 276
+  orig: 315, 315
+  offset: 20, 15
+  index: -1
+sj/sj_00013
+  rotate: false
+  xy: 620, 713
+  size: 266, 264
+  orig: 315, 315
+  offset: 26, 22
+  index: -1
+sj/sj_00015
+  rotate: false
+  xy: 620, 472
+  size: 267, 239
+  orig: 315, 315
+  offset: 27, 34
+  index: -1
+sj/sj_00017
+  rotate: false
+  xy: 587, 231
+  size: 273, 239
+  orig: 315, 315
+  offset: 21, 34
+  index: -1
+sj/sj_00019
+  rotate: false
+  xy: 311, 161
+  size: 270, 228
+  orig: 315, 315
+  offset: 20, 47
+  index: -1
+sj/sj_00021
+  rotate: false
+  xy: 583, 2
+  size: 257, 227
+  orig: 315, 315
+  offset: 28, 46
+  index: -1

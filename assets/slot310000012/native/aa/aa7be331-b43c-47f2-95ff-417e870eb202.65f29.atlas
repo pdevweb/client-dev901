@@ -1,0 +1,83 @@
+
+277_pickks.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0_1
+  rotate: true
+  xy: 431, 304
+  size: 196, 21
+  orig: 196, 21
+  offset: 0, 0
+  index: -1
+0_2
+  rotate: true
+  xy: 303, 2
+  size: 165, 21
+  orig: 165, 21
+  offset: 0, 0
+  index: -1
+0_21
+  rotate: true
+  xy: 431, 208
+  size: 94, 29
+  orig: 94, 29
+  offset: 0, 0
+  index: -1
+0_3
+  rotate: true
+  xy: 454, 411
+  size: 89, 64
+  orig: 89, 64
+  offset: 0, 0
+  index: -1
+0_4
+  rotate: true
+  xy: 303, 169
+  size: 331, 126
+  orig: 331, 126
+  offset: 0, 0
+  index: -1
+0_5
+  rotate: false
+  xy: 520, 446
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+0_6
+  rotate: false
+  xy: 462, 268
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+0_7
+  rotate: true
+  xy: 2, 13
+  size: 487, 299
+  orig: 487, 299
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 326, 14
+  size: 195, 153
+  orig: 195, 153
+  offset: 0, 0
+  index: -1
+gl
+  rotate: false
+  xy: 462, 223
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+y
+  rotate: true
+  xy: 454, 324
+  size: 85, 84
+  orig: 86, 86
+  offset: 1, 0
+  index: -1

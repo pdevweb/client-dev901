@@ -1,0 +1,139 @@
+
+jb_low.png
+size: 392,836
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/glow
+  rotate: true
+  xy: 191, 2
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+tx/jb/jb_0
+  rotate: false
+  xy: 2, 214
+  size: 192, 75
+  orig: 200, 100
+  offset: 0, 25
+  index: -1
+tx/jb/jb_1
+  rotate: false
+  xy: 196, 220
+  size: 192, 77
+  orig: 200, 100
+  offset: 0, 23
+  index: -1
+tx/jb/jb_10
+  rotate: false
+  xy: 197, 464
+  size: 193, 86
+  orig: 200, 100
+  offset: 0, 14
+  index: -1
+tx/jb/jb_11
+  rotate: false
+  xy: 197, 552
+  size: 193, 89
+  orig: 200, 100
+  offset: 0, 11
+  index: -1
+tx/jb/jb_12
+  rotate: false
+  xy: 2, 463
+  size: 193, 85
+  orig: 200, 100
+  offset: 0, 15
+  index: -1
+tx/jb/jb_13
+  rotate: false
+  xy: 2, 550
+  size: 193, 89
+  orig: 200, 100
+  offset: 0, 11
+  index: -1
+tx/jb/jb_14
+  rotate: false
+  xy: 197, 643
+  size: 193, 93
+  orig: 200, 100
+  offset: 0, 7
+  index: -1
+tx/jb/jb_15
+  rotate: false
+  xy: 197, 738
+  size: 193, 94
+  orig: 200, 100
+  offset: 0, 5
+  index: -1
+tx/jb/jb_16
+  rotate: false
+  xy: 2, 733
+  size: 193, 99
+  orig: 200, 100
+  offset: 0, 1
+  index: -1
+tx/jb/jb_17
+  rotate: false
+  xy: 2, 291
+  size: 192, 86
+  orig: 200, 100
+  offset: 0, 14
+  index: -1
+tx/jb/jb_2
+  rotate: false
+  xy: 196, 299
+  size: 192, 78
+  orig: 200, 100
+  offset: 0, 22
+  index: -1
+tx/jb/jb_3
+  rotate: false
+  xy: 196, 138
+  size: 191, 80
+  orig: 200, 100
+  offset: 0, 20
+  index: -1
+tx/jb/jb_4
+  rotate: false
+  xy: 2, 131
+  size: 190, 81
+  orig: 200, 100
+  offset: 0, 19
+  index: -1
+tx/jb/jb_5
+  rotate: false
+  xy: 194, 53
+  size: 189, 83
+  orig: 200, 100
+  offset: 0, 17
+  index: -1
+tx/jb/jb_6
+  rotate: false
+  xy: 2, 43
+  size: 187, 86
+  orig: 200, 100
+  offset: 0, 14
+  index: -1
+tx/jb/jb_7
+  rotate: false
+  xy: 2, 641
+  size: 193, 90
+  orig: 200, 100
+  offset: 0, 10
+  index: -1
+tx/jb/jb_8
+  rotate: false
+  xy: 2, 379
+  size: 193, 82
+  orig: 200, 100
+  offset: 0, 18
+  index: -1
+tx/jb/jb_9
+  rotate: false
+  xy: 197, 379
+  size: 193, 83
+  orig: 200, 100
+  offset: 0, 17
+  index: -1

@@ -1,0 +1,41 @@
+
+NG_beijing.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/n_di2
+  rotate: false
+  xy: 2, 598
+  size: 1045, 388
+  orig: 1045, 504
+  offset: 0, 0
+  index: -1
+images/n_tiankong
+  rotate: false
+  xy: 2, 285
+  size: 1045, 311
+  orig: 1045, 482
+  offset: 0, 171
+  index: -1
+images/youcao1
+  rotate: true
+  xy: 1049, 830
+  size: 156, 146
+  orig: 156, 146
+  offset: 0, 0
+  index: -1
+images/yun
+  rotate: false
+  xy: 2, 2
+  size: 1045, 281
+  orig: 1045, 285
+  offset: 0, 4
+  index: -1
+images/zuocao2
+  rotate: false
+  xy: 1049, 696
+  size: 155, 132
+  orig: 155, 132
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+eff_buyfree_tip.png
+size: 1268,1268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao/bao_00000
+  rotate: false
+  xy: 1015, 118
+  size: 251, 81
+  orig: 295, 107
+  offset: 22, 7
+  index: -1
+bao/bao_00001
+  rotate: false
+  xy: 910, 32
+  size: 257, 84
+  orig: 295, 107
+  offset: 20, 5
+  index: -1
+bao/bao_00002
+  rotate: false
+  xy: 514, 35
+  size: 260, 86
+  orig: 295, 107
+  offset: 17, 4
+  index: -1
+bao/bao_00003
+  rotate: true
+  xy: 1148, 218
+  size: 281, 87
+  orig: 295, 107
+  offset: 14, 4
+  index: -1
+bao/bao_00004
+  rotate: false
+  xy: 514, 123
+  size: 272, 88
+  orig: 295, 107
+  offset: 11, 4
+  index: -1
+bao/bao_00005
+  rotate: true
+  xy: 923, 122
+  size: 274, 90
+  orig: 295, 107
+  offset: 12, 4
+  index: -1
+bao/bao_00006
+  rotate: true
+  xy: 1055, 201
+  size: 289, 91
+  orig: 295, 107
+  offset: 0, 4
+  index: -1
+bao/bao_00007
+  rotate: false
+  xy: 768, 398
+  size: 285, 92
+  orig: 295, 107
+  offset: 7, 4
+  index: -1
+bao/bao_00008
+  rotate: false
+  xy: 768, 492
+  size: 288, 92
+  orig: 295, 107
+  offset: 5, 5
+  index: -1
+bao/bao_00009
+  rotate: true
+  xy: 420, 49
+  size: 293, 92
+  orig: 295, 107
+  offset: 2, 6
+  index: -1
+bao/bao_00010
+  rotate: true
+  xy: 324, 47
+  size: 295, 94
+  orig: 295, 107
+  offset: 0, 6
+  index: -1
+gb
+  rotate: false
+  xy: 1058, 501
+  size: 132, 83
+  orig: 132, 84
+  offset: 0, 1
+  index: -1
+gsx2_00000
+  rotate: false
+  xy: 2, 344
+  size: 529, 344
+  orig: 529, 360
+  offset: 0, 8
+  index: -1
+guangdian_00000
+  rotate: true
+  xy: 2, 28
+  size: 314, 320
+  orig: 343, 343
+  offset: 14, 18
+  index: -1
+hqg
+  rotate: false
+  xy: 2, 690
+  size: 805, 576
+  orig: 807, 578
+  offset: 1, 1
+  index: -1
+qr
+  rotate: false
+  xy: 776, 38
+  size: 132, 83
+  orig: 132, 84
+  offset: 0, 1
+  index: -1
+wk
+  rotate: true
+  xy: 809, 586
+  size: 680, 455
+  orig: 680, 455
+  offset: 0, 0
+  index: -1
+wkeff_00000
+  rotate: true
+  xy: 533, 340
+  size: 348, 233
+  orig: 352, 240
+  offset: 2, 7
+  index: -1
+wz
+  rotate: false
+  xy: 514, 213
+  size: 407, 125
+  orig: 407, 125
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+zi.png
+size: 440,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+svip_1
+  rotate: false
+  xy: 2, 2
+  size: 303, 119
+  orig: 303, 119
+  offset: 0, 0
+  index: -1
+vip_1
+  rotate: true
+  xy: 323, 31
+  size: 229, 114
+  orig: 229, 114
+  offset: 0, 0
+  index: -1
+vvip_1
+  rotate: false
+  xy: 2, 123
+  size: 319, 137
+  orig: 319, 137
+  offset: 0, 0
+  index: -1

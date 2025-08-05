@@ -1,0 +1,83 @@
+
+402_ji_tx2.png
+size: 1284,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baidi
+  rotate: false
+  xy: 202, 66
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+caidai
+  rotate: true
+  xy: 430, 2
+  size: 86, 81
+  orig: 86, 81
+  offset: 0, 0
+  index: -1
+guangxian_1
+  rotate: true
+  xy: 2, 12
+  size: 10, 374
+  orig: 11, 412
+  offset: 1, 0
+  index: -1
+guangxian_2
+  rotate: true
+  xy: 2, 24
+  size: 37, 426
+  orig: 43, 442
+  offset: 4, 0
+  index: -1
+guangxian_2_1
+  rotate: true
+  xy: 513, 13
+  size: 35, 419
+  orig: 43, 442
+  offset: 6, 0
+  index: -1
+guangxian_3
+  rotate: true
+  xy: 732, 155
+  size: 106, 548
+  orig: 116, 599
+  offset: 6, 0
+  index: -1
+guangxian_3_1
+  rotate: true
+  xy: 732, 50
+  size: 103, 545
+  orig: 116, 599
+  offset: 7, 0
+  index: -1
+heidi
+  rotate: false
+  xy: 207, 66
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+huiguang
+  rotate: false
+  xy: 202, 71
+  size: 190, 190
+  orig: 206, 206
+  offset: 8, 8
+  index: -1
+xing_1
+  rotate: false
+  xy: 2, 63
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+yanhua_1
+  rotate: false
+  xy: 394, 90
+  size: 336, 171
+  orig: 339, 173
+  offset: 1, 0
+  index: -1

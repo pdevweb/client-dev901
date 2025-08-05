@@ -1,0 +1,146 @@
+
+eff_aztk_ruchang.png
+size: 1104,1104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WILD_22
+  rotate: true
+  xy: 972, 197
+  size: 53, 130
+  orig: 53, 130
+  offset: 0, 0
+  index: -1
+WILD_23
+  rotate: false
+  xy: 972, 143
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: -1
+WILD_24
+  rotate: false
+  xy: 1033, 148
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+WILD_25
+  rotate: false
+  xy: 973, 938
+  size: 106, 164
+  orig: 106, 164
+  offset: 0, 0
+  index: -1
+WILD_26
+  rotate: false
+  xy: 717, 522
+  size: 180, 192
+  orig: 224, 192
+  offset: 0, 0
+  index: -1
+WILD_27
+  rotate: true
+  xy: 972, 415
+  size: 94, 126
+  orig: 97, 126
+  offset: 0, 0
+  index: -1
+WILD_28
+  rotate: true
+  xy: 972, 252
+  size: 74, 108
+  orig: 74, 108
+  offset: 0, 0
+  index: -1
+WILD_29
+  rotate: false
+  xy: 717, 716
+  size: 226, 193
+  orig: 226, 193
+  offset: 0, 0
+  index: -1
+WILD_30
+  rotate: false
+  xy: 1081, 1072
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+WILD_31
+  rotate: false
+  xy: 972, 328
+  size: 117, 85
+  orig: 117, 85
+  offset: 0, 0
+  index: -1
+a
+  rotate: true
+  xy: 945, 511
+  size: 245, 150
+  orig: 245, 151
+  offset: 0, 1
+  index: -1
+dibuyan_00000
+  rotate: true
+  xy: 506, 541
+  size: 201, 209
+  orig: 220, 220
+  offset: 4, 6
+  index: -1
+h
+  rotate: false
+  xy: 328, 95
+  size: 168, 162
+  orig: 168, 162
+  offset: 0, 0
+  index: -1
+i
+  rotate: false
+  xy: 973, 758
+  size: 93, 178
+  orig: 93, 178
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 2, 744
+  size: 713, 358
+  orig: 713, 359
+  offset: 0, 1
+  index: -1
+m
+  rotate: true
+  xy: 2, 69
+  size: 188, 177
+  orig: 189, 177
+  offset: 1, 0
+  index: -1
+p
+  rotate: true
+  xy: 181, 63
+  size: 194, 145
+  orig: 194, 145
+  offset: 0, 0
+  index: -1
+suishi/guanghuan
+  rotate: true
+  xy: 2, 259
+  size: 483, 502
+  orig: 512, 512
+  offset: 29, 0
+  index: -1
+suishi/light
+  rotate: false
+  xy: 506, 45
+  size: 464, 464
+  orig: 512, 512
+  offset: 24, 24
+  index: -1
+w
+  rotate: false
+  xy: 717, 911
+  size: 254, 191
+  orig: 255, 191
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+245_free_qpk.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qpk/qpk_001
+  rotate: false
+  xy: 392, 2
+  size: 25, 15
+  orig: 48, 243
+  offset: 20, 228
+  index: -1
+qpk/qpk_002
+  rotate: true
+  xy: 577, 84
+  size: 42, 17
+  orig: 48, 243
+  offset: 4, 226
+  index: -1
+qpk/qpk_003
+  rotate: false
+  xy: 495, 50
+  size: 44, 29
+  orig: 48, 243
+  offset: 2, 214
+  index: -1
+qpk/qpk_004
+  rotate: true
+  xy: 529, 81
+  size: 45, 46
+  orig: 48, 243
+  offset: 1, 197
+  index: -1
+qpk/qpk_005
+  rotate: true
+  xy: 459, 81
+  size: 45, 68
+  orig: 48, 243
+  offset: 1, 175
+  index: -1
+qpk/qpk_006
+  rotate: true
+  xy: 293, 81
+  size: 45, 90
+  orig: 48, 243
+  offset: 1, 153
+  index: -1
+qpk/qpk_007
+  rotate: false
+  xy: 48, 13
+  size: 44, 113
+  orig: 48, 243
+  offset: 1, 130
+  index: -1
+qpk/qpk_008
+  rotate: true
+  xy: 255, 2
+  size: 30, 135
+  orig: 48, 243
+  offset: 1, 108
+  index: -1
+qpk/qpk_009
+  rotate: true
+  xy: 143, 97
+  size: 29, 148
+  orig: 48, 243
+  offset: 2, 86
+  index: -1
+qpk/qpk_010
+  rotate: true
+  xy: 392, 19
+  size: 22, 156
+  orig: 48, 243
+  offset: 9, 64
+  index: -1
+qpk/qpk_011
+  rotate: true
+  xy: 281, 43
+  size: 21, 163
+  orig: 48, 243
+  offset: 11, 42
+  index: -1
+qpk/qpk_012
+  rotate: true
+  xy: 94, 7
+  size: 23, 159
+  orig: 48, 243
+  offset: 8, 24
+  index: -1
+qpk/qpk_013
+  rotate: true
+  xy: 143, 66
+  size: 29, 148
+  orig: 48, 243
+  offset: 2, 13
+  index: -1
+qpk/qpk_014
+  rotate: true
+  xy: 143, 34
+  size: 30, 136
+  orig: 48, 243
+  offset: 1, 1
+  index: -1
+qpk/qpk_015
+  rotate: false
+  xy: 2, 10
+  size: 44, 116
+  orig: 48, 243
+  offset: 1, 0
+  index: -1
+qpk/qpk_016
+  rotate: false
+  xy: 94, 32
+  size: 47, 94
+  orig: 48, 243
+  offset: 1, 0
+  index: -1
+qpk/qpk_017
+  rotate: true
+  xy: 385, 79
+  size: 47, 72
+  orig: 48, 243
+  offset: 1, 0
+  index: -1
+qpk/qpk_018
+  rotate: false
+  xy: 550, 6
+  size: 47, 50
+  orig: 48, 243
+  offset: 1, 0
+  index: -1
+qpk/qpk_019
+  rotate: false
+  xy: 446, 45
+  size: 47, 32
+  orig: 48, 243
+  offset: 1, 0
+  index: -1
+qpk/qpk_020
+  rotate: false
+  xy: 541, 58
+  size: 45, 21
+  orig: 48, 243
+  offset: 3, 0
+  index: -1
+qpk/qpk_021
+  rotate: false
+  xy: 588, 63
+  size: 27, 19
+  orig: 48, 243
+  offset: 21, 1
+  index: -1
+qpk/qpk_022
+  rotate: false
+  xy: 2, 2
+  size: 5, 6
+  orig: 48, 243
+  offset: 41, 12
+  index: -1

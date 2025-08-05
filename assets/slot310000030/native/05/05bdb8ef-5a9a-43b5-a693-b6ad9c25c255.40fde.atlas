@@ -1,0 +1,97 @@
+
+402_fgks_gx.png
+size: 172,788
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chgy_00
+  rotate: false
+  xy: 2, 210
+  size: 122, 113
+  orig: 128, 115
+  offset: 3, 1
+  index: -1
+effect/yhd
+  rotate: true
+  xy: 2, 599
+  size: 186, 162
+  orig: 186, 162
+  offset: 0, 0
+  index: -1
+g
+  rotate: true
+  xy: 2, 70
+  size: 138, 66
+  orig: 139, 66
+  offset: 1, 0
+  index: -1
+tx/3
+  rotate: false
+  xy: 2, 453
+  size: 166, 144
+  orig: 173, 150
+  offset: 3, 3
+  index: -1
+tx/cc_01
+  rotate: true
+  xy: 132, 419
+  size: 32, 35
+  orig: 85, 109
+  offset: 25, 18
+  index: -1
+tx/cc_02
+  rotate: false
+  xy: 70, 74
+  size: 41, 54
+  orig: 85, 109
+  offset: 22, 20
+  index: -1
+tx/cc_03
+  rotate: false
+  xy: 70, 130
+  size: 47, 78
+  orig: 85, 109
+  offset: 22, 20
+  index: -1
+tx/cc_04
+  rotate: true
+  xy: 84, 3
+  size: 62, 80
+  orig: 85, 109
+  offset: 17, 22
+  index: -1
+tx/cc_05
+  rotate: true
+  xy: 2, 2
+  size: 66, 80
+  orig: 85, 109
+  offset: 14, 23
+  index: -1
+tx/cc_06
+  rotate: false
+  xy: 119, 67
+  size: 45, 68
+  orig: 85, 109
+  offset: 14, 34
+  index: -1
+tx/cc_07
+  rotate: false
+  xy: 119, 137
+  size: 51, 68
+  orig: 85, 109
+  offset: 8, 36
+  index: -1
+tx/gx_00
+  rotate: false
+  xy: 126, 207
+  size: 39, 116
+  orig: 61, 123
+  offset: 12, 4
+  index: -1
+xxg
+  rotate: true
+  xy: 2, 325
+  size: 126, 128
+  orig: 128, 128
+  offset: 1, 0
+  index: -1

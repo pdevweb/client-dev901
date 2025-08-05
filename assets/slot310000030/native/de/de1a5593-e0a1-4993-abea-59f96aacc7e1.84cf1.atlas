@@ -1,0 +1,20 @@
+
+402_l1.png
+size: 148,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aa
+  rotate: false
+  xy: 2, 63
+  size: 73, 82
+  orig: 84, 83
+  offset: 5, 1
+  index: -1
+xxx
+  rotate: false
+  xy: 2, 2
+  size: 59, 59
+  orig: 76, 73
+  offset: 9, 7
+  index: -1

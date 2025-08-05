@@ -1,0 +1,90 @@
+
+eff_wheel_hong.png
+size: 960,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bian
+  rotate: true
+  xy: 403, 63
+  size: 149, 150
+  orig: 152, 153
+  offset: 1, 2
+  index: -1
+bianjiao
+  rotate: false
+  xy: 230, 16
+  size: 171, 55
+  orig: 175, 58
+  offset: 1, 1
+  index: -1
+biankuang
+  rotate: true
+  xy: 555, 63
+  size: 149, 150
+  orig: 152, 156
+  offset: 1, 1
+  index: -1
+bs
+  rotate: false
+  xy: 761, 21
+  size: 93, 67
+  orig: 96, 70
+  offset: 2, 2
+  index: -1
+dadipan
+  rotate: false
+  xy: 230, 73
+  size: 171, 139
+  orig: 176, 144
+  offset: 2, 2
+  index: -1
+glwo
+  rotate: false
+  xy: 831, 95
+  size: 117, 117
+  orig: 136, 130
+  offset: 9, 7
+  index: -1
+gxg
+  rotate: false
+  xy: 2, 2
+  size: 226, 210
+  orig: 242, 238
+  offset: 16, 2
+  index: -1
+hongdi
+  rotate: false
+  xy: 707, 90
+  size: 122, 122
+  orig: 136, 130
+  offset: 3, 3
+  index: -1
+wheel
+  rotate: false
+  xy: 403, 11
+  size: 177, 50
+  orig: 181, 52
+  offset: 3, 1
+  index: -1
+wheel_g
+  rotate: false
+  xy: 582, 9
+  size: 177, 52
+  orig: 181, 52
+  offset: 2, 0
+  index: -1
+yuan
+  rotate: false
+  xy: 911, 45
+  size: 46, 48
+  orig: 48, 51
+  offset: 1, 2
+  index: -1
+yuanhuan
+  rotate: false
+  xy: 856, 40
+  size: 53, 53
+  orig: 56, 55
+  offset: 1, 1
+  index: -1

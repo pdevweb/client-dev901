@@ -1,0 +1,76 @@
+
+jp_suo.png
+size: 188,516
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gd
+  rotate: false
+  xy: 162, 176
+  size: 12, 12
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+jsg1
+  rotate: true
+  xy: 2, 142
+  size: 372, 108
+  orig: 377, 108
+  offset: 4, 0
+  index: -1
+jsg2
+  rotate: true
+  xy: 112, 318
+  size: 196, 74
+  orig: 221, 82
+  offset: 5, 4
+  index: -1
+pic_1
+  rotate: false
+  xy: 2, 52
+  size: 182, 88
+  orig: 184, 91
+  offset: 1, 2
+  index: -1
+ssg1
+  rotate: true
+  xy: 112, 147
+  size: 103, 23
+  orig: 105, 27
+  offset: 1, 3
+  index: -1
+ssg2
+  rotate: true
+  xy: 162, 190
+  size: 60, 18
+  orig: 72, 24
+  offset: 3, 4
+  index: -1
+ssg3
+  rotate: true
+  xy: 137, 147
+  size: 103, 23
+  orig: 105, 27
+  offset: 1, 3
+  index: -1
+wl1
+  rotate: true
+  xy: 58, 32
+  size: 18, 56
+  orig: 19, 57
+  offset: 1, 0
+  index: -1
+wl2
+  rotate: false
+  xy: 2, 2
+  size: 54, 48
+  orig: 61, 56
+  offset: 4, 4
+  index: -1
+xg_01
+  rotate: false
+  xy: 112, 252
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

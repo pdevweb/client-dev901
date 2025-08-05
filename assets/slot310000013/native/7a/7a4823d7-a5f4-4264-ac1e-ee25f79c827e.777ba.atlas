@@ -1,0 +1,62 @@
+
+245_symbol_m4.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 75
+  size: 175, 176
+  orig: 187, 187
+  offset: 9, 8
+  index: -1
+bg_yy
+  rotate: true
+  xy: 179, 126
+  size: 125, 124
+  orig: 125, 124
+  offset: 0, 0
+  index: -1
+bl
+  rotate: true
+  xy: 80, 3
+  size: 70, 33
+  orig: 70, 33
+  offset: 0, 0
+  index: -1
+yb
+  rotate: true
+  xy: 115, 57
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+z
+  rotate: true
+  xy: 179, 20
+  size: 104, 103
+  orig: 104, 103
+  offset: 0, 0
+  index: -1
+zb
+  rotate: true
+  xy: 2, 2
+  size: 71, 76
+  orig: 71, 76
+  offset: 0, 0
+  index: -1
+zz
+  rotate: false
+  xy: 115, 17
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+zz1
+  rotate: false
+  xy: 115, 35
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1

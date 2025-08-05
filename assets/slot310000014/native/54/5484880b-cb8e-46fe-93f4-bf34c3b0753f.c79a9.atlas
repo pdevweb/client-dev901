@@ -1,0 +1,181 @@
+
+pickjp_chuxian.png
+size: 396,788
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xl1_01
+  rotate: false
+  xy: 365, 118
+  size: 15, 14
+  orig: 164, 92
+  offset: 71, 38
+  index: -1
+xl1_02
+  rotate: false
+  xy: 315, 576
+  size: 76, 76
+  orig: 164, 92
+  offset: 24, 10
+  index: -1
+xl1_03
+  rotate: true
+  xy: 283, 2
+  size: 130, 80
+  orig: 164, 92
+  offset: 18, 9
+  index: -1
+xl1_04
+  rotate: false
+  xy: 140, 3
+  size: 130, 80
+  orig: 164, 92
+  offset: 14, 8
+  index: -1
+xl1_05
+  rotate: true
+  xy: 315, 654
+  size: 129, 79
+  orig: 164, 92
+  offset: 14, 8
+  index: -1
+xl1_06
+  rotate: false
+  xy: 2, 8
+  size: 136, 85
+  orig: 164, 92
+  offset: 14, 3
+  index: -1
+xl1_07
+  rotate: false
+  xy: 2, 159
+  size: 139, 90
+  orig: 164, 92
+  offset: 14, 0
+  index: -1
+xl1_08
+  rotate: false
+  xy: 143, 85
+  size: 138, 92
+  orig: 164, 92
+  offset: 14, 0
+  index: -1
+xl1_09
+  rotate: false
+  xy: 147, 179
+  size: 140, 92
+  orig: 164, 92
+  offset: 14, 0
+  index: -1
+xl1_10
+  rotate: true
+  xy: 296, 279
+  size: 143, 92
+  orig: 164, 92
+  offset: 14, 0
+  index: -1
+xl1_11
+  rotate: false
+  xy: 150, 348
+  size: 144, 92
+  orig: 164, 92
+  offset: 14, 0
+  index: -1
+xl1_12
+  rotate: false
+  xy: 2, 251
+  size: 143, 92
+  orig: 164, 92
+  offset: 14, 0
+  index: -1
+xl1_13
+  rotate: true
+  xy: 294, 134
+  size: 143, 92
+  orig: 164, 92
+  offset: 14, 0
+  index: -1
+xl1_14
+  rotate: false
+  xy: 2, 345
+  size: 144, 90
+  orig: 164, 92
+  offset: 14, 0
+  index: -1
+xl1_15
+  rotate: false
+  xy: 2, 437
+  size: 146, 90
+  orig: 164, 92
+  offset: 13, 0
+  index: -1
+xl1_16
+  rotate: false
+  xy: 152, 442
+  size: 147, 87
+  orig: 164, 92
+  offset: 14, 3
+  index: -1
+xl1_17
+  rotate: false
+  xy: 2, 529
+  size: 148, 85
+  orig: 164, 92
+  offset: 13, 6
+  index: -1
+xl1_18
+  rotate: true
+  xy: 310, 424
+  size: 150, 82
+  orig: 164, 92
+  offset: 11, 8
+  index: -1
+xl1_19
+  rotate: false
+  xy: 158, 531
+  size: 150, 84
+  orig: 164, 92
+  offset: 12, 7
+  index: -1
+xl1_20
+  rotate: false
+  xy: 159, 701
+  size: 154, 82
+  orig: 164, 92
+  offset: 10, 8
+  index: -1
+xl1_21
+  rotate: false
+  xy: 159, 617
+  size: 154, 82
+  orig: 164, 92
+  offset: 10, 8
+  index: -1
+xl1_22
+  rotate: false
+  xy: 2, 700
+  size: 155, 83
+  orig: 164, 92
+  offset: 9, 8
+  index: -1
+xl1_23
+  rotate: false
+  xy: 2, 616
+  size: 154, 82
+  orig: 164, 92
+  offset: 10, 8
+  index: -1
+xl1_24
+  rotate: false
+  xy: 148, 273
+  size: 144, 73
+  orig: 164, 92
+  offset: 14, 12
+  index: -1
+xl1_25
+  rotate: false
+  xy: 2, 95
+  size: 137, 62
+  orig: 164, 92
+  offset: 16, 16
+  index: -1

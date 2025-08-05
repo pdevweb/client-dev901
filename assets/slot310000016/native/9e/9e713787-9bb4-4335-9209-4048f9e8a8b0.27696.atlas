@@ -1,0 +1,111 @@
+
+eff_firework.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 153, 2
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 307, 48
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+03
+  rotate: true
+  xy: 72, 41
+  size: 84, 70
+  orig: 84, 70
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 2, 37
+  size: 68, 88
+  orig: 68, 88
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 304, 96
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+06
+  rotate: true
+  xy: 273, 95
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+07
+  rotate: true
+  xy: 198, 3
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 283, 11
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 271, 46
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+ffgg
+  rotate: false
+  xy: 2, 9
+  size: 149, 26
+  orig: 149, 26
+  offset: 0, 0
+  index: -1
+gd
+  rotate: false
+  xy: 273, 84
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+gx
+  rotate: false
+  xy: 144, 42
+  size: 84, 38
+  orig: 84, 38
+  offset: 0, 0
+  index: -1
+jsg
+  rotate: false
+  xy: 144, 82
+  size: 127, 43
+  orig: 129, 45
+  offset: 1, 1
+  index: -1
+xg_01
+  rotate: false
+  xy: 244, 4
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+xm_475
+  rotate: true
+  xy: 230, 43
+  size: 37, 39
+  orig: 43, 43
+  offset: 2, 2
+  index: -1

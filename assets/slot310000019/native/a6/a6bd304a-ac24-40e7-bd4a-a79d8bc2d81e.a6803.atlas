@@ -1,0 +1,146 @@
+
+TC_fg_anniu.png
+size: 2048,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniu/1_00
+  rotate: true
+  xy: 1328, 33
+  size: 19, 48
+  orig: 333, 117
+  offset: 87, 36
+  index: -1
+anniu/1_01
+  rotate: true
+  xy: 1277, 23
+  size: 29, 49
+  orig: 333, 117
+  offset: 87, 35
+  index: -1
+anniu/1_02
+  rotate: false
+  xy: 1188, 2
+  size: 43, 50
+  orig: 333, 117
+  offset: 87, 34
+  index: -1
+anniu/1_03
+  rotate: false
+  xy: 1077, 2
+  size: 57, 50
+  orig: 333, 117
+  offset: 87, 34
+  index: -1
+anniu/1_04
+  rotate: false
+  xy: 872, 2
+  size: 71, 50
+  orig: 333, 117
+  offset: 87, 34
+  index: -1
+anniu/1_05
+  rotate: false
+  xy: 706, 2
+  size: 84, 50
+  orig: 333, 117
+  offset: 88, 34
+  index: -1
+anniu/1_06
+  rotate: false
+  xy: 520, 2
+  size: 93, 50
+  orig: 333, 117
+  offset: 93, 34
+  index: -1
+anniu/1_07
+  rotate: false
+  xy: 420, 2
+  size: 98, 50
+  orig: 333, 117
+  offset: 103, 34
+  index: -1
+anniu/1_08
+  rotate: false
+  xy: 216, 2
+  size: 101, 50
+  orig: 333, 117
+  offset: 114, 34
+  index: -1
+anniu/1_09
+  rotate: false
+  xy: 110, 2
+  size: 104, 50
+  orig: 333, 117
+  offset: 125, 34
+  index: -1
+anniu/1_10
+  rotate: false
+  xy: 2, 2
+  size: 106, 50
+  orig: 333, 117
+  offset: 136, 34
+  index: -1
+anniu/1_11
+  rotate: false
+  xy: 319, 2
+  size: 99, 50
+  orig: 333, 117
+  offset: 147, 34
+  index: -1
+anniu/1_12
+  rotate: false
+  xy: 615, 2
+  size: 89, 50
+  orig: 333, 117
+  offset: 157, 34
+  index: -1
+anniu/1_13
+  rotate: false
+  xy: 792, 2
+  size: 78, 50
+  orig: 333, 117
+  offset: 168, 34
+  index: -1
+anniu/1_14
+  rotate: false
+  xy: 945, 2
+  size: 69, 50
+  orig: 333, 117
+  offset: 177, 34
+  index: -1
+anniu/1_15
+  rotate: false
+  xy: 1016, 2
+  size: 59, 50
+  orig: 333, 117
+  offset: 187, 34
+  index: -1
+anniu/1_16
+  rotate: false
+  xy: 1136, 2
+  size: 50, 50
+  orig: 333, 117
+  offset: 196, 33
+  index: -1
+anniu/1_17
+  rotate: false
+  xy: 1233, 8
+  size: 42, 44
+  orig: 333, 117
+  offset: 204, 34
+  index: -1
+anniu/1_18
+  rotate: true
+  xy: 1378, 18
+  size: 34, 35
+  orig: 333, 117
+  offset: 212, 34
+  index: -1
+anniu/1_19
+  rotate: false
+  xy: 1415, 18
+  size: 35, 34
+  orig: 333, 117
+  offset: 211, 34
+  index: -1

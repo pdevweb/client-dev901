@@ -1,0 +1,209 @@
+
+GameIntro.png
+size: 1600,1548
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ceiling
+  rotate: true
+  xy: 968, 811
+  size: 735, 370
+  orig: 735, 370
+  offset: 0, 0
+  index: -1
+Coin360
+  rotate: true
+  xy: 802, 124
+  size: 23, 198
+  orig: 23, 198
+  offset: 0, 0
+  index: -1
+Coin3602
+  rotate: false
+  xy: 1428, 257
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+Coin_B
+  rotate: false
+  xy: 2, 189
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+Coin_G
+  rotate: false
+  xy: 1166, 342
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+Coin_R
+  rotate: false
+  xy: 1176, 48
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+Door_L
+  rotate: false
+  xy: 2, 441
+  size: 320, 1105
+  orig: 320, 1105
+  offset: 0, 0
+  index: -1
+Door_thick
+  rotate: true
+  xy: 806, 216
+  size: 16, 359
+  orig: 16, 359
+  offset: 0, 0
+  index: -1
+FX/Add_Noise1
+  rotate: false
+  xy: 1089, 127
+  size: 85, 87
+  orig: 100, 100
+  offset: 6, 7
+  index: -1
+FX/Add_Noise_BG
+  rotate: false
+  xy: 932, 24
+  size: 96, 98
+  orig: 100, 100
+  offset: 0, 2
+  index: -1
+FX/FX_LT03
+  rotate: false
+  xy: 802, 58
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+FX/FX_Sparkles_03
+  rotate: true
+  xy: 552, 2
+  size: 161, 118
+  orig: 178, 135
+  offset: 9, 5
+  index: -1
+FX/FlyLine
+  rotate: true
+  xy: 324, 355
+  size: 188, 550
+  orig: 188, 550
+  offset: 0, 0
+  index: -1
+FX/FlyLine2
+  rotate: true
+  xy: 254, 165
+  size: 188, 550
+  orig: 188, 550
+  offset: 0, 0
+  index: -1
+FX/Light_04
+  rotate: false
+  xy: 672, 35
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+FX/LineWinLight
+  rotate: false
+  xy: 1456, 236
+  size: 99, 98
+  orig: 99, 98
+  offset: 0, 0
+  index: -1
+FX/chih1
+  rotate: false
+  xy: 1134, 641
+  size: 170, 168
+  orig: 170, 168
+  offset: 0, 0
+  index: -1
+FX/circle_strong_white
+  rotate: false
+  xy: 1456, 464
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+FX/line01
+  rotate: false
+  xy: 876, 331
+  size: 288, 212
+  orig: 288, 212
+  offset: 0, 0
+  index: -1
+FX/lizi2
+  rotate: false
+  xy: 1030, 48
+  size: 81, 77
+  orig: 83, 81
+  offset: 2, 2
+  index: -1
+FX/sphere_radialBlur
+  rotate: false
+  xy: 1456, 336
+  size: 127, 126
+  orig: 128, 128
+  offset: 0, 2
+  index: -1
+Floor
+  rotate: false
+  xy: 324, 796
+  size: 642, 750
+  orig: 642, 752
+  offset: 0, 0
+  index: -1
+Pillar01
+  rotate: false
+  xy: 1340, 594
+  size: 255, 952
+  orig: 280, 952
+  offset: 15, 0
+  index: -1
+Pillar02
+  rotate: true
+  xy: 2, 16
+  size: 147, 548
+  orig: 250, 566
+  offset: 57, 18
+  index: -1
+Pillar03
+  rotate: true
+  xy: 806, 234
+  size: 95, 351
+  orig: 100, 351
+  offset: 2, 0
+  index: -1
+Wall
+  rotate: true
+  xy: 1418, 300
+  size: 292, 36
+  orig: 293, 38
+  offset: 1, 1
+  index: -1
+Wall2
+  rotate: true
+  xy: 806, 149
+  size: 65, 281
+  orig: 66, 282
+  offset: 0, 1
+  index: -1
+Wall_L
+  rotate: true
+  xy: 324, 545
+  size: 249, 808
+  orig: 249, 808
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 254, 389
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

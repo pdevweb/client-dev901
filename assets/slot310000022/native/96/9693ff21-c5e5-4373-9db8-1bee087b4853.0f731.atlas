@@ -1,0 +1,55 @@
+
+398_socialgx.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/cgx
+  rotate: false
+  xy: 269, 204
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+effect/hg_00034
+  rotate: false
+  xy: 88, 17
+  size: 44, 52
+  orig: 48, 53
+  offset: 2, 1
+  index: -1
+effect/huanjing
+  rotate: false
+  xy: 214, 7
+  size: 84, 84
+  orig: 86, 86
+  offset: 1, 1
+  index: -1
+effect/jj1_00023
+  rotate: true
+  xy: 2, 2
+  size: 67, 84
+  orig: 84, 84
+  offset: 6, 0
+  index: -1
+effect/qqq_00000
+  rotate: false
+  xy: 113, 93
+  size: 154, 154
+  orig: 164, 159
+  offset: 6, 2
+  index: -1
+effect/tuowei_kh
+  rotate: false
+  xy: 134, 4
+  size: 78, 87
+  orig: 78, 87
+  offset: 0, 0
+  index: -1
+effect/vfxlight
+  rotate: false
+  xy: 2, 71
+  size: 109, 176
+  orig: 109, 176
+  offset: 0, 0
+  index: -1

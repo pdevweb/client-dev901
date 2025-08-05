@@ -1,0 +1,153 @@
+
+TC_fgjiesuan_title.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fgjiesuan/1_00
+  rotate: false
+  xy: 1954, 6
+  size: 37, 47
+  orig: 620, 103
+  offset: 156, 30
+  index: -1
+fgjiesuan/1_01
+  rotate: false
+  xy: 1833, 6
+  size: 62, 47
+  orig: 620, 103
+  offset: 156, 30
+  index: -1
+fgjiesuan/1_02
+  rotate: false
+  xy: 1666, 4
+  size: 88, 49
+  orig: 620, 103
+  offset: 156, 29
+  index: -1
+fgjiesuan/1_03
+  rotate: false
+  xy: 1347, 5
+  size: 112, 50
+  orig: 620, 103
+  offset: 156, 28
+  index: -1
+fgjiesuan/1_04
+  rotate: false
+  xy: 1063, 5
+  size: 141, 50
+  orig: 620, 103
+  offset: 156, 28
+  index: -1
+fgjiesuan/1_05
+  rotate: false
+  xy: 1848, 55
+  size: 168, 50
+  orig: 620, 103
+  offset: 156, 28
+  index: -1
+fgjiesuan/1_06
+  rotate: false
+  xy: 1669, 55
+  size: 177, 50
+  orig: 620, 103
+  offset: 158, 28
+  index: -1
+fgjiesuan/1_07
+  rotate: false
+  xy: 850, 55
+  size: 211, 50
+  orig: 620, 103
+  offset: 168, 28
+  index: -1
+fgjiesuan/1_08
+  rotate: false
+  xy: 1063, 57
+  size: 210, 48
+  orig: 620, 103
+  offset: 196, 29
+  index: -1
+fgjiesuan/1_09
+  rotate: false
+  xy: 624, 7
+  size: 220, 48
+  orig: 620, 103
+  offset: 214, 29
+  index: -1
+fgjiesuan/1_10
+  rotate: false
+  xy: 624, 57
+  size: 224, 48
+  orig: 620, 103
+  offset: 238, 29
+  index: -1
+fgjiesuan/1_11
+  rotate: false
+  xy: 1275, 57
+  size: 206, 48
+  orig: 620, 103
+  offset: 258, 29
+  index: -1
+fgjiesuan/1_12
+  rotate: false
+  xy: 1483, 57
+  size: 184, 48
+  orig: 620, 103
+  offset: 280, 29
+  index: -1
+fgjiesuan/1_13
+  rotate: false
+  xy: 846, 5
+  size: 161, 48
+  orig: 620, 103
+  offset: 303, 29
+  index: -1
+fgjiesuan/1_14
+  rotate: false
+  xy: 1206, 7
+  size: 139, 48
+  orig: 620, 103
+  offset: 325, 29
+  index: -1
+fgjiesuan/1_15
+  rotate: false
+  xy: 1461, 7
+  size: 105, 48
+  orig: 620, 103
+  offset: 359, 29
+  index: -1
+fgjiesuan/1_16
+  rotate: false
+  xy: 1568, 7
+  size: 96, 48
+  orig: 620, 103
+  offset: 368, 29
+  index: -1
+fgjiesuan/1_17
+  rotate: false
+  xy: 1756, 5
+  size: 75, 48
+  orig: 620, 103
+  offset: 389, 29
+  index: -1
+fgjiesuan/1_18
+  rotate: false
+  xy: 1897, 6
+  size: 55, 47
+  orig: 620, 103
+  offset: 409, 30
+  index: -1
+fgjiesuan/1_19
+  rotate: false
+  xy: 1009, 10
+  size: 43, 43
+  orig: 620, 103
+  offset: 421, 30
+  index: -1
+titlejiesuan
+  rotate: false
+  xy: 2, 2
+  size: 620, 103
+  orig: 620, 103
+  offset: 0, 0
+  index: -1

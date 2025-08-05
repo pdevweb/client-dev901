@@ -1,0 +1,97 @@
+
+kache.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boli
+  rotate: false
+  xy: 795, 54
+  size: 189, 49
+  orig: 189, 49
+  offset: 0, 0
+  index: -1
+chengtu
+  rotate: false
+  xy: 1632, 31
+  size: 262, 215
+  orig: 263, 215
+  offset: 0, 0
+  index: -1
+chetou
+  rotate: false
+  xy: 2, 28
+  size: 406, 218
+  orig: 406, 218
+  offset: 0, 0
+  index: -1
+chewei
+  rotate: false
+  xy: 795, 105
+  size: 459, 141
+  orig: 459, 141
+  offset: 0, 0
+  index: -1
+huangguang
+  rotate: false
+  xy: 1256, 106
+  size: 374, 140
+  orig: 374, 140
+  offset: 0, 0
+  index: -1
+jinbi
+  rotate: false
+  xy: 1180, 39
+  size: 210, 64
+  orig: 210, 64
+  offset: 0, 0
+  index: -1
+languang
+  rotate: false
+  xy: 410, 48
+  size: 383, 198
+  orig: 383, 198
+  offset: 0, 0
+  index: -1
+luntai_luo
+  rotate: false
+  xy: 2, 2
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+lunzi_a1
+  rotate: false
+  xy: 1392, 44
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+lunzi_a2
+  rotate: false
+  xy: 1454, 44
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+tong
+  rotate: true
+  xy: 1021, 2
+  size: 101, 157
+  orig: 101, 157
+  offset: 0, 0
+  index: -1
+xing
+  rotate: false
+  xy: 1896, 133
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 410, 4
+  size: 609, 42
+  orig: 609, 42
+  offset: 0, 0
+  index: -1

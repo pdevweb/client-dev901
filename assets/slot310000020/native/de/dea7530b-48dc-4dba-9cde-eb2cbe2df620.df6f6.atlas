@@ -1,0 +1,62 @@
+
+tt_youtubiao.png
+size: 264,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 174, 2
+  size: 88, 88
+  orig: 112, 112
+  offset: 12, 11
+  index: -1
+jd2
+  rotate: true
+  xy: 50, 112
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+ksg_5
+  rotate: false
+  xy: 84, 6
+  size: 88, 85
+  orig: 95, 95
+  offset: 4, 5
+  index: -1
+ksg_6
+  rotate: false
+  xy: 84, 6
+  size: 88, 85
+  orig: 95, 95
+  offset: 4, 5
+  index: -1
+lx1
+  rotate: true
+  xy: 102, 93
+  size: 68, 70
+  orig: 86, 86
+  offset: 10, 9
+  index: -1
+lx2
+  rotate: false
+  xy: 2, 32
+  size: 80, 78
+  orig: 100, 100
+  offset: 9, 11
+  index: -1
+xg_01
+  rotate: false
+  xy: 174, 92
+  size: 70, 69
+  orig: 90, 90
+  offset: 10, 10
+  index: -1
+xq
+  rotate: false
+  xy: 2, 115
+  size: 46, 46
+  orig: 48, 48
+  offset: 1, 2
+  index: -1

@@ -1,0 +1,146 @@
+
+245_m1.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/hb001
+  rotate: true
+  xy: 472, 131
+  size: 31, 25
+  orig: 32, 27
+  offset: 1, 1
+  index: -1
+images/m1_erduo
+  rotate: true
+  xy: 240, 5
+  size: 19, 27
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+images/m1_erhuan
+  rotate: false
+  xy: 296, 6
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+images/m1_hudiejie
+  rotate: true
+  xy: 562, 184
+  size: 70, 68
+  orig: 70, 68
+  offset: 0, 0
+  index: -1
+images/m1_kuang
+  rotate: true
+  xy: 154, 107
+  size: 147, 135
+  orig: 148, 135
+  offset: 1, 0
+  index: -1
+images/m1_kuang2
+  rotate: false
+  xy: 240, 26
+  size: 141, 79
+  orig: 141, 81
+  offset: 0, 0
+  index: -1
+images/m1_lunkuo
+  rotate: true
+  xy: 291, 121
+  size: 133, 131
+  orig: 147, 131
+  offset: 13, 0
+  index: -1
+images/m1_shenti
+  rotate: false
+  xy: 2, 3
+  size: 236, 93
+  orig: 236, 125
+  offset: 0, 32
+  index: -1
+images/m1_tou
+  rotate: false
+  xy: 424, 164
+  size: 70, 90
+  orig: 77, 90
+  offset: 1, 0
+  index: -1
+images/m1_toufa1
+  rotate: true
+  xy: 496, 167
+  size: 87, 64
+  orig: 87, 64
+  offset: 0, 0
+  index: -1
+images/m1_toufa2
+  rotate: true
+  xy: 383, 62
+  size: 57, 123
+  orig: 57, 123
+  offset: 0, 0
+  index: -1
+images/m1_toufa3
+  rotate: false
+  xy: 508, 88
+  size: 68, 77
+  orig: 68, 77
+  offset: 0, 0
+  index: -1
+images/m1_toufa4
+  rotate: true
+  xy: 424, 123
+  size: 39, 46
+  orig: 40, 46
+  offset: 1, 0
+  index: -1
+images/m1_toufa5
+  rotate: false
+  xy: 2, 98
+  size: 150, 156
+  orig: 150, 156
+  offset: 0, 0
+  index: -1
+images/m1_toufa6
+  rotate: true
+  xy: 383, 2
+  size: 58, 97
+  orig: 60, 100
+  offset: 2, 0
+  index: -1
+images/m1_toufayy1
+  rotate: false
+  xy: 482, 5
+  size: 54, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+images/m1_yanbai1
+  rotate: true
+  xy: 313, 6
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+images/m1_yanbai2
+  rotate: false
+  xy: 269, 11
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+images/m1_yanzhu1
+  rotate: true
+  xy: 329, 10
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+images/m1_yanzhu2
+  rotate: true
+  xy: 344, 11
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+eff_icon_14.png
+size: 276,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sg_00
+  rotate: true
+  xy: 52, 234
+  size: 40, 61
+  orig: 87, 87
+  offset: 6, 6
+  index: -1
+sg_01
+  rotate: true
+  xy: 176, 223
+  size: 51, 69
+  orig: 87, 87
+  offset: 6, 6
+  index: -1
+sg_02
+  rotate: true
+  xy: 71, 168
+  size: 60, 74
+  orig: 87, 87
+  offset: 6, 6
+  index: -1
+sg_03
+  rotate: true
+  xy: 2, 97
+  size: 69, 76
+  orig: 87, 87
+  offset: 6, 6
+  index: -1
+sg_04
+  rotate: true
+  xy: 158, 80
+  size: 75, 76
+  orig: 87, 87
+  offset: 6, 6
+  index: -1
+sg_05
+  rotate: true
+  xy: 2, 20
+  size: 75, 76
+  orig: 87, 87
+  offset: 6, 6
+  index: -1
+sg_06
+  rotate: true
+  xy: 80, 8
+  size: 75, 76
+  orig: 87, 87
+  offset: 6, 6
+  index: -1
+sg_07
+  rotate: true
+  xy: 80, 85
+  size: 70, 76
+  orig: 87, 87
+  offset: 11, 6
+  index: -1
+sg_08
+  rotate: true
+  xy: 147, 157
+  size: 64, 73
+  orig: 87, 87
+  offset: 17, 9
+  index: -1
+sg_09
+  rotate: true
+  xy: 2, 177
+  size: 55, 67
+  orig: 87, 87
+  offset: 26, 15
+  index: -1
+sg_10
+  rotate: true
+  xy: 115, 230
+  size: 44, 59
+  orig: 87, 87
+  offset: 37, 23
+  index: -1
+sg_11
+  rotate: true
+  xy: 2, 243
+  size: 31, 48
+  orig: 87, 87
+  offset: 50, 33
+  index: -1
+xb
+  rotate: true
+  xy: 158, 2
+  size: 76, 77
+  orig: 76, 77
+  offset: 0, 0
+  index: -1

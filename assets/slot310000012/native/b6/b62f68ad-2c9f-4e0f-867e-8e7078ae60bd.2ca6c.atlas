@@ -1,0 +1,20 @@
+
+277_bg_xh.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+theme277_bg_base_1
+  rotate: false
+  xy: 2, 2
+  size: 405, 188
+  orig: 405, 188
+  offset: 0, 0
+  index: -1
+xg_01
+  rotate: false
+  xy: 409, 122
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1

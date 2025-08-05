@@ -1,0 +1,48 @@
+
+402_fgzg.png
+size: 432,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao1
+  rotate: false
+  xy: 324, 86
+  size: 104, 107
+  orig: 116, 118
+  offset: 5, 6
+  index: -1
+cg01
+  rotate: false
+  xy: 2, 2
+  size: 203, 191
+  orig: 222, 212
+  offset: 9, 10
+  index: -1
+ggg
+  rotate: false
+  xy: 324, 6
+  size: 88, 78
+  orig: 116, 100
+  offset: 15, 12
+  index: -1
+glow_ryan_00
+  rotate: false
+  xy: 273, 12
+  size: 48, 58
+  orig: 64, 64
+  offset: 8, 3
+  index: -1
+tcg
+  rotate: true
+  xy: 207, 72
+  size: 121, 115
+  orig: 128, 128
+  offset: 4, 4
+  index: -1
+xg_01
+  rotate: false
+  xy: 207, 6
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+zhuanchang.png
+size: 740,740
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dianliu_00000
+  rotate: false
+  xy: 486, 617
+  size: 238, 118
+  orig: 251, 125
+  offset: 5, 4
+  index: -1
+dianliu_00001
+  rotate: true
+  xy: 600, 65
+  size: 352, 110
+  orig: 366, 121
+  offset: 7, 5
+  index: -1
+dianliu_00002
+  rotate: true
+  xy: 486, 2
+  size: 415, 112
+  orig: 426, 119
+  offset: 5, 3
+  index: -1
+dianliu_00003
+  rotate: false
+  xy: 2, 255
+  size: 446, 139
+  orig: 464, 149
+  offset: 9, 5
+  index: -1
+gyun_00000
+  rotate: false
+  xy: 2, 29
+  size: 222, 224
+  orig: 256, 256
+  offset: 17, 16
+  index: -1
+huangdian_00000
+  rotate: true
+  xy: 486, 419
+  size: 196, 235
+  orig: 256, 256
+  offset: 15, 1
+  index: -1
+lizidian00000
+  rotate: true
+  xy: 226, 44
+  size: 209, 199
+  orig: 256, 256
+  offset: 11, 17
+  index: -1
+yanwu_00000
+  rotate: false
+  xy: 2, 396
+  size: 482, 339
+  orig: 512, 379
+  offset: 10, 30
+  index: -1

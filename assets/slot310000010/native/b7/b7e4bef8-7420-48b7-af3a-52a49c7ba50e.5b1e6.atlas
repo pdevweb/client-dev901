@@ -1,0 +1,41 @@
+
+eff_spin.png
+size: 560,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cb_y
+  rotate: false
+  xy: 245, 15
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+cb_z
+  rotate: false
+  xy: 306, 15
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+gy
+  rotate: false
+  xy: 245, 81
+  size: 194, 146
+  orig: 194, 146
+  offset: 0, 0
+  index: -1
+spin
+  rotate: true
+  xy: 441, 31
+  size: 196, 114
+  orig: 196, 114
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 2, 2
+  size: 241, 225
+  orig: 241, 225
+  offset: 0, 0
+  index: -1

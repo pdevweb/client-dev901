@@ -1,0 +1,34 @@
+
+zj_lanbaoshi.png
+size: 340,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bluejs_00000
+  rotate: false
+  xy: 88, 4
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+sg_00000
+  rotate: false
+  xy: 266, 9
+  size: 69, 81
+  orig: 90, 86
+  offset: 11, 3
+  index: -1
+zjm_icon_ptfdjz_5
+  rotate: false
+  xy: 2, 2
+  size: 84, 88
+  orig: 116, 116
+  offset: 16, 12
+  index: -1
+zjm_icon_ptfdjz_5_1
+  rotate: true
+  xy: 176, 6
+  size: 84, 88
+  orig: 116, 116
+  offset: 16, 12
+  index: -1

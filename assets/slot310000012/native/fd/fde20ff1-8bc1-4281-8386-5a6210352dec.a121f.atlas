@@ -1,0 +1,188 @@
+
+277_mapstart.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+startsg/startsg_00
+  rotate: false
+  xy: 90, 64
+  size: 13, 20
+  orig: 88, 103
+  offset: 37, 11
+  index: -1
+startsg/startsg_01
+  rotate: false
+  xy: 90, 86
+  size: 14, 32
+  orig: 88, 103
+  offset: 37, 10
+  index: -1
+startsg/startsg_02
+  rotate: false
+  xy: 90, 120
+  size: 15, 43
+  orig: 88, 103
+  offset: 36, 10
+  index: -1
+startsg/startsg_03
+  rotate: false
+  xy: 261, 119
+  size: 17, 46
+  orig: 88, 103
+  offset: 35, 10
+  index: -1
+startsg/startsg_04
+  rotate: false
+  xy: 261, 71
+  size: 17, 46
+  orig: 88, 103
+  offset: 35, 10
+  index: -1
+startsg/startsg_05
+  rotate: false
+  xy: 198, 33
+  size: 17, 46
+  orig: 88, 103
+  offset: 35, 10
+  index: -1
+startsg/startsg_06
+  rotate: false
+  xy: 217, 34
+  size: 17, 45
+  orig: 88, 103
+  offset: 35, 11
+  index: -1
+startsg/startsg_07
+  rotate: false
+  xy: 236, 34
+  size: 17, 45
+  orig: 88, 103
+  offset: 35, 11
+  index: -1
+startsg/startsg_08
+  rotate: true
+  xy: 217, 15
+  size: 17, 40
+  orig: 88, 103
+  offset: 35, 16
+  index: -1
+startsg/startsg_09
+  rotate: false
+  xy: 194, 2
+  size: 17, 29
+  orig: 88, 103
+  offset: 35, 27
+  index: -1
+startsg/startsg_10
+  rotate: false
+  xy: 280, 101
+  size: 81, 61
+  orig: 88, 103
+  offset: 3, 38
+  index: -1
+startsg/startsg_11
+  rotate: true
+  xy: 198, 81
+  size: 84, 61
+  orig: 88, 103
+  offset: 2, 38
+  index: -1
+startsg/startsg_12
+  rotate: true
+  xy: 107, 167
+  size: 86, 89
+  orig: 88, 103
+  offset: 1, 10
+  index: -1
+startsg/startsg_13
+  rotate: true
+  xy: 198, 167
+  size: 86, 89
+  orig: 88, 103
+  offset: 1, 10
+  index: -1
+startsg/startsg_14
+  rotate: false
+  xy: 289, 164
+  size: 86, 89
+  orig: 88, 103
+  offset: 1, 10
+  index: -1
+startsg/startsg_15
+  rotate: true
+  xy: 107, 79
+  size: 86, 89
+  orig: 88, 103
+  offset: 1, 10
+  index: -1
+startsg/startsg_16
+  rotate: false
+  xy: 2, 74
+  size: 86, 89
+  orig: 88, 103
+  offset: 1, 10
+  index: -1
+startsg/startsg_17
+  rotate: false
+  xy: 2, 12
+  size: 86, 60
+  orig: 88, 103
+  offset: 1, 38
+  index: -1
+startsg/startsg_18
+  rotate: false
+  xy: 105, 17
+  size: 87, 60
+  orig: 88, 103
+  offset: 1, 38
+  index: -1
+startsg/startsg_19
+  rotate: true
+  xy: 363, 75
+  size: 87, 60
+  orig: 88, 103
+  offset: 1, 38
+  index: -1
+startsg/startsg_20
+  rotate: true
+  xy: 280, 13
+  size: 86, 60
+  orig: 88, 103
+  offset: 1, 38
+  index: -1
+startsg/startsg_21
+  rotate: false
+  xy: 377, 195
+  size: 86, 58
+  orig: 88, 103
+  offset: 1, 38
+  index: -1
+startsg/startsg_22
+  rotate: false
+  xy: 342, 18
+  size: 86, 55
+  orig: 88, 103
+  offset: 1, 38
+  index: -1
+startsg/startsg_23
+  rotate: true
+  xy: 425, 107
+  size: 86, 52
+  orig: 88, 103
+  offset: 1, 38
+  index: -1
+startsg/startsg_24
+  rotate: true
+  xy: 430, 20
+  size: 85, 52
+  orig: 88, 103
+  offset: 2, 38
+  index: -1
+theme277_reel2
+  rotate: true
+  xy: 2, 165
+  size: 88, 103
+  orig: 88, 103
+  offset: 0, 0
+  index: -1

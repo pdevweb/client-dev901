@@ -1,0 +1,181 @@
+
+277_m2j.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: true
+  xy: 197, 44
+  size: 82, 79
+  orig: 82, 79
+  offset: 0, 0
+  index: -1
+er
+  rotate: false
+  xy: 355, 7
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+gaoliang01
+  rotate: false
+  xy: 54, 3
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+jian
+  rotate: true
+  xy: 179, 9
+  size: 26, 59
+  orig: 26, 60
+  offset: 0, 0
+  index: -1
+jiemao1
+  rotate: false
+  xy: 318, 7
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+jiemao2
+  rotate: false
+  xy: 2, 3
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+k
+  rotate: true
+  xy: 109, 37
+  size: 89, 86
+  orig: 89, 86
+  offset: 0, 0
+  index: -1
+shoubo
+  rotate: true
+  xy: 109, 12
+  size: 23, 68
+  orig: 23, 68
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 278, 46
+  size: 80, 63
+  orig: 80, 63
+  offset: 0, 0
+  index: -1
+sz1
+  rotate: true
+  xy: 36, 7
+  size: 5, 16
+  orig: 5, 16
+  offset: 0, 0
+  index: -1
+sz2
+  rotate: true
+  xy: 16, 7
+  size: 5, 18
+  orig: 5, 18
+  offset: 0, 0
+  index: -1
+sz3
+  rotate: true
+  xy: 299, 5
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+sz4
+  rotate: true
+  xy: 339, 9
+  size: 15, 14
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+sz5
+  rotate: true
+  xy: 280, 2
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+tf
+  rotate: false
+  xy: 343, 58
+  size: 56, 68
+  orig: 58, 68
+  offset: 2, 0
+  index: -1
+tf1
+  rotate: true
+  xy: 240, 3
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+tf2
+  rotate: true
+  xy: 383, 8
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+tf3
+  rotate: true
+  xy: 280, 20
+  size: 24, 51
+  orig: 24, 51
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 401, 62
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+yanbai1
+  rotate: false
+  xy: 65, 3
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+yanbai2
+  rotate: true
+  xy: 369, 7
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+yg
+  rotate: false
+  xy: 333, 26
+  size: 40, 18
+  orig: 40, 18
+  offset: 0, 0
+  index: -1
+yz1
+  rotate: false
+  xy: 87, 4
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+yz2
+  rotate: false
+  xy: 76, 3
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+zg1
+  rotate: true
+  xy: 2, 14
+  size: 112, 105
+  orig: 113, 105
+  offset: 1, 0
+  index: -1

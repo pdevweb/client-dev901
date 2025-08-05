@@ -1,0 +1,167 @@
+
+bonus_lzjl.png
+size: 792,168
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xl01
+  rotate: false
+  xy: 642, 57
+  size: 48, 108
+  orig: 61, 126
+  offset: 7, 9
+  index: -1
+xl02
+  rotate: false
+  xy: 52, 53
+  size: 47, 112
+  orig: 61, 126
+  offset: 7, 7
+  index: -1
+xl03
+  rotate: false
+  xy: 101, 53
+  size: 47, 112
+  orig: 61, 126
+  offset: 7, 7
+  index: -1
+xl05
+  rotate: false
+  xy: 395, 53
+  size: 46, 112
+  orig: 61, 126
+  offset: 8, 7
+  index: -1
+xl06
+  rotate: false
+  xy: 2, 53
+  size: 48, 112
+  orig: 61, 126
+  offset: 7, 7
+  index: -1
+xl07
+  rotate: false
+  xy: 443, 54
+  size: 48, 111
+  orig: 61, 126
+  offset: 7, 7
+  index: -1
+xl09
+  rotate: true
+  xy: 446, 4
+  size: 48, 110
+  orig: 61, 126
+  offset: 7, 8
+  index: -1
+xl10
+  rotate: false
+  xy: 542, 55
+  size: 48, 110
+  orig: 61, 126
+  offset: 7, 8
+  index: -1
+xl11
+  rotate: true
+  xy: 558, 5
+  size: 48, 110
+  orig: 61, 126
+  offset: 7, 8
+  index: -1
+xl13
+  rotate: true
+  xy: 670, 7
+  size: 48, 108
+  orig: 61, 126
+  offset: 7, 9
+  index: -1
+xl14
+  rotate: false
+  xy: 692, 57
+  size: 48, 108
+  orig: 61, 126
+  offset: 7, 9
+  index: -1
+xl15
+  rotate: false
+  xy: 592, 55
+  size: 48, 110
+  orig: 61, 126
+  offset: 7, 8
+  index: -1
+xl17
+  rotate: false
+  xy: 493, 54
+  size: 47, 111
+  orig: 61, 126
+  offset: 7, 7
+  index: -1
+xl18
+  rotate: false
+  xy: 150, 53
+  size: 47, 112
+  orig: 61, 126
+  offset: 7, 7
+  index: -1
+xl19
+  rotate: false
+  xy: 199, 53
+  size: 47, 112
+  orig: 61, 126
+  offset: 7, 7
+  index: -1
+xl21
+  rotate: false
+  xy: 248, 53
+  size: 47, 112
+  orig: 61, 126
+  offset: 7, 7
+  index: -1
+xl22
+  rotate: false
+  xy: 297, 53
+  size: 47, 112
+  orig: 61, 126
+  offset: 7, 7
+  index: -1
+xl23
+  rotate: false
+  xy: 346, 53
+  size: 47, 112
+  orig: 61, 126
+  offset: 7, 7
+  index: -1
+xl25
+  rotate: true
+  xy: 2, 2
+  size: 49, 110
+  orig: 61, 126
+  offset: 6, 8
+  index: -1
+xl26
+  rotate: true
+  xy: 114, 2
+  size: 49, 110
+  orig: 61, 126
+  offset: 6, 8
+  index: -1
+xl27
+  rotate: true
+  xy: 226, 2
+  size: 49, 108
+  orig: 61, 126
+  offset: 6, 9
+  index: -1
+xl29
+  rotate: true
+  xy: 336, 2
+  size: 49, 108
+  orig: 61, 126
+  offset: 6, 9
+  index: -1
+xl30
+  rotate: false
+  xy: 742, 57
+  size: 48, 108
+  orig: 61, 126
+  offset: 6, 9
+  index: -1

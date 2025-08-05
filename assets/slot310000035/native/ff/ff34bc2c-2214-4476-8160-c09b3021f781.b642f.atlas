@@ -1,0 +1,48 @@
+
+free_jiesuan.png
+size: 672,988
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+865ec601-6cdd-4cd6-aef3-7a5a6a2834ba.c955c_unpack/tw_vfx_c_normal
+  rotate: true
+  xy: 272, 3
+  size: 255, 273
+  orig: 255, 274
+  offset: 0, 0
+  index: -1
+865ec601-6cdd-4cd6-aef3-7a5a6a2834ba.c955c_unpack/tw_vfx_e_normal
+  rotate: false
+  xy: 292, 592
+  size: 346, 393
+  orig: 346, 451
+  offset: 0, 30
+  index: -1
+jiemiantu_unpack/bj2
+  rotate: false
+  xy: 2, 275
+  size: 288, 710
+  orig: 288, 710
+  offset: 0, 0
+  index: -1
+jiemiantu_unpack/tw_vfx_b_screen
+  rotate: true
+  xy: 547, 134
+  size: 124, 123
+  orig: 138, 138
+  offset: 6, 6
+  index: -1
+mianfeikaishjiemianheduogetexiao_unpack/smw_vfx_d_add
+  rotate: false
+  xy: 292, 260
+  size: 330, 330
+  orig: 330, 346
+  offset: 0, 11
+  index: -1
+mianfeikaishjiemianheduogetexiao_unpack/tw_vfx_f_add
+  rotate: false
+  xy: 2, 2
+  size: 268, 271
+  orig: 268, 271
+  offset: 0, 0
+  index: -1

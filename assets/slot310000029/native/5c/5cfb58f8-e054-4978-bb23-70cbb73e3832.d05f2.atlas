@@ -1,0 +1,167 @@
+
+jitai_up.png
+size: 992,428
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00000
+  rotate: true
+  xy: 356, 56
+  size: 128, 243
+  orig: 250, 250
+  offset: 2, 4
+  index: -1
+guangdian_00
+  rotate: false
+  xy: 2, 62
+  size: 352, 364
+  orig: 512, 512
+  offset: 80, 74
+  index: -1
+gy_0
+  rotate: false
+  xy: 797, 104
+  size: 131, 127
+  orig: 131, 132
+  offset: 0, 2
+  index: -1
+hongguang
+  rotate: false
+  xy: 356, 186
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+hongguang2
+  rotate: false
+  xy: 797, 233
+  size: 192, 193
+  orig: 207, 208
+  offset: 7, 7
+  index: -1
+jinbi/coin_00
+  rotate: false
+  xy: 2, 5
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+jinbi/coin_01
+  rotate: false
+  xy: 116, 5
+  size: 54, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+jinbi/coin_02
+  rotate: false
+  xy: 282, 5
+  size: 50, 55
+  orig: 55, 55
+  offset: 1, 0
+  index: -1
+jinbi/coin_03
+  rotate: false
+  xy: 899, 47
+  size: 41, 55
+  orig: 55, 55
+  offset: 5, 0
+  index: -1
+jinbi/coin_04
+  rotate: true
+  xy: 410, 25
+  size: 29, 55
+  orig: 55, 55
+  offset: 11, 0
+  index: -1
+jinbi/coin_05
+  rotate: true
+  xy: 353, 7
+  size: 15, 55
+  orig: 55, 55
+  offset: 19, 0
+  index: -1
+jinbi/coin_06
+  rotate: false
+  xy: 334, 5
+  size: 17, 55
+  orig: 55, 55
+  offset: 20, 0
+  index: -1
+jinbi/coin_07
+  rotate: true
+  xy: 353, 24
+  size: 30, 55
+  orig: 55, 55
+  offset: 14, 0
+  index: -1
+jinbi/coin_08
+  rotate: true
+  xy: 899, 5
+  size: 40, 55
+  orig: 55, 55
+  offset: 10, 0
+  index: -1
+jinbi/coin_09
+  rotate: false
+  xy: 942, 62
+  size: 47, 55
+  orig: 55, 55
+  offset: 6, 0
+  index: -1
+jinbi/coin_10
+  rotate: false
+  xy: 228, 5
+  size: 52, 55
+  orig: 55, 55
+  offset: 3, 0
+  index: -1
+jinbi/coin_11
+  rotate: false
+  xy: 172, 5
+  size: 54, 55
+  orig: 55, 55
+  offset: 1, 0
+  index: -1
+jinbi/coin_12
+  rotate: false
+  xy: 930, 176
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+jinbi/coin_13
+  rotate: false
+  xy: 59, 5
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+jinbi/coin_14
+  rotate: false
+  xy: 930, 119
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+light1
+  rotate: false
+  xy: 598, 230
+  size: 197, 196
+  orig: 207, 205
+  offset: 3, 3
+  index: -1
+light2
+  rotate: true
+  xy: 601, 37
+  size: 191, 194
+  orig: 202, 201
+  offset: 5, 7
+  index: -1
+lizi
+  rotate: false
+  xy: 797, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

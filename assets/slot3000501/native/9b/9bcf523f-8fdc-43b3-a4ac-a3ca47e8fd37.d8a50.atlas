@@ -1,0 +1,34 @@
+
+zj_chengbaoshi.png
+size: 340,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sg_00000
+  rotate: true
+  xy: 257, 27
+  size: 69, 81
+  orig: 90, 86
+  offset: 11, 3
+  index: -1
+yellowjs_00000
+  rotate: true
+  xy: 172, 4
+  size: 92, 83
+  orig: 92, 86
+  offset: 0, 1
+  index: -1
+zjm_icon_ptfdjz_4
+  rotate: true
+  xy: 2, 2
+  size: 94, 83
+  orig: 116, 116
+  offset: 12, 16
+  index: -1
+zjm_icon_ptfdjz_4_1
+  rotate: true
+  xy: 87, 2
+  size: 94, 83
+  orig: 116, 116
+  offset: 12, 16
+  index: -1

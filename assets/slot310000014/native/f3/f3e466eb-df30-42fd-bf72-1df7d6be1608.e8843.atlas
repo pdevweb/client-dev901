@@ -1,0 +1,174 @@
+
+307_huoqiu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dtg_80
+  rotate: false
+  xy: 2, 2
+  size: 482, 482
+  orig: 482, 482
+  offset: 0, 0
+  index: -1
+gq01
+  rotate: false
+  xy: 486, 253
+  size: 231, 231
+  orig: 247, 241
+  offset: 10, 5
+  index: -1
+gs
+  rotate: false
+  xy: 486, 20
+  size: 130, 68
+  orig: 130, 68
+  offset: 0, 0
+  index: -1
+hq
+  rotate: false
+  xy: 859, 20
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+hy/hy_00
+  rotate: false
+  xy: 844, 251
+  size: 46, 108
+  orig: 46, 108
+  offset: 0, 0
+  index: -1
+hy/hy_15
+  rotate: false
+  xy: 844, 251
+  size: 46, 108
+  orig: 46, 108
+  offset: 0, 0
+  index: -1
+hy/hy_01
+  rotate: false
+  xy: 653, 143
+  size: 46, 108
+  orig: 46, 108
+  offset: 0, 0
+  index: -1
+hy/hy_02
+  rotate: false
+  xy: 892, 251
+  size: 46, 108
+  orig: 46, 108
+  offset: 0, 0
+  index: -1
+hy/hy_03
+  rotate: false
+  xy: 940, 251
+  size: 46, 108
+  orig: 46, 108
+  offset: 0, 0
+  index: -1
+hy/hy_04
+  rotate: true
+  xy: 701, 190
+  size: 46, 108
+  orig: 46, 108
+  offset: 0, 0
+  index: -1
+hy/hy_05
+  rotate: true
+  xy: 701, 142
+  size: 46, 108
+  orig: 46, 108
+  offset: 0, 0
+  index: -1
+hy/hy_06
+  rotate: false
+  xy: 811, 128
+  size: 46, 108
+  orig: 46, 108
+  offset: 0, 0
+  index: -1
+hy/hy_07
+  rotate: false
+  xy: 859, 141
+  size: 46, 108
+  orig: 46, 108
+  offset: 0, 0
+  index: -1
+hy/hy_08
+  rotate: false
+  xy: 907, 141
+  size: 46, 108
+  orig: 46, 108
+  offset: 0, 0
+  index: -1
+hy/hy_09
+  rotate: false
+  xy: 955, 141
+  size: 46, 108
+  orig: 46, 108
+  offset: 0, 0
+  index: -1
+hy/hy_10
+  rotate: true
+  xy: 859, 93
+  size: 46, 108
+  orig: 46, 108
+  offset: 0, 0
+  index: -1
+hy/hy_11
+  rotate: true
+  xy: 653, 94
+  size: 46, 108
+  orig: 46, 108
+  offset: 0, 0
+  index: -1
+hy/hy_12
+  rotate: true
+  xy: 653, 46
+  size: 46, 108
+  orig: 46, 108
+  offset: 0, 0
+  index: -1
+hy/hy_13
+  rotate: false
+  xy: 763, 32
+  size: 46, 108
+  orig: 46, 108
+  offset: 0, 0
+  index: -1
+hy/hy_14
+  rotate: false
+  xy: 811, 18
+  size: 46, 108
+  orig: 46, 108
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 486, 90
+  size: 165, 161
+  orig: 165, 161
+  offset: 0, 0
+  index: -1
+wl
+  rotate: true
+  xy: 932, 22
+  size: 69, 57
+  orig: 69, 57
+  offset: 0, 0
+  index: -1
+xt
+  rotate: true
+  xy: 719, 361
+  size: 123, 288
+  orig: 123, 288
+  offset: 0, 0
+  index: -1
+y_00
+  rotate: true
+  xy: 719, 238
+  size: 121, 123
+  orig: 128, 128
+  offset: 4, 3
+  index: -1

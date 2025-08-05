@@ -1,0 +1,139 @@
+
+qp_lz.png
+size: 1480,668
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/fg_0
+  rotate: false
+  xy: 2, 223
+  size: 402, 441
+  orig: 420, 450
+  offset: 11, 0
+  index: -1
+tx/lz/lz_0
+  rotate: false
+  xy: 1159, 239
+  size: 195, 208
+  orig: 230, 230
+  offset: 11, 6
+  index: -1
+tx/lz/lz_1
+  rotate: false
+  xy: 1154, 15
+  size: 196, 214
+  orig: 230, 230
+  offset: 9, 3
+  index: -1
+tx/lz/lz_10
+  rotate: false
+  xy: 960, 12
+  size: 192, 215
+  orig: 230, 230
+  offset: 32, 3
+  index: -1
+tx/lz/lz_11
+  rotate: false
+  xy: 966, 231
+  size: 191, 215
+  orig: 230, 230
+  offset: 30, 3
+  index: -1
+tx/lz/lz_12
+  rotate: false
+  xy: 198, 2
+  size: 188, 219
+  orig: 230, 230
+  offset: 27, 4
+  index: -1
+tx/lz/lz_13
+  rotate: false
+  xy: 1107, 449
+  size: 189, 215
+  orig: 230, 230
+  offset: 25, 10
+  index: -1
+tx/lz/lz_14
+  rotate: false
+  xy: 767, 10
+  size: 191, 216
+  orig: 230, 230
+  offset: 22, 11
+  index: -1
+tx/lz/lz_15
+  rotate: false
+  xy: 565, 447
+  size: 194, 217
+  orig: 230, 230
+  offset: 19, 12
+  index: -1
+tx/lz/lz_16
+  rotate: false
+  xy: 388, 3
+  size: 195, 218
+  orig: 230, 230
+  offset: 17, 12
+  index: -1
+tx/lz/lz_17
+  rotate: false
+  xy: 2, 2
+  size: 194, 219
+  orig: 230, 230
+  offset: 14, 10
+  index: -1
+tx/lz/lz_2
+  rotate: false
+  xy: 406, 227
+  size: 197, 217
+  orig: 230, 230
+  offset: 6, 0
+  index: -1
+tx/lz/lz_3
+  rotate: false
+  xy: 406, 446
+  size: 157, 218
+  orig: 230, 230
+  offset: 49, 0
+  index: -1
+tx/lz/lz_4
+  rotate: false
+  xy: 761, 447
+  size: 168, 217
+  orig: 230, 230
+  offset: 46, 1
+  index: -1
+tx/lz/lz_5
+  rotate: false
+  xy: 585, 8
+  size: 180, 217
+  orig: 230, 230
+  offset: 43, 1
+  index: -1
+tx/lz/lz_6
+  rotate: false
+  xy: 605, 228
+  size: 180, 217
+  orig: 230, 230
+  offset: 40, 1
+  index: -1
+tx/lz/lz_7
+  rotate: false
+  xy: 787, 229
+  size: 177, 216
+  orig: 230, 230
+  offset: 37, 2
+  index: -1
+tx/lz/lz_8
+  rotate: false
+  xy: 931, 448
+  size: 174, 216
+  orig: 230, 230
+  offset: 34, 2
+  index: -1
+tx/lz/lz_9
+  rotate: false
+  xy: 1298, 449
+  size: 178, 215
+  orig: 230, 230
+  offset: 31, 3
+  index: -1

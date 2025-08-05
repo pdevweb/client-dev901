@@ -1,0 +1,153 @@
+
+kuang.png
+size: 3512,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+k2/k_01
+  rotate: true
+  xy: 2822, 2
+  size: 153, 174
+  orig: 169, 194
+  offset: 13, 15
+  index: -1
+k2/k_02
+  rotate: true
+  xy: 1427, 3
+  size: 152, 176
+  orig: 169, 194
+  offset: 13, 14
+  index: -1
+k2/k_03
+  rotate: true
+  xy: 894, 4
+  size: 151, 177
+  orig: 169, 194
+  offset: 14, 14
+  index: -1
+k2/k_04
+  rotate: true
+  xy: 179, 8
+  size: 147, 177
+  orig: 169, 194
+  offset: 16, 14
+  index: -1
+k2/k_05
+  rotate: true
+  xy: 358, 8
+  size: 147, 177
+  orig: 169, 194
+  offset: 16, 14
+  index: -1
+k2/k_06
+  rotate: true
+  xy: 715, 5
+  size: 150, 177
+  orig: 169, 194
+  offset: 14, 14
+  index: -1
+k2/k_07
+  rotate: true
+  xy: 1605, 3
+  size: 152, 176
+  orig: 169, 194
+  offset: 13, 14
+  index: -1
+k2/k_08
+  rotate: true
+  xy: 1783, 3
+  size: 152, 172
+  orig: 169, 194
+  offset: 13, 16
+  index: -1
+k2/k_09
+  rotate: true
+  xy: 1957, 3
+  size: 152, 166
+  orig: 169, 194
+  offset: 13, 19
+  index: -1
+k2/k_10
+  rotate: true
+  xy: 2125, 3
+  size: 152, 170
+  orig: 169, 194
+  offset: 13, 17
+  index: -1
+k2/k_11
+  rotate: true
+  xy: 2297, 3
+  size: 152, 174
+  orig: 169, 194
+  offset: 13, 15
+  index: -1
+k2/k_12
+  rotate: true
+  xy: 1073, 4
+  size: 151, 175
+  orig: 169, 194
+  offset: 14, 15
+  index: -1
+k2/k_13
+  rotate: true
+  xy: 537, 6
+  size: 149, 176
+  orig: 169, 194
+  offset: 15, 14
+  index: -1
+k2/k_14
+  rotate: true
+  xy: 2, 10
+  size: 145, 175
+  orig: 169, 194
+  offset: 17, 15
+  index: -1
+k2/k_15
+  rotate: true
+  xy: 1250, 4
+  size: 151, 175
+  orig: 169, 194
+  offset: 14, 15
+  index: -1
+k2/k_16
+  rotate: true
+  xy: 2473, 3
+  size: 152, 175
+  orig: 169, 194
+  offset: 13, 15
+  index: -1
+k2/k_17
+  rotate: true
+  xy: 2998, 2
+  size: 153, 174
+  orig: 169, 194
+  offset: 13, 15
+  index: -1
+k2/k_18
+  rotate: true
+  xy: 3174, 2
+  size: 153, 172
+  orig: 169, 194
+  offset: 13, 16
+  index: -1
+k2/k_19
+  rotate: true
+  xy: 3348, 2
+  size: 153, 162
+  orig: 169, 194
+  offset: 13, 21
+  index: -1
+k2/k_20
+  rotate: true
+  xy: 2650, 2
+  size: 153, 170
+  orig: 169, 194
+  offset: 13, 17
+  index: -1
+k2/k_00
+  rotate: true
+  xy: 2650, 2
+  size: 153, 170
+  orig: 169, 194
+  offset: 13, 17
+  index: -1

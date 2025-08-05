@@ -1,0 +1,76 @@
+
+jili_sc.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cd_10
+  rotate: true
+  xy: 446, 131
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+cd_11
+  rotate: true
+  xy: 446, 197
+  size: 21, 20
+  orig: 32, 32
+  offset: 6, 4
+  index: -1
+hg_0
+  rotate: false
+  xy: 2, 32
+  size: 295, 212
+  orig: 298, 213
+  offset: 2, 1
+  index: -1
+liuxing01_0
+  rotate: false
+  xy: 299, 33
+  size: 79, 10
+  orig: 79, 10
+  offset: 0, 0
+  index: -1
+paizi
+  rotate: false
+  xy: 299, 45
+  size: 145, 199
+  orig: 145, 199
+  offset: 0, 0
+  index: -1
+shitou
+  rotate: true
+  xy: 389, 8
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+shunzhi
+  rotate: true
+  xy: 2, 2
+  size: 28, 385
+  orig: 28, 385
+  offset: 0, 0
+  index: -1
+xianglianjp
+  rotate: true
+  xy: 429, 8
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+xigua
+  rotate: true
+  xy: 446, 220
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+zyanjin
+  rotate: true
+  xy: 446, 160
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1

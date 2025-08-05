@@ -1,0 +1,265 @@
+
+eff_firework.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RingGlowWhite1
+  rotate: false
+  xy: 1042, 894
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+eff
+  rotate: false
+  xy: 912, 514
+  size: 250, 250
+  orig: 256, 256
+  offset: 3, 3
+  index: -1
+hongtong
+  rotate: false
+  xy: 387, 57
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+lantong
+  rotate: false
+  xy: 450, 57
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+lvtong
+  rotate: false
+  xy: 513, 57
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+selight2
+  rotate: false
+  xy: 2, 2
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+selight3
+  rotate: true
+  xy: 243, 6
+  size: 112, 110
+  orig: 116, 116
+  offset: 1, 3
+  index: -1
+tga_l_po03
+  rotate: true
+  xy: 120, 4
+  size: 114, 121
+  orig: 128, 128
+  offset: 7, 3
+  index: -1
+xg_01
+  rotate: false
+  xy: 424, 9
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+xx
+  rotate: true
+  xy: 387, 7
+  size: 48, 35
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+zg
+  rotate: false
+  xy: 355, 31
+  size: 30, 87
+  orig: 30, 87
+  offset: 0, 0
+  index: -1
+桶/0001
+  rotate: true
+  xy: 2, 766
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+桶/0002
+  rotate: true
+  xy: 2, 508
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+桶/0003
+  rotate: true
+  xy: 2, 250
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+桶/0004
+  rotate: false
+  xy: 2, 120
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+桶/0005
+  rotate: true
+  xy: 132, 766
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+桶/0006
+  rotate: true
+  xy: 132, 508
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+桶/0007
+  rotate: true
+  xy: 132, 250
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+桶/0008
+  rotate: false
+  xy: 260, 120
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+桶/0009
+  rotate: true
+  xy: 262, 766
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+桶/0010
+  rotate: true
+  xy: 262, 508
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+桶/0011
+  rotate: true
+  xy: 262, 250
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+桶/0012
+  rotate: true
+  xy: 392, 766
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+桶/0013
+  rotate: true
+  xy: 392, 508
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+火星/0001
+  rotate: true
+  xy: 392, 250
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+火星/0002
+  rotate: false
+  xy: 518, 120
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+火星/0003
+  rotate: true
+  xy: 522, 766
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+火星/0004
+  rotate: true
+  xy: 522, 508
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+火星/0005
+  rotate: true
+  xy: 522, 250
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+火星/0006
+  rotate: true
+  xy: 652, 766
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+火星/0007
+  rotate: true
+  xy: 652, 508
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+火星/0008
+  rotate: true
+  xy: 652, 250
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+火星/0009
+  rotate: false
+  xy: 776, 120
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+火星/0010
+  rotate: true
+  xy: 782, 766
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+火星/0011
+  rotate: true
+  xy: 782, 508
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+火星/0012
+  rotate: true
+  xy: 782, 250
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+火星/0013
+  rotate: true
+  xy: 912, 766
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1

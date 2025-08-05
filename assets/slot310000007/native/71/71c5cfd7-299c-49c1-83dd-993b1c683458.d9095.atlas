@@ -1,0 +1,160 @@
+
+dajiedian.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao/bao_00
+  rotate: true
+  xy: 1107, 9
+  size: 55, 54
+  orig: 332, 291
+  offset: 135, 123
+  index: -1
+bao/bao_01
+  rotate: true
+  xy: 1079, 185
+  size: 68, 65
+  orig: 332, 291
+  offset: 128, 118
+  index: -1
+bao/bao_02
+  rotate: true
+  xy: 1044, 66
+  size: 81, 76
+  orig: 332, 291
+  offset: 121, 113
+  index: -1
+bao/bao_03
+  rotate: true
+  xy: 103, 6
+  size: 91, 88
+  orig: 332, 291
+  offset: 116, 106
+  index: -1
+bao/bao_04
+  rotate: false
+  xy: 2, 3
+  size: 99, 94
+  orig: 332, 291
+  offset: 112, 102
+  index: -1
+bao/bao_05
+  rotate: true
+  xy: 974, 149
+  size: 104, 103
+  orig: 332, 291
+  offset: 110, 98
+  index: -1
+bao/bao_06
+  rotate: true
+  xy: 934, 26
+  size: 110, 108
+  orig: 332, 291
+  offset: 107, 94
+  index: -1
+bao/bao_07
+  rotate: true
+  xy: 819, 20
+  size: 115, 113
+  orig: 332, 291
+  offset: 104, 92
+  index: -1
+bao/bao_08
+  rotate: true
+  xy: 743, 137
+  size: 116, 115
+  orig: 332, 291
+  offset: 104, 90
+  index: -1
+bao/bao_09
+  rotate: true
+  xy: 625, 135
+  size: 118, 116
+  orig: 332, 291
+  offset: 104, 89
+  index: -1
+bao/bao_10
+  rotate: true
+  xy: 341, 9
+  size: 120, 119
+  orig: 332, 291
+  offset: 102, 86
+  index: -1
+bao/bao_11
+  rotate: true
+  xy: 264, 131
+  size: 122, 118
+  orig: 332, 291
+  offset: 100, 86
+  index: -1
+bao/bao_12
+  rotate: true
+  xy: 582, 12
+  size: 120, 117
+  orig: 332, 291
+  offset: 102, 87
+  index: -1
+bao/bao_13
+  rotate: false
+  xy: 384, 134
+  size: 119, 119
+  orig: 332, 291
+  offset: 101, 86
+  index: -1
+bao/bao_14
+  rotate: true
+  xy: 505, 134
+  size: 119, 118
+  orig: 332, 291
+  offset: 102, 86
+  index: -1
+bao/bao_15
+  rotate: true
+  xy: 462, 12
+  size: 120, 118
+  orig: 332, 291
+  offset: 101, 85
+  index: -1
+bao/bao_17
+  rotate: true
+  xy: 701, 16
+  size: 117, 116
+  orig: 332, 291
+  offset: 102, 85
+  index: -1
+glow1
+  rotate: false
+  xy: 1044, 3
+  size: 61, 61
+  orig: 73, 73
+  offset: 6, 6
+  index: -1
+theme122_map_item1
+  rotate: true
+  xy: 860, 138
+  size: 115, 112
+  orig: 116, 115
+  offset: 1, 2
+  index: -1
+theme122_map_item2
+  rotate: true
+  xy: 193, 2
+  size: 110, 146
+  orig: 114, 147
+  offset: 2, 0
+  index: -1
+theme122_map_item3
+  rotate: true
+  xy: 131, 114
+  size: 139, 131
+  orig: 143, 135
+  offset: 2, 2
+  index: -1
+theme122_map_item4
+  rotate: false
+  xy: 2, 99
+  size: 127, 154
+  orig: 127, 154
+  offset: 0, 0
+  index: -1

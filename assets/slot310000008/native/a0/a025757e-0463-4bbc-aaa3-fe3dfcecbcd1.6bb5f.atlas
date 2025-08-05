@@ -1,0 +1,118 @@
+
+feidie_tx_qian.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baiguang
+  rotate: false
+  xy: 714, 96
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+dian_1
+  rotate: false
+  xy: 175, 3
+  size: 45, 54
+  orig: 46, 54
+  offset: 0, 0
+  index: -1
+dian_1_1
+  rotate: true
+  xy: 1006, 187
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+dian_2
+  rotate: true
+  xy: 616, 59
+  size: 29, 67
+  orig: 36, 67
+  offset: 0, 0
+  index: -1
+dian_2_1
+  rotate: false
+  xy: 989, 26
+  size: 56, 80
+  orig: 56, 80
+  offset: 0, 0
+  index: -1
+dian_3
+  rotate: true
+  xy: 274, 5
+  size: 52, 24
+  orig: 52, 24
+  offset: 0, 0
+  index: -1
+dian_3_1
+  rotate: false
+  xy: 108, 2
+  size: 65, 38
+  orig: 65, 38
+  offset: 0, 0
+  index: -1
+feidie_diguang
+  rotate: true
+  xy: 108, 42
+  size: 212, 56
+  orig: 212, 56
+  offset: 0, 0
+  index: -1
+feidie_kuozhan
+  rotate: true
+  xy: 874, 108
+  size: 146, 130
+  orig: 146, 130
+  offset: 0, 0
+  index: -1
+jieshou
+  rotate: false
+  xy: 616, 90
+  size: 96, 164
+  orig: 96, 164
+  offset: 0, 0
+  index: -1
+jieshou_bo
+  rotate: false
+  xy: 685, 68
+  size: 101, 20
+  orig: 101, 20
+  offset: 0, 0
+  index: -1
+shanguang_xx
+  rotate: true
+  xy: 222, 4
+  size: 53, 50
+  orig: 56, 56
+  offset: 3, 3
+  index: -1
+suduxian
+  rotate: true
+  xy: 300, 13
+  size: 44, 430
+  orig: 44, 430
+  offset: 0, 0
+  index: -1
+winner
+  rotate: true
+  xy: 2, 14
+  size: 240, 104
+  orig: 240, 104
+  offset: 0, 0
+  index: -1
+zhongjiang_g_1
+  rotate: false
+  xy: 166, 59
+  size: 448, 195
+  orig: 448, 195
+  offset: 0, 0
+  index: -1
+zhongjiang_g_2
+  rotate: true
+  xy: 732, 8
+  size: 58, 255
+  orig: 58, 255
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+dgjl.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dgjl/dgjl_00
+  rotate: true
+  xy: 923, 3
+  size: 74, 60
+  orig: 82, 68
+  offset: 4, 4
+  index: -1
+dgjl/dgjl_01
+  rotate: true
+  xy: 734, 2
+  size: 75, 60
+  orig: 82, 68
+  offset: 3, 4
+  index: -1
+dgjl/dgjl_02
+  rotate: true
+  xy: 1050, 2
+  size: 75, 58
+  orig: 82, 68
+  offset: 2, 5
+  index: -1
+dgjl/dgjl_03
+  rotate: true
+  xy: 1175, 4
+  size: 73, 57
+  orig: 82, 68
+  offset: 3, 6
+  index: -1
+dgjl/dgjl_04
+  rotate: true
+  xy: 1234, 6
+  size: 71, 58
+  orig: 82, 68
+  offset: 2, 5
+  index: -1
+dgjl/dgjl_05
+  rotate: true
+  xy: 1110, 10
+  size: 67, 63
+  orig: 82, 68
+  offset: 3, 0
+  index: -1
+dgjl/dgjl_06
+  rotate: true
+  xy: 985, 7
+  size: 70, 63
+  orig: 82, 68
+  offset: 1, 0
+  index: -1
+dgjl/dgjl_07
+  rotate: true
+  xy: 605, 5
+  size: 72, 63
+  orig: 82, 68
+  offset: 1, 0
+  index: -1
+dgjl/dgjl_08
+  rotate: true
+  xy: 269, 3
+  size: 74, 62
+  orig: 82, 68
+  offset: 0, 0
+  index: -1
+dgjl/dgjl_09
+  rotate: true
+  xy: 670, 4
+  size: 73, 62
+  orig: 82, 68
+  offset: 1, 0
+  index: -1
+dgjl/dgjl_10
+  rotate: true
+  xy: 204, 4
+  size: 73, 63
+  orig: 82, 68
+  offset: 1, 0
+  index: -1
+dgjl/dgjl_11
+  rotate: true
+  xy: 796, 5
+  size: 72, 62
+  orig: 82, 68
+  offset: 2, 0
+  index: -1
+dgjl/dgjl_12
+  rotate: true
+  xy: 70, 5
+  size: 72, 65
+  orig: 82, 68
+  offset: 2, 0
+  index: -1
+dgjl/dgjl_13
+  rotate: true
+  xy: 2, 6
+  size: 71, 66
+  orig: 82, 68
+  offset: 4, 0
+  index: -1
+dgjl/dgjl_14
+  rotate: true
+  xy: 333, 8
+  size: 69, 66
+  orig: 82, 68
+  offset: 6, 0
+  index: -1
+dgjl/dgjl_15
+  rotate: true
+  xy: 401, 8
+  size: 69, 66
+  orig: 82, 68
+  offset: 7, 0
+  index: -1
+dgjl/dgjl_16
+  rotate: true
+  xy: 469, 8
+  size: 69, 66
+  orig: 82, 68
+  offset: 7, 0
+  index: -1
+dgjl/dgjl_17
+  rotate: true
+  xy: 537, 8
+  size: 69, 66
+  orig: 82, 68
+  offset: 7, 0
+  index: -1
+dgjl/dgjl_18
+  rotate: true
+  xy: 137, 6
+  size: 71, 65
+  orig: 82, 68
+  offset: 6, 2
+  index: -1
+dgjl/dgjl_19
+  rotate: true
+  xy: 860, 4
+  size: 73, 61
+  orig: 82, 68
+  offset: 6, 4
+  index: -1

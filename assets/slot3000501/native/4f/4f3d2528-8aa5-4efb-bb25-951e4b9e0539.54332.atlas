@@ -1,0 +1,104 @@
+
+zhongjiangbaozha.png
+size: 568,568
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ptfhbz/ptfhbz_00000
+  rotate: false
+  xy: 453, 371
+  size: 51, 52
+  orig: 200, 160
+  offset: 67, 51
+  index: -1
+ptfhbz/ptfhbz_00002
+  rotate: false
+  xy: 145, 25
+  size: 98, 97
+  orig: 200, 160
+  offset: 42, 29
+  index: -1
+ptfhbz/ptfhbz_00004
+  rotate: false
+  xy: 154, 124
+  size: 137, 135
+  orig: 200, 160
+  offset: 21, 15
+  index: -1
+ptfhbz/ptfhbz_00006
+  rotate: false
+  xy: 154, 261
+  size: 160, 149
+  orig: 200, 160
+  offset: 16, 9
+  index: -1
+ptfhbz/ptfhbz_00008
+  rotate: false
+  xy: 194, 412
+  size: 176, 154
+  orig: 200, 160
+  offset: 10, 4
+  index: -1
+ptfhbz/ptfhbz_00010
+  rotate: false
+  xy: 2, 412
+  size: 190, 154
+  orig: 200, 160
+  offset: 5, 4
+  index: -1
+ptfhbz/ptfhbz_00012
+  rotate: true
+  xy: 2, 219
+  size: 191, 150
+  orig: 200, 160
+  offset: 5, 8
+  index: -1
+ptfhbz/ptfhbz_00014
+  rotate: true
+  xy: 2, 29
+  size: 188, 141
+  orig: 200, 160
+  offset: 8, 8
+  index: -1
+ptfhbz/ptfhbz_00016
+  rotate: false
+  xy: 372, 425
+  size: 168, 141
+  orig: 200, 160
+  offset: 25, 8
+  index: -1
+ptfhbz/ptfhbz_00018
+  rotate: true
+  xy: 316, 262
+  size: 148, 135
+  orig: 200, 160
+  offset: 25, 12
+  index: -1
+ptfhbz/ptfhbz_00020
+  rotate: false
+  xy: 427, 131
+  size: 127, 129
+  orig: 200, 160
+  offset: 31, 15
+  index: -1
+ptfhbz/ptfhbz_00022
+  rotate: false
+  xy: 293, 2
+  size: 125, 123
+  orig: 200, 160
+  offset: 33, 17
+  index: -1
+ptfhbz/ptfhbz_00024
+  rotate: true
+  xy: 420, 3
+  size: 122, 121
+  orig: 200, 160
+  offset: 33, 18
+  index: -1
+ptfhbz/ptfhbz_00026
+  rotate: false
+  xy: 293, 127
+  size: 132, 132
+  orig: 200, 160
+  offset: 27, 11
+  index: -1

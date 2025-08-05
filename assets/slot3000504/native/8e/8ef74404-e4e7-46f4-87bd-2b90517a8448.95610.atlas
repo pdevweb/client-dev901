@@ -1,0 +1,139 @@
+
+eff_buyfree_tip.png
+size: 676,440
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dk
+  rotate: false
+  xy: 573, 72
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+huo_00
+  rotate: false
+  xy: 639, 173
+  size: 15, 17
+  orig: 34, 34
+  offset: 10, 8
+  index: -1
+huo_01
+  rotate: false
+  xy: 573, 91
+  size: 30, 33
+  orig: 34, 34
+  offset: 4, 0
+  index: -1
+huo_02
+  rotate: false
+  xy: 573, 126
+  size: 32, 34
+  orig: 34, 34
+  offset: 2, 0
+  index: -1
+huo_03
+  rotate: false
+  xy: 639, 227
+  size: 31, 34
+  orig: 34, 34
+  offset: 3, 0
+  index: -1
+huo_04
+  rotate: false
+  xy: 607, 126
+  size: 29, 34
+  orig: 34, 34
+  offset: 4, 0
+  index: -1
+huo_05
+  rotate: false
+  xy: 639, 192
+  size: 27, 33
+  orig: 34, 34
+  offset: 5, 1
+  index: -1
+huo_06
+  rotate: false
+  xy: 517, 51
+  size: 32, 32
+  orig: 34, 34
+  offset: 2, 1
+  index: -1
+huo_07
+  rotate: false
+  xy: 517, 21
+  size: 22, 28
+  orig: 34, 34
+  offset: 6, 4
+  index: -1
+tc_0
+  rotate: false
+  xy: 517, 263
+  size: 155, 174
+  orig: 155, 174
+  offset: 0, 0
+  index: -1
+tc_10
+  rotate: false
+  xy: 605, 100
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+tc_11
+  rotate: false
+  xy: 605, 100
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+tc_12
+  rotate: false
+  xy: 605, 100
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+tc_13
+  rotate: false
+  xy: 605, 100
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+tc_4
+  rotate: true
+  xy: 551, 60
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+tc_5
+  rotate: false
+  xy: 517, 85
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+tc_6
+  rotate: false
+  xy: 573, 162
+  size: 64, 99
+  orig: 64, 99
+  offset: 0, 0
+  index: -1
+tc_7
+  rotate: false
+  xy: 517, 143
+  size: 54, 118
+  orig: 54, 118
+  offset: 0, 0
+  index: -1
+tc_8
+  rotate: true
+  xy: 2, 2
+  size: 435, 513
+  orig: 435, 513
+  offset: 0, 0
+  index: -1

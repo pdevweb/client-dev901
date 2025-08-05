@@ -1,0 +1,146 @@
+
+anticipation.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinbi01/JILIDONGHUA_1
+  rotate: false
+  xy: 537, 6
+  size: 57, 223
+  orig: 58, 250
+  offset: 0, 7
+  index: -1
+jinbi01/JILIDONGHUA_10
+  rotate: false
+  xy: 1107, 2
+  size: 53, 227
+  orig: 58, 250
+  offset: 1, 5
+  index: -1
+jinbi01/JILIDONGHUA_11
+  rotate: false
+  xy: 996, 2
+  size: 54, 227
+  orig: 58, 250
+  offset: 0, 5
+  index: -1
+jinbi01/JILIDONGHUA_12
+  rotate: false
+  xy: 770, 2
+  size: 55, 227
+  orig: 58, 250
+  offset: 0, 5
+  index: -1
+jinbi01/JILIDONGHUA_13
+  rotate: false
+  xy: 655, 4
+  size: 56, 225
+  orig: 58, 250
+  offset: 0, 6
+  index: -1
+jinbi01/JILIDONGHUA_14
+  rotate: false
+  xy: 242, 2
+  size: 57, 227
+  orig: 58, 250
+  offset: 0, 5
+  index: -1
+jinbi01/JILIDONGHUA_15
+  rotate: false
+  xy: 301, 2
+  size: 57, 227
+  orig: 58, 250
+  offset: 0, 5
+  index: -1
+jinbi01/JILIDONGHUA_16
+  rotate: false
+  xy: 2, 2
+  size: 58, 227
+  orig: 58, 250
+  offset: 0, 5
+  index: -1
+jinbi01/JILIDONGHUA_17
+  rotate: false
+  xy: 62, 2
+  size: 58, 227
+  orig: 58, 250
+  offset: 0, 5
+  index: -1
+jinbi01/JILIDONGHUA_18
+  rotate: false
+  xy: 122, 2
+  size: 58, 227
+  orig: 58, 250
+  offset: 0, 5
+  index: -1
+jinbi01/JILIDONGHUA_19
+  rotate: false
+  xy: 182, 4
+  size: 58, 225
+  orig: 58, 250
+  offset: 0, 6
+  index: -1
+jinbi01/JILIDONGHUA_2
+  rotate: false
+  xy: 360, 6
+  size: 58, 223
+  orig: 58, 250
+  offset: 0, 7
+  index: -1
+jinbi01/JILIDONGHUA_20
+  rotate: false
+  xy: 596, 6
+  size: 57, 223
+  orig: 58, 250
+  offset: 0, 7
+  index: -1
+jinbi01/JILIDONGHUA_3
+  rotate: false
+  xy: 420, 4
+  size: 57, 225
+  orig: 58, 250
+  offset: 0, 6
+  index: -1
+jinbi01/JILIDONGHUA_4
+  rotate: false
+  xy: 827, 4
+  size: 55, 225
+  orig: 58, 250
+  offset: 0, 6
+  index: -1
+jinbi01/JILIDONGHUA_5
+  rotate: false
+  xy: 713, 2
+  size: 55, 227
+  orig: 58, 250
+  offset: 0, 5
+  index: -1
+jinbi01/JILIDONGHUA_6
+  rotate: false
+  xy: 479, 2
+  size: 56, 227
+  orig: 58, 250
+  offset: 0, 5
+  index: -1
+jinbi01/JILIDONGHUA_7
+  rotate: false
+  xy: 1052, 2
+  size: 53, 227
+  orig: 58, 250
+  offset: 3, 5
+  index: -1
+jinbi01/JILIDONGHUA_8
+  rotate: false
+  xy: 884, 2
+  size: 54, 227
+  orig: 58, 250
+  offset: 2, 5
+  index: -1
+jinbi01/JILIDONGHUA_9
+  rotate: false
+  xy: 940, 2
+  size: 54, 227
+  orig: 58, 250
+  offset: 1, 5
+  index: -1

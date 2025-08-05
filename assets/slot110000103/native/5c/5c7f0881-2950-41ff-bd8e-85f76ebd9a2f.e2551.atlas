@@ -1,0 +1,279 @@
+
+bigwin.png
+size: 2012,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+16
+  rotate: true
+  xy: 1110, 68
+  size: 106, 36
+  orig: 140, 90
+  offset: 21, 27
+  index: -1
+17
+  rotate: true
+  xy: 1367, 6
+  size: 68, 96
+  orig: 90, 140
+  offset: 10, 9
+  index: -1
+18
+  rotate: true
+  xy: 462, 38
+  size: 136, 125
+  orig: 150, 150
+  offset: 3, 14
+  index: -1
+19
+  rotate: true
+  xy: 912, 49
+  size: 125, 84
+  orig: 155, 110
+  offset: 22, 13
+  index: -1
+20
+  rotate: true
+  xy: 2, 18
+  size: 156, 99
+  orig: 200, 125
+  offset: 22, 13
+  index: -1
+21
+  rotate: true
+  xy: 103, 18
+  size: 156, 97
+  orig: 250, 150
+  offset: 45, 24
+  index: -1
+22
+  rotate: false
+  xy: 589, 39
+  size: 321, 135
+  orig: 414, 238
+  offset: 47, 42
+  index: -1
+23
+  rotate: false
+  xy: 1162, 4
+  size: 203, 63
+  orig: 245, 245
+  offset: 20, 81
+  index: -1
+24
+  rotate: false
+  xy: 1323, 76
+  size: 89, 98
+  orig: 125, 125
+  offset: 15, 16
+  index: -1
+25
+  rotate: true
+  xy: 1414, 85
+  size: 89, 77
+  orig: 125, 100
+  offset: 15, 7
+  index: -1
+26
+  rotate: true
+  xy: 202, 21
+  size: 153, 117
+  orig: 250, 125
+  offset: 51, 6
+  index: -1
+27
+  rotate: false
+  xy: 1148, 69
+  size: 173, 105
+  orig: 320, 160
+  offset: 77, 27
+  index: -1
+bace_gg
+  rotate: true
+  xy: 998, 60
+  size: 114, 110
+  orig: 117, 112
+  offset: 1, 1
+  index: -1
+fantasy_Turntable_bg_01
+  rotate: false
+  xy: 321, 35
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1
+fantasy_Turntable_bg_02
+  rotate: false
+  xy: 975, 9
+  size: 185, 38
+  orig: 185, 38
+  offset: 0, 0
+  index: -1
+light/light_000
+  rotate: false
+  xy: 1493, 88
+  size: 84, 86
+  orig: 175, 175
+  offset: 43, 45
+  index: -1
+light/light_001
+  rotate: true
+  xy: 1493, 2
+  size: 84, 86
+  orig: 175, 175
+  offset: 44, 45
+  index: -1
+light/light_002
+  rotate: false
+  xy: 1664, 89
+  size: 85, 85
+  orig: 175, 175
+  offset: 43, 46
+  index: -1
+light/light_003
+  rotate: false
+  xy: 1668, 2
+  size: 85, 85
+  orig: 175, 175
+  offset: 43, 46
+  index: -1
+light/light_004
+  rotate: false
+  xy: 1924, 89
+  size: 83, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_005
+  rotate: false
+  xy: 1927, 2
+  size: 83, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_006
+  rotate: true
+  xy: 1581, 2
+  size: 84, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_007
+  rotate: false
+  xy: 1755, 2
+  size: 84, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_008
+  rotate: false
+  xy: 1838, 89
+  size: 84, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_009
+  rotate: false
+  xy: 1751, 89
+  size: 85, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_010
+  rotate: false
+  xy: 1841, 2
+  size: 84, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_011
+  rotate: false
+  xy: 1579, 88
+  size: 83, 86
+  orig: 175, 175
+  offset: 44, 45
+  index: -1
+zp_Dragon tortoise
+  rotate: false
+  xy: 540, 21
+  size: 113, 15
+  orig: 113, 15
+  offset: 0, 0
+  index: -1
+zp_Long sawfish
+  rotate: false
+  xy: 744, 5
+  size: 91, 15
+  orig: 91, 15
+  offset: 0, 0
+  index: -1
+zp_Mechanical sharks
+  rotate: false
+  xy: 408, 18
+  size: 130, 15
+  orig: 130, 15
+  offset: 0, 0
+  index: -1
+zp_Sea queen
+  rotate: false
+  xy: 202, 3
+  size: 68, 16
+  orig: 68, 16
+  offset: 0, 0
+  index: -1
+zp_Silver Dragon
+  rotate: false
+  xy: 655, 22
+  size: 96, 15
+  orig: 96, 15
+  offset: 0, 0
+  index: -1
+zp_Spiritual rays
+  rotate: false
+  xy: 644, 4
+  size: 98, 15
+  orig: 98, 15
+  offset: 0, 0
+  index: -1
+zp_Spritefish
+  rotate: false
+  xy: 904, 22
+  size: 69, 15
+  orig: 69, 15
+  offset: 0, 0
+  index: -1
+zp_Void Shark
+  rotate: false
+  xy: 753, 22
+  size: 75, 15
+  orig: 75, 15
+  offset: 0, 0
+  index: -1
+zp_bombcrab
+  rotate: false
+  xy: 830, 22
+  size: 72, 15
+  orig: 75, 15
+  offset: 1, 0
+  index: -1
+zp_drillcrab
+  rotate: false
+  xy: 837, 5
+  size: 71, 15
+  orig: 71, 15
+  offset: 0, 0
+  index: -1
+zp_goldendragon
+  rotate: false
+  xy: 540, 4
+  size: 102, 15
+  orig: 102, 15
+  offset: 0, 0
+  index: -1
+zp_poisonousjellyfish
+  rotate: false
+  xy: 272, 4
+  size: 134, 15
+  orig: 134, 15
+  offset: 0, 0
+  index: -1

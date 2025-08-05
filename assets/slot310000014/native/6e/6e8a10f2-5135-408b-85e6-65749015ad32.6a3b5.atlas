@@ -1,0 +1,20 @@
+
+307_bgxh.png
+size: 840,388
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fg
+  rotate: true
+  xy: 2, 2
+  size: 383, 487
+  orig: 411, 800
+  offset: 28, 16
+  index: -1
+xx
+  rotate: true
+  xy: 491, 20
+  size: 365, 346
+  orig: 365, 347
+  offset: 0, 1
+  index: -1

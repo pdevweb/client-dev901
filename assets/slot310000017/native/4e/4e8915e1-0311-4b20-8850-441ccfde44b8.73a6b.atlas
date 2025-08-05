@@ -1,0 +1,41 @@
+
+eff_liusha.png
+size: 1288,516
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ch
+  rotate: false
+  xy: 1030, 309
+  size: 217, 205
+  orig: 217, 205
+  offset: 0, 0
+  index: -1
+eff
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+guangdian1
+  rotate: true
+  xy: 1030, 9
+  size: 168, 163
+  orig: 168, 163
+  offset: 0, 0
+  index: -1
+guangdian3
+  rotate: false
+  xy: 516, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+guangshu5
+  rotate: true
+  xy: 1030, 179
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1

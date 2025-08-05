@@ -1,0 +1,118 @@
+
+eff_icon_8.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 443, 139
+  size: 94, 115
+  orig: 94, 115
+  offset: 0, 0
+  index: -1
+a_00
+  rotate: false
+  xy: 563, 47
+  size: 88, 100
+  orig: 201, 201
+  offset: 64, 38
+  index: -1
+a_01
+  rotate: false
+  xy: 539, 149
+  size: 103, 105
+  orig: 201, 201
+  offset: 49, 38
+  index: -1
+a_02
+  rotate: true
+  xy: 450, 24
+  size: 113, 111
+  orig: 201, 201
+  offset: 42, 38
+  index: -1
+a_03
+  rotate: false
+  xy: 246, 7
+  size: 116, 117
+  orig: 201, 201
+  offset: 40, 38
+  index: -1
+a_04
+  rotate: true
+  xy: 122, 4
+  size: 119, 122
+  orig: 201, 201
+  offset: 40, 40
+  index: -1
+a_05
+  rotate: false
+  xy: 2, 125
+  size: 122, 129
+  orig: 201, 201
+  offset: 40, 42
+  index: -1
+a_06
+  rotate: false
+  xy: 126, 126
+  size: 123, 128
+  orig: 201, 201
+  offset: 40, 46
+  index: -1
+a_07
+  rotate: false
+  xy: 251, 130
+  size: 123, 124
+  orig: 201, 201
+  offset: 40, 50
+  index: -1
+a_08
+  rotate: true
+  xy: 2, 2
+  size: 121, 118
+  orig: 201, 201
+  offset: 41, 56
+  index: -1
+a_09
+  rotate: true
+  xy: 364, 11
+  size: 117, 84
+  orig: 201, 201
+  offset: 44, 90
+  index: -1
+a_10
+  rotate: false
+  xy: 563, 7
+  size: 80, 38
+  orig: 201, 201
+  offset: 78, 135
+  index: -1
+a_11
+  rotate: false
+  xy: 376, 138
+  size: 65, 116
+  orig: 201, 201
+  offset: 79, 52
+  index: -1
+a_12
+  rotate: false
+  xy: 653, 3
+  size: 75, 72
+  orig: 201, 201
+  offset: 73, 44
+  index: -1
+a_13
+  rotate: false
+  xy: 653, 77
+  size: 81, 83
+  orig: 201, 201
+  offset: 70, 40
+  index: -1
+a_14
+  rotate: false
+  xy: 644, 162
+  size: 82, 92
+  orig: 201, 201
+  offset: 69, 39
+  index: -1

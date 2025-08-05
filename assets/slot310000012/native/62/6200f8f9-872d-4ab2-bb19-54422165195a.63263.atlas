@@ -1,0 +1,286 @@
+
+qingzhu.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11_0
+  rotate: true
+  xy: 1239, 344
+  size: 76, 65
+  orig: 76, 65
+  offset: 0, 0
+  index: -1
+11_1
+  rotate: false
+  xy: 1220, 243
+  size: 74, 87
+  orig: 74, 87
+  offset: 0, 0
+  index: -1
+11_3
+  rotate: false
+  xy: 696, 2
+  size: 100, 82
+  orig: 100, 82
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 696, 86
+  size: 130, 127
+  orig: 172, 172
+  offset: 21, 26
+  index: -1
+chh_00002
+  rotate: false
+  xy: 2, 35
+  size: 475, 475
+  orig: 492, 493
+  offset: 13, 8
+  index: -1
+dian1
+  rotate: true
+  xy: 798, 2
+  size: 82, 76
+  orig: 99, 76
+  offset: 10, 0
+  index: -1
+gq01
+  rotate: false
+  xy: 479, 218
+  size: 292, 292
+  orig: 331, 323
+  offset: 22, 15
+  index: -1
+gt01
+  rotate: false
+  xy: 773, 283
+  size: 78, 227
+  orig: 80, 232
+  offset: 1, 0
+  index: -1
+gt01_0
+  rotate: false
+  xy: 853, 284
+  size: 78, 226
+  orig: 80, 232
+  offset: 1, 0
+  index: -1
+jinbi01/00
+  rotate: false
+  xy: 1081, 331
+  size: 87, 88
+  orig: 101, 101
+  offset: 7, 6
+  index: -1
+jinbi01/01
+  rotate: false
+  xy: 1001, 136
+  size: 86, 88
+  orig: 101, 101
+  offset: 7, 6
+  index: -1
+jinbi01/010
+  rotate: true
+  xy: 773, 224
+  size: 57, 89
+  orig: 101, 101
+  offset: 24, 6
+  index: -1
+jinbi01/011
+  rotate: false
+  xy: 1012, 330
+  size: 67, 89
+  orig: 101, 101
+  offset: 19, 6
+  index: -1
+jinbi01/012
+  rotate: true
+  xy: 876, 7
+  size: 77, 89
+  orig: 101, 101
+  offset: 14, 6
+  index: -1
+jinbi01/013
+  rotate: true
+  xy: 967, 2
+  size: 83, 89
+  orig: 101, 101
+  offset: 11, 6
+  index: -1
+jinbi01/014
+  rotate: false
+  xy: 825, 132
+  size: 86, 90
+  orig: 101, 101
+  offset: 8, 5
+  index: -1
+jinbi01/015
+  rotate: false
+  xy: 1087, 422
+  size: 87, 88
+  orig: 101, 101
+  offset: 7, 6
+  index: -1
+jinbi01/016
+  rotate: false
+  xy: 1058, 46
+  size: 86, 88
+  orig: 101, 101
+  offset: 7, 6
+  index: -1
+jinbi01/017
+  rotate: false
+  xy: 1135, 241
+  size: 83, 88
+  orig: 101, 101
+  offset: 8, 6
+  index: -1
+jinbi01/018
+  rotate: false
+  xy: 1174, 152
+  size: 77, 87
+  orig: 101, 101
+  offset: 10, 7
+  index: -1
+jinbi01/019
+  rotate: false
+  xy: 1176, 422
+  size: 67, 88
+  orig: 101, 101
+  offset: 15, 6
+  index: -1
+jinbi01/02
+  rotate: false
+  xy: 1089, 136
+  size: 83, 88
+  orig: 101, 101
+  offset: 8, 6
+  index: -1
+jinbi01/020
+  rotate: true
+  xy: 1045, 226
+  size: 57, 88
+  orig: 101, 101
+  offset: 20, 6
+  index: -1
+jinbi01/021
+  rotate: true
+  xy: 1023, 285
+  size: 43, 88
+  orig: 101, 101
+  offset: 28, 6
+  index: -1
+jinbi01/022
+  rotate: true
+  xy: 92, 3
+  size: 30, 88
+  orig: 101, 101
+  offset: 35, 6
+  index: -1
+jinbi01/023
+  rotate: true
+  xy: 272, 4
+  size: 29, 88
+  orig: 101, 101
+  offset: 37, 6
+  index: -1
+jinbi01/024
+  rotate: true
+  xy: 916, 87
+  size: 44, 89
+  orig: 101, 101
+  offset: 30, 6
+  index: -1
+jinbi01/025
+  rotate: true
+  xy: 864, 225
+  size: 57, 89
+  orig: 101, 101
+  offset: 24, 6
+  index: -1
+jinbi01/026
+  rotate: false
+  xy: 1018, 421
+  size: 67, 89
+  orig: 101, 101
+  offset: 19, 6
+  index: -1
+jinbi01/027
+  rotate: false
+  xy: 933, 330
+  size: 77, 89
+  orig: 101, 101
+  offset: 14, 6
+  index: -1
+jinbi01/028
+  rotate: false
+  xy: 933, 421
+  size: 83, 89
+  orig: 101, 101
+  offset: 11, 6
+  index: -1
+jinbi01/029
+  rotate: false
+  xy: 913, 133
+  size: 86, 90
+  orig: 101, 101
+  offset: 8, 5
+  index: -1
+jinbi01/03
+  rotate: false
+  xy: 1146, 47
+  size: 77, 87
+  orig: 101, 101
+  offset: 10, 7
+  index: -1
+jinbi01/04
+  rotate: false
+  xy: 1170, 332
+  size: 67, 88
+  orig: 101, 101
+  offset: 15, 6
+  index: -1
+jinbi01/05
+  rotate: true
+  xy: 955, 226
+  size: 57, 88
+  orig: 101, 101
+  offset: 20, 6
+  index: -1
+jinbi01/06
+  rotate: true
+  xy: 933, 285
+  size: 43, 88
+  orig: 101, 101
+  offset: 28, 6
+  index: -1
+jinbi01/07
+  rotate: true
+  xy: 2, 3
+  size: 30, 88
+  orig: 101, 101
+  offset: 35, 6
+  index: -1
+jinbi01/08
+  rotate: true
+  xy: 182, 4
+  size: 29, 88
+  orig: 101, 101
+  offset: 37, 6
+  index: -1
+jinbi01/09
+  rotate: true
+  xy: 825, 86
+  size: 44, 89
+  orig: 101, 101
+  offset: 30, 6
+  index: -1
+lizi 2_0
+  rotate: true
+  xy: 479, 18
+  size: 198, 215
+  orig: 220, 215
+  offset: 11, 0
+  index: -1

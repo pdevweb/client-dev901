@@ -1,0 +1,90 @@
+
+239_popup_tips01.png
+size: 1640,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/chih1
+  rotate: false
+  xy: 1458, 2
+  size: 100, 98
+  orig: 100, 98
+  offset: 0, 0
+  index: -1
+effect/renwu00000
+  rotate: true
+  xy: 1336, 276
+  size: 245, 249
+  orig: 245, 249
+  offset: 0, 0
+  index: -1
+effect/suduxian
+  rotate: true
+  xy: 1336, 102
+  size: 172, 247
+  orig: 172, 247
+  offset: 0, 0
+  index: -1
+effect/xx
+  rotate: true
+  xy: 1336, 9
+  size: 91, 120
+  orig: 93, 123
+  offset: 1, 1
+  index: -1
+guang
+  rotate: true
+  xy: 515, 15
+  size: 506, 423
+  orig: 506, 423
+  offset: 0, 0
+  index: -1
+ren
+  rotate: false
+  xy: 2, 4
+  size: 511, 517
+  orig: 511, 517
+  offset: 0, 0
+  index: -1
+text1
+  rotate: false
+  xy: 940, 5
+  size: 394, 112
+  orig: 394, 112
+  offset: 0, 0
+  index: -1
+text2
+  rotate: true
+  xy: 1279, 234
+  size: 287, 36
+  orig: 287, 36
+  offset: 0, 0
+  index: -1
+text3
+  rotate: true
+  xy: 1213, 209
+  size: 312, 64
+  orig: 312, 64
+  offset: 0, 0
+  index: -1
+text4
+  rotate: true
+  xy: 1587, 243
+  size: 278, 40
+  orig: 278, 40
+  offset: 0, 0
+  index: -1
+theme239_popup_bg_2a
+  rotate: true
+  xy: 940, 119
+  size: 402, 271
+  orig: 402, 271
+  offset: 0, 0
+  index: -1
+xing
+  rotate: false
+  xy: 1585, 189
+  size: 52, 52
+  orig: 70, 70
+  offset: 9, 10
+  index: -1

@@ -1,0 +1,139 @@
+
+277_jp_lv.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0_11
+  rotate: false
+  xy: 516, 274
+  size: 217, 236
+  orig: 219, 239
+  offset: 1, 1
+  index: -1
+0_2
+  rotate: false
+  xy: 431, 9
+  size: 525, 157
+  orig: 525, 157
+  offset: 0, 0
+  index: -1
+0_3
+  rotate: true
+  xy: 348, 168
+  size: 342, 166
+  orig: 342, 166
+  offset: 0, 0
+  index: -1
+0_7
+  rotate: false
+  xy: 2, 107
+  size: 344, 403
+  orig: 344, 403
+  offset: 0, 0
+  index: -1
+5x
+  rotate: true
+  xy: 735, 280
+  size: 230, 165
+  orig: 230, 165
+  offset: 0, 0
+  index: -1
+bet
+  rotate: false
+  xy: 176, 43
+  size: 253, 62
+  orig: 253, 62
+  offset: 0, 0
+  index: -1
+g1
+  rotate: false
+  xy: 90, 20
+  size: 84, 85
+  orig: 86, 86
+  offset: 1, 0
+  index: -1
+gl
+  rotate: false
+  xy: 348, 123
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+hs1
+  rotate: false
+  xy: 45, 7
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+hs2
+  rotate: false
+  xy: 61, 3
+  size: 21, 5
+  orig: 21, 5
+  offset: 0, 0
+  index: -1
+hs3
+  rotate: false
+  xy: 53, 8
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+hs4
+  rotate: false
+  xy: 36, 5
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+hs5
+  rotate: true
+  xy: 176, 7
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+l1
+  rotate: false
+  xy: 2, 19
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+s1
+  rotate: true
+  xy: 201, 13
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+s2
+  rotate: true
+  xy: 61, 10
+  size: 7, 19
+  orig: 7, 19
+  offset: 0, 0
+  index: -1
+s3
+  rotate: false
+  xy: 2, 4
+  size: 32, 13
+  orig: 32, 13
+  offset: 0, 0
+  index: -1
+s4
+  rotate: false
+  xy: 90, 2
+  size: 63, 16
+  orig: 63, 16
+  offset: 0, 0
+  index: -1
+z1
+  rotate: true
+  xy: 958, 190
+  size: 320, 52
+  orig: 322, 54
+  offset: 1, 1
+  index: -1

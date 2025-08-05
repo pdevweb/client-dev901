@@ -1,0 +1,139 @@
+
+277_jp_l.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0_11
+  rotate: false
+  xy: 683, 183
+  size: 302, 327
+  orig: 307, 334
+  offset: 2, 3
+  index: -1
+0_2
+  rotate: false
+  xy: 717, 24
+  size: 524, 157
+  orig: 524, 157
+  offset: 0, 0
+  index: -1
+0_3
+  rotate: true
+  xy: 447, 85
+  size: 425, 180
+  orig: 425, 180
+  offset: 0, 0
+  index: -1
+0_7
+  rotate: false
+  xy: 2, 20
+  size: 443, 490
+  orig: 443, 490
+  offset: 0, 0
+  index: -1
+10x
+  rotate: true
+  xy: 987, 224
+  size: 286, 151
+  orig: 286, 151
+  offset: 0, 0
+  index: -1
+bet
+  rotate: false
+  xy: 447, 19
+  size: 253, 64
+  orig: 253, 64
+  offset: 0, 0
+  index: -1
+g1
+  rotate: false
+  xy: 1140, 425
+  size: 84, 85
+  orig: 86, 86
+  offset: 1, 0
+  index: -1
+gl
+  rotate: false
+  xy: 1140, 380
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+hs1
+  rotate: false
+  xy: 110, 8
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+hs2
+  rotate: false
+  xy: 118, 2
+  size: 21, 5
+  orig: 21, 5
+  offset: 0, 0
+  index: -1
+hs3
+  rotate: false
+  xy: 118, 9
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+hs4
+  rotate: false
+  xy: 101, 6
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+hs5
+  rotate: true
+  xy: 987, 188
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+l1
+  rotate: false
+  xy: 629, 86
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+s1
+  rotate: true
+  xy: 1012, 194
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+s2
+  rotate: true
+  xy: 126, 11
+  size: 7, 19
+  orig: 7, 19
+  offset: 0, 0
+  index: -1
+s3
+  rotate: false
+  xy: 67, 5
+  size: 32, 13
+  orig: 32, 13
+  offset: 0, 0
+  index: -1
+s4
+  rotate: false
+  xy: 2, 2
+  size: 63, 16
+  orig: 63, 16
+  offset: 0, 0
+  index: -1
+z1
+  rotate: true
+  xy: 629, 174
+  size: 336, 52
+  orig: 338, 54
+  offset: 1, 1
+  index: -1

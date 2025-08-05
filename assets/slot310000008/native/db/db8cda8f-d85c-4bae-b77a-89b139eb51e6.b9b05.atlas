@@ -1,0 +1,20 @@
+
+zdj_sc.png
+size: 152,80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yanhua
+  rotate: true
+  xy: 2, 2
+  size: 76, 116
+  orig: 76, 116
+  offset: 0, 0
+  index: -1
+zhayao
+  rotate: false
+  xy: 120, 16
+  size: 27, 62
+  orig: 27, 62
+  offset: 0, 0
+  index: -1

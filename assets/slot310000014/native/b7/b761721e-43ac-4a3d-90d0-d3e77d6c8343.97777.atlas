@@ -1,0 +1,48 @@
+
+superpick_bjxh.png
+size: 456,308
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang1
+  rotate: true
+  xy: 309, 159
+  size: 146, 143
+  orig: 256, 256
+  offset: 55, 57
+  index: -1
+guang3
+  rotate: true
+  xy: 2, 8
+  size: 297, 186
+  orig: 329, 329
+  offset: 20, 86
+  index: -1
+gy01
+  rotate: false
+  xy: 278, 28
+  size: 58, 58
+  orig: 128, 128
+  offset: 33, 35
+  index: -1
+gy02
+  rotate: true
+  xy: 338, 49
+  size: 108, 104
+  orig: 128, 128
+  offset: 10, 12
+  index: -1
+gy03
+  rotate: false
+  xy: 190, 2
+  size: 86, 84
+  orig: 128, 128
+  offset: 21, 22
+  index: -1
+yun1
+  rotate: true
+  xy: 190, 88
+  size: 217, 117
+  orig: 256, 128
+  offset: 16, 5
+  index: -1

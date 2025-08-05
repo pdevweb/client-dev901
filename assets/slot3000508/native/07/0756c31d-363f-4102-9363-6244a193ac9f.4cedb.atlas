@@ -1,0 +1,412 @@
+
+eff_Transition.png
+size: 2004,2004
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1belt
+  rotate: true
+  xy: 255, 14
+  size: 106, 246
+  orig: 106, 246
+  offset: 0, 0
+  index: -1
+1body
+  rotate: true
+  xy: 658, 102
+  size: 296, 297
+  orig: 352, 349
+  offset: 56, 0
+  index: -1
+1eye
+  rotate: true
+  xy: 1242, 530
+  size: 81, 25
+  orig: 83, 27
+  offset: 1, 1
+  index: -1
+1eye_light
+  rotate: true
+  xy: 1962, 1133
+  size: 94, 40
+  orig: 101, 50
+  offset: 4, 5
+  index: -1
+1eye_light2
+  rotate: true
+  xy: 1965, 197
+  size: 40, 37
+  orig: 48, 45
+  offset: 3, 4
+  index: -1
+1head
+  rotate: false
+  xy: 1105, 403
+  size: 135, 208
+  orig: 135, 224
+  offset: 0, 1
+  index: -1
+1jaw
+  rotate: true
+  xy: 1693, 355
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1
+1l_arm1
+  rotate: true
+  xy: 1242, 326
+  size: 192, 239
+  orig: 192, 239
+  offset: 0, 0
+  index: -1
+1l_arm2
+  rotate: true
+  xy: 1165, 2
+  size: 88, 100
+  orig: 90, 103
+  offset: 1, 2
+  index: -1
+1l_thigh
+  rotate: false
+  xy: 1105, 613
+  size: 162, 471
+  orig: 162, 471
+  offset: 0, 0
+  index: -1
+1r_arm1
+  rotate: false
+  xy: 1538, 465
+  size: 209, 167
+  orig: 212, 214
+  offset: 1, 47
+  index: -1
+1r_arm_2
+  rotate: true
+  xy: 1815, 823
+  size: 228, 171
+  orig: 229, 171
+  offset: 0, 0
+  index: -1
+1r_thigh
+  rotate: true
+  xy: 1665, 1053
+  size: 174, 295
+  orig: 179, 296
+  offset: 0, 1
+  index: -1
+1shawl
+  rotate: false
+  xy: 1269, 746
+  size: 289, 282
+  orig: 290, 282
+  offset: 0, 0
+  index: -1
+1trousers
+  rotate: true
+  xy: 957, 41
+  size: 357, 206
+  orig: 357, 207
+  offset: 0, 0
+  index: -1
+1trousers_di
+  rotate: false
+  xy: 1893, 358
+  size: 109, 43
+  orig: 111, 45
+  offset: 1, 1
+  index: -1
+1waist
+  rotate: false
+  xy: 1815, 760
+  size: 159, 61
+  orig: 161, 64
+  offset: 1, 2
+  index: -1
+1wuqi
+  rotate: false
+  xy: 2, 1086
+  size: 1292, 916
+  orig: 1294, 918
+  offset: 1, 1
+  index: -1
+2body
+  rotate: true
+  xy: 1269, 520
+  size: 224, 267
+  orig: 292, 292
+  offset: 3, 22
+  index: -1
+2eye
+  rotate: true
+  xy: 1976, 790
+  size: 31, 26
+  orig: 33, 28
+  offset: 1, 1
+  index: -1
+2head
+  rotate: true
+  xy: 2, 3
+  size: 117, 251
+  orig: 126, 269
+  offset: 7, 1
+  index: -1
+2jaw
+  rotate: false
+  xy: 1884, 146
+  size: 79, 91
+  orig: 90, 93
+  offset: 10, 1
+  index: -1
+2l_hand
+  rotate: false
+  xy: 1296, 1030
+  size: 367, 197
+  orig: 371, 197
+  offset: 4, 0
+  index: -1
+2r_hand
+  rotate: true
+  xy: 1399, 93
+  size: 231, 137
+  orig: 232, 139
+  offset: 1, 2
+  index: -1
+2shawl
+  rotate: false
+  xy: 1560, 771
+  size: 253, 257
+  orig: 256, 277
+  offset: 0, 20
+  index: -1
+2waist
+  rotate: false
+  xy: 608, 27
+  size: 191, 73
+  orig: 191, 73
+  offset: 0, 0
+  index: -1
+2wuqi
+  rotate: true
+  xy: 2, 400
+  size: 684, 1101
+  orig: 686, 1104
+  offset: 1, 2
+  index: -1
+3ear
+  rotate: false
+  xy: 1538, 228
+  size: 146, 127
+  orig: 148, 131
+  offset: 0, 0
+  index: -1
+3eye
+  rotate: true
+  xy: 1961, 1903
+  size: 99, 25
+  orig: 99, 25
+  offset: 0, 0
+  index: -1
+3head
+  rotate: true
+  xy: 1560, 634
+  size: 135, 224
+  orig: 135, 224
+  offset: 0, 0
+  index: -1
+3mouth
+  rotate: true
+  xy: 1483, 357
+  size: 106, 208
+  orig: 106, 208
+  offset: 0, 0
+  index: -1
+3saliva
+  rotate: false
+  xy: 1947, 550
+  size: 49, 113
+  orig: 52, 118
+  offset: 1, 3
+  index: -1
+3shawl
+  rotate: false
+  xy: 1668, 1229
+  size: 306, 303
+  orig: 308, 305
+  offset: 1, 1
+  index: -1
+daoguang/daoguang1_01
+  rotate: true
+  xy: 1962, 1053
+  size: 78, 32
+  orig: 126, 126
+  offset: 20, 92
+  index: -1
+daoguang/daoguang1_02
+  rotate: false
+  xy: 1267, 17
+  size: 99, 73
+  orig: 125, 126
+  offset: 21, 53
+  index: -1
+daoguang/daoguang1_03
+  rotate: true
+  xy: 1781, 128
+  size: 103, 101
+  orig: 125, 126
+  offset: 21, 23
+  index: -1
+daoguang/daoguang1_04
+  rotate: false
+  xy: 1891, 239
+  size: 105, 117
+  orig: 124, 126
+  offset: 19, 5
+  index: -1
+daoguang/daoguang1_05
+  rotate: true
+  xy: 1399, 2
+  size: 89, 113
+  orig: 126, 124
+  offset: 36, 2
+  index: -1
+daoguang/daoguang1_06
+  rotate: false
+  xy: 1786, 32
+  size: 91, 94
+  orig: 125, 124
+  offset: 32, 0
+  index: -1
+daoguang/daoguang1_07
+  rotate: true
+  xy: 1917, 665
+  size: 93, 62
+  orig: 125, 124
+  offset: 23, 0
+  index: -1
+daoguang/daoguang1_08
+  rotate: true
+  xy: 1879, 33
+  size: 93, 56
+  orig: 124, 124
+  offset: 17, 1
+  index: -1
+shachen
+  rotate: false
+  xy: 1296, 1229
+  size: 370, 303
+  orig: 370, 303
+  offset: 0, 0
+  index: -1
+shachen2
+  rotate: false
+  xy: 1296, 1534
+  size: 663, 468
+  orig: 663, 468
+  offset: 0, 0
+  index: -1
+xx_eff
+  rotate: false
+  xy: 1165, 92
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+yanguang/Fire_00000
+  rotate: false
+  xy: 1663, 121
+  size: 116, 105
+  orig: 160, 136
+  offset: 18, 10
+  index: -1
+yanguang/Fire_00002
+  rotate: true
+  xy: 1686, 233
+  size: 120, 111
+  orig: 160, 136
+  offset: 19, 10
+  index: -1
+yanguang/Fire_00004
+  rotate: false
+  xy: 1538, 117
+  size: 123, 109
+  orig: 160, 136
+  offset: 17, 10
+  index: -1
+yanguang/Fire_00006
+  rotate: true
+  xy: 503, 2
+  size: 118, 103
+  orig: 160, 136
+  offset: 20, 10
+  index: -1
+yanguang/Fire_00008
+  rotate: false
+  xy: 1538, 12
+  size: 124, 103
+  orig: 160, 136
+  offset: 19, 10
+  index: -1
+yanguang/Fire_00010
+  rotate: false
+  xy: 1786, 655
+  size: 129, 103
+  orig: 160, 136
+  offset: 18, 10
+  index: -1
+yanguang/Fire_00012
+  rotate: true
+  xy: 1749, 501
+  size: 131, 99
+  orig: 160, 136
+  offset: 18, 10
+  index: -1
+yanguang/Fire_00014
+  rotate: false
+  xy: 801, 5
+  size: 129, 95
+  orig: 160, 136
+  offset: 18, 10
+  index: -1
+yanguang/Fire_00016
+  rotate: true
+  xy: 1850, 525
+  size: 128, 95
+  orig: 160, 136
+  offset: 17, 10
+  index: -1
+yanguang/Fire_00018
+  rotate: true
+  xy: 1799, 376
+  size: 123, 92
+  orig: 160, 136
+  offset: 16, 10
+  index: -1
+yanguang/Fire_00020
+  rotate: true
+  xy: 1893, 403
+  size: 120, 91
+  orig: 160, 136
+  offset: 18, 10
+  index: -1
+yanguang/Fire_00022
+  rotate: true
+  xy: 1799, 251
+  size: 123, 90
+  orig: 160, 136
+  offset: 17, 11
+  index: -1
+yanguang/Fire_00024
+  rotate: false
+  xy: 1664, 23
+  size: 120, 96
+  orig: 160, 136
+  offset: 18, 11
+  index: -1
+yy
+  rotate: false
+  xy: 2, 122
+  size: 654, 276
+  orig: 733, 391
+  offset: 37, 0
+  index: -1

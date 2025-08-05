@@ -1,0 +1,167 @@
+
+245_symbol_l4.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 15
+  size: 96, 110
+  orig: 128, 128
+  offset: 16, 6
+  index: -1
+a
+  rotate: false
+  xy: 745, 22
+  size: 61, 62
+  orig: 73, 68
+  offset: 7, 3
+  index: -1
+a/a_0
+  rotate: false
+  xy: 740, 86
+  size: 58, 39
+  orig: 69, 70
+  offset: 4, 2
+  index: -1
+a/a_1
+  rotate: false
+  xy: 678, 83
+  size: 60, 42
+  orig: 69, 70
+  offset: 3, 2
+  index: -1
+a/a_10
+  rotate: true
+  xy: 292, 65
+  size: 60, 67
+  orig: 69, 70
+  offset: 6, 2
+  index: -1
+a/a_11
+  rotate: true
+  xy: 361, 65
+  size: 60, 66
+  orig: 69, 70
+  offset: 6, 3
+  index: -1
+a/a_12
+  rotate: true
+  xy: 429, 65
+  size: 60, 65
+  orig: 69, 70
+  offset: 6, 4
+  index: -1
+a/a_13
+  rotate: true
+  xy: 616, 3
+  size: 61, 64
+  orig: 69, 70
+  offset: 6, 5
+  index: -1
+a/a_14
+  rotate: false
+  xy: 164, 60
+  size: 62, 65
+  orig: 69, 70
+  offset: 6, 5
+  index: -1
+a/a_15
+  rotate: false
+  xy: 228, 60
+  size: 62, 65
+  orig: 69, 70
+  offset: 7, 5
+  index: -1
+a/a_16
+  rotate: false
+  xy: 682, 17
+  size: 61, 64
+  orig: 69, 70
+  offset: 8, 6
+  index: -1
+a/a_17
+  rotate: true
+  xy: 561, 66
+  size: 59, 64
+  orig: 69, 70
+  offset: 10, 6
+  index: -1
+a/a_18
+  rotate: true
+  xy: 100, 2
+  size: 56, 62
+  orig: 69, 70
+  offset: 13, 8
+  index: -1
+a/a_19
+  rotate: true
+  xy: 226, 5
+  size: 53, 60
+  orig: 69, 70
+  offset: 16, 10
+  index: -1
+a/a_2
+  rotate: false
+  xy: 288, 9
+  size: 60, 49
+  orig: 69, 70
+  offset: 3, 1
+  index: -1
+a/a_20
+  rotate: false
+  xy: 627, 67
+  size: 49, 58
+  orig: 69, 70
+  offset: 20, 12
+  index: -1
+a/a_3
+  rotate: false
+  xy: 164, 5
+  size: 60, 53
+  orig: 69, 70
+  offset: 3, 1
+  index: -1
+a/a_4
+  rotate: true
+  xy: 496, 65
+  size: 60, 63
+  orig: 69, 70
+  offset: 3, 1
+  index: -1
+a/a_5
+  rotate: true
+  xy: 350, 2
+  size: 61, 65
+  orig: 69, 70
+  offset: 3, 1
+  index: -1
+a/a_6
+  rotate: false
+  xy: 100, 60
+  size: 62, 65
+  orig: 69, 70
+  offset: 3, 1
+  index: -1
+a/a_7
+  rotate: true
+  xy: 484, 2
+  size: 61, 64
+  orig: 69, 70
+  offset: 4, 2
+  index: -1
+a/a_8
+  rotate: true
+  xy: 550, 2
+  size: 61, 64
+  orig: 69, 70
+  offset: 4, 2
+  index: -1
+a/a_9
+  rotate: true
+  xy: 417, 2
+  size: 61, 65
+  orig: 69, 70
+  offset: 5, 2
+  index: -1

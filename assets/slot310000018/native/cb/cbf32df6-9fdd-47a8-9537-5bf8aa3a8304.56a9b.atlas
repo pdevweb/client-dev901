@@ -1,0 +1,20 @@
+
+jb_xh.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/lizi
+  rotate: true
+  xy: 62, 31
+  size: 29, 26
+  orig: 54, 54
+  offset: 13, 15
+  index: -1
+tx/xingguang_0
+  rotate: false
+  xy: 2, 2
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1

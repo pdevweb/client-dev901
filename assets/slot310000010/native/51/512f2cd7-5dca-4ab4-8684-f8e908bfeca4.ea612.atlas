@@ -1,0 +1,167 @@
+
+239_k.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+k
+  rotate: false
+  xy: 132, 2
+  size: 69, 66
+  orig: 69, 66
+  offset: 0, 0
+  index: -1
+k/k_0
+  rotate: false
+  xy: 262, 2
+  size: 32, 16
+  orig: 77, 71
+  offset: 6, 53
+  index: -1
+k/k_1
+  rotate: false
+  xy: 392, 2
+  size: 48, 22
+  orig: 77, 71
+  offset: 6, 47
+  index: -1
+k/k_10
+  rotate: false
+  xy: 1562, 2
+  size: 62, 67
+  orig: 77, 71
+  offset: 5, 2
+  index: -1
+k/k_11
+  rotate: false
+  xy: 1692, 2
+  size: 62, 67
+  orig: 77, 71
+  offset: 5, 2
+  index: -1
+k/k_12
+  rotate: false
+  xy: 1822, 2
+  size: 62, 64
+  orig: 77, 71
+  offset: 5, 2
+  index: -1
+k/k_13
+  rotate: false
+  xy: 2, 132
+  size: 65, 56
+  orig: 77, 71
+  offset: 5, 2
+  index: -1
+k/k_14
+  rotate: false
+  xy: 132, 132
+  size: 68, 48
+  orig: 77, 71
+  offset: 5, 2
+  index: -1
+k/k_15
+  rotate: false
+  xy: 262, 132
+  size: 69, 39
+  orig: 77, 71
+  offset: 5, 2
+  index: -1
+k/k_16
+  rotate: false
+  xy: 392, 132
+  size: 69, 34
+  orig: 77, 71
+  offset: 5, 2
+  index: -1
+k/k_17
+  rotate: false
+  xy: 522, 132
+  size: 69, 30
+  orig: 77, 71
+  offset: 5, 2
+  index: -1
+k/k_18
+  rotate: false
+  xy: 652, 132
+  size: 69, 26
+  orig: 77, 71
+  offset: 5, 2
+  index: -1
+k/k_19
+  rotate: false
+  xy: 782, 132
+  size: 62, 23
+  orig: 77, 71
+  offset: 12, 2
+  index: -1
+k/k_2
+  rotate: false
+  xy: 522, 2
+  size: 59, 27
+  orig: 77, 71
+  offset: 6, 42
+  index: -1
+k/k_20
+  rotate: false
+  xy: 912, 132
+  size: 51, 19
+  orig: 77, 71
+  offset: 23, 2
+  index: -1
+k/k_3
+  rotate: false
+  xy: 652, 2
+  size: 61, 33
+  orig: 77, 71
+  offset: 6, 36
+  index: -1
+k/k_4
+  rotate: false
+  xy: 782, 2
+  size: 61, 38
+  orig: 77, 71
+  offset: 6, 31
+  index: -1
+k/k_5
+  rotate: false
+  xy: 912, 2
+  size: 61, 43
+  orig: 77, 71
+  offset: 6, 26
+  index: -1
+k/k_6
+  rotate: false
+  xy: 1042, 2
+  size: 61, 48
+  orig: 77, 71
+  offset: 6, 21
+  index: -1
+k/k_7
+  rotate: false
+  xy: 1172, 2
+  size: 60, 54
+  orig: 77, 71
+  offset: 7, 15
+  index: -1
+k/k_8
+  rotate: false
+  xy: 1302, 2
+  size: 60, 61
+  orig: 77, 71
+  offset: 7, 8
+  index: -1
+k/k_9
+  rotate: false
+  xy: 1432, 2
+  size: 62, 66
+  orig: 77, 71
+  offset: 5, 3
+  index: -1

@@ -1,0 +1,69 @@
+
+eff_free_tip.png
+size: 1128,456
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bizoti
+  rotate: false
+  xy: 610, 350
+  size: 508, 104
+  orig: 508, 106
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 2
+  size: 606, 452
+  orig: 606, 452
+  offset: 0, 0
+  index: -1
+dik_00
+  rotate: false
+  xy: 610, 46
+  size: 303, 196
+  orig: 303, 196
+  offset: 0, 0
+  index: -1
+free spins
+  rotate: true
+  xy: 915, 97
+  size: 145, 21
+  orig: 145, 21
+  offset: 0, 0
+  index: -1
+hong
+  rotate: false
+  xy: 610, 244
+  size: 382, 104
+  orig: 385, 107
+  offset: 2, 2
+  index: -1
+press anywhere to continue
+  rotate: true
+  xy: 994, 27
+  size: 321, 17
+  orig: 321, 17
+  offset: 0, 0
+  index: -1
+sssss
+  rotate: true
+  xy: 1079, 132
+  size: 216, 21
+  orig: 216, 21
+  offset: 0, 0
+  index: -1
+win
+  rotate: true
+  xy: 1013, 71
+  size: 277, 64
+  orig: 277, 64
+  offset: 0, 0
+  index: -1
+you have won
+  rotate: true
+  xy: 1102, 136
+  size: 212, 21
+  orig: 212, 21
+  offset: 0, 0
+  index: -1

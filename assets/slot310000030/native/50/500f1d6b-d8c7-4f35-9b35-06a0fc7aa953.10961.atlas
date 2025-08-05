@@ -1,0 +1,62 @@
+
+402_jptc_di.png
+size: 1372,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gx_1
+  rotate: false
+  xy: 1202, 125
+  size: 91, 110
+  orig: 103, 122
+  offset: 6, 6
+  index: -1
+gx_2
+  rotate: false
+  xy: 1202, 24
+  size: 83, 99
+  orig: 93, 110
+  offset: 5, 6
+  index: -1
+gx_3
+  rotate: false
+  xy: 1287, 29
+  size: 78, 94
+  orig: 88, 104
+  offset: 5, 5
+  index: -1
+gx_4
+  rotate: false
+  xy: 1295, 147
+  size: 73, 88
+  orig: 82, 98
+  offset: 4, 5
+  index: -1
+hd
+  rotate: false
+  xy: 2, 10
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+mz1
+  rotate: false
+  xy: 2, 13
+  size: 531, 222
+  orig: 532, 222
+  offset: 0, 0
+  index: -1
+mz2
+  rotate: false
+  xy: 535, 2
+  size: 499, 233
+  orig: 499, 233
+  offset: 0, 0
+  index: -1
+rwgx
+  rotate: false
+  xy: 1036, 71
+  size: 164, 164
+  orig: 168, 168
+  offset: 2, 2
+  index: -1

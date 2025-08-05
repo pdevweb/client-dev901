@@ -1,0 +1,69 @@
+
+eff_daiji.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff
+  rotate: false
+  xy: 2, 2
+  size: 232, 232
+  orig: 256, 256
+  offset: 12, 12
+  index: -1
+guangdian1
+  rotate: false
+  xy: 399, 135
+  size: 102, 99
+  orig: 128, 128
+  offset: 11, 15
+  index: -1
+jdt
+  rotate: true
+  xy: 344, 10
+  size: 108, 53
+  orig: 108, 53
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 454, 14
+  size: 47, 63
+  orig: 88, 71
+  offset: 16, 2
+  index: -1
+light2
+  rotate: false
+  xy: 399, 6
+  size: 53, 71
+  orig: 62, 75
+  offset: 4, 2
+  index: -1
+light_00
+  rotate: true
+  xy: 399, 79
+  size: 54, 100
+  orig: 100, 100
+  offset: 46, 0
+  index: -1
+selight2
+  rotate: false
+  xy: 236, 120
+  size: 113, 114
+  orig: 116, 116
+  offset: 1, 1
+  index: -1
+selight3
+  rotate: true
+  xy: 236, 9
+  size: 109, 106
+  orig: 116, 116
+  offset: 2, 5
+  index: -1
+xx
+  rotate: false
+  xy: 351, 204
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1

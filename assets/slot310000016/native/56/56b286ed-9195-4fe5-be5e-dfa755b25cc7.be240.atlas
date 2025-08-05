@@ -1,0 +1,97 @@
+
+NG_H4.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H4
+  rotate: true
+  xy: 676, 125
+  size: 168, 143
+  orig: 188, 188
+  offset: 10, 19
+  index: -1
+ld001
+  rotate: false
+  xy: 0, 9
+  size: 198, 107
+  orig: 198, 107
+  offset: 0, 0
+  index: -1
+ld002
+  rotate: false
+  xy: 645, 0
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+ld003
+  rotate: true
+  xy: 542, 5
+  size: 117, 101
+  orig: 117, 101
+  offset: 0, 0
+  index: -1
+ld004
+  rotate: false
+  xy: 329, 5
+  size: 109, 111
+  orig: 109, 111
+  offset: 0, 0
+  index: -1
+ld005
+  rotate: true
+  xy: 645, 58
+  size: 64, 46
+  orig: 64, 46
+  offset: 0, 0
+  index: -1
+ld006
+  rotate: false
+  xy: 200, 18
+  size: 127, 98
+  orig: 127, 98
+  offset: 0, 0
+  index: -1
+ld007
+  rotate: false
+  xy: 676, 295
+  size: 206, 216
+  orig: 253, 216
+  offset: 0, 0
+  index: -1
+ld008
+  rotate: false
+  xy: 693, 67
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+ld009
+  rotate: false
+  xy: 440, 2
+  size: 100, 120
+  orig: 100, 120
+  offset: 0, 0
+  index: -1
+ld010
+  rotate: false
+  xy: 821, 77
+  size: 204, 216
+  orig: 254, 216
+  offset: 50, 0
+  index: -1
+lddi
+  rotate: true
+  xy: 338, 124
+  size: 387, 336
+  orig: 387, 336
+  offset: 0, 0
+  index: -1
+ldkuang
+  rotate: true
+  xy: 0, 118
+  size: 393, 336
+  orig: 393, 336
+  offset: 0, 0
+  index: -1

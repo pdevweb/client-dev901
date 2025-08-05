@@ -1,0 +1,48 @@
+
+freejp_kuang.png
+size: 359,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bkg1
+  rotate: false
+  xy: 2, 3
+  size: 234, 53
+  orig: 240, 57
+  offset: 3, 2
+  index: -1
+bkg2
+  rotate: true
+  xy: 204, 68
+  size: 190, 46
+  orig: 194, 50
+  offset: 2, 2
+  index: -1
+guangxiao03
+  rotate: false
+  xy: 2, 58
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+lg1
+  rotate: true
+  xy: 304, 24
+  size: 234, 53
+  orig: 240, 57
+  offset: 3, 2
+  index: -1
+lg2
+  rotate: true
+  xy: 252, 68
+  size: 190, 46
+  orig: 194, 50
+  offset: 2, 2
+  index: -1
+xg_01
+  rotate: false
+  xy: 238, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

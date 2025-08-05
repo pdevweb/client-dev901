@@ -1,0 +1,426 @@
+
+eff_led_xn.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xnlz/led_art_00000
+  rotate: false
+  xy: 2, 575
+  size: 467, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00001
+  rotate: false
+  xy: 471, 575
+  size: 467, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00002
+  rotate: false
+  xy: 940, 575
+  size: 466, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00003
+  rotate: false
+  xy: 1408, 574
+  size: 466, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00004
+  rotate: false
+  xy: 2, 531
+  size: 466, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00005
+  rotate: false
+  xy: 470, 531
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00006
+  rotate: false
+  xy: 2, 619
+  size: 482, 41
+  orig: 482, 57
+  offset: 0, 9
+  index: -1
+xnlz/led_art_00007
+  rotate: false
+  xy: 486, 619
+  size: 482, 41
+  orig: 482, 57
+  offset: 0, 9
+  index: -1
+xnlz/led_art_00008
+  rotate: false
+  xy: 970, 619
+  size: 482, 41
+  orig: 482, 57
+  offset: 0, 9
+  index: -1
+xnlz/led_art_00009
+  rotate: false
+  xy: 954, 530
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00010
+  rotate: false
+  xy: 1438, 530
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00011
+  rotate: false
+  xy: 2, 487
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00012
+  rotate: false
+  xy: 486, 486
+  size: 481, 42
+  orig: 482, 57
+  offset: 1, 8
+  index: -1
+xnlz/led_art_00013
+  rotate: false
+  xy: 969, 486
+  size: 481, 42
+  orig: 482, 57
+  offset: 1, 8
+  index: -1
+xnlz/led_art_00014
+  rotate: false
+  xy: 1452, 486
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00015
+  rotate: false
+  xy: 2, 443
+  size: 481, 42
+  orig: 482, 57
+  offset: 1, 8
+  index: -1
+xnlz/led_art_00016
+  rotate: false
+  xy: 485, 442
+  size: 481, 42
+  orig: 482, 57
+  offset: 1, 8
+  index: -1
+xnlz/led_art_00017
+  rotate: false
+  xy: 968, 442
+  size: 481, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00018
+  rotate: false
+  xy: 1451, 442
+  size: 477, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00019
+  rotate: false
+  xy: 2, 399
+  size: 477, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00020
+  rotate: false
+  xy: 481, 398
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00021
+  rotate: false
+  xy: 965, 398
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00022
+  rotate: false
+  xy: 1449, 398
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00023
+  rotate: false
+  xy: 2, 354
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00024
+  rotate: false
+  xy: 486, 354
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00025
+  rotate: false
+  xy: 970, 354
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00026
+  rotate: false
+  xy: 1454, 354
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00027
+  rotate: false
+  xy: 2, 310
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00028
+  rotate: false
+  xy: 486, 310
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00029
+  rotate: false
+  xy: 970, 310
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00030
+  rotate: false
+  xy: 1454, 310
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00031
+  rotate: false
+  xy: 2, 266
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00032
+  rotate: false
+  xy: 486, 266
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00033
+  rotate: false
+  xy: 970, 266
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00034
+  rotate: false
+  xy: 1454, 266
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00035
+  rotate: false
+  xy: 2, 222
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00036
+  rotate: false
+  xy: 486, 222
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00037
+  rotate: false
+  xy: 970, 222
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00038
+  rotate: false
+  xy: 1454, 222
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00039
+  rotate: false
+  xy: 2, 178
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00040
+  rotate: false
+  xy: 486, 178
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00041
+  rotate: false
+  xy: 970, 178
+  size: 481, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00042
+  rotate: false
+  xy: 1453, 178
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00043
+  rotate: false
+  xy: 2, 134
+  size: 481, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00044
+  rotate: false
+  xy: 485, 134
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00045
+  rotate: false
+  xy: 969, 134
+  size: 480, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00046
+  rotate: true
+  xy: 1938, 182
+  size: 478, 42
+  orig: 482, 57
+  offset: 1, 8
+  index: -1
+xnlz/led_art_00047
+  rotate: true
+  xy: 1982, 182
+  size: 478, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00048
+  rotate: false
+  xy: 1451, 134
+  size: 478, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00049
+  rotate: false
+  xy: 2, 90
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00050
+  rotate: false
+  xy: 486, 90
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00051
+  rotate: false
+  xy: 970, 90
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00052
+  rotate: false
+  xy: 1454, 90
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00053
+  rotate: false
+  xy: 2, 46
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00054
+  rotate: false
+  xy: 486, 46
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00055
+  rotate: false
+  xy: 970, 46
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00056
+  rotate: false
+  xy: 1454, 46
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00057
+  rotate: false
+  xy: 2, 2
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00058
+  rotate: false
+  xy: 486, 2
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1
+xnlz/led_art_00059
+  rotate: false
+  xy: 1454, 618
+  size: 482, 42
+  orig: 482, 57
+  offset: 0, 8
+  index: -1

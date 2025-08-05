@@ -1,0 +1,146 @@
+
+eff_zjjs.png
+size: 468,468
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bd/yanhua_00
+  rotate: false
+  xy: 234, 230
+  size: 27, 27
+  orig: 130, 115
+  offset: 53, 46
+  index: -1
+images/bd/yanhua_02
+  rotate: true
+  xy: 234, 296
+  size: 38, 39
+  orig: 130, 115
+  offset: 48, 40
+  index: -1
+images/bd/yanhua_04
+  rotate: false
+  xy: 238, 9
+  size: 48, 49
+  orig: 130, 115
+  offset: 43, 35
+  index: -1
+images/bd/yanhua_06
+  rotate: false
+  xy: 313, 2
+  size: 58, 59
+  orig: 130, 115
+  offset: 38, 29
+  index: -1
+images/bd/yanhua_08
+  rotate: false
+  xy: 387, 24
+  size: 65, 65
+  orig: 130, 115
+  offset: 35, 25
+  index: -1
+images/bd/yanhua_10
+  rotate: true
+  xy: 314, 153
+  size: 72, 69
+  orig: 130, 115
+  offset: 32, 22
+  index: -1
+images/bd/yanhua_12
+  rotate: true
+  xy: 313, 63
+  size: 78, 72
+  orig: 130, 115
+  offset: 30, 20
+  index: -1
+images/bd/yanhua_14
+  rotate: true
+  xy: 234, 143
+  size: 82, 78
+  orig: 130, 115
+  offset: 27, 15
+  index: -1
+images/bd/yanhua_16
+  rotate: true
+  xy: 2, 18
+  size: 84, 75
+  orig: 130, 115
+  offset: 26, 17
+  index: -1
+images/bd/yanhua_18
+  rotate: true
+  xy: 79, 19
+  size: 83, 73
+  orig: 130, 115
+  offset: 29, 19
+  index: -1
+images/bd/yanhua_20
+  rotate: true
+  xy: 238, 60
+  size: 81, 73
+  orig: 130, 115
+  offset: 31, 20
+  index: -1
+images/bd/yanhua_22
+  rotate: false
+  xy: 387, 158
+  size: 78, 67
+  orig: 130, 115
+  offset: 31, 23
+  index: -1
+images/bd/yanhua_23
+  rotate: false
+  xy: 387, 91
+  size: 76, 65
+  orig: 130, 115
+  offset: 32, 24
+  index: -1
+images/cjlg
+  rotate: false
+  xy: 271, 227
+  size: 183, 59
+  orig: 201, 67
+  offset: 9, 4
+  index: -1
+images/gq11
+  rotate: false
+  xy: 154, 20
+  size: 82, 82
+  orig: 86, 86
+  offset: 2, 2
+  index: -1
+images/gx_00
+  rotate: false
+  xy: 280, 288
+  size: 184, 177
+  orig: 201, 194
+  offset: 6, 10
+  index: -1
+images/gxp_00
+  rotate: false
+  xy: 2, 336
+  size: 270, 48
+  orig: 343, 172
+  offset: 31, 56
+  index: -1
+images/gy
+  rotate: false
+  xy: 234, 259
+  size: 35, 35
+  orig: 43, 43
+  offset: 4, 4
+  index: -1
+images/jjl
+  rotate: false
+  xy: 2, 386
+  size: 276, 79
+  orig: 276, 79
+  offset: 0, 0
+  index: -1
+images/light
+  rotate: false
+  xy: 2, 104
+  size: 230, 230
+  orig: 268, 268
+  offset: 20, 18
+  index: -1

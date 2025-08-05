@@ -1,0 +1,118 @@
+
+paotai_di.png
+size: 908,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paotai_lv1_001
+  rotate: false
+  xy: 2, 4
+  size: 186, 100
+  orig: 186, 100
+  offset: 0, 0
+  index: -1
+paotai_lv1_eff/paotai_lv1_001_000
+  rotate: false
+  xy: 190, 54
+  size: 93, 50
+  orig: 93, 50
+  offset: 0, 0
+  index: -1
+paotai_lv1_eff/paotai_lv1_001_001
+  rotate: false
+  xy: 285, 54
+  size: 93, 50
+  orig: 93, 50
+  offset: 0, 0
+  index: -1
+paotai_lv1_eff/paotai_lv1_001_002
+  rotate: false
+  xy: 380, 54
+  size: 93, 50
+  orig: 93, 50
+  offset: 0, 0
+  index: -1
+paotai_lv1_eff/paotai_lv1_001_003
+  rotate: false
+  xy: 475, 54
+  size: 93, 50
+  orig: 93, 50
+  offset: 0, 0
+  index: -1
+paotai_lv1_eff/paotai_lv1_001_004
+  rotate: false
+  xy: 570, 54
+  size: 93, 50
+  orig: 93, 50
+  offset: 0, 0
+  index: -1
+paotai_lv1_eff/paotai_lv1_001_005
+  rotate: false
+  xy: 665, 54
+  size: 93, 50
+  orig: 93, 50
+  offset: 0, 0
+  index: -1
+paotai_lv1_eff/paotai_lv1_001_006
+  rotate: false
+  xy: 760, 54
+  size: 93, 50
+  orig: 93, 50
+  offset: 0, 0
+  index: -1
+paotai_lv1_eff/paotai_lv1_001_007
+  rotate: false
+  xy: 190, 2
+  size: 93, 50
+  orig: 93, 50
+  offset: 0, 0
+  index: -1
+paotai_lv1_eff/paotai_lv1_001_008
+  rotate: false
+  xy: 285, 2
+  size: 93, 50
+  orig: 93, 50
+  offset: 0, 0
+  index: -1
+paotai_lv1_eff/paotai_lv1_001_009
+  rotate: false
+  xy: 380, 2
+  size: 93, 50
+  orig: 93, 50
+  offset: 0, 0
+  index: -1
+paotai_lv1_eff/paotai_lv1_001_010
+  rotate: false
+  xy: 475, 2
+  size: 93, 50
+  orig: 93, 50
+  offset: 0, 0
+  index: -1
+paotai_lv1_eff/paotai_lv1_001_011
+  rotate: false
+  xy: 570, 2
+  size: 93, 50
+  orig: 93, 50
+  offset: 0, 0
+  index: -1
+paotai_lv1_eff/paotai_lv1_001_012
+  rotate: false
+  xy: 665, 2
+  size: 93, 50
+  orig: 93, 50
+  offset: 0, 0
+  index: -1
+paotai_lv1_eff/paotai_lv1_001_013
+  rotate: false
+  xy: 760, 2
+  size: 93, 50
+  orig: 93, 50
+  offset: 0, 0
+  index: -1
+paotai_lv1_eff/paotai_lv1_001_014
+  rotate: true
+  xy: 855, 11
+  size: 93, 50
+  orig: 93, 50
+  offset: 0, 0
+  index: -1

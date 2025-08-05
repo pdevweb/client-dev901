@@ -1,0 +1,34 @@
+
+eff_fenlieyugao.png
+size: 516,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/glow_00
+  rotate: false
+  xy: 312, 151
+  size: 146, 146
+  orig: 172, 172
+  offset: 13, 13
+  index: -1
+images/gx
+  rotate: true
+  xy: 312, 2
+  size: 147, 78
+  orig: 223, 223
+  offset: 38, 78
+  index: -1
+images/gxp_00
+  rotate: true
+  xy: 460, 23
+  size: 274, 54
+  orig: 343, 172
+  offset: 29, 53
+  index: -1
+images/lizi3/lizi3_0000
+  rotate: false
+  xy: 2, 2
+  size: 308, 295
+  orig: 440, 427
+  offset: 62, 68
+  index: -1

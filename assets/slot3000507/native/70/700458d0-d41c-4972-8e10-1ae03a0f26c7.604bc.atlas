@@ -1,0 +1,153 @@
+
+eff_firework.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baodian/gx2_00000_00000
+  rotate: false
+  xy: 2, 957
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+baodian/gx2_00000_00017
+  rotate: false
+  xy: 2, 957
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+baodian/gx2_00000_00018
+  rotate: false
+  xy: 2, 957
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+baodian/gx2_00000_00019
+  rotate: false
+  xy: 2, 957
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+baodian/gx2_00000_00001
+  rotate: false
+  xy: 1069, 741
+  size: 482, 217
+  orig: 482, 335
+  offset: 0, 31
+  index: -1
+baodian/gx2_00000_00002
+  rotate: false
+  xy: 2, 594
+  size: 482, 224
+  orig: 482, 335
+  offset: 0, 26
+  index: -1
+baodian/gx2_00000_00003
+  rotate: false
+  xy: 956, 508
+  size: 482, 231
+  orig: 482, 335
+  offset: 0, 23
+  index: -1
+baodian/gx2_00000_00004
+  rotate: false
+  xy: 970, 255
+  size: 482, 241
+  orig: 482, 335
+  offset: 0, 23
+  index: -1
+baodian/gx2_00000_00005
+  rotate: false
+  xy: 486, 17
+  size: 482, 248
+  orig: 482, 335
+  offset: 0, 23
+  index: -1
+baodian/gx2_00000_00006
+  rotate: false
+  xy: 970, 5
+  size: 482, 248
+  orig: 482, 335
+  offset: 0, 23
+  index: -1
+baodian/gx2_00000_00007
+  rotate: false
+  xy: 1454, 2
+  size: 482, 248
+  orig: 482, 335
+  offset: 0, 23
+  index: -1
+baodian/gx2_00000_00008
+  rotate: false
+  xy: 2, 105
+  size: 482, 247
+  orig: 482, 335
+  offset: 0, 23
+  index: -1
+baodian/gx2_00000_00009
+  rotate: false
+  xy: 1454, 252
+  size: 482, 244
+  orig: 482, 335
+  offset: 0, 23
+  index: -1
+baodian/gx2_00000_00010
+  rotate: false
+  xy: 2, 354
+  size: 482, 238
+  orig: 482, 335
+  offset: 0, 26
+  index: -1
+baodian/gx2_00000_00011
+  rotate: false
+  xy: 486, 267
+  size: 482, 239
+  orig: 482, 335
+  offset: 0, 26
+  index: -1
+baodian/gx2_00000_00012
+  rotate: false
+  xy: 1440, 498
+  size: 482, 236
+  orig: 482, 335
+  offset: 0, 30
+  index: -1
+baodian/gx2_00000_00013
+  rotate: false
+  xy: 486, 582
+  size: 468, 225
+  orig: 482, 335
+  offset: 3, 41
+  index: -1
+baodian/gx2_00000_00014
+  rotate: false
+  xy: 1553, 736
+  size: 364, 222
+  orig: 482, 335
+  offset: 59, 46
+  index: -1
+baodian/gx2_00000_00015
+  rotate: false
+  xy: 769, 809
+  size: 298, 149
+  orig: 482, 335
+  offset: 83, 44
+  index: -1
+baodian/gx2_00000_00016
+  rotate: false
+  xy: 471, 820
+  size: 296, 138
+  orig: 482, 335
+  offset: 83, 50
+  index: -1
+led2
+  rotate: false
+  xy: 5, 918
+  size: 464, 40
+  orig: 464, 40
+  offset: 0, 0
+  index: -1

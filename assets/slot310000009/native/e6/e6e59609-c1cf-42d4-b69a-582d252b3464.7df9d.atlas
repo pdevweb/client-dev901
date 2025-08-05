@@ -1,0 +1,181 @@
+
+eff_teshugundong.png
+size: 1852,278
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuang/close
+  rotate: true
+  xy: 1808, 69
+  size: 52, 42
+  orig: 64, 64
+  offset: 8, 12
+  index: -1
+kuang/kuang_00000
+  rotate: false
+  xy: 2, 140
+  size: 153, 136
+  orig: 153, 136
+  offset: 0, 0
+  index: -1
+kuang/kuang_00001
+  rotate: false
+  xy: 2, 2
+  size: 153, 136
+  orig: 153, 136
+  offset: 0, 0
+  index: -1
+kuang/kuang_00002
+  rotate: false
+  xy: 157, 140
+  size: 153, 136
+  orig: 153, 136
+  offset: 0, 0
+  index: -1
+kuang/kuang_00003
+  rotate: false
+  xy: 157, 2
+  size: 153, 136
+  orig: 153, 136
+  offset: 0, 0
+  index: -1
+kuang/kuang_00004
+  rotate: false
+  xy: 312, 140
+  size: 153, 136
+  orig: 153, 136
+  offset: 0, 0
+  index: -1
+kuang/kuang_00005
+  rotate: false
+  xy: 312, 2
+  size: 153, 136
+  orig: 153, 136
+  offset: 0, 0
+  index: -1
+kuang/kuang_00006
+  rotate: false
+  xy: 467, 140
+  size: 153, 136
+  orig: 153, 136
+  offset: 0, 0
+  index: -1
+kuang/kuang_00007
+  rotate: false
+  xy: 467, 2
+  size: 153, 136
+  orig: 153, 136
+  offset: 0, 0
+  index: -1
+kuang/kuang_00008
+  rotate: false
+  xy: 622, 140
+  size: 153, 136
+  orig: 153, 136
+  offset: 0, 0
+  index: -1
+kuang/kuang_00009
+  rotate: false
+  xy: 622, 2
+  size: 153, 136
+  orig: 153, 136
+  offset: 0, 0
+  index: -1
+kuang/kuang_00010
+  rotate: false
+  xy: 777, 140
+  size: 153, 136
+  orig: 153, 136
+  offset: 0, 0
+  index: -1
+kuang/kuang_00011
+  rotate: false
+  xy: 777, 2
+  size: 153, 136
+  orig: 153, 136
+  offset: 0, 0
+  index: -1
+kuang/kuang_00012
+  rotate: false
+  xy: 932, 140
+  size: 153, 136
+  orig: 153, 136
+  offset: 0, 0
+  index: -1
+kuang/kuang_00013
+  rotate: false
+  xy: 932, 2
+  size: 153, 136
+  orig: 153, 136
+  offset: 0, 0
+  index: -1
+kuang/kuang_00014
+  rotate: false
+  xy: 1087, 140
+  size: 153, 136
+  orig: 153, 136
+  offset: 0, 0
+  index: -1
+kuang/kuang_00015
+  rotate: false
+  xy: 1087, 2
+  size: 153, 136
+  orig: 153, 136
+  offset: 0, 0
+  index: -1
+kuang/kuang_00016
+  rotate: false
+  xy: 1242, 140
+  size: 153, 136
+  orig: 153, 136
+  offset: 0, 0
+  index: -1
+kuang/kuang_00017
+  rotate: false
+  xy: 1242, 2
+  size: 153, 136
+  orig: 153, 136
+  offset: 0, 0
+  index: -1
+kuang/kuang_00018
+  rotate: false
+  xy: 1397, 140
+  size: 153, 136
+  orig: 153, 136
+  offset: 0, 0
+  index: -1
+kuang/kuang_00019
+  rotate: false
+  xy: 1397, 2
+  size: 153, 136
+  orig: 153, 136
+  offset: 0, 0
+  index: -1
+kuang/kuang_00020
+  rotate: false
+  xy: 1552, 140
+  size: 153, 136
+  orig: 153, 136
+  offset: 0, 0
+  index: -1
+kuang/kuang_00021
+  rotate: false
+  xy: 1552, 2
+  size: 153, 136
+  orig: 153, 136
+  offset: 0, 0
+  index: -1
+kuang/kuang_00022
+  rotate: true
+  xy: 1707, 123
+  size: 153, 136
+  orig: 153, 136
+  offset: 0, 0
+  index: -1
+kuang/light
+  rotate: false
+  xy: 1707, 28
+  size: 99, 93
+  orig: 101, 95
+  offset: 1, 1
+  index: -1

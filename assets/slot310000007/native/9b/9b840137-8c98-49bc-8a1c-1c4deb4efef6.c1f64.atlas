@@ -1,0 +1,83 @@
+
+jptanchuang.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rognqi
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+theme122_jpwin_kuang1
+  rotate: false
+  xy: 2, 5
+  size: 296, 56
+  orig: 297, 56
+  offset: 1, 0
+  index: -1
+theme122_jpwin_kuang2
+  rotate: false
+  xy: 149, 186
+  size: 296, 56
+  orig: 297, 56
+  offset: 1, 0
+  index: -1
+theme122_jpwin_kuang3
+  rotate: false
+  xy: 149, 128
+  size: 296, 56
+  orig: 297, 56
+  offset: 1, 0
+  index: -1
+theme122_jpwin_kuang4
+  rotate: false
+  xy: 149, 70
+  size: 296, 56
+  orig: 297, 56
+  offset: 1, 0
+  index: -1
+theme122_jpwin_logo
+  rotate: false
+  xy: 2, 63
+  size: 145, 179
+  orig: 145, 179
+  offset: 0, 0
+  index: -1
+theme122_jpwin_text1
+  rotate: false
+  xy: 447, 73
+  size: 181, 55
+  orig: 181, 55
+  offset: 0, 0
+  index: -1
+theme122_jpwin_text2
+  rotate: false
+  xy: 300, 13
+  size: 184, 55
+  orig: 184, 55
+  offset: 0, 0
+  index: -1
+theme122_jpwin_text3
+  rotate: false
+  xy: 486, 16
+  size: 175, 55
+  orig: 175, 55
+  offset: 0, 0
+  index: -1
+theme122_jpwin_text4
+  rotate: false
+  xy: 546, 187
+  size: 126, 55
+  orig: 126, 55
+  offset: 0, 0
+  index: -1
+zhuanguang01 (2)(1)
+  rotate: true
+  xy: 447, 130
+  size: 112, 97
+  orig: 116, 101
+  offset: 2, 2
+  index: -1

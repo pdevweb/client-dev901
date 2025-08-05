@@ -1,0 +1,375 @@
+
+catchfish_crab_bomb.png
+size: 2048,1948
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha/baozha_04
+  rotate: false
+  xy: 1663, 89
+  size: 351, 368
+  orig: 824, 676
+  offset: 243, 159
+  index: -1
+baozha/baozha_05
+  rotate: false
+  xy: 1663, 459
+  size: 368, 386
+  orig: 824, 676
+  offset: 234, 150
+  index: -1
+baozha/baozha_06
+  rotate: false
+  xy: 1660, 847
+  size: 383, 402
+  orig: 824, 676
+  offset: 227, 142
+  index: -1
+baozha/baozha_21
+  rotate: true
+  xy: 2, 2
+  size: 540, 494
+  orig: 824, 676
+  offset: 124, 101
+  index: -1
+baozha/baozha_22
+  rotate: false
+  xy: 1293, 1445
+  size: 548, 501
+  orig: 824, 676
+  offset: 109, 99
+  index: -1
+baozha/baozha_23
+  rotate: true
+  xy: 1154, 174
+  size: 503, 507
+  orig: 824, 676
+  offset: 156, 97
+  index: -1
+baozha/baozha_24
+  rotate: true
+  xy: 640, 657
+  size: 508, 512
+  orig: 824, 676
+  offset: 153, 95
+  index: -1
+baozha/baozha_28
+  rotate: false
+  xy: 640, 129
+  size: 500, 526
+  orig: 824, 676
+  offset: 146, 89
+  index: -1
+baozha/baozha_29
+  rotate: false
+  xy: 1154, 679
+  size: 504, 529
+  orig: 824, 676
+  offset: 144, 88
+  index: -1
+baozha/baozha_30
+  rotate: true
+  xy: 758, 1440
+  size: 506, 533
+  orig: 824, 676
+  offset: 143, 86
+  index: -1
+eff1
+  rotate: true
+  xy: 758, 1194
+  size: 244, 247
+  orig: 256, 256
+  offset: 5, 5
+  index: -1
+eff2
+  rotate: false
+  xy: 1293, 1247
+  size: 196, 196
+  orig: 232, 232
+  offset: 18, 18
+  index: -1
+eff3
+  rotate: false
+  xy: 1007, 1210
+  size: 228, 228
+  orig: 232, 232
+  offset: 2, 2
+  index: -1
+huiju2_00
+  rotate: false
+  xy: 2, 544
+  size: 636, 621
+  orig: 640, 662
+  offset: 4, 30
+  index: -1
+jinbi/coin_00
+  rotate: false
+  xy: 1491, 1374
+  size: 69, 69
+  orig: 75, 75
+  offset: 3, 3
+  index: -1
+jinbi/coin_01
+  rotate: true
+  xy: 1562, 1375
+  size: 68, 69
+  orig: 75, 75
+  offset: 5, 3
+  index: -1
+jinbi/coin_02
+  rotate: true
+  xy: 1562, 1308
+  size: 65, 69
+  orig: 75, 75
+  offset: 8, 3
+  index: -1
+jinbi/coin_03
+  rotate: true
+  xy: 1633, 1313
+  size: 60, 69
+  orig: 75, 75
+  offset: 12, 3
+  index: -1
+jinbi/coin_04
+  rotate: false
+  xy: 1237, 1367
+  size: 53, 71
+  orig: 75, 75
+  offset: 16, 2
+  index: -1
+jinbi/coin_05
+  rotate: false
+  xy: 1237, 1221
+  size: 43, 71
+  orig: 75, 75
+  offset: 21, 2
+  index: -1
+jinbi/coin_06
+  rotate: true
+  xy: 1007, 1177
+  size: 31, 71
+  orig: 75, 75
+  offset: 26, 2
+  index: -1
+jinbi/coin_07
+  rotate: true
+  xy: 758, 1174
+  size: 18, 71
+  orig: 75, 75
+  offset: 31, 2
+  index: -1
+jinbi/coin_08
+  rotate: true
+  xy: 831, 1174
+  size: 18, 71
+  orig: 75, 75
+  offset: 26, 2
+  index: -1
+jinbi/coin_09
+  rotate: true
+  xy: 1080, 1177
+  size: 31, 71
+  orig: 75, 75
+  offset: 18, 2
+  index: -1
+jinbi/coin_10
+  rotate: false
+  xy: 1558, 1235
+  size: 43, 71
+  orig: 75, 75
+  offset: 11, 2
+  index: -1
+jinbi/coin_11
+  rotate: false
+  xy: 1237, 1294
+  size: 53, 71
+  orig: 75, 75
+  offset: 6, 2
+  index: -1
+jinbi/coin_12
+  rotate: true
+  xy: 1633, 1251
+  size: 60, 69
+  orig: 75, 75
+  offset: 3, 3
+  index: -1
+jinbi/coin_13
+  rotate: false
+  xy: 1491, 1303
+  size: 65, 69
+  orig: 75, 75
+  offset: 2, 3
+  index: -1
+jinbi/coin_14
+  rotate: true
+  xy: 1633, 1375
+  size: 68, 69
+  orig: 75, 75
+  offset: 2, 3
+  index: -1
+yuqingyun_00
+  rotate: false
+  xy: 2, 1167
+  size: 754, 779
+  orig: 1000, 1000
+  offset: 123, 110
+  index: -1
+
+catchfish_crab_bomb2.png
+size: 2040,1784
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha/baozha_01
+  rotate: true
+  xy: 2, 1507
+  size: 272, 289
+  orig: 824, 676
+  offset: 280, 201
+  index: -1
+baozha/baozha_02
+  rotate: true
+  xy: 293, 1472
+  size: 307, 320
+  orig: 824, 676
+  offset: 263, 184
+  index: -1
+baozha/baozha_03
+  rotate: true
+  xy: 615, 1448
+  size: 331, 348
+  orig: 824, 676
+  offset: 252, 169
+  index: -1
+baozha/baozha_07
+  rotate: true
+  xy: 1319, 1381
+  size: 398, 417
+  orig: 824, 676
+  offset: 218, 135
+  index: -1
+baozha/baozha_08
+  rotate: true
+  xy: 2, 1061
+  size: 409, 431
+  orig: 824, 676
+  offset: 212, 128
+  index: -1
+baozha/baozha_09
+  rotate: true
+  xy: 435, 1030
+  size: 416, 434
+  orig: 824, 676
+  offset: 206, 128
+  index: -1
+baozha/baozha_10
+  rotate: true
+  xy: 871, 1001
+  size: 431, 446
+  orig: 824, 676
+  offset: 201, 122
+  index: -1
+baozha/baozha_11
+  rotate: false
+  xy: 484, 558
+  size: 447, 441
+  orig: 824, 676
+  offset: 196, 118
+  index: -1
+baozha/baozha_12
+  rotate: false
+  xy: 1319, 941
+  size: 462, 438
+  orig: 824, 676
+  offset: 191, 115
+  index: -1
+baozha/baozha_13
+  rotate: false
+  xy: 933, 498
+  size: 471, 441
+  orig: 824, 676
+  offset: 187, 118
+  index: -1
+baozha/baozha_14
+  rotate: false
+  xy: 2, 588
+  size: 480, 440
+  orig: 824, 676
+  offset: 183, 123
+  index: -1
+baozha/baozha_15
+  rotate: false
+  xy: 1406, 490
+  size: 487, 449
+  orig: 824, 676
+  offset: 179, 119
+  index: -1
+baozha/baozha_16
+  rotate: false
+  xy: 2, 96
+  size: 492, 460
+  orig: 824, 676
+  offset: 175, 109
+  index: -1
+baozha/baozha_17
+  rotate: false
+  xy: 1015, 7
+  size: 498, 481
+  orig: 824, 676
+  offset: 170, 95
+  index: -1
+baozha/baozha_19
+  rotate: false
+  xy: 496, 17
+  size: 517, 479
+  orig: 824, 676
+  offset: 154, 108
+  index: -1
+baozha/baozha_20
+  rotate: false
+  xy: 1515, 2
+  size: 520, 486
+  orig: 824, 676
+  offset: 139, 105
+  index: -1
+guangdian_00
+  rotate: true
+  xy: 965, 1434
+  size: 345, 352
+  orig: 512, 512
+  offset: 83, 80
+  index: -1
+
+catchfish_crab_bomb3.png
+size: 992,1048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha/baozha_18
+  rotate: true
+  xy: 501, 540
+  size: 506, 487
+  orig: 824, 676
+  offset: 162, 95
+  index: -1
+baozha/baozha_25
+  rotate: false
+  xy: 498, 5
+  size: 490, 516
+  orig: 824, 676
+  offset: 151, 93
+  index: -1
+baozha/baozha_26
+  rotate: false
+  xy: 2, 2
+  size: 494, 519
+  orig: 824, 676
+  offset: 149, 92
+  index: -1
+baozha/baozha_27
+  rotate: false
+  xy: 2, 523
+  size: 497, 523
+  orig: 824, 676
+  offset: 148, 90
+  index: -1

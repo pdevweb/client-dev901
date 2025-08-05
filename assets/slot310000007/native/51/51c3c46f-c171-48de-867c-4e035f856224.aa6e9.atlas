@@ -1,0 +1,62 @@
+
+freedi.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/11
+  rotate: true
+  xy: 152, 530
+  size: 44, 49
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+images/22
+  rotate: false
+  xy: 89, 532
+  size: 61, 42
+  orig: 62, 42
+  offset: 0, 0
+  index: -1
+images/33
+  rotate: false
+  xy: 203, 527
+  size: 66, 47
+  orig: 67, 48
+  offset: 0, 0
+  index: -1
+images/44
+  rotate: false
+  xy: 44, 540
+  size: 43, 34
+  orig: 44, 35
+  offset: 0, 1
+  index: -1
+images/55
+  rotate: false
+  xy: 2, 548
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+images/66
+  rotate: false
+  xy: 271, 524
+  size: 97, 50
+  orig: 100, 52
+  offset: 1, 1
+  index: -1
+theme122_popup_bg_1
+  rotate: false
+  xy: 2, 2
+  size: 444, 440
+  orig: 444, 440
+  offset: 0, 0
+  index: -1
+theme122_popup_bg_2
+  rotate: false
+  xy: 2, 444
+  size: 404, 78
+  orig: 404, 78
+  offset: 0, 0
+  index: -1

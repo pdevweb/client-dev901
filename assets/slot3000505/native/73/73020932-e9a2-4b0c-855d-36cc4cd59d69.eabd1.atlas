@@ -1,0 +1,76 @@
+
+eff_firework.png
+size: 328,988
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2097
+  rotate: true
+  xy: 2, 3
+  size: 720, 78
+  orig: 720, 78
+  offset: 0, 0
+  index: -1
+firework_00001
+  rotate: true
+  xy: 287, 902
+  size: 82, 32
+  orig: 283, 133
+  offset: 99, 0
+  index: -1
+firework_00002
+  rotate: false
+  xy: 82, 522
+  size: 186, 88
+  orig: 283, 133
+  offset: 49, 0
+  index: -1
+firework_00003
+  rotate: false
+  xy: 2, 851
+  size: 283, 133
+  orig: 283, 133
+  offset: 0, 0
+  index: -1
+firework_00004
+  rotate: false
+  xy: 2, 725
+  size: 273, 124
+  orig: 283, 133
+  offset: 5, 0
+  index: -1
+firework_00005
+  rotate: true
+  xy: 82, 256
+  size: 264, 117
+  orig: 283, 133
+  offset: 9, 0
+  index: -1
+firework_00006
+  rotate: true
+  xy: 201, 256
+  size: 264, 113
+  orig: 283, 133
+  offset: 9, 0
+  index: -1
+firework_00007
+  rotate: true
+  xy: 82, 2
+  size: 252, 107
+  orig: 283, 133
+  offset: 21, 0
+  index: -1
+firework_00008
+  rotate: true
+  xy: 191, 2
+  size: 252, 97
+  orig: 283, 133
+  offset: 12, 0
+  index: -1
+firework_00009
+  rotate: false
+  xy: 82, 612
+  size: 243, 111
+  orig: 283, 133
+  offset: 14, 0
+  index: -1

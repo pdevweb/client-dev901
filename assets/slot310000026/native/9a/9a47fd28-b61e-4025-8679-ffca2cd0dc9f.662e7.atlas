@@ -1,0 +1,111 @@
+
+eff_icon_kuang.png
+size: 984,984
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0/0_00
+  rotate: false
+  xy: 395, 429
+  size: 194, 189
+  orig: 300, 300
+  offset: 52, 54
+  index: -1
+0/0_01
+  rotate: true
+  xy: 782, 421
+  size: 192, 193
+  orig: 300, 300
+  offset: 54, 54
+  index: -1
+0/0_02
+  rotate: false
+  xy: 591, 424
+  size: 189, 189
+  orig: 300, 300
+  offset: 57, 56
+  index: -1
+0/0_03
+  rotate: true
+  xy: 2, 632
+  size: 181, 184
+  orig: 300, 300
+  offset: 58, 56
+  index: -1
+0/0_04
+  rotate: false
+  xy: 188, 627
+  size: 188, 182
+  orig: 300, 300
+  offset: 59, 56
+  index: -1
+0/0_05
+  rotate: true
+  xy: 2, 437
+  size: 188, 189
+  orig: 300, 300
+  offset: 59, 54
+  index: -1
+0/0_06
+  rotate: false
+  xy: 771, 615
+  size: 198, 186
+  orig: 300, 300
+  offset: 55, 54
+  index: -1
+0/0_07
+  rotate: false
+  xy: 378, 622
+  size: 187, 184
+  orig: 300, 300
+  offset: 55, 56
+  index: -1
+0/0_08
+  rotate: false
+  xy: 792, 803
+  size: 190, 179
+  orig: 300, 300
+  offset: 53, 58
+  index: -1
+0/0_09
+  rotate: false
+  xy: 600, 806
+  size: 190, 176
+  orig: 300, 300
+  offset: 53, 59
+  index: -1
+0/0_10
+  rotate: false
+  xy: 402, 808
+  size: 196, 174
+  orig: 300, 300
+  offset: 51, 62
+  index: -1
+0/0_11
+  rotate: false
+  xy: 205, 811
+  size: 195, 171
+  orig: 300, 300
+  offset: 52, 65
+  index: -1
+0/0_12
+  rotate: false
+  xy: 2, 815
+  size: 201, 167
+  orig: 300, 300
+  offset: 51, 67
+  index: -1
+0/0_13
+  rotate: false
+  xy: 567, 620
+  size: 202, 184
+  orig: 300, 300
+  offset: 51, 59
+  index: -1
+0/0_14
+  rotate: false
+  xy: 193, 432
+  size: 200, 188
+  orig: 300, 300
+  offset: 52, 55
+  index: -1

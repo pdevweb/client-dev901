@@ -1,0 +1,152 @@
+
+eff_dakuang.png
+size: 1920,1920
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aj1/dakuang_00000
+  rotate: false
+  xy: 607, 1444
+  size: 603, 473
+  orig: 603, 482
+  offset: 0, 5
+  index: -1
+aj1/dakuang_00001
+  rotate: false
+  xy: 2, 6
+  size: 603, 481
+  orig: 603, 482
+  offset: 0, 1
+  index: -1
+aj1/dakuang_00002
+  rotate: false
+  xy: 607, 6
+  size: 603, 481
+  orig: 603, 482
+  offset: 0, 1
+  index: -1
+aj1/dakuang_00003
+  rotate: false
+  xy: 1212, 2
+  size: 603, 481
+  orig: 603, 482
+  offset: 0, 1
+  index: -1
+aj1/dakuang_00012
+  rotate: false
+  xy: 2, 489
+  size: 603, 478
+  orig: 603, 482
+  offset: 0, 3
+  index: -1
+aj1/dakuang_00013
+  rotate: false
+  xy: 607, 489
+  size: 603, 478
+  orig: 603, 482
+  offset: 0, 3
+  index: -1
+aj1/dakuang_00014
+  rotate: false
+  xy: 1212, 485
+  size: 603, 478
+  orig: 603, 482
+  offset: 0, 3
+  index: -1
+aj1/dakuang_00015
+  rotate: false
+  xy: 1212, 965
+  size: 603, 477
+  orig: 603, 482
+  offset: 0, 3
+  index: -1
+aj1/dakuang_00016
+  rotate: false
+  xy: 1212, 1444
+  size: 603, 473
+  orig: 603, 482
+  offset: 0, 5
+  index: -1
+aj1/dakuang_00017
+  rotate: false
+  xy: 2, 969
+  size: 603, 473
+  orig: 603, 482
+  offset: 0, 5
+  index: -1
+aj1/dakuang_00018
+  rotate: false
+  xy: 607, 969
+  size: 603, 473
+  orig: 603, 482
+  offset: 0, 5
+  index: -1
+aj1/dakuang_00019
+  rotate: false
+  xy: 2, 1444
+  size: 603, 473
+  orig: 603, 482
+  offset: 0, 5
+  index: -1
+
+eff_dakuang2.png
+size: 1696,1696
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aj1/dakuang_00004
+  rotate: true
+  xy: 1212, 1091
+  size: 603, 482
+  orig: 603, 482
+  offset: 0, 0
+  index: -1
+aj1/dakuang_00005
+  rotate: false
+  xy: 2, 1213
+  size: 603, 481
+  orig: 603, 482
+  offset: 0, 1
+  index: -1
+aj1/dakuang_00006
+  rotate: false
+  xy: 607, 1213
+  size: 603, 481
+  orig: 603, 482
+  offset: 0, 1
+  index: -1
+aj1/dakuang_00007
+  rotate: false
+  xy: 2, 730
+  size: 603, 481
+  orig: 603, 482
+  offset: 0, 1
+  index: -1
+aj1/dakuang_00008
+  rotate: false
+  xy: 607, 730
+  size: 603, 481
+  orig: 603, 482
+  offset: 0, 1
+  index: -1
+aj1/dakuang_00009
+  rotate: true
+  xy: 1212, 486
+  size: 603, 481
+  orig: 603, 482
+  offset: 0, 1
+  index: -1
+aj1/dakuang_00010
+  rotate: false
+  xy: 2, 247
+  size: 603, 481
+  orig: 603, 482
+  offset: 0, 1
+  index: -1
+aj1/dakuang_00011
+  rotate: false
+  xy: 607, 247
+  size: 603, 481
+  orig: 603, 482
+  offset: 0, 1
+  index: -1

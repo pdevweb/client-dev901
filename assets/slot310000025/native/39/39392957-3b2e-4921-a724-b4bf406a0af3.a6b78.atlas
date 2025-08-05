@@ -1,0 +1,517 @@
+
+eff_icon_01.png
+size: 1956,932
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/hu/0
+  rotate: false
+  xy: 2, 708
+  size: 229, 222
+  orig: 256, 256
+  offset: 13, 17
+  index: -1
+images/hu/2
+  rotate: true
+  xy: 548, 255
+  size: 146, 150
+  orig: 148, 152
+  offset: 1, 1
+  index: -1
+images/hu/3
+  rotate: false
+  xy: 1816, 440
+  size: 132, 137
+  orig: 132, 137
+  offset: 0, 0
+  index: -1
+images/hu/coin/win_coin_00
+  rotate: false
+  xy: 421, 25
+  size: 44, 57
+  orig: 936, 896
+  offset: 449, 424
+  index: -1
+images/hu/coin/win_coin_01
+  rotate: false
+  xy: 353, 2
+  size: 66, 80
+  orig: 936, 896
+  offset: 438, 412
+  index: -1
+images/hu/coin/win_coin_02
+  rotate: true
+  xy: 1056, 34
+  size: 87, 102
+  orig: 936, 896
+  offset: 430, 398
+  index: -1
+images/hu/coin/win_coin_03
+  rotate: true
+  xy: 1160, 18
+  size: 104, 122
+  orig: 936, 896
+  offset: 423, 385
+  index: -1
+images/hu/coin/win_coin_04
+  rotate: false
+  xy: 1296, 274
+  size: 120, 137
+  orig: 936, 896
+  offset: 416, 376
+  index: -1
+images/hu/coin/win_coin_05
+  rotate: false
+  xy: 1369, 413
+  size: 139, 152
+  orig: 936, 896
+  offset: 403, 369
+  index: -1
+images/hu/coin/win_coin_06
+  rotate: true
+  xy: 366, 84
+  size: 154, 161
+  orig: 936, 896
+  offset: 394, 363
+  index: -1
+images/hu/coin/win_coin_07
+  rotate: true
+  xy: 378, 381
+  size: 163, 168
+  orig: 936, 896
+  offset: 388, 362
+  index: -1
+images/hu/coin/win_coin_08
+  rotate: false
+  xy: 1085, 570
+  size: 168, 173
+  orig: 936, 896
+  offset: 385, 358
+  index: -1
+images/hu/coin/win_coin_09
+  rotate: false
+  xy: 1255, 567
+  size: 173, 177
+  orig: 936, 896
+  offset: 383, 354
+  index: -1
+images/hu/coin/win_coin_10
+  rotate: false
+  xy: 721, 560
+  size: 180, 180
+  orig: 936, 896
+  offset: 381, 351
+  index: -1
+images/hu/coin/win_coin_11
+  rotate: false
+  xy: 437, 739
+  size: 188, 191
+  orig: 936, 896
+  offset: 375, 348
+  index: -1
+images/hu/coin/win_coin_12
+  rotate: false
+  xy: 2, 302
+  size: 194, 199
+  orig: 936, 896
+  offset: 371, 346
+  index: -1
+images/hu/coin/win_coin_13
+  rotate: false
+  xy: 2, 503
+  size: 198, 203
+  orig: 936, 896
+  offset: 369, 345
+  index: -1
+images/hu/coin/win_coin_14
+  rotate: false
+  xy: 233, 732
+  size: 202, 198
+  orig: 936, 896
+  offset: 367, 351
+  index: -1
+images/hu/hu/0_00
+  rotate: false
+  xy: 705, 406
+  size: 144, 148
+  orig: 175, 175
+  offset: 10, 13
+  index: -1
+images/hu/hu/0_01
+  rotate: false
+  xy: 529, 90
+  size: 144, 148
+  orig: 175, 175
+  offset: 10, 13
+  index: -1
+images/hu/hu/0_02
+  rotate: false
+  xy: 675, 105
+  size: 144, 148
+  orig: 175, 175
+  offset: 10, 13
+  index: -1
+images/hu/hu/0_03
+  rotate: true
+  xy: 1663, 274
+  size: 144, 148
+  orig: 175, 175
+  offset: 10, 13
+  index: -1
+images/hu/hu/0_04
+  rotate: true
+  xy: 1510, 268
+  size: 144, 148
+  orig: 175, 175
+  offset: 10, 13
+  index: -1
+images/hu/hu/0_05
+  rotate: true
+  xy: 1660, 128
+  size: 144, 148
+  orig: 175, 175
+  offset: 10, 13
+  index: -1
+images/hu/hu/0_06
+  rotate: false
+  xy: 1810, 69
+  size: 144, 148
+  orig: 175, 175
+  offset: 10, 13
+  index: -1
+images/hu/hu/0_07
+  rotate: true
+  xy: 700, 257
+  size: 144, 148
+  orig: 175, 175
+  offset: 10, 13
+  index: -1
+images/hu/hu/0_08
+  rotate: false
+  xy: 821, 107
+  size: 144, 148
+  orig: 175, 175
+  offset: 10, 13
+  index: -1
+images/hu/hu/0_09
+  rotate: true
+  xy: 850, 260
+  size: 144, 148
+  orig: 175, 175
+  offset: 10, 13
+  index: -1
+images/hu/hu/0_10
+  rotate: false
+  xy: 1000, 267
+  size: 144, 148
+  orig: 175, 175
+  offset: 10, 13
+  index: -1
+images/hu/hu/0_11
+  rotate: true
+  xy: 1146, 268
+  size: 144, 148
+  orig: 175, 175
+  offset: 10, 13
+  index: -1
+images/hu/kuo/0_00
+  rotate: true
+  xy: 1059, 417
+  size: 151, 153
+  orig: 151, 153
+  offset: 0, 0
+  index: -1
+images/hu/kuo/0_01
+  rotate: true
+  xy: 1214, 414
+  size: 151, 153
+  orig: 151, 153
+  offset: 0, 0
+  index: -1
+images/hu/kuo/0_02
+  rotate: false
+  xy: 1510, 414
+  size: 151, 153
+  orig: 151, 153
+  offset: 0, 0
+  index: -1
+images/hu/kuo/0_03
+  rotate: false
+  xy: 1663, 420
+  size: 151, 153
+  orig: 151, 153
+  offset: 0, 0
+  index: -1
+images/hu/kuo/0_04
+  rotate: false
+  xy: 1663, 420
+  size: 151, 153
+  orig: 151, 153
+  offset: 0, 0
+  index: -1
+images/hu/kuo/0_05
+  rotate: true
+  xy: 550, 403
+  size: 151, 153
+  orig: 151, 153
+  offset: 0, 0
+  index: -1
+images/hu/kuo/grandjieshou_00
+  rotate: false
+  xy: 1359, 145
+  size: 117, 123
+  orig: 245, 228
+  offset: 59, 53
+  index: -1
+images/hu/kuo/grandjieshou_02
+  rotate: true
+  xy: 903, 425
+  size: 145, 154
+  orig: 245, 228
+  offset: 44, 40
+  index: -1
+images/hu/kuo/grandjieshou_04
+  rotate: false
+  xy: 1766, 579
+  size: 163, 174
+  orig: 245, 228
+  offset: 34, 30
+  index: -1
+images/hu/kuo/grandjieshou_05
+  rotate: false
+  xy: 550, 556
+  size: 169, 181
+  orig: 245, 228
+  offset: 31, 27
+  index: -1
+images/hu/kuo/grandjieshou_06
+  rotate: false
+  xy: 202, 520
+  size: 174, 186
+  orig: 245, 228
+  offset: 28, 24
+  index: -1
+images/hu/kuo/grandjieshou_07
+  rotate: true
+  xy: 1568, 752
+  size: 178, 190
+  orig: 245, 228
+  offset: 26, 22
+  index: -1
+images/hu/kuo/grandjieshou_08
+  rotate: false
+  xy: 2, 109
+  size: 181, 191
+  orig: 245, 228
+  offset: 24, 20
+  index: -1
+images/hu/kuo/grandjieshou_09
+  rotate: false
+  xy: 627, 742
+  size: 184, 188
+  orig: 245, 228
+  offset: 22, 19
+  index: -1
+images/hu/kuo/grandjieshou_10
+  rotate: false
+  xy: 1191, 746
+  size: 186, 184
+  orig: 245, 228
+  offset: 21, 19
+  index: -1
+images/hu/kuo/grandjieshou_11
+  rotate: false
+  xy: 813, 745
+  size: 187, 185
+  orig: 245, 228
+  offset: 20, 18
+  index: -1
+images/hu/kuo/grandjieshou_12
+  rotate: false
+  xy: 1002, 745
+  size: 187, 185
+  orig: 245, 228
+  offset: 20, 18
+  index: -1
+images/hu/kuo/grandjieshou_13
+  rotate: false
+  xy: 1379, 748
+  size: 187, 182
+  orig: 245, 228
+  offset: 20, 19
+  index: -1
+images/hu/kuo/grandjieshou_14
+  rotate: false
+  xy: 1760, 755
+  size: 186, 175
+  orig: 245, 228
+  offset: 20, 22
+  index: -1
+images/hu/kuo/grandjieshou_15
+  rotate: true
+  xy: 378, 546
+  size: 184, 170
+  orig: 245, 228
+  offset: 20, 25
+  index: -1
+images/hu/kuo/grandjieshou_16
+  rotate: false
+  xy: 903, 572
+  size: 180, 171
+  orig: 245, 228
+  offset: 21, 24
+  index: -1
+images/hu/kuo/grandjieshou_17
+  rotate: true
+  xy: 1430, 569
+  size: 177, 166
+  orig: 245, 228
+  offset: 22, 24
+  index: -1
+images/hu/kuo/grandjieshou_18
+  rotate: true
+  xy: 1598, 575
+  size: 175, 166
+  orig: 245, 228
+  offset: 24, 24
+  index: -1
+images/hu/kuo/grandjieshou_19
+  rotate: false
+  xy: 202, 352
+  size: 167, 166
+  orig: 245, 228
+  offset: 27, 24
+  index: -1
+images/hu/kuo/grandjieshou_20
+  rotate: false
+  xy: 198, 187
+  size: 166, 163
+  orig: 245, 228
+  offset: 28, 27
+  index: -1
+images/hu/kuo/grandjieshou_21
+  rotate: false
+  xy: 185, 31
+  size: 166, 154
+  orig: 245, 228
+  offset: 28, 34
+  index: -1
+images/hu/kuo/grandjieshou_22
+  rotate: false
+  xy: 371, 240
+  size: 165, 139
+  orig: 245, 228
+  offset: 29, 42
+  index: -1
+images/hu/kuo/grandjieshou_23
+  rotate: false
+  xy: 1654, 20
+  size: 127, 106
+  orig: 245, 228
+  offset: 67, 47
+  index: -1
+images/hu/lizi/lizi_00
+  rotate: false
+  xy: 1813, 219
+  size: 141, 98
+  orig: 936, 896
+  offset: 391, 413
+  index: -1
+images/hu/lizi/lizi_01
+  rotate: false
+  xy: 675, 3
+  size: 142, 100
+  orig: 936, 896
+  offset: 390, 414
+  index: -1
+images/hu/lizi/lizi_02
+  rotate: false
+  xy: 529, 2
+  size: 142, 86
+  orig: 936, 896
+  offset: 390, 415
+  index: -1
+images/hu/lizi/lizi_03
+  rotate: true
+  xy: 967, 116
+  size: 142, 87
+  orig: 936, 896
+  offset: 390, 415
+  index: -1
+images/hu/lizi/lizi_04
+  rotate: true
+  xy: 1418, 270
+  size: 141, 89
+  orig: 936, 896
+  offset: 390, 415
+  index: -1
+images/hu/lizi/lizi_05
+  rotate: true
+  xy: 1359, 2
+  size: 141, 98
+  orig: 936, 896
+  offset: 391, 408
+  index: -1
+images/hu/lizi/lizi_06
+  rotate: false
+  xy: 1813, 319
+  size: 141, 99
+  orig: 936, 896
+  offset: 391, 406
+  index: -1
+images/hu/lizi/lizi_07
+  rotate: true
+  xy: 1056, 123
+  size: 142, 102
+  orig: 936, 896
+  offset: 391, 406
+  index: -1
+images/hu/lizi/lizi_08
+  rotate: false
+  xy: 2, 5
+  size: 143, 102
+  orig: 936, 896
+  offset: 391, 407
+  index: -1
+images/hu/lizi/lizi_09
+  rotate: false
+  xy: 821, 3
+  size: 143, 102
+  orig: 936, 896
+  offset: 392, 409
+  index: -1
+images/hu/lizi/lizi_10
+  rotate: true
+  xy: 1160, 124
+  size: 142, 102
+  orig: 936, 896
+  offset: 392, 411
+  index: -1
+images/hu/lizi/lizi_11
+  rotate: true
+  xy: 1264, 124
+  size: 142, 93
+  orig: 936, 896
+  offset: 392, 412
+  index: -1
+images/hu/lizi/lizi_12
+  rotate: true
+  xy: 1557, 26
+  size: 142, 95
+  orig: 936, 896
+  offset: 392, 411
+  index: -1
+images/hu/lizi/lizi_13
+  rotate: true
+  xy: 1459, 2
+  size: 141, 96
+  orig: 936, 896
+  offset: 392, 413
+  index: -1
+images/hu/lizi/lizi_14
+  rotate: false
+  xy: 1478, 170
+  size: 142, 96
+  orig: 936, 896
+  offset: 391, 414
+  index: -1

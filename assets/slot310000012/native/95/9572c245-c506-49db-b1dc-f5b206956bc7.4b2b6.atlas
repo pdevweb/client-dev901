@@ -1,0 +1,69 @@
+
+277_maprwzb.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hz
+  rotate: false
+  xy: 43, 407
+  size: 101, 41
+  orig: 101, 41
+  offset: 0, 0
+  index: -1
+jl
+  rotate: false
+  xy: 190, 164
+  size: 202, 177
+  orig: 202, 179
+  offset: 0, 0
+  index: -1
+mz
+  rotate: false
+  xy: 315, 343
+  size: 183, 105
+  orig: 183, 105
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 2, 2
+  size: 483, 160
+  orig: 483, 414
+  offset: 0, 254
+  index: -1
+t
+  rotate: true
+  xy: 2, 239
+  size: 138, 186
+  orig: 138, 186
+  offset: 0, 0
+  index: -1
+ypl
+  rotate: false
+  xy: 27, 436
+  size: 14, 12
+  orig: 14, 13
+  offset: 0, 1
+  index: -1
+ypr
+  rotate: false
+  xy: 2, 437
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+zbd
+  rotate: false
+  xy: 146, 379
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+zbk
+  rotate: true
+  xy: 217, 360
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1

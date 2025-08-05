@@ -1,0 +1,90 @@
+
+eff_caijinbi.png
+size: 912,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+png/Coin360
+  rotate: true
+  xy: 673, 111
+  size: 23, 198
+  orig: 23, 198
+  offset: 0, 0
+  index: -1
+png/Coin3602
+  rotate: false
+  xy: 843, 68
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+png/GRAND
+  rotate: false
+  xy: 539, 3
+  size: 132, 131
+  orig: 132, 131
+  offset: 0, 0
+  index: -1
+png/MINOR
+  rotate: false
+  xy: 137, 3
+  size: 132, 131
+  orig: 132, 131
+  offset: 0, 0
+  index: -1
+png/_Txt_GRAND
+  rotate: false
+  xy: 673, 79
+  size: 136, 30
+  orig: 136, 30
+  offset: 0, 0
+  index: -1
+png/_Txt_MEGA
+  rotate: true
+  xy: 873, 8
+  size: 126, 37
+  orig: 126, 37
+  offset: 0, 0
+  index: -1
+png/_Txt_MINI
+  rotate: true
+  xy: 811, 17
+  size: 92, 30
+  orig: 92, 30
+  offset: 0, 0
+  index: -1
+png/_Txt_Major
+  rotate: false
+  xy: 673, 6
+  size: 129, 40
+  orig: 129, 40
+  offset: 0, 0
+  index: -1
+png/_Txt_Minor
+  rotate: false
+  xy: 673, 48
+  size: 131, 29
+  orig: 131, 29
+  offset: 0, 0
+  index: -1
+png/major
+  rotate: false
+  xy: 271, 3
+  size: 132, 131
+  orig: 132, 131
+  offset: 0, 0
+  index: -1
+png/mega
+  rotate: false
+  xy: 2, 2
+  size: 133, 132
+  orig: 133, 132
+  offset: 0, 0
+  index: -1
+png/mini
+  rotate: false
+  xy: 405, 3
+  size: 132, 131
+  orig: 132, 131
+  offset: 0, 0
+  index: -1

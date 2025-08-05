@@ -1,0 +1,55 @@
+
+245_free_bgxh.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fengye1
+  rotate: false
+  xy: 46, 5
+  size: 28, 30
+  orig: 68, 68
+  offset: 19, 16
+  index: -1
+fengye2
+  rotate: false
+  xy: 76, 2
+  size: 24, 33
+  orig: 68, 68
+  offset: 22, 22
+  index: -1
+fengye3
+  rotate: false
+  xy: 2, 9
+  size: 42, 26
+  orig: 68, 68
+  offset: 15, 22
+  index: -1
+fengye4
+  rotate: false
+  xy: 127, 2
+  size: 19, 33
+  orig: 25, 40
+  offset: 3, 4
+  index: -1
+fengye5
+  rotate: false
+  xy: 102, 5
+  size: 23, 30
+  orig: 44, 40
+  offset: 11, 6
+  index: -1
+hua3
+  rotate: true
+  xy: 189, 21
+  size: 225, 154
+  orig: 243, 175
+  offset: 4, 19
+  index: -1
+hua4
+  rotate: false
+  xy: 2, 37
+  size: 185, 209
+  orig: 236, 226
+  offset: 51, 17
+  index: -1

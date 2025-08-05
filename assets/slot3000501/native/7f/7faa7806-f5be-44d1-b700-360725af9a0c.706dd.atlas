@@ -1,0 +1,271 @@
+
+beilvfuhao_wanfa.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5000x
+  rotate: false
+  xy: 2, 24
+  size: 386, 127
+  orig: 386, 127
+  offset: 0, 0
+  index: -1
+blue
+  rotate: false
+  xy: 2, 733
+  size: 286, 288
+  orig: 286, 288
+  offset: 0, 0
+  index: -1
+chi-bang-you
+  rotate: true
+  xy: 290, 164
+  size: 120, 255
+  orig: 120, 266
+  offset: 0, 11
+  index: -1
+chi-bang-zuo
+  rotate: true
+  xy: 390, 42
+  size: 120, 255
+  orig: 120, 266
+  offset: 0, 11
+  index: -1
+glow_00000
+  rotate: false
+  xy: 796, 37
+  size: 138, 140
+  orig: 160, 160
+  offset: 11, 10
+  index: -1
+lvyuandi
+  rotate: false
+  xy: 2, 443
+  size: 286, 288
+  orig: 286, 288
+  offset: 0, 0
+  index: -1
+purple
+  rotate: false
+  xy: 2, 153
+  size: 286, 288
+  orig: 286, 288
+  offset: 0, 0
+  index: -1
+quansd/quansd_00000
+  rotate: true
+  xy: 728, 536
+  size: 62, 68
+  orig: 80, 80
+  offset: 6, 3
+  index: -1
+quansd/quansd_00002
+  rotate: false
+  xy: 945, 881
+  size: 77, 62
+  orig: 80, 80
+  offset: 0, 5
+  index: -1
+quansd/quansd_00004
+  rotate: false
+  xy: 798, 536
+  size: 73, 57
+  orig: 80, 80
+  offset: 5, 6
+  index: -1
+quansd/quansd_00006
+  rotate: false
+  xy: 944, 747
+  size: 74, 62
+  orig: 80, 80
+  offset: 2, 6
+  index: -1
+quansd/quansd_00008
+  rotate: true
+  xy: 659, 535
+  size: 63, 67
+  orig: 80, 80
+  offset: 6, 0
+  index: -1
+red
+  rotate: true
+  xy: 290, 735
+  size: 286, 288
+  orig: 286, 288
+  offset: 0, 0
+  index: -1
+shang
+  rotate: true
+  xy: 290, 496
+  size: 237, 178
+  orig: 237, 178
+  offset: 0, 0
+  index: -1
+txt_2
+  rotate: false
+  xy: 580, 761
+  size: 311, 57
+  orig: 311, 57
+  offset: 0, 0
+  index: -1
+xx/xx_00000
+  rotate: false
+  xy: 390, 2
+  size: 36, 38
+  orig: 90, 90
+  offset: 26, 26
+  index: -1
+xx/xx_00001
+  rotate: false
+  xy: 893, 783
+  size: 49, 51
+  orig: 90, 90
+  offset: 20, 19
+  index: -1
+xx/xx_00002
+  rotate: true
+  xy: 936, 162
+  size: 63, 64
+  orig: 90, 90
+  offset: 13, 13
+  index: -1
+xx/xx_00003
+  rotate: false
+  xy: 936, 98
+  size: 62, 62
+  orig: 90, 90
+  offset: 14, 14
+  index: -1
+xx/xx_00004
+  rotate: false
+  xy: 945, 811
+  size: 68, 68
+  orig: 90, 90
+  offset: 11, 11
+  index: -1
+xx/xx_00005
+  rotate: false
+  xy: 945, 945
+  size: 76, 76
+  orig: 90, 90
+  offset: 7, 7
+  index: -1
+xx/xx_00006
+  rotate: false
+  xy: 929, 579
+  size: 80, 80
+  orig: 90, 90
+  offset: 5, 5
+  index: -1
+xx/xx_00007
+  rotate: false
+  xy: 929, 661
+  size: 84, 84
+  orig: 90, 90
+  offset: 3, 3
+  index: -1
+yw/00000_00004
+  rotate: false
+  xy: 647, 11
+  size: 147, 164
+  orig: 250, 250
+  offset: 46, 42
+  index: -1
+yw/00000_00006
+  rotate: false
+  xy: 476, 344
+  size: 179, 189
+  orig: 250, 250
+  offset: 32, 30
+  index: -1
+yw/00000_00008
+  rotate: false
+  xy: 470, 535
+  size: 187, 198
+  orig: 250, 250
+  offset: 29, 29
+  index: -1
+yw/00000_00010
+  rotate: false
+  xy: 580, 820
+  size: 178, 201
+  orig: 250, 250
+  offset: 38, 26
+  index: -1
+yw/00000_00012
+  rotate: false
+  xy: 290, 286
+  size: 184, 208
+  orig: 250, 250
+  offset: 36, 22
+  index: -1
+yw/00000_00014
+  rotate: false
+  xy: 657, 348
+  size: 182, 185
+  orig: 250, 250
+  offset: 36, 38
+  index: -1
+yw/00000_00016
+  rotate: true
+  xy: 760, 836
+  size: 185, 183
+  orig: 250, 250
+  offset: 36, 38
+  index: -1
+yw/00000_00018
+  rotate: true
+  xy: 547, 177
+  size: 165, 181
+  orig: 250, 250
+  offset: 36, 38
+  index: -1
+yw/00000_00020
+  rotate: true
+  xy: 659, 600
+  size: 159, 152
+  orig: 250, 250
+  offset: 46, 67
+  index: -1
+yw/00000_00022
+  rotate: true
+  xy: 841, 390
+  size: 144, 159
+  orig: 250, 250
+  offset: 64, 68
+  index: -1
+yw/00000_00024
+  rotate: false
+  xy: 730, 179
+  size: 143, 167
+  orig: 250, 250
+  offset: 68, 72
+  index: -1
+yw/00000_00026
+  rotate: false
+  xy: 813, 595
+  size: 114, 164
+  orig: 250, 250
+  offset: 68, 81
+  index: -1
+yw/00000_00028
+  rotate: false
+  xy: 875, 227
+  size: 114, 161
+  orig: 250, 250
+  offset: 76, 82
+  index: -1
+
+beilvfuhao_wanfa2.png
+size: 104,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yw/00000_00002
+  rotate: false
+  xy: 2, 2
+  size: 100, 112
+  orig: 250, 250
+  offset: 68, 66
+  index: -1

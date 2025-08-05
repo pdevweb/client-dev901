@@ -1,0 +1,13 @@
+
+eff_icon_10.png
+size: 140,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 2, 2
+  size: 136, 121
+  orig: 138, 123
+  offset: 1, 1
+  index: -1

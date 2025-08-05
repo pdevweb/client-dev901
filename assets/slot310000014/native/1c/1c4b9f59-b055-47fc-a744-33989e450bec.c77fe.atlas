@@ -1,0 +1,27 @@
+
+jp_gx.png
+size: 460,200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qq_0
+  rotate: false
+  xy: 224, 11
+  size: 179, 185
+  orig: 213, 215
+  offset: 13, 19
+  index: -1
+xg_00002
+  rotate: false
+  xy: 2, 2
+  size: 220, 194
+  orig: 274, 271
+  offset: 37, 35
+  index: -1
+xg_01
+  rotate: false
+  xy: 405, 145
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+eff_ordinary_scene.png
+size: 1560,1080
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Light1
+  rotate: false
+  xy: 2, 10
+  size: 427, 147
+  orig: 427, 147
+  offset: 0, 0
+  index: -1
+Light2
+  rotate: false
+  xy: 402, 269
+  size: 427, 233
+  orig: 427, 233
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 715
+  size: 889, 360
+  orig: 889, 360
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 2, 504
+  size: 960, 209
+  orig: 960, 209
+  offset: 0, 0
+  index: -1
+xx_eff
+  rotate: true
+  xy: 1085, 2
+  size: 203, 223
+  orig: 232, 232
+  offset: 14, 6
+  index: -1
+y1
+  rotate: true
+  xy: 831, 190
+  size: 312, 219
+  orig: 312, 219
+  offset: 0, 0
+  index: -1
+y2
+  rotate: true
+  xy: 1052, 207
+  size: 312, 219
+  orig: 312, 219
+  offset: 0, 0
+  index: -1
+y_yun
+  rotate: false
+  xy: 2, 159
+  size: 398, 343
+  orig: 398, 343
+  offset: 0, 0
+  index: -1
+yun_bg
+  rotate: false
+  xy: 893, 835
+  size: 427, 240
+  orig: 427, 240
+  offset: 0, 0
+  index: -1
+yun_y1
+  rotate: true
+  xy: 1302, 423
+  size: 307, 241
+  orig: 307, 241
+  offset: 0, 0
+  index: -1
+yun_y2
+  rotate: false
+  xy: 1273, 237
+  size: 282, 184
+  orig: 282, 184
+  offset: 0, 0
+  index: -1
+yun_z1
+  rotate: false
+  xy: 1310, 99
+  size: 247, 136
+  orig: 247, 136
+  offset: 0, 0
+  index: -1
+yun_z2
+  rotate: false
+  xy: 776, 9
+  size: 307, 179
+  orig: 307, 179
+  offset: 0, 0
+  index: -1
+z_yun
+  rotate: false
+  xy: 964, 521
+  size: 336, 312
+  orig: 336, 312
+  offset: 0, 0
+  index: -1
+zhuz1
+  rotate: false
+  xy: 1322, 732
+  size: 229, 343
+  orig: 229, 343
+  offset: 0, 0
+  index: -1
+zhuzi2
+  rotate: true
+  xy: 431, 38
+  size: 229, 343
+  orig: 229, 343
+  offset: 0, 0
+  index: -1

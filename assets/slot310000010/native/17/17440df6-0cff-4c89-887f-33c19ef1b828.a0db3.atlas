@@ -1,0 +1,132 @@
+
+jb_dj.png
+size: 664,552
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/dj/dj_1
+  rotate: true
+  xy: 166, 203
+  size: 57, 54
+  orig: 200, 200
+  offset: 69, 75
+  index: -1
+tx/dj/dj_10
+  rotate: true
+  xy: 321, 398
+  size: 149, 165
+  orig: 200, 200
+  offset: 17, 16
+  index: -1
+tx/dj/dj_11
+  rotate: false
+  xy: 2, 28
+  size: 156, 169
+  orig: 200, 200
+  offset: 12, 14
+  index: -1
+tx/dj/dj_12
+  rotate: false
+  xy: 2, 370
+  size: 162, 177
+  orig: 200, 200
+  offset: 7, 7
+  index: -1
+tx/dj/dj_13
+  rotate: false
+  xy: 160, 29
+  size: 159, 168
+  orig: 200, 200
+  offset: 4, 3
+  index: -1
+tx/dj/dj_14
+  rotate: false
+  xy: 2, 199
+  size: 162, 169
+  orig: 200, 200
+  offset: 1, 0
+  index: -1
+tx/dj/dj_15
+  rotate: true
+  xy: 488, 254
+  size: 151, 154
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+tx/dj/dj_16
+  rotate: true
+  xy: 166, 396
+  size: 151, 153
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+tx/dj/dj_17
+  rotate: true
+  xy: 321, 2
+  size: 130, 112
+  orig: 200, 200
+  offset: 21, 39
+  index: -1
+tx/dj/dj_18
+  rotate: true
+  xy: 435, 3
+  size: 129, 110
+  orig: 200, 200
+  offset: 20, 38
+  index: -1
+tx/dj/dj_2
+  rotate: false
+  xy: 583, 184
+  size: 73, 68
+  orig: 200, 200
+  offset: 59, 68
+  index: -1
+tx/dj/dj_3
+  rotate: true
+  xy: 222, 208
+  size: 86, 85
+  orig: 200, 200
+  offset: 52, 59
+  index: -1
+tx/dj/dj_4
+  rotate: false
+  xy: 222, 296
+  size: 96, 98
+  orig: 200, 200
+  offset: 46, 52
+  index: -1
+tx/dj/dj_5
+  rotate: true
+  xy: 547, 25
+  size: 108, 112
+  orig: 200, 200
+  offset: 41, 45
+  index: -1
+tx/dj/dj_6
+  rotate: true
+  xy: 459, 135
+  size: 117, 122
+  orig: 200, 200
+  offset: 37, 41
+  index: -1
+tx/dj/dj_7
+  rotate: true
+  xy: 321, 134
+  size: 126, 136
+  orig: 200, 200
+  offset: 32, 33
+  index: -1
+tx/dj/dj_8
+  rotate: true
+  xy: 321, 262
+  size: 134, 148
+  orig: 200, 200
+  offset: 27, 26
+  index: -1
+tx/dj/dj_9
+  rotate: true
+  xy: 488, 407
+  size: 140, 157
+  orig: 200, 200
+  offset: 22, 21
+  index: -1

@@ -1,0 +1,48 @@
+
+398_m2.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+m2_bg
+  rotate: false
+  xy: 2, 3
+  size: 61, 51
+  orig: 61, 51
+  offset: 0, 0
+  index: -1
+m2_body
+  rotate: false
+  xy: 2, 56
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+m2_head
+  rotate: true
+  xy: 80, 91
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+m2_shangzui
+  rotate: true
+  xy: 65, 18
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+m2_xiazui
+  rotate: false
+  xy: 65, 2
+  size: 35, 14
+  orig: 35, 14
+  offset: 0, 0
+  index: -1
+yezi1
+  rotate: false
+  xy: 80, 74
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1

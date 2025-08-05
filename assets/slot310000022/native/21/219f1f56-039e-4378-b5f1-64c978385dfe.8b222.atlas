@@ -1,0 +1,153 @@
+
+mywin.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mywin/mywin_00
+  rotate: true
+  xy: 827, 14
+  size: 90, 39
+  orig: 119, 59
+  offset: 14, 7
+  index: -1
+mywin/mywin_01
+  rotate: true
+  xy: 47, 6
+  size: 98, 40
+  orig: 119, 59
+  offset: 12, 7
+  index: -1
+mywin/mywin_02
+  rotate: true
+  xy: 335, 6
+  size: 98, 39
+  orig: 119, 59
+  offset: 12, 7
+  index: -1
+mywin/mywin_03
+  rotate: true
+  xy: 376, 6
+  size: 98, 39
+  orig: 119, 59
+  offset: 12, 7
+  index: -1
+mywin/mywin_04
+  rotate: true
+  xy: 417, 6
+  size: 98, 39
+  orig: 119, 59
+  offset: 12, 7
+  index: -1
+mywin/mywin_05
+  rotate: true
+  xy: 458, 6
+  size: 98, 39
+  orig: 119, 59
+  offset: 12, 7
+  index: -1
+mywin/mywin_06
+  rotate: true
+  xy: 89, 5
+  size: 99, 39
+  orig: 119, 59
+  offset: 12, 7
+  index: -1
+mywin/mywin_07
+  rotate: true
+  xy: 499, 6
+  size: 98, 39
+  orig: 119, 59
+  offset: 12, 7
+  index: -1
+mywin/mywin_08
+  rotate: true
+  xy: 540, 6
+  size: 98, 39
+  orig: 119, 59
+  offset: 11, 7
+  index: -1
+mywin/mywin_09
+  rotate: true
+  xy: 581, 6
+  size: 98, 39
+  orig: 119, 59
+  offset: 11, 7
+  index: -1
+mywin/mywin_10
+  rotate: true
+  xy: 745, 7
+  size: 97, 39
+  orig: 119, 59
+  offset: 12, 7
+  index: -1
+mywin/mywin_11
+  rotate: true
+  xy: 786, 7
+  size: 97, 39
+  orig: 119, 59
+  offset: 12, 7
+  index: -1
+mywin/mywin_12
+  rotate: true
+  xy: 622, 6
+  size: 98, 39
+  orig: 119, 59
+  offset: 12, 7
+  index: -1
+mywin/mywin_13
+  rotate: true
+  xy: 130, 5
+  size: 99, 39
+  orig: 119, 59
+  offset: 11, 7
+  index: -1
+mywin/mywin_14
+  rotate: true
+  xy: 171, 5
+  size: 99, 39
+  orig: 119, 59
+  offset: 11, 7
+  index: -1
+mywin/mywin_15
+  rotate: true
+  xy: 212, 5
+  size: 99, 39
+  orig: 119, 59
+  offset: 11, 7
+  index: -1
+mywin/mywin_16
+  rotate: true
+  xy: 253, 5
+  size: 99, 39
+  orig: 119, 59
+  offset: 11, 7
+  index: -1
+mywin/mywin_17
+  rotate: true
+  xy: 294, 5
+  size: 99, 39
+  orig: 119, 59
+  offset: 11, 7
+  index: -1
+mywin/mywin_18
+  rotate: true
+  xy: 663, 6
+  size: 98, 39
+  orig: 119, 59
+  offset: 11, 7
+  index: -1
+mywin/mywin_19
+  rotate: true
+  xy: 704, 6
+  size: 98, 39
+  orig: 119, 59
+  offset: 10, 7
+  index: -1
+mywinglow_00
+  rotate: true
+  xy: 2, 2
+  size: 102, 43
+  orig: 119, 59
+  offset: 10, 5
+  index: -1

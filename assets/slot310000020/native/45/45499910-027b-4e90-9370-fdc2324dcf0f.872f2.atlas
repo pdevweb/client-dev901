@@ -1,0 +1,20 @@
+
+eff_propfall_idle.png
+size: 333,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangdian1
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+xx
+  rotate: true
+  xy: 260, 162
+  size: 96, 71
+  orig: 96, 71
+  offset: 0, 0
+  index: -1

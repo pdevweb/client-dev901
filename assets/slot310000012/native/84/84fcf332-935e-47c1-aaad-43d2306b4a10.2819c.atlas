@@ -1,0 +1,146 @@
+
+277_jp_z.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0_11
+  rotate: true
+  xy: 492, 142
+  size: 304, 341
+  orig: 307, 348
+  offset: 2, 3
+  index: -1
+0_2
+  rotate: false
+  xy: 1303, 276
+  size: 536, 170
+  orig: 536, 170
+  offset: 0, 0
+  index: -1
+0_3
+  rotate: false
+  xy: 1303, 66
+  size: 486, 208
+  orig: 486, 208
+  offset: 0, 0
+  index: -1
+0_7
+  rotate: true
+  xy: 2, 3
+  size: 443, 488
+  orig: 443, 488
+  offset: 0, 0
+  index: -1
+50x
+  rotate: true
+  xy: 1841, 117
+  size: 329, 170
+  orig: 329, 170
+  offset: 0, 0
+  index: -1
+bet
+  rotate: false
+  xy: 1791, 61
+  size: 253, 54
+  orig: 253, 55
+  offset: 0, 1
+  index: -1
+g1
+  rotate: true
+  xy: 492, 2
+  size: 84, 85
+  orig: 86, 86
+  offset: 1, 0
+  index: -1
+gl
+  rotate: false
+  xy: 1791, 231
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+hs1
+  rotate: false
+  xy: 2013, 218
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+hs2
+  rotate: true
+  xy: 2013, 184
+  size: 21, 5
+  orig: 21, 5
+  offset: 0, 0
+  index: -1
+hs3
+  rotate: false
+  xy: 2013, 207
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+hs4
+  rotate: false
+  xy: 2013, 230
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+hs5
+  rotate: true
+  xy: 2013, 364
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+l1
+  rotate: false
+  xy: 835, 63
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 2013, 400
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 2013, 244
+  size: 7, 19
+  orig: 7, 19
+  offset: 0, 0
+  index: -1
+s3
+  rotate: true
+  xy: 2013, 265
+  size: 32, 13
+  orig: 32, 13
+  offset: 0, 0
+  index: -1
+s4
+  rotate: true
+  xy: 2013, 299
+  size: 63, 16
+  orig: 63, 16
+  offset: 0, 0
+  index: -1
+z
+  rotate: false
+  xy: 835, 151
+  size: 466, 295
+  orig: 474, 322
+  offset: 0, 15
+  index: -1
+z1
+  rotate: false
+  xy: 492, 88
+  size: 338, 52
+  orig: 340, 54
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,97 @@
+
+402_sjbc_fgsj_tc.png
+size: 856,516
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caidai_t1
+  rotate: false
+  xy: 2, 253
+  size: 494, 124
+  orig: 497, 135
+  offset: 3, 6
+  index: -1
+caidai_t2
+  rotate: false
+  xy: 2, 379
+  size: 539, 134
+  orig: 543, 141
+  offset: 0, 4
+  index: -1
+cao_1
+  rotate: true
+  xy: 429, 2
+  size: 214, 266
+  orig: 214, 266
+  offset: 0, 0
+  index: -1
+cao_2
+  rotate: true
+  xy: 543, 324
+  size: 189, 310
+  orig: 189, 310
+  offset: 0, 0
+  index: -1
+cong
+  rotate: false
+  xy: 498, 271
+  size: 347, 51
+  orig: 348, 52
+  offset: 0, 1
+  index: -1
+db
+  rotate: false
+  xy: 2, 66
+  size: 425, 81
+  orig: 438, 81
+  offset: 7, 0
+  index: -1
+db_gx1
+  rotate: false
+  xy: 2, 24
+  size: 397, 40
+  orig: 530, 43
+  offset: 68, 1
+  index: -1
+db_gx2
+  rotate: false
+  xy: 2, 149
+  size: 415, 102
+  orig: 530, 112
+  offset: 59, 4
+  index: -1
+ddd
+  rotate: false
+  xy: 847, 321
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gd
+  rotate: false
+  xy: 498, 365
+  size: 12, 12
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+level_up
+  rotate: false
+  xy: 498, 218
+  size: 338, 51
+  orig: 339, 52
+  offset: 0, 1
+  index: -1
+xing001
+  rotate: false
+  xy: 697, 88
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+you_win
+  rotate: false
+  xy: 2, 2
+  size: 111, 20
+  orig: 111, 20
+  offset: 0, 0
+  index: -1

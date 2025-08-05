@@ -1,0 +1,111 @@
+
+gou.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/beijing
+  rotate: true
+  xy: 2, 28
+  size: 98, 84
+  orig: 98, 84
+  offset: 0, 0
+  index: -1
+images/erduo
+  rotate: false
+  xy: 124, 5
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+images/kouqiang
+  rotate: false
+  xy: 44, 2
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+images/kuang
+  rotate: true
+  xy: 88, 29
+  size: 97, 84
+  orig: 97, 84
+  offset: 0, 0
+  index: -1
+images/menya1
+  rotate: false
+  xy: 109, 2
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+images/shangshen
+  rotate: true
+  xy: 174, 56
+  size: 70, 60
+  orig: 74, 60
+  offset: 4, 0
+  index: -1
+images/shangzui
+  rotate: true
+  xy: 174, 5
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+images/shengzi
+  rotate: true
+  xy: 238, 47
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+images/shetou
+  rotate: true
+  xy: 109, 9
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+images/tou
+  rotate: false
+  xy: 2, 4
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+images/tui1
+  rotate: false
+  xy: 267, 92
+  size: 29, 34
+  orig: 31, 34
+  offset: 1, 0
+  index: -1
+images/weiba
+  rotate: true
+  xy: 124, 16
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+images/xiangquan
+  rotate: true
+  xy: 236, 86
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+images/xiazui
+  rotate: true
+  xy: 205, 11
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+theme122_s_4
+  rotate: false
+  xy: 82, 5
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1

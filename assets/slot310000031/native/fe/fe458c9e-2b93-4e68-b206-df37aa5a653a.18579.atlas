@@ -1,0 +1,160 @@
+
+JP_Compliment.png
+size: 548,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bg
+  rotate: true
+  xy: 79, 176
+  size: 346, 184
+  orig: 346, 184
+  offset: 0, 0
+  index: -1
+Bg_L
+  rotate: false
+  xy: 362, 246
+  size: 72, 209
+  orig: 74, 212
+  offset: 1, 2
+  index: -1
+FX/Exp_Light
+  rotate: true
+  xy: 2, 7
+  size: 146, 86
+  orig: 146, 86
+  offset: 0, 0
+  index: -1
+FX/Light_2
+  rotate: true
+  xy: 362, 106
+  size: 70, 67
+  orig: 70, 67
+  offset: 0, 0
+  index: -1
+FX/LineWinLight_2
+  rotate: true
+  xy: 436, 272
+  size: 74, 104
+  orig: 74, 104
+  offset: 0, 0
+  index: -1
+FX/SmallSpots_06
+  rotate: false
+  xy: 436, 348
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+FX/Star_02
+  rotate: false
+  xy: 405, 2
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+FX/light
+  rotate: false
+  xy: 274, 92
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+FX/slash
+  rotate: true
+  xy: 433, 139
+  size: 51, 99
+  orig: 51, 99
+  offset: 0, 0
+  index: -1
+FX/spark_02
+  rotate: false
+  xy: 90, 5
+  size: 169, 169
+  orig: 169, 169
+  offset: 0, 0
+  index: -1
+FX/wind_07
+  rotate: false
+  xy: 436, 192
+  size: 103, 78
+  orig: 103, 78
+  offset: 0, 0
+  index: -1
+Gold_02b
+  rotate: false
+  xy: 346, 33
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+Gold_03b
+  rotate: false
+  xy: 405, 47
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+Gold_04b
+  rotate: false
+  xy: 486, 80
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+Gold_Coin
+  rotate: true
+  xy: 2, 155
+  size: 367, 75
+  orig: 367, 75
+  offset: 0, 0
+  index: -1
+HP_TEXT1
+  rotate: false
+  xy: 274, 457
+  size: 268, 65
+  orig: 280, 82
+  offset: 6, 13
+  index: -1
+L_Frame_Glow
+  rotate: true
+  xy: 261, 21
+  size: 153, 11
+  orig: 153, 11
+  offset: 0, 0
+  index: -1
+Ribbon1_R
+  rotate: true
+  xy: 265, 242
+  size: 213, 95
+  orig: 213, 95
+  offset: 0, 0
+  index: -1
+Ribbon1_R_YY
+  rotate: true
+  xy: 402, 178
+  size: 66, 29
+  orig: 66, 29
+  offset: 0, 0
+  index: -1
+Ribbon2_R
+  rotate: false
+  xy: 274, 9
+  size: 70, 81
+  orig: 70, 81
+  offset: 0, 0
+  index: -1
+Ribbon3_L
+  rotate: true
+  xy: 265, 180
+  size: 60, 135
+  orig: 60, 135
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 450, 11
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1

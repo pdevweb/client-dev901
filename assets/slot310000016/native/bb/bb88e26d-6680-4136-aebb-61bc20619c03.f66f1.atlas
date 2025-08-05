@@ -1,0 +1,76 @@
+
+eff_bg.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 773, 123
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 773, 173
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+03
+  rotate: true
+  xy: 772, 226
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+04
+  rotate: true
+  xy: 823, 176
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+05
+  rotate: true
+  xy: 828, 229
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+bj001_1
+  rotate: true
+  xy: 2, 101
+  size: 678, 709
+  orig: 678, 709
+  offset: 0, 0
+  index: -1
+bj002_1
+  rotate: true
+  xy: 1215, 2
+  size: 777, 423
+  orig: 777, 423
+  offset: 0, 0
+  index: -1
+images/effect/xuehua
+  rotate: false
+  xy: 713, 279
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+shizi4
+  rotate: true
+  xy: 713, 160
+  size: 55, 58
+  orig: 57, 58
+  offset: 1, 0
+  index: -1
+wu_00
+  rotate: false
+  xy: 713, 217
+  size: 57, 60
+  orig: 60, 60
+  offset: 3, 0
+  index: -1

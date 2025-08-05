@@ -1,0 +1,146 @@
+
+eff_zjjs.png
+size: 900,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bd/yanhua_00
+  rotate: false
+  xy: 734, 10
+  size: 29, 31
+  orig: 130, 115
+  offset: 52, 44
+  index: -1
+images/bd/yanhua_02
+  rotate: false
+  xy: 807, 29
+  size: 41, 41
+  orig: 130, 115
+  offset: 46, 39
+  index: -1
+images/bd/yanhua_04
+  rotate: true
+  xy: 807, 72
+  size: 51, 53
+  orig: 130, 115
+  offset: 41, 32
+  index: -1
+images/bd/yanhua_06
+  rotate: true
+  xy: 663, 148
+  size: 62, 63
+  orig: 130, 115
+  offset: 36, 27
+  index: -1
+images/bd/yanhua_08
+  rotate: true
+  xy: 663, 212
+  size: 70, 69
+  orig: 130, 115
+  offset: 33, 23
+  index: -1
+images/bd/yanhua_10
+  rotate: false
+  xy: 820, 125
+  size: 77, 74
+  orig: 130, 115
+  offset: 30, 20
+  index: -1
+images/bd/yanhua_12
+  rotate: true
+  xy: 820, 201
+  size: 81, 78
+  orig: 130, 115
+  offset: 28, 17
+  index: -1
+images/bd/yanhua_14
+  rotate: true
+  xy: 571, 4
+  size: 86, 84
+  orig: 130, 115
+  offset: 25, 12
+  index: -1
+images/bd/yanhua_16
+  rotate: true
+  xy: 409, 2
+  size: 88, 80
+  orig: 130, 115
+  offset: 24, 14
+  index: -1
+images/bd/yanhua_18
+  rotate: true
+  xy: 491, 2
+  size: 88, 78
+  orig: 130, 115
+  offset: 26, 16
+  index: -1
+images/bd/yanhua_20
+  rotate: true
+  xy: 657, 9
+  size: 86, 75
+  orig: 130, 115
+  offset: 27, 19
+  index: -1
+images/bd/yanhua_22
+  rotate: false
+  xy: 734, 125
+  size: 82, 72
+  orig: 130, 115
+  offset: 30, 21
+  index: -1
+images/bd/yanhua_23
+  rotate: true
+  xy: 734, 43
+  size: 80, 71
+  orig: 130, 115
+  offset: 31, 21
+  index: -1
+images/cjlg
+  rotate: true
+  xy: 600, 97
+  size: 185, 61
+  orig: 201, 67
+  offset: 8, 3
+  index: -1
+images/gq11
+  rotate: false
+  xy: 734, 199
+  size: 84, 83
+  orig: 86, 86
+  offset: 1, 1
+  index: -1
+images/gx_00
+  rotate: true
+  xy: 409, 92
+  size: 190, 189
+  orig: 201, 194
+  offset: 3, 3
+  index: -1
+images/gxp_00
+  rotate: true
+  xy: 83, 8
+  size: 274, 54
+  orig: 343, 172
+  offset: 29, 53
+  index: -1
+images/gy
+  rotate: true
+  xy: 663, 104
+  size: 42, 41
+  orig: 43, 43
+  offset: 0, 1
+  index: -1
+images/jjl
+  rotate: true
+  xy: 2, 6
+  size: 276, 79
+  orig: 276, 79
+  offset: 0, 0
+  index: -1
+images/light
+  rotate: false
+  xy: 139, 14
+  size: 268, 268
+  orig: 268, 268
+  offset: 0, 0
+  index: -1

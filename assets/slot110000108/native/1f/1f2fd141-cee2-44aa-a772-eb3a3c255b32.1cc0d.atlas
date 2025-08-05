@@ -1,0 +1,279 @@
+
+boss_sm.png
+size: 952,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire1/fire1_00
+  rotate: false
+  xy: 915, 28
+  size: 14, 32
+  orig: 41, 41
+  offset: 14, 1
+  index: -1
+fire1/fire1_01
+  rotate: true
+  xy: 721, 7
+  size: 14, 32
+  orig: 41, 41
+  offset: 14, 1
+  index: -1
+fire1/fire1_02
+  rotate: true
+  xy: 882, 13
+  size: 13, 32
+  orig: 41, 41
+  offset: 14, 1
+  index: -1
+fire1/fire1_03
+  rotate: false
+  xy: 931, 28
+  size: 14, 32
+  orig: 41, 41
+  offset: 14, 1
+  index: -1
+fire1/fire1_04
+  rotate: true
+  xy: 916, 12
+  size: 14, 32
+  orig: 41, 41
+  offset: 14, 1
+  index: -1
+fire1/fire1_05
+  rotate: false
+  xy: 902, 63
+  size: 14, 33
+  orig: 41, 41
+  offset: 14, 1
+  index: -1
+fire1/fire1_06
+  rotate: false
+  xy: 899, 28
+  size: 14, 33
+  orig: 41, 41
+  offset: 14, 1
+  index: -1
+fire1/fire1_07
+  rotate: true
+  xy: 578, 10
+  size: 14, 34
+  orig: 41, 41
+  offset: 14, 1
+  index: -1
+fire1/fire1_08
+  rotate: true
+  xy: 543, 26
+  size: 15, 34
+  orig: 41, 41
+  offset: 13, 1
+  index: -1
+fire1/fire1_09
+  rotate: true
+  xy: 851, 98
+  size: 15, 35
+  orig: 41, 41
+  offset: 13, 1
+  index: -1
+fire1/fire1_10
+  rotate: true
+  xy: 506, 26
+  size: 15, 35
+  orig: 41, 41
+  offset: 13, 1
+  index: -1
+fire1/fire1_11
+  rotate: true
+  xy: 888, 98
+  size: 15, 35
+  orig: 41, 41
+  offset: 13, 1
+  index: -1
+fire1/fire1_12
+  rotate: true
+  xy: 614, 11
+  size: 13, 35
+  orig: 41, 41
+  offset: 14, 1
+  index: -1
+fire1/fire1_13
+  rotate: false
+  xy: 867, 26
+  size: 13, 35
+  orig: 41, 41
+  offset: 14, 1
+  index: -1
+fire1/fire1_14
+  rotate: false
+  xy: 918, 62
+  size: 13, 34
+  orig: 41, 41
+  offset: 14, 1
+  index: -1
+fire1/fire1_15
+  rotate: true
+  xy: 687, 23
+  size: 14, 33
+  orig: 41, 41
+  offset: 13, 1
+  index: -1
+fire1/fire1_16
+  rotate: true
+  xy: 722, 23
+  size: 14, 33
+  orig: 41, 41
+  offset: 13, 1
+  index: -1
+fire1/fire1_17
+  rotate: false
+  xy: 885, 63
+  size: 15, 33
+  orig: 41, 41
+  offset: 12, 1
+  index: -1
+fire1/fire1_18
+  rotate: false
+  xy: 882, 28
+  size: 15, 33
+  orig: 41, 41
+  offset: 12, 1
+  index: -1
+fire1/fire1_19
+  rotate: false
+  xy: 867, 63
+  size: 16, 33
+  orig: 41, 41
+  offset: 12, 1
+  index: -1
+fire1/fire1_20
+  rotate: true
+  xy: 506, 9
+  size: 15, 34
+  orig: 41, 41
+  offset: 13, 1
+  index: -1
+fire1/fire1_21
+  rotate: true
+  xy: 651, 23
+  size: 14, 34
+  orig: 41, 41
+  offset: 14, 1
+  index: -1
+fire1/fire1_22
+  rotate: true
+  xy: 579, 26
+  size: 15, 34
+  orig: 41, 41
+  offset: 14, 1
+  index: -1
+fire1/fire1_23
+  rotate: true
+  xy: 542, 9
+  size: 15, 34
+  orig: 41, 41
+  offset: 13, 1
+  index: -1
+fire1/fire1_24
+  rotate: true
+  xy: 615, 26
+  size: 15, 34
+  orig: 41, 41
+  offset: 13, 1
+  index: -1
+fire1/fire1_25
+  rotate: true
+  xy: 651, 7
+  size: 14, 33
+  orig: 41, 41
+  offset: 14, 1
+  index: -1
+fire1/fire1_26
+  rotate: true
+  xy: 686, 7
+  size: 14, 33
+  orig: 41, 41
+  offset: 14, 1
+  index: -1
+fire1/fire1_27
+  rotate: false
+  xy: 933, 81
+  size: 14, 32
+  orig: 41, 41
+  offset: 14, 1
+  index: -1
+fire1/fire1_28
+  rotate: true
+  xy: 757, 8
+  size: 14, 32
+  orig: 41, 41
+  offset: 14, 1
+  index: -1
+fire1/fire1_29
+  rotate: true
+  xy: 791, 8
+  size: 14, 32
+  orig: 41, 41
+  offset: 14, 1
+  index: -1
+fire1/fire1_30
+  rotate: true
+  xy: 825, 8
+  size: 14, 32
+  orig: 41, 41
+  offset: 14, 1
+  index: -1
+longjiao1
+  rotate: true
+  xy: 768, 24
+  size: 59, 97
+  orig: 59, 97
+  offset: 0, 0
+  index: -1
+longjiao2
+  rotate: false
+  xy: 665, 39
+  size: 101, 44
+  orig: 101, 44
+  offset: 0, 0
+  index: -1
+longshen1
+  rotate: true
+  xy: 358, 43
+  size: 236, 305
+  orig: 278, 319
+  offset: 0, 14
+  index: -1
+longshen2
+  rotate: true
+  xy: 2, 2
+  size: 277, 354
+  orig: 283, 354
+  offset: 6, 0
+  index: -1
+longtou1
+  rotate: false
+  xy: 665, 85
+  size: 184, 194
+  orig: 184, 204
+  offset: 0, 10
+  index: -1
+longtou2
+  rotate: true
+  xy: 851, 115
+  size: 164, 88
+  orig: 164, 89
+  offset: 0, 1
+  index: -1
+longxu1
+  rotate: false
+  xy: 358, 9
+  size: 73, 32
+  orig: 73, 32
+  offset: 0, 0
+  index: -1
+longxu2
+  rotate: false
+  xy: 433, 9
+  size: 71, 32
+  orig: 71, 32
+  offset: 0, 0
+  index: -1

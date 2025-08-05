@@ -1,0 +1,139 @@
+
+245_base_jprush_win.png
+size: 256,884
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: false
+  xy: 190, 13
+  size: 58, 56
+  orig: 58, 58
+  offset: 0, 1
+  index: -1
+fg
+  rotate: true
+  xy: 104, 2
+  size: 67, 84
+  orig: 67, 84
+  offset: 0, 0
+  index: -1
+jl/sg_016
+  rotate: true
+  xy: 2, 866
+  size: 16, 127
+  orig: 16, 127
+  offset: 0, 0
+  index: -1
+win/win_000
+  rotate: true
+  xy: 2, 165
+  size: 97, 111
+  orig: 121, 131
+  offset: 12, 9
+  index: -1
+win/win_002
+  rotate: true
+  xy: 121, 172
+  size: 95, 116
+  orig: 121, 131
+  offset: 14, 7
+  index: -1
+win/win_004
+  rotate: true
+  xy: 2, 264
+  size: 93, 117
+  orig: 121, 131
+  offset: 15, 6
+  index: -1
+win/win_006
+  rotate: true
+  xy: 2, 359
+  size: 95, 118
+  orig: 121, 131
+  offset: 13, 5
+  index: -1
+win/win_008
+  rotate: true
+  xy: 2, 662
+  size: 99, 121
+  orig: 121, 131
+  offset: 11, 3
+  index: -1
+win/win_010
+  rotate: true
+  xy: 2, 763
+  size: 101, 122
+  orig: 121, 131
+  offset: 10, 5
+  index: -1
+win/win_012
+  rotate: true
+  xy: 124, 475
+  size: 100, 120
+  orig: 121, 131
+  offset: 11, 4
+  index: -1
+win/win_014
+  rotate: true
+  xy: 2, 456
+  size: 100, 119
+  orig: 121, 131
+  offset: 11, 4
+  index: -1
+win/win_016
+  rotate: true
+  xy: 125, 577
+  size: 98, 121
+  orig: 121, 131
+  offset: 12, 3
+  index: -1
+win/win_018
+  rotate: true
+  xy: 126, 677
+  size: 97, 122
+  orig: 121, 131
+  offset: 13, 2
+  index: -1
+win/win_020
+  rotate: true
+  xy: 122, 269
+  size: 100, 117
+  orig: 121, 131
+  offset: 12, 6
+  index: -1
+win/win_022
+  rotate: true
+  xy: 123, 371
+  size: 102, 118
+  orig: 121, 131
+  offset: 12, 6
+  index: -1
+win/win_024
+  rotate: true
+  xy: 131, 776
+  size: 106, 122
+  orig: 121, 131
+  offset: 10, 4
+  index: -1
+win/win_026
+  rotate: true
+  xy: 2, 558
+  size: 102, 120
+  orig: 121, 131
+  offset: 9, 7
+  index: -1
+win/win_028
+  rotate: true
+  xy: 115, 71
+  size: 99, 108
+  orig: 121, 131
+  offset: 11, 5
+  index: -1
+win/win_030
+  rotate: true
+  xy: 2, 64
+  size: 99, 100
+  orig: 121, 131
+  offset: 11, 15
+  index: -1

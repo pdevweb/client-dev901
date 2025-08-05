@@ -1,0 +1,895 @@
+
+eff_icon_5.png
+size: 1288,1288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3D_Stroke
+  rotate: false
+  xy: 2, 75
+  size: 181, 27
+  orig: 343, 284
+  offset: 0, 128
+  index: -1
+3D_Stroke_30FPS/3D_Stroke_00002
+  rotate: false
+  xy: 847, 2
+  size: 7, 3
+  orig: 343, 284
+  offset: 166, 140
+  index: -1
+3D_Stroke_30FPS/3D_Stroke_00003
+  rotate: true
+  xy: 544, 424
+  size: 14, 9
+  orig: 343, 284
+  offset: 160, 138
+  index: -1
+3D_Stroke_30FPS/3D_Stroke_00004
+  rotate: true
+  xy: 362, 578
+  size: 26, 18
+  orig: 343, 284
+  offset: 152, 133
+  index: -1
+3D_Stroke_30FPS/3D_Stroke_00005
+  rotate: true
+  xy: 1265, 473
+  size: 38, 21
+  orig: 343, 284
+  offset: 141, 131
+  index: -1
+3D_Stroke_30FPS/3D_Stroke_00006
+  rotate: false
+  xy: 296, 779
+  size: 51, 23
+  orig: 343, 284
+  offset: 129, 130
+  index: -1
+3D_Stroke_30FPS/3D_Stroke_00007
+  rotate: false
+  xy: 474, 612
+  size: 65, 24
+  orig: 343, 284
+  offset: 115, 130
+  index: -1
+3D_Stroke_30FPS/3D_Stroke_00008
+  rotate: true
+  xy: 982, 38
+  size: 80, 24
+  orig: 343, 284
+  offset: 99, 130
+  index: -1
+3D_Stroke_30FPS/3D_Stroke_00009
+  rotate: false
+  xy: 175, 3
+  size: 96, 24
+  orig: 343, 284
+  offset: 83, 130
+  index: -1
+3D_Stroke_30FPS/3D_Stroke_00010
+  rotate: true
+  xy: 1001, 223
+  size: 113, 24
+  orig: 343, 284
+  offset: 65, 130
+  index: -1
+3D_Stroke_30FPS/3D_Stroke_00011
+  rotate: true
+  xy: 1029, 600
+  size: 129, 24
+  orig: 343, 284
+  offset: 46, 130
+  index: -1
+3D_Stroke_30FPS/3D_Stroke_00012
+  rotate: true
+  xy: 847, 7
+  size: 146, 24
+  orig: 343, 284
+  offset: 27, 130
+  index: -1
+3D_Stroke_30FPS/3D_Stroke_00013
+  rotate: true
+  xy: 873, 2
+  size: 153, 24
+  orig: 343, 284
+  offset: 7, 130
+  index: -1
+3D_Stroke_30FPS/3D_Stroke_00014
+  rotate: true
+  xy: 1104, 333
+  size: 140, 24
+  orig: 343, 284
+  offset: 0, 130
+  index: -1
+3D_Stroke_30FPS/3D_Stroke_00015
+  rotate: true
+  xy: 1178, 390
+  size: 120, 24
+  orig: 343, 284
+  offset: 0, 130
+  index: -1
+3D_Stroke_30FPS/3D_Stroke_00016
+  rotate: true
+  xy: 982, 120
+  size: 99, 23
+  orig: 343, 284
+  offset: 0, 130
+  index: -1
+3D_Stroke_30FPS/3D_Stroke_00017
+  rotate: false
+  xy: 1207, 513
+  size: 78, 23
+  orig: 343, 284
+  offset: 0, 130
+  index: -1
+3D_Stroke_30FPS/3D_Stroke_00018
+  rotate: false
+  xy: 514, 2
+  size: 59, 21
+  orig: 343, 284
+  offset: 0, 131
+  index: -1
+3D_Stroke_30FPS/3D_Stroke_00019
+  rotate: false
+  xy: 1217, 709
+  size: 39, 17
+  orig: 343, 284
+  offset: 0, 133
+  index: -1
+3D_Stroke_30FPS/3D_Stroke_00020
+  rotate: false
+  xy: 660, 638
+  size: 20, 10
+  orig: 343, 284
+  offset: 0, 136
+  index: -1
+3D_Stroke_30FPS/3D_Stroke_00021
+  rotate: true
+  xy: 857, 329
+  size: 2, 1
+  orig: 343, 284
+  offset: 0, 141
+  index: -1
+Frame
+  rotate: false
+  xy: 2, 1018
+  size: 320, 268
+  orig: 343, 284
+  offset: 11, 8
+  index: -1
+Frame_3D_Stroke/Frame_3D_Stroke_00000
+  rotate: false
+  xy: 200, 415
+  size: 180, 160
+  orig: 228, 190
+  offset: 24, 15
+  index: -1
+Frame_3D_Stroke/Frame_3D_Stroke_00001
+  rotate: false
+  xy: 1116, 1124
+  size: 170, 162
+  orig: 228, 190
+  offset: 29, 14
+  index: -1
+Frame_3D_Stroke/Frame_3D_Stroke_00002
+  rotate: true
+  xy: 391, 250
+  size: 172, 162
+  orig: 228, 190
+  offset: 28, 14
+  index: -1
+Frame_3D_Stroke/Frame_3D_Stroke_00003
+  rotate: false
+  xy: 390, 86
+  size: 172, 162
+  orig: 228, 190
+  offset: 28, 14
+  index: -1
+Frame_3D_Stroke/Frame_3D_Stroke_00004
+  rotate: false
+  xy: 324, 1124
+  size: 196, 162
+  orig: 228, 190
+  offset: 16, 14
+  index: -1
+Frame_3D_Stroke/Frame_3D_Stroke_00005
+  rotate: false
+  xy: 2, 611
+  size: 196, 162
+  orig: 228, 190
+  offset: 16, 14
+  index: -1
+Frame_3D_Stroke/Frame_3D_Stroke_00006
+  rotate: false
+  xy: 522, 1124
+  size: 196, 162
+  orig: 228, 190
+  offset: 16, 14
+  index: -1
+Frame_3D_Stroke/Frame_3D_Stroke_00007
+  rotate: false
+  xy: 2, 447
+  size: 196, 162
+  orig: 228, 190
+  offset: 16, 14
+  index: -1
+Frame_3D_Stroke/Frame_3D_Stroke_00008
+  rotate: false
+  xy: 720, 1124
+  size: 196, 162
+  orig: 228, 190
+  offset: 16, 14
+  index: -1
+Frame_3D_Stroke/Frame_3D_Stroke_00009
+  rotate: false
+  xy: 324, 966
+  size: 196, 156
+  orig: 228, 190
+  offset: 16, 17
+  index: -1
+Frame_3D_Stroke/Frame_3D_Stroke_00010
+  rotate: false
+  xy: 918, 1126
+  size: 196, 160
+  orig: 228, 190
+  offset: 16, 15
+  index: -1
+Frame_3D_Stroke/Frame_3D_Stroke_00011
+  rotate: false
+  xy: 522, 962
+  size: 196, 160
+  orig: 228, 190
+  offset: 16, 15
+  index: -1
+Frame_3D_Stroke/Frame_3D_Stroke_00012
+  rotate: false
+  xy: 720, 962
+  size: 196, 160
+  orig: 228, 190
+  offset: 16, 15
+  index: -1
+Frame_3D_Stroke/Frame_3D_Stroke_00013
+  rotate: false
+  xy: 918, 964
+  size: 196, 160
+  orig: 228, 190
+  offset: 16, 15
+  index: -1
+Frame_3D_Stroke/Frame_3D_Stroke_00014
+  rotate: false
+  xy: 296, 804
+  size: 196, 160
+  orig: 228, 190
+  offset: 16, 15
+  index: -1
+Frame_3D_Stroke/Frame_3D_Stroke_00015
+  rotate: true
+  xy: 382, 424
+  size: 180, 160
+  orig: 228, 190
+  offset: 24, 15
+  index: -1
+Frame_3D_Stroke/Frame_3D_Stroke_00016
+  rotate: false
+  xy: 474, 638
+  size: 184, 160
+  orig: 228, 190
+  offset: 22, 15
+  index: -1
+Frame_3D_Stroke/Frame_3D_Stroke_00017
+  rotate: false
+  xy: 494, 800
+  size: 196, 160
+  orig: 228, 190
+  offset: 16, 15
+  index: -1
+Frame_3D_Stroke/Frame_3D_Stroke_00018
+  rotate: false
+  xy: 692, 800
+  size: 196, 160
+  orig: 228, 190
+  offset: 16, 15
+  index: -1
+Frame_3D_Stroke/Frame_3D_Stroke_00019
+  rotate: true
+  xy: 200, 577
+  size: 196, 160
+  orig: 228, 190
+  offset: 16, 15
+  index: -1
+Frame_3D_Stroke/Frame_3D_Stroke_00020
+  rotate: false
+  xy: 193, 253
+  size: 196, 160
+  orig: 228, 190
+  offset: 16, 15
+  index: -1
+Frame_3D_Stroke/Frame_3D_Stroke_00021
+  rotate: false
+  xy: 192, 91
+  size: 196, 160
+  orig: 228, 190
+  offset: 16, 15
+  index: -1
+Frame_3D_Stroke/Frame_3D_Stroke_00022
+  rotate: false
+  xy: 660, 650
+  size: 196, 148
+  orig: 228, 190
+  offset: 16, 21
+  index: -1
+Frame_3D_Stroke/Frame_3D_Stroke_00023
+  rotate: false
+  xy: 918, 870
+  size: 196, 92
+  orig: 228, 190
+  offset: 16, 49
+  index: -1
+Frame_3D_Stroke/Frame_3D_Stroke_00024
+  rotate: true
+  xy: 362, 606
+  size: 196, 110
+  orig: 228, 190
+  offset: 16, 40
+  index: -1
+Frame_3D_Stroke/Frame_3D_Stroke_00025
+  rotate: true
+  xy: 544, 440
+  size: 196, 142
+  orig: 228, 190
+  offset: 16, 24
+  index: -1
+Frame_3D_Stroke_24FPS_0.66/Frame_3D_Stroke_00001
+  rotate: true
+  xy: 1080, 153
+  size: 90, 21
+  orig: 228, 190
+  offset: 114, 154
+  index: -1
+Frame_3D_Stroke_24FPS_0.66/Frame_3D_Stroke_00002
+  rotate: true
+  xy: 981, 221
+  size: 110, 18
+  orig: 228, 190
+  offset: 89, 158
+  index: -1
+Frame_3D_Stroke_24FPS_0.66/Frame_3D_Stroke_00003
+  rotate: true
+  xy: 1155, 373
+  size: 137, 21
+  orig: 228, 190
+  offset: 63, 155
+  index: -1
+Frame_3D_Stroke_24FPS_0.66/Frame_3D_Stroke_00004
+  rotate: true
+  xy: 1130, 352
+  size: 158, 23
+  orig: 228, 190
+  offset: 28, 153
+  index: -1
+Frame_3D_Stroke_24FPS_0.66/Frame_3D_Stroke_00005
+  rotate: true
+  xy: 858, 646
+  size: 152, 29
+  orig: 228, 190
+  offset: 16, 147
+  index: -1
+Frame_3D_Stroke_24FPS_0.66/Frame_3D_Stroke_00006
+  rotate: true
+  xy: 982, 472
+  size: 122, 61
+  orig: 228, 190
+  offset: 16, 115
+  index: -1
+Frame_3D_Stroke_24FPS_0.66/Frame_3D_Stroke_00007
+  rotate: true
+  xy: 899, 53
+  size: 102, 81
+  orig: 228, 190
+  offset: 16, 95
+  index: -1
+Frame_3D_Stroke_24FPS_0.66/Frame_3D_Stroke_00008
+  rotate: true
+  xy: 2, 2
+  size: 71, 110
+  orig: 228, 190
+  offset: 16, 66
+  index: -1
+Frame_3D_Stroke_24FPS_0.66/Frame_3D_Stroke_00009
+  rotate: false
+  xy: 996, 338
+  size: 50, 132
+  orig: 228, 190
+  offset: 16, 44
+  index: -1
+Frame_3D_Stroke_24FPS_0.66/Frame_3D_Stroke_00010
+  rotate: false
+  xy: 890, 805
+  size: 26, 155
+  orig: 228, 190
+  offset: 16, 17
+  index: -1
+Frame_3D_Stroke_24FPS_0.66/Frame_3D_Stroke_00011
+  rotate: true
+  xy: 564, 72
+  size: 37, 141
+  orig: 228, 190
+  offset: 16, 15
+  index: -1
+Frame_3D_Stroke_24FPS_0.66/Frame_3D_Stroke_00012
+  rotate: false
+  xy: 1045, 475
+  size: 68, 110
+  orig: 228, 190
+  offset: 16, 15
+  index: -1
+Frame_3D_Stroke_24FPS_0.66/Frame_3D_Stroke_00013
+  rotate: false
+  xy: 1197, 617
+  size: 89, 90
+  orig: 228, 190
+  offset: 16, 15
+  index: -1
+Frame_3D_Stroke_24FPS_0.66/Frame_3D_Stroke_00014
+  rotate: false
+  xy: 860, 157
+  size: 120, 61
+  orig: 228, 190
+  offset: 16, 15
+  index: -1
+Frame_3D_Stroke_24FPS_0.66/Frame_3D_Stroke_00015
+  rotate: true
+  xy: 1065, 727
+  size: 141, 40
+  orig: 228, 190
+  offset: 16, 15
+  index: -1
+Frame_3D_Stroke_24FPS_0.66/Frame_3D_Stroke_00016
+  rotate: false
+  xy: 185, 65
+  size: 164, 24
+  orig: 228, 190
+  offset: 24, 15
+  index: -1
+Frame_3D_Stroke_24FPS_0.66/Frame_3D_Stroke_00017
+  rotate: false
+  xy: 351, 61
+  size: 164, 23
+  orig: 228, 190
+  offset: 42, 15
+  index: -1
+Frame_3D_Stroke_24FPS_0.66/Frame_3D_Stroke_00018
+  rotate: true
+  xy: 1055, 587
+  size: 138, 39
+  orig: 228, 190
+  offset: 74, 15
+  index: -1
+Frame_3D_Stroke_24FPS_0.66/Frame_3D_Stroke_00019
+  rotate: true
+  xy: 1048, 355
+  size: 118, 54
+  orig: 228, 190
+  offset: 94, 15
+  index: -1
+Frame_3D_Stroke_24FPS_0.66/Frame_3D_Stroke_00020
+  rotate: true
+  xy: 1053, 245
+  size: 86, 72
+  orig: 228, 190
+  offset: 126, 15
+  index: -1
+Frame_3D_Stroke_24FPS_0.66/Frame_3D_Stroke_00021
+  rotate: false
+  xy: 1217, 728
+  size: 65, 82
+  orig: 228, 190
+  offset: 147, 15
+  index: -1
+Frame_3D_Stroke_24FPS_0.66/Frame_3D_Stroke_00022
+  rotate: true
+  xy: 175, 29
+  size: 34, 96
+  orig: 228, 190
+  offset: 178, 15
+  index: -1
+Frame_3D_Stroke_24FPS_0.66/Frame_3D_Stroke_00023
+  rotate: false
+  xy: 1027, 236
+  size: 24, 100
+  orig: 228, 190
+  offset: 188, 21
+  index: -1
+Frame_3D_Stroke_24FPS_0.66/Frame_3D_Stroke_00024
+  rotate: false
+  xy: 1103, 154
+  size: 22, 89
+  orig: 228, 190
+  offset: 190, 49
+  index: -1
+Frame_3D_Stroke_24FPS_0.66/Frame_3D_Stroke_00025
+  rotate: false
+  xy: 1267, 875
+  size: 19, 78
+  orig: 228, 190
+  offset: 193, 72
+  index: -1
+Frame_3D_Stroke_24FPS_0.66/Frame_3D_Stroke_00026
+  rotate: false
+  xy: 1267, 818
+  size: 18, 55
+  orig: 228, 190
+  offset: 194, 111
+  index: -1
+Particular_15FPS_0.5/Particular_00001
+  rotate: false
+  xy: 1207, 538
+  size: 79, 77
+  orig: 257, 257
+  offset: 89, 91
+  index: -1
+Particular_15FPS_0.5/Particular_00002
+  rotate: true
+  xy: 1115, 512
+  size: 95, 90
+  orig: 257, 257
+  offset: 82, 84
+  index: -1
+Particular_15FPS_0.5/Particular_00003
+  rotate: false
+  xy: 1107, 709
+  size: 108, 101
+  orig: 257, 257
+  offset: 75, 77
+  index: -1
+Particular_15FPS_0.5/Particular_00004
+  rotate: false
+  xy: 860, 220
+  size: 119, 111
+  orig: 257, 257
+  offset: 69, 71
+  index: -1
+Particular_15FPS_0.5/Particular_00005
+  rotate: false
+  xy: 851, 472
+  size: 129, 122
+  orig: 257, 257
+  offset: 63, 65
+  index: -1
+Particular_15FPS_0.5/Particular_00006
+  rotate: false
+  xy: 889, 596
+  size: 138, 133
+  orig: 257, 257
+  offset: 58, 59
+  index: -1
+Particular_15FPS_0.5/Particular_00007
+  rotate: true
+  xy: 564, 111
+  size: 152, 142
+  orig: 257, 257
+  offset: 52, 54
+  index: -1
+Particular_15FPS_0.5/Particular_00008
+  rotate: false
+  xy: 708, 155
+  size: 150, 152
+  orig: 257, 257
+  offset: 48, 49
+  index: -1
+Particular_15FPS_0.5/Particular_00009
+  rotate: false
+  xy: 696, 309
+  size: 159, 161
+  orig: 257, 257
+  offset: 43, 44
+  index: -1
+Particular_15FPS_0.5/Particular_00010
+  rotate: true
+  xy: 1116, 955
+  size: 167, 169
+  orig: 257, 257
+  offset: 38, 40
+  index: -1
+Particular_15FPS_0.5/Particular_00011
+  rotate: true
+  xy: 688, 472
+  size: 176, 161
+  orig: 257, 257
+  offset: 33, 34
+  index: -1
+Particular_15FPS_0.5/Particular_00012
+  rotate: false
+  xy: 2, 276
+  size: 189, 169
+  orig: 257, 257
+  offset: 27, 30
+  index: -1
+Particular_15FPS_0.5/Particular_00013
+  rotate: true
+  xy: 555, 265
+  size: 173, 139
+  orig: 257, 257
+  offset: 36, 47
+  index: -1
+Particular_15FPS_0.5/Particular_00014
+  rotate: false
+  xy: 2, 104
+  size: 188, 170
+  orig: 257, 257
+  offset: 36, 19
+  index: -1
+Particular_15FPS_0.5/Particular_00015
+  rotate: false
+  xy: 1116, 812
+  size: 149, 141
+  orig: 257, 257
+  offset: 29, 51
+  index: -1
+RSlate
+  rotate: false
+  xy: 2, 775
+  size: 292, 241
+  orig: 343, 284
+  offset: 25, 21
+  index: -1
+Ruby
+  rotate: false
+  xy: 1096, 609
+  size: 99, 98
+  orig: 343, 284
+  offset: 122, 94
+  index: -1
+Ruby1
+  rotate: false
+  xy: 175, 65
+  size: 8, 8
+  orig: 343, 284
+  offset: 167, 259
+  index: -1
+Ruby2
+  rotate: false
+  xy: 1178, 380
+  size: 8, 8
+  orig: 343, 284
+  offset: 167, 19
+  index: -1
+Ruby3
+  rotate: false
+  xy: 1096, 716
+  size: 9, 9
+  orig: 343, 284
+  offset: 18, 138
+  index: -1
+Ruby4
+  rotate: false
+  xy: 114, 2
+  size: 8, 9
+  orig: 343, 284
+  offset: 315, 138
+  index: -1
+Ruby_Bottom_White
+  rotate: true
+  xy: 1007, 122
+  size: 99, 22
+  orig: 343, 284
+  offset: 123, 94
+  index: -1
+Ruby_Hole
+  rotate: false
+  xy: 708, 2
+  size: 137, 151
+  orig: 343, 284
+  offset: 103, 61
+  index: -1
+Ruby_Left_White
+  rotate: false
+  xy: 1055, 145
+  size: 23, 98
+  orig: 343, 284
+  offset: 123, 94
+  index: -1
+Ruby_Sweep_30FPS_0.8/Ruby_Sweep_00000
+  rotate: false
+  xy: 1265, 441
+  size: 21, 30
+  orig: 343, 284
+  offset: 142, 143
+  index: -1
+Ruby_Sweep_30FPS_0.8/Ruby_Sweep_00001
+  rotate: false
+  xy: 851, 603
+  size: 29, 41
+  orig: 343, 284
+  offset: 142, 132
+  index: -1
+Ruby_Sweep_30FPS_0.8/Ruby_Sweep_00002
+  rotate: false
+  xy: 1064, 5
+  size: 37, 53
+  orig: 343, 284
+  offset: 142, 120
+  index: -1
+Ruby_Sweep_30FPS_0.8/Ruby_Sweep_00003
+  rotate: false
+  xy: 517, 25
+  size: 45, 59
+  orig: 343, 284
+  offset: 142, 114
+  index: -1
+Ruby_Sweep_30FPS_0.8/Ruby_Sweep_00004
+  rotate: true
+  xy: 334, 6
+  size: 53, 60
+  orig: 343, 284
+  offset: 142, 113
+  index: -1
+Ruby_Sweep_30FPS_0.8/Ruby_Sweep_00005
+  rotate: false
+  xy: 114, 13
+  size: 59, 60
+  orig: 343, 284
+  offset: 142, 113
+  index: -1
+Ruby_Sweep_30FPS_0.8/Ruby_Sweep_00006
+  rotate: false
+  xy: 273, 3
+  size: 59, 60
+  orig: 343, 284
+  offset: 142, 113
+  index: -1
+Ruby_Sweep_30FPS_0.8/Ruby_Sweep_00007
+  rotate: true
+  xy: 620, 11
+  size: 59, 60
+  orig: 343, 284
+  offset: 142, 113
+  index: -1
+Ruby_Sweep_30FPS_0.8/Ruby_Sweep_00008
+  rotate: false
+  xy: 1008, 60
+  size: 59, 60
+  orig: 343, 284
+  offset: 142, 113
+  index: -1
+Ruby_Sweep_30FPS_0.8/Ruby_Sweep_00009
+  rotate: false
+  xy: 1204, 450
+  size: 59, 60
+  orig: 343, 284
+  offset: 142, 113
+  index: -1
+Ruby_Sweep_30FPS_0.8/Ruby_Sweep_00010
+  rotate: false
+  xy: 1204, 388
+  size: 59, 60
+  orig: 343, 284
+  offset: 142, 113
+  index: -1
+Ruby_Sweep_30FPS_0.8/Ruby_Sweep_00011
+  rotate: false
+  xy: 1127, 271
+  size: 59, 60
+  orig: 343, 284
+  offset: 142, 113
+  index: -1
+Ruby_Sweep_30FPS_0.8/Ruby_Sweep_00012
+  rotate: false
+  xy: 1127, 209
+  size: 59, 60
+  orig: 343, 284
+  offset: 142, 113
+  index: -1
+Ruby_Sweep_30FPS_0.8/Ruby_Sweep_00013
+  rotate: false
+  xy: 1127, 147
+  size: 59, 60
+  orig: 343, 284
+  offset: 142, 113
+  index: -1
+Ruby_Sweep_30FPS_0.8/Ruby_Sweep_00014
+  rotate: false
+  xy: 1188, 326
+  size: 59, 60
+  orig: 343, 284
+  offset: 142, 113
+  index: -1
+Ruby_Sweep_30FPS_0.8/Ruby_Sweep_00015
+  rotate: false
+  xy: 1188, 264
+  size: 59, 60
+  orig: 343, 284
+  offset: 142, 113
+  index: -1
+Ruby_Sweep_30FPS_0.8/Ruby_Sweep_00016
+  rotate: false
+  xy: 1188, 202
+  size: 59, 60
+  orig: 343, 284
+  offset: 142, 113
+  index: -1
+Ruby_Sweep_30FPS_0.8/Ruby_Sweep_00017
+  rotate: false
+  xy: 1188, 140
+  size: 59, 60
+  orig: 343, 284
+  offset: 142, 113
+  index: -1
+Ruby_Sweep_30FPS_0.8/Ruby_Sweep_00018
+  rotate: false
+  xy: 1069, 83
+  size: 59, 60
+  orig: 343, 284
+  offset: 142, 113
+  index: -1
+Ruby_Sweep_30FPS_0.8/Ruby_Sweep_00019
+  rotate: true
+  xy: 396, 7
+  size: 52, 60
+  orig: 343, 284
+  offset: 149, 113
+  index: -1
+Ruby_Sweep_30FPS_0.8/Ruby_Sweep_00020
+  rotate: true
+  xy: 899, 6
+  size: 45, 60
+  orig: 343, 284
+  offset: 156, 113
+  index: -1
+Ruby_Sweep_30FPS_0.8/Ruby_Sweep_00021
+  rotate: true
+  xy: 564, 33
+  size: 37, 54
+  orig: 343, 284
+  offset: 164, 113
+  index: -1
+Ruby_Sweep_30FPS_0.8/Ruby_Sweep_00022
+  rotate: true
+  xy: 575, 2
+  size: 29, 42
+  orig: 343, 284
+  offset: 172, 113
+  index: -1
+Ruby_Sweep_30FPS_0.8/Ruby_Sweep_00023
+  rotate: false
+  xy: 296, 985
+  size: 22, 31
+  orig: 343, 284
+  offset: 179, 113
+  index: -1
+Ruby_Top
+  rotate: true
+  xy: 1031, 135
+  size: 99, 22
+  orig: 343, 284
+  offset: 123, 170
+  index: -1
+Scraps_1_Add
+  rotate: false
+  xy: 458, 5
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+Scraps_2_Add
+  rotate: false
+  xy: 1008, 4
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+bw_vfx_k_add_03_0.576
+  rotate: true
+  xy: 918, 731
+  size: 137, 145
+  orig: 172, 172
+  offset: 18, 15
+  index: -1
+ty_icon_djfh_1
+  rotate: false
+  xy: 857, 333
+  size: 137, 137
+  orig: 343, 284
+  offset: 103, 76
+  index: -1

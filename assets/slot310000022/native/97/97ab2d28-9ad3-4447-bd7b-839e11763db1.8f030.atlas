@@ -1,0 +1,111 @@
+
+398_dgjl.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xin/jl_000
+  rotate: true
+  xy: 629, 4
+  size: 56, 50
+  orig: 68, 71
+  offset: 6, 11
+  index: -1
+xin/jl_001
+  rotate: true
+  xy: 472, 4
+  size: 56, 51
+  orig: 68, 71
+  offset: 6, 11
+  index: -1
+xin/jl_002
+  rotate: true
+  xy: 55, 3
+  size: 57, 51
+  orig: 68, 71
+  offset: 6, 11
+  index: -1
+xin/jl_003
+  rotate: true
+  xy: 525, 3
+  size: 57, 50
+  orig: 68, 71
+  offset: 6, 11
+  index: -1
+xin/jl_004
+  rotate: true
+  xy: 108, 2
+  size: 58, 50
+  orig: 68, 71
+  offset: 5, 11
+  index: -1
+xin/jl_005
+  rotate: true
+  xy: 160, 2
+  size: 58, 50
+  orig: 68, 71
+  offset: 5, 11
+  index: -1
+xin/jl_006
+  rotate: true
+  xy: 212, 2
+  size: 58, 50
+  orig: 68, 71
+  offset: 5, 11
+  index: -1
+xin/jl_007
+  rotate: true
+  xy: 264, 2
+  size: 58, 50
+  orig: 68, 71
+  offset: 5, 11
+  index: -1
+xin/jl_008
+  rotate: true
+  xy: 316, 2
+  size: 58, 50
+  orig: 68, 71
+  offset: 5, 11
+  index: -1
+xin/jl_009
+  rotate: true
+  xy: 368, 2
+  size: 58, 50
+  orig: 68, 71
+  offset: 5, 11
+  index: -1
+xin/jl_010
+  rotate: true
+  xy: 420, 2
+  size: 58, 50
+  orig: 68, 71
+  offset: 5, 11
+  index: -1
+xin/jl_011
+  rotate: true
+  xy: 2, 2
+  size: 58, 51
+  orig: 68, 71
+  offset: 5, 11
+  index: -1
+xin/jl_012
+  rotate: true
+  xy: 577, 3
+  size: 57, 50
+  orig: 68, 71
+  offset: 6, 11
+  index: -1
+xin/jl_013
+  rotate: true
+  xy: 681, 4
+  size: 56, 50
+  orig: 68, 71
+  offset: 6, 11
+  index: -1
+xin/jl_014
+  rotate: true
+  xy: 733, 4
+  size: 56, 50
+  orig: 68, 71
+  offset: 6, 11
+  index: -1

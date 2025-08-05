@@ -1,0 +1,90 @@
+
+398_m5.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+m5_bg
+  rotate: false
+  xy: 52, 10
+  size: 61, 51
+  orig: 61, 51
+  offset: 0, 0
+  index: -1
+m5_touying
+  rotate: true
+  xy: 2, 2
+  size: 59, 48
+  orig: 59, 48
+  offset: 0, 0
+  index: -1
+m5_ye_l1
+  rotate: true
+  xy: 115, 3
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+m5_ye_l2
+  rotate: true
+  xy: 128, 4
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+m5_ye_r1
+  rotate: true
+  xy: 143, 7
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+m5_ye_r2
+  rotate: false
+  xy: 52, 3
+  size: 22, 5
+  orig: 22, 5
+  offset: 0, 0
+  index: -1
+m5_ye_r3
+  rotate: true
+  xy: 202, 18
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+m5_yeti1
+  rotate: true
+  xy: 148, 25
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+m5_yeti2
+  rotate: false
+  xy: 154, 2
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+m5_yezi_a
+  rotate: true
+  xy: 115, 23
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+m5_yezi_ashui
+  rotate: true
+  xy: 187, 6
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+m5_yezi_b
+  rotate: true
+  xy: 182, 33
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1

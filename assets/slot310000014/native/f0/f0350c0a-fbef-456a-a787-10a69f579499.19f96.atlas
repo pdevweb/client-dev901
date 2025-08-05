@@ -1,0 +1,41 @@
+
+sjt_bianhua.png
+size: 488,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A041_25
+  rotate: false
+  xy: 272, 68
+  size: 211, 68
+  orig: 211, 68
+  offset: 0, 0
+  index: -1
+lg
+  rotate: false
+  xy: 132, 12
+  size: 285, 34
+  orig: 304, 42
+  offset: 8, 4
+  index: -1
+ssgx
+  rotate: false
+  xy: 132, 48
+  size: 138, 88
+  orig: 141, 92
+  offset: 1, 1
+  index: -1
+xg_01
+  rotate: false
+  xy: 419, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+yanwu
+  rotate: false
+  xy: 2, 8
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

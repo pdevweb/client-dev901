@@ -1,0 +1,13 @@
+
+eff_daiji.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huoxing
+  rotate: false
+  xy: 2, 2
+  size: 279, 245
+  orig: 279, 245
+  offset: 0, 0
+  index: -1

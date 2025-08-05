@@ -1,0 +1,300 @@
+
+pzc_svip.png
+size: 776,1052
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire1/fire1_00
+  rotate: false
+  xy: 593, 65
+  size: 23, 52
+  orig: 68, 68
+  offset: 23, 2
+  index: -1
+fire1/fire1_01
+  rotate: false
+  xy: 618, 65
+  size: 23, 52
+  orig: 68, 68
+  offset: 23, 2
+  index: -1
+fire1/fire1_02
+  rotate: true
+  xy: 117, 2
+  size: 22, 53
+  orig: 68, 68
+  offset: 23, 2
+  index: -1
+fire1/fire1_03
+  rotate: true
+  xy: 125, 596
+  size: 23, 53
+  orig: 68, 68
+  offset: 23, 2
+  index: -1
+fire1/fire1_04
+  rotate: true
+  xy: 125, 571
+  size: 23, 53
+  orig: 68, 68
+  offset: 23, 2
+  index: -1
+fire1/fire1_05
+  rotate: true
+  xy: 61, 2
+  size: 22, 54
+  orig: 68, 68
+  offset: 24, 2
+  index: -1
+fire1/fire1_06
+  rotate: false
+  xy: 396, 462
+  size: 23, 55
+  orig: 68, 68
+  offset: 23, 2
+  index: -1
+fire1/fire1_07
+  rotate: true
+  xy: 440, 454
+  size: 23, 56
+  orig: 68, 68
+  offset: 23, 2
+  index: -1
+fire1/fire1_08
+  rotate: true
+  xy: 440, 612
+  size: 24, 57
+  orig: 68, 68
+  offset: 22, 2
+  index: -1
+fire1/fire1_09
+  rotate: true
+  xy: 440, 638
+  size: 25, 57
+  orig: 68, 68
+  offset: 22, 2
+  index: -1
+fire1/fire1_10
+  rotate: true
+  xy: 440, 715
+  size: 24, 58
+  orig: 68, 68
+  offset: 22, 2
+  index: -1
+fire1/fire1_11
+  rotate: true
+  xy: 440, 689
+  size: 24, 58
+  orig: 68, 68
+  offset: 22, 2
+  index: -1
+fire1/fire1_12
+  rotate: true
+  xy: 440, 665
+  size: 22, 58
+  orig: 68, 68
+  offset: 23, 2
+  index: -1
+fire1/fire1_13
+  rotate: true
+  xy: 2, 2
+  size: 22, 57
+  orig: 68, 68
+  offset: 23, 2
+  index: -1
+fire1/fire1_14
+  rotate: true
+  xy: 227, 3
+  size: 21, 57
+  orig: 68, 68
+  offset: 23, 2
+  index: -1
+fire1/fire1_15
+  rotate: true
+  xy: 440, 4
+  size: 23, 55
+  orig: 68, 68
+  offset: 21, 2
+  index: -1
+fire1/fire1_16
+  rotate: true
+  xy: 497, 4
+  size: 23, 55
+  orig: 68, 68
+  offset: 21, 2
+  index: -1
+fire1/fire1_17
+  rotate: true
+  xy: 440, 428
+  size: 24, 55
+  orig: 68, 68
+  offset: 20, 2
+  index: -1
+fire1/fire1_18
+  rotate: false
+  xy: 396, 685
+  size: 25, 54
+  orig: 68, 68
+  offset: 20, 2
+  index: -1
+fire1/fire1_19
+  rotate: false
+  xy: 396, 629
+  size: 25, 54
+  orig: 68, 68
+  offset: 21, 2
+  index: -1
+fire1/fire1_20
+  rotate: true
+  xy: 440, 585
+  size: 25, 56
+  orig: 68, 68
+  offset: 22, 2
+  index: -1
+fire1/fire1_21
+  rotate: true
+  xy: 440, 505
+  size: 24, 56
+  orig: 68, 68
+  offset: 23, 2
+  index: -1
+fire1/fire1_22
+  rotate: true
+  xy: 440, 479
+  size: 24, 56
+  orig: 68, 68
+  offset: 23, 2
+  index: -1
+fire1/fire1_23
+  rotate: true
+  xy: 440, 558
+  size: 25, 56
+  orig: 68, 68
+  offset: 22, 2
+  index: -1
+fire1/fire1_24
+  rotate: true
+  xy: 440, 531
+  size: 25, 56
+  orig: 68, 68
+  offset: 22, 2
+  index: -1
+fire1/fire1_25
+  rotate: false
+  xy: 396, 573
+  size: 24, 54
+  orig: 68, 68
+  offset: 23, 2
+  index: -1
+fire1/fire1_26
+  rotate: true
+  xy: 554, 4
+  size: 23, 54
+  orig: 68, 68
+  offset: 23, 2
+  index: -1
+fire1/fire1_27
+  rotate: false
+  xy: 568, 64
+  size: 23, 53
+  orig: 68, 68
+  offset: 23, 2
+  index: -1
+fire1/fire1_28
+  rotate: true
+  xy: 568, 39
+  size: 23, 53
+  orig: 68, 68
+  offset: 24, 2
+  index: -1
+fire1/fire1_29
+  rotate: true
+  xy: 172, 2
+  size: 22, 53
+  orig: 68, 68
+  offset: 24, 2
+  index: -1
+fire1/fire1_30
+  rotate: false
+  xy: 396, 519
+  size: 24, 52
+  orig: 68, 68
+  offset: 23, 2
+  index: -1
+kuang
+  rotate: true
+  xy: 2, 741
+  size: 309, 496
+  orig: 1777, 720
+  offset: 734, 83
+  index: -1
+longtou1
+  rotate: true
+  xy: 440, 119
+  size: 307, 322
+  orig: 307, 340
+  offset: 0, 18
+  index: -1
+longtou2
+  rotate: false
+  xy: 500, 902
+  size: 273, 148
+  orig: 273, 149
+  offset: 0, 1
+  index: -1
+longxu1
+  rotate: true
+  xy: 125, 434
+  size: 122, 53
+  orig: 122, 53
+  offset: 0, 0
+  index: -1
+longxu2
+  rotate: true
+  xy: 125, 621
+  size: 118, 53
+  orig: 118, 53
+  offset: 0, 0
+  index: -1
+制作特定-logo-(1)
+  rotate: true
+  xy: 2, 434
+  size: 305, 121
+  orig: 305, 121
+  offset: 0, 0
+  index: -1
+图层 57
+  rotate: true
+  xy: 2, 26
+  size: 405, 436
+  orig: 406, 437
+  offset: 0, 0
+  index: -1
+图层 63 拷贝
+  rotate: false
+  xy: 440, 29
+  size: 62, 88
+  orig: 63, 88
+  offset: 1, 0
+  index: -1
+图层 63 拷贝 2
+  rotate: false
+  xy: 504, 29
+  size: 62, 88
+  orig: 63, 88
+  offset: 0, 0
+  index: -1
+图层 641
+  rotate: true
+  xy: 180, 443
+  size: 296, 214
+  orig: 296, 214
+  offset: 0, 0
+  index: -1
+方块形卡 拷贝 3
+  rotate: false
+  xy: 500, 433
+  size: 270, 467
+  orig: 270, 467
+  offset: 0, 0
+  index: -1

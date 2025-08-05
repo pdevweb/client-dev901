@@ -1,0 +1,48 @@
+
+398_jp_xh.png
+size: 512,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fg01
+  rotate: false
+  xy: 2, 2
+  size: 114, 23
+  orig: 114, 23
+  offset: 0, 0
+  index: -1
+fg02
+  rotate: false
+  xy: 118, 5
+  size: 59, 20
+  orig: 59, 20
+  offset: 0, 0
+  index: -1
+fg03
+  rotate: false
+  xy: 179, 5
+  size: 58, 20
+  orig: 58, 20
+  offset: 0, 0
+  index: -1
+ld_000
+  rotate: false
+  xy: 239, 16
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+lizi_0003
+  rotate: false
+  xy: 239, 5
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+lizi_0004
+  rotate: true
+  xy: 250, 17
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1

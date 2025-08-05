@@ -1,0 +1,200 @@
+
+BIGWIN.png
+size: 1020,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bigwinxiao
+  rotate: false
+  xy: 543, 8
+  size: 384, 106
+  orig: 388, 109
+  offset: 2, 1
+  index: -1
+chibang_2eff_00000
+  rotate: false
+  xy: 929, 25
+  size: 85, 152
+  orig: 95, 188
+  offset: 5, 29
+  index: -1
+chibang_4
+  rotate: false
+  xy: 929, 179
+  size: 58, 162
+  orig: 59, 163
+  offset: 0, 1
+  index: -1
+chibang_7
+  rotate: false
+  xy: 787, 145
+  size: 140, 196
+  orig: 150, 198
+  offset: 8, 0
+  index: -1
+daguangyun_00000
+  rotate: false
+  xy: 2, 311
+  size: 506, 506
+  orig: 512, 512
+  offset: 3, 3
+  index: -1
+diandain_00000
+  rotate: false
+  xy: 510, 343
+  size: 464, 474
+  orig: 512, 512
+  offset: 27, 10
+  index: -1
+megawin
+  rotate: false
+  xy: 2, 116
+  size: 783, 193
+  orig: 785, 193
+  offset: 1, 0
+  index: -1
+megawinxiao
+  rotate: false
+  xy: 2, 2
+  size: 539, 112
+  orig: 544, 115
+  offset: 2, 2
+  index: -1
+superwin
+  rotate: false
+  xy: 2, 819
+  size: 840, 200
+  orig: 842, 202
+  offset: 1, 1
+  index: -1
+xg_00000
+  rotate: false
+  xy: 844, 843
+  size: 174, 176
+  orig: 220, 220
+  offset: 20, 22
+  index: -1
+
+BIGWIN2.png
+size: 1020,1016
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bigwin
+  rotate: false
+  xy: 2, 845
+  size: 599, 169
+  orig: 604, 171
+  offset: 2, 1
+  index: -1
+chibang_10
+  rotate: false
+  xy: 2, 455
+  size: 333, 388
+  orig: 333, 388
+  offset: 0, 0
+  index: -1
+chibang_12
+  rotate: false
+  xy: 2, 66
+  size: 333, 387
+  orig: 333, 387
+  offset: 0, 0
+  index: -1
+chibang_12eff_00000
+  rotate: true
+  xy: 492, 38
+  size: 238, 256
+  orig: 256, 256
+  offset: 7, 0
+  index: -1
+chibang_2
+  rotate: false
+  xy: 337, 2
+  size: 153, 294
+  orig: 174, 343
+  offset: 16, 47
+  index: -1
+chibang_6
+  rotate: false
+  xy: 494, 278
+  size: 250, 300
+  orig: 252, 301
+  offset: 1, 1
+  index: -1
+chibang_7eff_00000
+  rotate: false
+  xy: 494, 744
+  size: 75, 99
+  orig: 87, 110
+  offset: 7, 5
+  index: -1
+gdd_00000
+  rotate: false
+  xy: 603, 580
+  size: 413, 434
+  orig: 512, 512
+  offset: 38, 41
+  index: -1
+hongchibang_12eff_00000
+  rotate: false
+  xy: 746, 322
+  size: 238, 256
+  orig: 256, 256
+  offset: 7, 0
+  index: -1
+lanchibang_12eff_00000
+  rotate: false
+  xy: 750, 64
+  size: 238, 256
+  orig: 256, 256
+  offset: 7, 0
+  index: -1
+ultra
+  rotate: true
+  xy: 337, 298
+  size: 545, 155
+  orig: 545, 155
+  offset: 0, 0
+  index: -1
+
+BIGWIN3.png
+size: 884,244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang_0
+  rotate: false
+  xy: 762, 108
+  size: 120, 132
+  orig: 128, 138
+  offset: 4, 5
+  index: -1
+chibang_6eff_00000
+  rotate: false
+  xy: 633, 94
+  size: 127, 146
+  orig: 133, 157
+  offset: 3, 7
+  index: -1
+chibang_9
+  rotate: false
+  xy: 518, 45
+  size: 113, 195
+  orig: 113, 196
+  offset: 0, 1
+  index: -1
+lvchibang_12eff_00000
+  rotate: true
+  xy: 2, 2
+  size: 238, 256
+  orig: 256, 256
+  offset: 7, 0
+  index: -1
+zichibang_12eff_00000
+  rotate: true
+  xy: 260, 2
+  size: 238, 256
+  orig: 256, 256
+  offset: 7, 0
+  index: -1

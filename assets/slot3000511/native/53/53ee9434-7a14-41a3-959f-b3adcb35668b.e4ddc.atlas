@@ -1,0 +1,62 @@
+
+eff_icon_yanwu.png
+size: 700,344
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sj/sj_00000
+  rotate: false
+  xy: 2, 8
+  size: 176, 152
+  orig: 188, 181
+  offset: 6, 19
+  index: -1
+sj/sj_00002
+  rotate: true
+  xy: 354, 163
+  size: 177, 173
+  orig: 188, 181
+  offset: 5, 3
+  index: -1
+sj/sj_00004
+  rotate: true
+  xy: 2, 162
+  size: 178, 176
+  orig: 188, 181
+  offset: 5, 5
+  index: -1
+sj/sj_00006
+  rotate: true
+  xy: 180, 158
+  size: 182, 172
+  orig: 188, 181
+  offset: 0, 9
+  index: -1
+sj/sj_00008
+  rotate: true
+  xy: 529, 164
+  size: 176, 168
+  orig: 188, 181
+  offset: 6, 9
+  index: -1
+sj/sj_00010
+  rotate: true
+  xy: 180, 3
+  size: 153, 161
+  orig: 188, 181
+  offset: 14, 14
+  index: -1
+sj/sj_00012
+  rotate: true
+  xy: 354, 2
+  size: 159, 157
+  orig: 188, 181
+  offset: 10, 15
+  index: -1
+sj/sj_00014
+  rotate: false
+  xy: 529, 5
+  size: 164, 157
+  orig: 188, 181
+  offset: 7, 15
+  index: -1

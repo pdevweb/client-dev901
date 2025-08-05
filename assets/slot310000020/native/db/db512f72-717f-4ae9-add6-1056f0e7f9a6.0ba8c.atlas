@@ -1,0 +1,209 @@
+
+jptubiao.png
+size: 810,533
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di1
+  rotate: true
+  xy: 292, 134
+  size: 129, 115
+  orig: 129, 115
+  offset: 0, 0
+  index: -1
+di2
+  rotate: true
+  xy: 387, 3
+  size: 129, 115
+  orig: 129, 115
+  offset: 0, 0
+  index: -1
+di3
+  rotate: true
+  xy: 365, 402
+  size: 129, 115
+  orig: 129, 115
+  offset: 0, 0
+  index: -1
+di4
+  rotate: true
+  xy: 365, 271
+  size: 129, 115
+  orig: 129, 115
+  offset: 0, 0
+  index: -1
+di5
+  rotate: true
+  xy: 409, 140
+  size: 129, 115
+  orig: 129, 115
+  offset: 0, 0
+  index: -1
+di6
+  rotate: true
+  xy: 504, 9
+  size: 129, 115
+  orig: 129, 115
+  offset: 0, 0
+  index: -1
+grand
+  rotate: true
+  xy: 286, 265
+  size: 266, 77
+  orig: 266, 77
+  offset: 0, 0
+  index: -1
+major
+  rotate: true
+  xy: 2, 262
+  size: 269, 76
+  orig: 269, 76
+  offset: 0, 0
+  index: -1
+maxi
+  rotate: true
+  xy: 82, 66
+  size: 197, 78
+  orig: 197, 78
+  offset: 0, 0
+  index: -1
+mega
+  rotate: true
+  xy: 2, 33
+  size: 227, 78
+  orig: 227, 78
+  offset: 0, 0
+  index: -1
+mini
+  rotate: true
+  xy: 80, 265
+  size: 266, 122
+  orig: 266, 122
+  offset: 0, 0
+  index: -1
+minor
+  rotate: true
+  xy: 204, 265
+  size: 266, 80
+  orig: 266, 80
+  offset: 0, 0
+  index: -1
+xg_01
+  rotate: false
+  xy: 162, 81
+  size: 47, 47
+  orig: 64, 64
+  offset: 8, 8
+  index: -1
+xl_01
+  rotate: true
+  xy: 482, 403
+  size: 128, 111
+  orig: 165, 165
+  offset: 22, 23
+  index: -1
+xl_02
+  rotate: true
+  xy: 482, 273
+  size: 128, 108
+  orig: 165, 165
+  offset: 22, 24
+  index: -1
+xl_03
+  rotate: true
+  xy: 526, 143
+  size: 128, 101
+  orig: 165, 165
+  offset: 22, 27
+  index: -1
+xl_04
+  rotate: true
+  xy: 592, 273
+  size: 128, 90
+  orig: 165, 165
+  offset: 22, 32
+  index: -1
+xl_05
+  rotate: true
+  xy: 595, 403
+  size: 128, 75
+  orig: 165, 165
+  offset: 22, 40
+  index: -1
+xl_06
+  rotate: false
+  xy: 131, 10
+  size: 127, 54
+  orig: 165, 165
+  offset: 22, 52
+  index: -1
+xl_07
+  rotate: false
+  xy: 2, 2
+  size: 127, 29
+  orig: 165, 165
+  offset: 22, 66
+  index: -1
+xl_08
+  rotate: true
+  xy: 775, 275
+  size: 127, 33
+  orig: 165, 165
+  offset: 22, 69
+  index: -1
+xl_09
+  rotate: true
+  xy: 742, 146
+  size: 127, 63
+  orig: 165, 165
+  offset: 22, 56
+  index: -1
+xl_10
+  rotate: true
+  xy: 684, 275
+  size: 127, 89
+  orig: 165, 165
+  offset: 22, 44
+  index: -1
+xl_11
+  rotate: true
+  xy: 629, 144
+  size: 127, 111
+  orig: 165, 165
+  offset: 22, 32
+  index: -1
+xl_12
+  rotate: true
+  xy: 621, 14
+  size: 127, 123
+  orig: 165, 165
+  offset: 22, 24
+  index: -1
+xl_13
+  rotate: false
+  xy: 672, 404
+  size: 127, 127
+  orig: 165, 165
+  offset: 22, 20
+  index: -1
+xl_14
+  rotate: false
+  xy: 162, 130
+  size: 128, 133
+  orig: 165, 165
+  offset: 22, 10
+  index: -1
+xm_475
+  rotate: false
+  xy: 211, 85
+  size: 43, 43
+  orig: 64, 64
+  offset: 10, 11
+  index: -1
+yh1
+  rotate: false
+  xy: 260, 3
+  size: 125, 125
+  orig: 128, 128
+  offset: 1, 2
+  index: -1

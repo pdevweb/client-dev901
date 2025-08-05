@@ -1,0 +1,20 @@
+
+383_xjdjlcx.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cx_0
+  rotate: false
+  xy: 96, 54
+  size: 40, 40
+  orig: 114, 108
+  offset: 36, 33
+  index: -1
+gq01_00
+  rotate: false
+  xy: 2, 2
+  size: 92, 92
+  orig: 124, 124
+  offset: 16, 16
+  index: -1

@@ -1,0 +1,90 @@
+
+eff_led_deng.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xb_led_d/deng_00000
+  rotate: false
+  xy: 2, 2
+  size: 472, 56
+  orig: 482, 74
+  offset: 5, 11
+  index: -1
+xb_led_d/deng_00001
+  rotate: false
+  xy: 2, 2
+  size: 472, 56
+  orig: 482, 74
+  offset: 5, 11
+  index: -1
+xb_led_d/deng_00002
+  rotate: false
+  xy: 2, 2
+  size: 472, 56
+  orig: 482, 74
+  offset: 5, 11
+  index: -1
+xb_led_d/deng_00003
+  rotate: false
+  xy: 2, 2
+  size: 472, 56
+  orig: 482, 74
+  offset: 5, 11
+  index: -1
+xb_led_d/deng_00004
+  rotate: false
+  xy: 2, 2
+  size: 472, 56
+  orig: 482, 74
+  offset: 5, 11
+  index: -1
+xb_led_d/deng_00005
+  rotate: false
+  xy: 2, 2
+  size: 472, 56
+  orig: 482, 74
+  offset: 5, 11
+  index: -1
+xb_led_d/deng_00006
+  rotate: false
+  xy: 2, 60
+  size: 472, 57
+  orig: 482, 74
+  offset: 5, 11
+  index: -1
+xb_led_d/deng_00007
+  rotate: false
+  xy: 2, 60
+  size: 472, 57
+  orig: 482, 74
+  offset: 5, 11
+  index: -1
+xb_led_d/deng_00008
+  rotate: false
+  xy: 2, 60
+  size: 472, 57
+  orig: 482, 74
+  offset: 5, 11
+  index: -1
+xb_led_d/deng_00009
+  rotate: false
+  xy: 2, 60
+  size: 472, 57
+  orig: 482, 74
+  offset: 5, 11
+  index: -1
+xb_led_d/deng_00010
+  rotate: false
+  xy: 2, 60
+  size: 472, 57
+  orig: 482, 74
+  offset: 5, 11
+  index: -1
+xb_led_d/deng_00011
+  rotate: false
+  xy: 2, 60
+  size: 472, 57
+  orig: 482, 74
+  offset: 5, 11
+  index: -1

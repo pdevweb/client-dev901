@@ -1,0 +1,188 @@
+
+eff_spin.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shaoguang/spin_2_00
+  rotate: true
+  xy: 321, 4
+  size: 32, 51
+  orig: 172, 76
+  offset: 3, 3
+  index: -1
+shaoguang/spin_2_01
+  rotate: true
+  xy: 612, 6
+  size: 45, 62
+  orig: 172, 76
+  offset: 2, 2
+  index: -1
+shaoguang/spin_2_02
+  rotate: false
+  xy: 830, 182
+  size: 57, 70
+  orig: 172, 76
+  offset: 2, 1
+  index: -1
+shaoguang/spin_2_03
+  rotate: false
+  xy: 759, 180
+  size: 69, 72
+  orig: 172, 76
+  offset: 2, 1
+  index: -1
+shaoguang/spin_2_04
+  rotate: true
+  xy: 687, 77
+  size: 82, 73
+  orig: 172, 76
+  offset: 1, 1
+  index: -1
+shaoguang/spin_2_05
+  rotate: true
+  xy: 612, 53
+  size: 93, 73
+  orig: 172, 76
+  offset: 2, 1
+  index: -1
+shaoguang/spin_2_06
+  rotate: true
+  xy: 536, 31
+  size: 104, 74
+  orig: 172, 76
+  offset: 2, 1
+  index: -1
+shaoguang/spin_2_07
+  rotate: true
+  xy: 460, 8
+  size: 116, 74
+  orig: 172, 76
+  offset: 2, 1
+  index: -1
+shaoguang/spin_2_08
+  rotate: true
+  xy: 380, 125
+  size: 127, 74
+  orig: 172, 76
+  offset: 3, 1
+  index: -1
+shaoguang/spin_2_09
+  rotate: true
+  xy: 304, 114
+  size: 138, 74
+  orig: 172, 76
+  offset: 4, 1
+  index: -1
+shaoguang/spin_2_10
+  rotate: false
+  xy: 172, 27
+  size: 147, 74
+  orig: 172, 76
+  offset: 6, 1
+  index: -1
+shaoguang/spin_2_11
+  rotate: true
+  xy: 152, 103
+  size: 149, 74
+  orig: 172, 76
+  offset: 12, 1
+  index: -1
+shaoguang/spin_2_12
+  rotate: true
+  xy: 228, 106
+  size: 146, 74
+  orig: 172, 76
+  offset: 20, 1
+  index: -1
+shaoguang/spin_2_13
+  rotate: false
+  xy: 321, 38
+  size: 137, 74
+  orig: 172, 76
+  offset: 31, 1
+  index: -1
+shaoguang/spin_2_14
+  rotate: true
+  xy: 456, 126
+  size: 126, 74
+  orig: 172, 76
+  offset: 43, 1
+  index: -1
+shaoguang/spin_2_15
+  rotate: true
+  xy: 532, 137
+  size: 115, 74
+  orig: 172, 76
+  offset: 55, 1
+  index: -1
+shaoguang/spin_2_16
+  rotate: true
+  xy: 608, 148
+  size: 104, 74
+  orig: 172, 76
+  offset: 66, 1
+  index: -1
+shaoguang/spin_2_17
+  rotate: true
+  xy: 684, 161
+  size: 91, 73
+  orig: 172, 76
+  offset: 79, 2
+  index: -1
+shaoguang/spin_2_18
+  rotate: false
+  xy: 740, 2
+  size: 81, 73
+  orig: 172, 76
+  offset: 90, 2
+  index: -1
+shaoguang/spin_2_19
+  rotate: false
+  xy: 762, 106
+  size: 69, 72
+  orig: 172, 76
+  offset: 102, 3
+  index: -1
+shaoguang/spin_2_20
+  rotate: false
+  xy: 823, 34
+  size: 56, 70
+  orig: 172, 76
+  offset: 114, 5
+  index: -1
+shaoguang/spin_2_21
+  rotate: true
+  xy: 676, 7
+  size: 44, 62
+  orig: 172, 76
+  offset: 126, 12
+  index: -1
+spin1
+  rotate: false
+  xy: 2, 9
+  size: 168, 73
+  orig: 168, 73
+  offset: 0, 0
+  index: -1
+stop1
+  rotate: true
+  xy: 2, 84
+  size: 168, 73
+  orig: 168, 73
+  offset: 0, 0
+  index: -1
+stop2
+  rotate: true
+  xy: 77, 84
+  size: 168, 73
+  orig: 168, 73
+  offset: 0, 0
+  index: -1
+xx
+  rotate: true
+  xy: 374, 8
+  size: 28, 27
+  orig: 41, 30
+  offset: 3, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+eff_zhuanpan.png
+size: 1804,716
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bian
+  rotate: false
+  xy: 2, 194
+  size: 516, 519
+  orig: 517, 521
+  offset: 1, 2
+  index: -1
+dipan
+  rotate: true
+  xy: 994, 302
+  size: 411, 406
+  orig: 415, 410
+  offset: 3, 3
+  index: -1
+gw
+  rotate: false
+  xy: 1402, 330
+  size: 398, 383
+  orig: 501, 497
+  offset: 52, 52
+  index: -1
+gx
+  rotate: false
+  xy: 173, 21
+  size: 90, 2
+  orig: 90, 12
+  offset: 0, 5
+  index: -1
+hsj
+  rotate: true
+  xy: 899, 28
+  size: 210, 116
+  orig: 214, 133
+  offset: 3, 9
+  index: -1
+kuang
+  rotate: true
+  xy: 520, 240
+  size: 473, 472
+  orig: 473, 474
+  offset: 0, 0
+  index: -1
+quanglow_00
+  rotate: true
+  xy: 647, 6
+  size: 232, 114
+  orig: 234, 120
+  offset: 1, 4
+  index: -1
+sjb
+  rotate: true
+  xy: 412, 54
+  size: 138, 233
+  orig: 139, 233
+  offset: 1, 0
+  index: -1
+sjg
+  rotate: false
+  xy: 763, 15
+  size: 134, 223
+  orig: 148, 226
+  offset: 7, 3
+  index: -1
+sjk
+  rotate: true
+  xy: 2, 25
+  size: 167, 309
+  orig: 168, 309
+  offset: 1, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1402, 9
+  size: 380, 319
+  orig: 383, 321
+  offset: 2, 1
+  index: -1
+wl/wl_00
+  rotate: true
+  xy: 462, 18
+  size: 34, 26
+  orig: 103, 155
+  offset: 35, 5
+  index: -1
+wl/wl_01
+  rotate: true
+  xy: 422, 11
+  size: 41, 38
+  orig: 103, 155
+  offset: 31, 5
+  index: -1
+wl/wl_02
+  rotate: true
+  xy: 994, 241
+  size: 59, 63
+  orig: 103, 155
+  offset: 22, 5
+  index: -1
+wl/wl_03
+  rotate: false
+  xy: 1265, 10
+  size: 74, 97
+  orig: 103, 155
+  offset: 15, 5
+  index: -1
+wl/wl_04
+  rotate: true
+  xy: 1265, 208
+  size: 92, 130
+  orig: 103, 155
+  offset: 6, 5
+  index: -1
+wl/wl_05
+  rotate: false
+  xy: 313, 52
+  size: 97, 140
+  orig: 103, 155
+  offset: 3, 5
+  index: -1
+wl/wl_06
+  rotate: true
+  xy: 1265, 109
+  size: 97, 123
+  orig: 103, 155
+  offset: 3, 24
+  index: -1
+wl/wl_07
+  rotate: true
+  xy: 1341, 10
+  size: 97, 58
+  orig: 103, 155
+  offset: 3, 89
+  index: -1
+wl/wl_08
+  rotate: false
+  xy: 83, 3
+  size: 88, 20
+  orig: 103, 155
+  offset: 8, 126
+  index: -1
+wzg
+  rotate: false
+  xy: 313, 5
+  size: 107, 45
+  orig: 117, 53
+  offset: 4, 2
+  index: -1
+xg_00
+  rotate: false
+  xy: 2, 2
+  size: 79, 21
+  orig: 90, 39
+  offset: 7, 11
+  index: -1
+yc
+  rotate: false
+  xy: 1059, 4
+  size: 204, 296
+  orig: 205, 296
+  offset: 0, 0
+  index: -1

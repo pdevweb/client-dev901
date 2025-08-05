@@ -1,0 +1,230 @@
+
+eff_icon_3.png
+size: 588,588
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lvxlg/lvxlg_00000
+  rotate: false
+  xy: 105, 170
+  size: 98, 86
+  orig: 105, 100
+  offset: 3, 6
+  index: -1
+lvxlg/lvxlg_00001
+  rotate: false
+  xy: 421, 220
+  size: 96, 86
+  orig: 105, 100
+  offset: 4, 6
+  index: -1
+lvxlg/lvxlg_00002
+  rotate: false
+  xy: 406, 134
+  size: 92, 84
+  orig: 105, 100
+  offset: 6, 7
+  index: -1
+lvxlg/lvxlg_00003
+  rotate: false
+  xy: 199, 83
+  size: 90, 81
+  orig: 105, 100
+  offset: 7, 8
+  index: -1
+lvxlg/lvxlg_00004
+  rotate: false
+  xy: 304, 134
+  size: 91, 82
+  orig: 105, 100
+  offset: 7, 7
+  index: -1
+lvxlg/lvxlg_00005
+  rotate: true
+  xy: 500, 125
+  size: 93, 83
+  orig: 105, 100
+  offset: 6, 6
+  index: -1
+lvxlg/lvxlg_00006
+  rotate: false
+  xy: 2, 167
+  size: 97, 86
+  orig: 105, 100
+  offset: 4, 5
+  index: -1
+lvxlg/lvxlg_00007
+  rotate: false
+  xy: 174, 350
+  size: 103, 90
+  orig: 105, 100
+  offset: 0, 5
+  index: -1
+lvxlg/lvxlg_00008
+  rotate: false
+  xy: 450, 490
+  size: 105, 93
+  orig: 105, 100
+  offset: 0, 5
+  index: -1
+lvxlg/lvxlg_00009
+  rotate: false
+  xy: 344, 488
+  size: 104, 95
+  orig: 105, 100
+  offset: 0, 5
+  index: -1
+lvxlg/lvxlg_00010
+  rotate: false
+  xy: 450, 395
+  size: 103, 93
+  orig: 105, 100
+  offset: 0, 5
+  index: -1
+lvxlg/lvxlg_00011
+  rotate: false
+  xy: 107, 258
+  size: 100, 90
+  orig: 105, 100
+  offset: 2, 6
+  index: -1
+lvxlg/lvxlg_00012
+  rotate: false
+  xy: 209, 253
+  size: 97, 88
+  orig: 105, 100
+  offset: 4, 6
+  index: -1
+lvxlg/lvxlg_00013
+  rotate: false
+  xy: 308, 218
+  size: 96, 86
+  orig: 105, 100
+  offset: 4, 6
+  index: -1
+lvxlg/lvxlg_00014
+  rotate: false
+  xy: 101, 83
+  size: 96, 85
+  orig: 105, 100
+  offset: 4, 6
+  index: -1
+lvxlg/lvxlg_00015
+  rotate: false
+  xy: 2, 80
+  size: 96, 85
+  orig: 105, 100
+  offset: 4, 6
+  index: -1
+lvxlg/lvxlg_00016
+  rotate: false
+  xy: 205, 166
+  size: 97, 85
+  orig: 105, 100
+  offset: 4, 6
+  index: -1
+lvxlg/lvxlg_00017
+  rotate: false
+  xy: 421, 308
+  size: 98, 85
+  orig: 105, 100
+  offset: 3, 6
+  index: -1
+lvxlg/lvxlg_00018
+  rotate: false
+  xy: 320, 306
+  size: 99, 87
+  orig: 105, 100
+  offset: 3, 5
+  index: -1
+lvxlg/lvxlg_00019
+  rotate: false
+  xy: 2, 255
+  size: 101, 89
+  orig: 105, 100
+  offset: 2, 5
+  index: -1
+lvxlg/lvxlg_00020
+  rotate: false
+  xy: 2, 346
+  size: 103, 90
+  orig: 105, 100
+  offset: 1, 5
+  index: -1
+lvxlg/lvxlg_00021
+  rotate: false
+  xy: 344, 395
+  size: 104, 91
+  orig: 105, 100
+  offset: 0, 5
+  index: -1
+xiaoxiong_0
+  rotate: false
+  xy: 279, 343
+  size: 39, 97
+  orig: 42, 99
+  offset: 3, 2
+  index: -1
+xiaoxiong_1
+  rotate: false
+  xy: 555, 468
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+xiaoxiong_2
+  rotate: false
+  xy: 568, 468
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+xiaoxiong_3
+  rotate: false
+  xy: 557, 505
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+xiaoxiong_4
+  rotate: false
+  xy: 557, 480
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+xiaoxiong_5
+  rotate: false
+  xy: 107, 360
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+xiaoxiong_6
+  rotate: false
+  xy: 107, 399
+  size: 46, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+xiaoxiong_7
+  rotate: true
+  xy: 557, 531
+  size: 52, 23
+  orig: 52, 23
+  offset: 0, 0
+  index: -1
+xiaoxiong_8
+  rotate: false
+  xy: 174, 442
+  size: 168, 141
+  orig: 168, 141
+  offset: 0, 0
+  index: -1
+xiaoxiong_9
+  rotate: false
+  xy: 2, 438
+  size: 170, 145
+  orig: 170, 145
+  offset: 0, 0
+  index: -1

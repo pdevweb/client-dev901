@@ -1,0 +1,41 @@
+
+eff_bigwin2.png
+size: 948,948
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cbai_00000
+  rotate: false
+  xy: 860, 495
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+mega2
+  rotate: false
+  xy: 2, 218
+  size: 427, 363
+  orig: 427, 363
+  offset: 0, 0
+  index: -1
+nicedi2
+  rotate: false
+  xy: 2, 583
+  size: 428, 363
+  orig: 428, 363
+  offset: 0, 0
+  index: -1
+sensation2
+  rotate: false
+  xy: 432, 583
+  size: 427, 363
+  orig: 427, 363
+  offset: 0, 0
+  index: -1
+super2
+  rotate: false
+  xy: 431, 218
+  size: 427, 363
+  orig: 427, 363
+  offset: 0, 0
+  index: -1

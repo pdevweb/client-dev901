@@ -1,0 +1,27 @@
+
+eff_bg.png
+size: 856,588
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg2
+  rotate: false
+  xy: 2, 2
+  size: 360, 583
+  orig: 360, 583
+  offset: 0, 0
+  index: -1
+shu1
+  rotate: false
+  xy: 364, 55
+  size: 260, 530
+  orig: 260, 530
+  offset: 0, 0
+  index: -1
+shu2
+  rotate: false
+  xy: 626, 74
+  size: 228, 511
+  orig: 228, 511
+  offset: 0, 0
+  index: -1

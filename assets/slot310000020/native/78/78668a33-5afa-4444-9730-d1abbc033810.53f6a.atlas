@@ -1,0 +1,48 @@
+
+383_szsx.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao1
+  rotate: false
+  xy: 260, 261
+  size: 106, 108
+  orig: 116, 118
+  offset: 4, 5
+  index: -1
+bzcg
+  rotate: false
+  xy: 2, 243
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+chgy_00
+  rotate: true
+  xy: 260, 371
+  size: 128, 115
+  orig: 128, 115
+  offset: 0, 0
+  index: -1
+gx3
+  rotate: true
+  xy: 183, 68
+  size: 173, 150
+  orig: 173, 150
+  offset: 0, 0
+  index: -1
+qq_0
+  rotate: false
+  xy: 2, 56
+  size: 179, 185
+  orig: 213, 215
+  offset: 13, 19
+  index: -1
+xg_01
+  rotate: false
+  xy: 183, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

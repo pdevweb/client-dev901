@@ -1,0 +1,139 @@
+
+jb_low.png
+size: 752,84
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/glow
+  rotate: false
+  xy: 2, 59
+  size: 23, 23
+  orig: 25, 25
+  offset: 1, 1
+  index: -1
+tx/jb/jb_0
+  rotate: false
+  xy: 356, 46
+  size: 74, 36
+  orig: 100, 50
+  offset: 11, 12
+  index: -1
+tx/jb/jb_1
+  rotate: false
+  xy: 417, 5
+  size: 74, 39
+  orig: 100, 50
+  offset: 11, 9
+  index: -1
+tx/jb/jb_10
+  rotate: false
+  xy: 657, 2
+  size: 82, 41
+  orig: 100, 50
+  offset: 6, 7
+  index: -1
+tx/jb/jb_11
+  rotate: false
+  xy: 250, 7
+  size: 83, 38
+  orig: 100, 50
+  offset: 6, 10
+  index: -1
+tx/jb/jb_12
+  rotate: false
+  xy: 271, 47
+  size: 83, 35
+  orig: 100, 50
+  offset: 7, 13
+  index: -1
+tx/jb/jb_13
+  rotate: false
+  xy: 667, 45
+  size: 83, 37
+  orig: 100, 50
+  offset: 7, 11
+  index: -1
+tx/jb/jb_14
+  rotate: false
+  xy: 2, 9
+  size: 82, 37
+  orig: 100, 50
+  offset: 7, 11
+  index: -1
+tx/jb/jb_15
+  rotate: false
+  xy: 86, 8
+  size: 80, 37
+  orig: 100, 50
+  offset: 7, 11
+  index: -1
+tx/jb/jb_16
+  rotate: false
+  xy: 335, 6
+  size: 80, 38
+  orig: 100, 50
+  offset: 6, 9
+  index: -1
+tx/jb/jb_17
+  rotate: false
+  xy: 572, 4
+  size: 83, 39
+  orig: 100, 50
+  offset: 5, 9
+  index: -1
+tx/jb/jb_2
+  rotate: false
+  xy: 512, 45
+  size: 74, 37
+  orig: 100, 50
+  offset: 11, 11
+  index: -1
+tx/jb/jb_3
+  rotate: false
+  xy: 493, 4
+  size: 77, 39
+  orig: 100, 50
+  offset: 8, 9
+  index: -1
+tx/jb/jb_4
+  rotate: false
+  xy: 432, 46
+  size: 78, 36
+  orig: 100, 50
+  offset: 8, 12
+  index: -1
+tx/jb/jb_5
+  rotate: false
+  xy: 588, 45
+  size: 77, 37
+  orig: 100, 50
+  offset: 8, 11
+  index: -1
+tx/jb/jb_6
+  rotate: false
+  xy: 110, 47
+  size: 78, 35
+  orig: 100, 50
+  offset: 7, 12
+  index: -1
+tx/jb/jb_7
+  rotate: false
+  xy: 190, 47
+  size: 79, 35
+  orig: 100, 50
+  offset: 7, 12
+  index: -1
+tx/jb/jb_8
+  rotate: false
+  xy: 27, 48
+  size: 81, 34
+  orig: 100, 50
+  offset: 6, 12
+  index: -1
+tx/jb/jb_9
+  rotate: false
+  xy: 168, 7
+  size: 80, 38
+  orig: 100, 50
+  offset: 7, 9
+  index: -1

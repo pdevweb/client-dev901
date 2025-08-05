@@ -1,0 +1,13 @@
+
+Scatter_N.png
+size: 148,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+png/Scatter_N
+  rotate: false
+  xy: 2, 2
+  size: 142, 137
+  orig: 143, 137
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+383_grand_tc.png
+size: 599,250
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_bj1
+  rotate: false
+  xy: 534, 57
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+1_bj2
+  rotate: false
+  xy: 534, 16
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+1_bj3
+  rotate: false
+  xy: 2, 2
+  size: 530, 246
+  orig: 530, 246
+  offset: 0, 0
+  index: -1
+1_bj4
+  rotate: true
+  xy: 534, 115
+  size: 133, 63
+  orig: 133, 63
+  offset: 0, 0
+  index: -1
+hd
+  rotate: false
+  xy: 577, 54
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

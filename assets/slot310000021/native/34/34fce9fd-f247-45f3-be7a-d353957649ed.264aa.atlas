@@ -1,0 +1,223 @@
+
+NG_dajiangyugao.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/glow_00
+  rotate: false
+  xy: 723, 13
+  size: 162, 88
+  orig: 172, 172
+  offset: 1, 83
+  index: -1
+images/huo/1_00
+  rotate: false
+  xy: 1249, 337
+  size: 134, 207
+  orig: 235, 603
+  offset: 47, 97
+  index: -1
+images/huo/1_01
+  rotate: false
+  xy: 1131, 24
+  size: 129, 229
+  orig: 235, 603
+  offset: 54, 97
+  index: -1
+images/huo/1_02
+  rotate: false
+  xy: 1017, 774
+  size: 131, 248
+  orig: 235, 603
+  offset: 54, 97
+  index: -1
+images/huo/1_03
+  rotate: false
+  xy: 1150, 813
+  size: 126, 209
+  orig: 235, 603
+  offset: 58, 97
+  index: -1
+images/huo/1_04
+  rotate: false
+  xy: 1139, 546
+  size: 130, 226
+  orig: 235, 603
+  offset: 57, 97
+  index: -1
+images/huo/1_05
+  rotate: true
+  xy: 887, 3
+  size: 134, 242
+  orig: 235, 603
+  offset: 55, 97
+  index: -1
+images/huo/1_06
+  rotate: false
+  xy: 875, 758
+  size: 140, 264
+  orig: 235, 603
+  offset: 51, 97
+  index: -1
+images/huo/1_07
+  rotate: false
+  xy: 1103, 255
+  size: 144, 238
+  orig: 235, 603
+  offset: 48, 97
+  index: -1
+images/huo/1_08
+  rotate: false
+  xy: 993, 495
+  size: 144, 261
+  orig: 235, 603
+  offset: 47, 97
+  index: -1
+images/huo/1_09
+  rotate: false
+  xy: 954, 151
+  size: 147, 277
+  orig: 235, 603
+  offset: 47, 97
+  index: -1
+images/huo/1_10
+  rotate: false
+  xy: 2, 3
+  size: 144, 298
+  orig: 235, 603
+  offset: 55, 97
+  index: -1
+images/huo/1_11
+  rotate: false
+  xy: 596, 705
+  size: 144, 317
+  orig: 235, 603
+  offset: 55, 97
+  index: -1
+images/huo/1_12
+  rotate: false
+  xy: 313, 337
+  size: 144, 340
+  orig: 235, 603
+  offset: 55, 97
+  index: -1
+images/huo/1_13
+  rotate: false
+  xy: 149, 666
+  size: 137, 356
+  orig: 235, 603
+  offset: 66, 97
+  index: -1
+images/huo/1_14
+  rotate: false
+  xy: 459, 369
+  size: 140, 323
+  orig: 235, 603
+  offset: 66, 97
+  index: -1
+images/huo/1_15
+  rotate: false
+  xy: 412, 2
+  size: 144, 333
+  orig: 235, 603
+  offset: 64, 97
+  index: -1
+images/huo/1_16
+  rotate: false
+  xy: 161, 320
+  size: 150, 344
+  orig: 235, 603
+  offset: 57, 97
+  index: -1
+images/huo/1_17
+  rotate: false
+  xy: 2, 303
+  size: 157, 357
+  orig: 235, 603
+  offset: 54, 97
+  index: -1
+images/huo/1_18
+  rotate: false
+  xy: 558, 52
+  size: 163, 315
+  orig: 235, 603
+  offset: 50, 97
+  index: -1
+images/huo/1_19
+  rotate: false
+  xy: 430, 694
+  size: 164, 328
+  orig: 235, 603
+  offset: 55, 97
+  index: -1
+images/huo/1_20
+  rotate: false
+  xy: 288, 679
+  size: 140, 343
+  orig: 235, 603
+  offset: 55, 97
+  index: -1
+images/huo/1_21
+  rotate: false
+  xy: 2, 662
+  size: 145, 360
+  orig: 235, 603
+  offset: 50, 97
+  index: -1
+images/huo/1_22
+  rotate: false
+  xy: 601, 400
+  size: 145, 303
+  orig: 235, 603
+  offset: 50, 97
+  index: -1
+images/huo/1_23
+  rotate: false
+  xy: 148, 6
+  size: 126, 295
+  orig: 235, 603
+  offset: 62, 97
+  index: -1
+images/huo/1_24
+  rotate: false
+  xy: 742, 719
+  size: 131, 303
+  orig: 235, 603
+  offset: 60, 97
+  index: -1
+images/huo/1_25
+  rotate: false
+  xy: 276, 2
+  size: 134, 316
+  orig: 235, 603
+  offset: 59, 97
+  index: -1
+images/huo/1_26
+  rotate: false
+  xy: 838, 139
+  size: 114, 288
+  orig: 235, 603
+  offset: 59, 97
+  index: -1
+images/huo/1_27
+  rotate: false
+  xy: 723, 103
+  size: 113, 295
+  orig: 235, 603
+  offset: 58, 97
+  index: -1
+images/huo/1_28
+  rotate: false
+  xy: 871, 430
+  size: 120, 287
+  orig: 235, 603
+  offset: 51, 98
+  index: -1
+images/huo/1_29
+  rotate: false
+  xy: 748, 429
+  size: 121, 288
+  orig: 235, 603
+  offset: 54, 106
+  index: -1

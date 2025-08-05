@@ -1,0 +1,90 @@
+
+eff_icon2.png
+size: 1944,864
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/guangdian5
+  rotate: false
+  xy: 1542, 155
+  size: 399, 399
+  orig: 400, 400
+  offset: 1, 0
+  index: -1
+images/lianhua_00000
+  rotate: true
+  xy: 2, 433
+  size: 429, 306
+  orig: 429, 306
+  offset: 0, 0
+  index: -1
+images/lianhua_00001
+  rotate: true
+  xy: 2, 2
+  size: 429, 306
+  orig: 429, 306
+  offset: 0, 0
+  index: -1
+images/lianhua_00002
+  rotate: true
+  xy: 310, 433
+  size: 429, 306
+  orig: 429, 306
+  offset: 0, 0
+  index: -1
+images/lianhua_00003
+  rotate: true
+  xy: 310, 2
+  size: 429, 306
+  orig: 429, 306
+  offset: 0, 0
+  index: -1
+images/lianhua_00004
+  rotate: true
+  xy: 618, 433
+  size: 429, 306
+  orig: 429, 306
+  offset: 0, 0
+  index: -1
+images/lianhua_00005
+  rotate: true
+  xy: 618, 2
+  size: 429, 306
+  orig: 429, 306
+  offset: 0, 0
+  index: -1
+images/lianhua_00006
+  rotate: true
+  xy: 926, 433
+  size: 429, 306
+  orig: 429, 306
+  offset: 0, 0
+  index: -1
+images/lianhua_00007
+  rotate: true
+  xy: 926, 2
+  size: 429, 306
+  orig: 429, 306
+  offset: 0, 0
+  index: -1
+images/lianhua_00008
+  rotate: false
+  xy: 1234, 556
+  size: 429, 306
+  orig: 429, 306
+  offset: 0, 0
+  index: -1
+images/lianhua_00009
+  rotate: true
+  xy: 1234, 125
+  size: 429, 306
+  orig: 429, 306
+  offset: 0, 0
+  index: -1
+images/xx1
+  rotate: false
+  xy: 1542, 4
+  size: 144, 149
+  orig: 148, 174
+  offset: 1, 12
+  index: -1

@@ -1,0 +1,181 @@
+
+eff_jinsha.png
+size: 600,640
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ch2
+  rotate: false
+  xy: 2, 442
+  size: 231, 193
+  orig: 231, 193
+  offset: 0, 0
+  index: -1
+guangdian1
+  rotate: false
+  xy: 235, 472
+  size: 168, 163
+  orig: 168, 163
+  offset: 0, 0
+  index: -1
+kuang/respin_vfx_j_screen_00
+  rotate: false
+  xy: 366, 22
+  size: 126, 85
+  orig: 126, 85
+  offset: 0, 0
+  index: -1
+kuang/respin_vfx_j_screen_01
+  rotate: false
+  xy: 228, 33
+  size: 136, 85
+  orig: 136, 85
+  offset: 0, 0
+  index: -1
+kuang/respin_vfx_j_screen_02
+  rotate: false
+  xy: 405, 549
+  size: 136, 86
+  orig: 136, 86
+  offset: 0, 0
+  index: -1
+kuang/respin_vfx_j_screen_03
+  rotate: false
+  xy: 405, 461
+  size: 136, 86
+  orig: 136, 86
+  offset: 0, 0
+  index: -1
+kuang/respin_vfx_j_screen_04
+  rotate: false
+  xy: 235, 384
+  size: 136, 86
+  orig: 136, 86
+  offset: 0, 0
+  index: -1
+kuang/respin_vfx_j_screen_05
+  rotate: false
+  xy: 2, 354
+  size: 136, 86
+  orig: 136, 86
+  offset: 0, 0
+  index: -1
+kuang/respin_vfx_j_screen_06
+  rotate: true
+  xy: 140, 304
+  size: 136, 86
+  orig: 136, 86
+  offset: 0, 0
+  index: -1
+kuang/respin_vfx_j_screen_07
+  rotate: false
+  xy: 2, 266
+  size: 136, 86
+  orig: 136, 86
+  offset: 0, 0
+  index: -1
+kuang/respin_vfx_j_screen_08
+  rotate: false
+  xy: 373, 373
+  size: 136, 86
+  orig: 136, 86
+  offset: 0, 0
+  index: -1
+kuang/respin_vfx_j_screen_09
+  rotate: true
+  xy: 511, 323
+  size: 136, 86
+  orig: 136, 86
+  offset: 0, 0
+  index: -1
+kuang/respin_vfx_j_screen_10
+  rotate: false
+  xy: 228, 296
+  size: 136, 86
+  orig: 136, 86
+  offset: 0, 0
+  index: -1
+kuang/respin_vfx_j_screen_11
+  rotate: true
+  xy: 140, 166
+  size: 136, 86
+  orig: 136, 86
+  offset: 0, 0
+  index: -1
+kuang/respin_vfx_j_screen_12
+  rotate: false
+  xy: 2, 178
+  size: 136, 86
+  orig: 136, 86
+  offset: 0, 0
+  index: -1
+kuang/respin_vfx_j_screen_13
+  rotate: false
+  xy: 2, 90
+  size: 136, 86
+  orig: 136, 86
+  offset: 0, 0
+  index: -1
+kuang/respin_vfx_j_screen_14
+  rotate: false
+  xy: 366, 285
+  size: 136, 86
+  orig: 136, 86
+  offset: 0, 0
+  index: -1
+kuang/respin_vfx_j_screen_15
+  rotate: true
+  xy: 504, 185
+  size: 136, 86
+  orig: 136, 86
+  offset: 0, 0
+  index: -1
+kuang/respin_vfx_j_screen_16
+  rotate: false
+  xy: 228, 208
+  size: 136, 86
+  orig: 136, 86
+  offset: 0, 0
+  index: -1
+kuang/respin_vfx_j_screen_17
+  rotate: false
+  xy: 366, 197
+  size: 136, 86
+  orig: 136, 86
+  offset: 0, 0
+  index: -1
+kuang/respin_vfx_j_screen_18
+  rotate: false
+  xy: 228, 120
+  size: 136, 86
+  orig: 136, 86
+  offset: 0, 0
+  index: -1
+kuang/respin_vfx_j_screen_19
+  rotate: true
+  xy: 140, 28
+  size: 136, 86
+  orig: 136, 86
+  offset: 0, 0
+  index: -1
+kuang/respin_vfx_j_screen_20
+  rotate: false
+  xy: 366, 109
+  size: 135, 86
+  orig: 135, 86
+  offset: 0, 0
+  index: -1
+kuang/respin_vfx_j_screen_21
+  rotate: false
+  xy: 2, 2
+  size: 136, 86
+  orig: 136, 86
+  offset: 0, 0
+  index: -1
+kuang/respin_vfx_j_screen_22
+  rotate: true
+  xy: 503, 48
+  size: 135, 86
+  orig: 135, 86
+  offset: 0, 0
+  index: -1

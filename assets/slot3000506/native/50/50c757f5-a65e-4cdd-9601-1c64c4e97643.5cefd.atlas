@@ -1,0 +1,90 @@
+
+eff_icon_kuang_2.png
+size: 784,784
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biankuang_00
+  rotate: false
+  xy: 2, 587
+  size: 241, 193
+  orig: 241, 193
+  offset: 0, 0
+  index: -1
+biankuang_01
+  rotate: false
+  xy: 2, 392
+  size: 241, 193
+  orig: 241, 193
+  offset: 0, 0
+  index: -1
+biankuang_02
+  rotate: false
+  xy: 245, 587
+  size: 241, 193
+  orig: 241, 193
+  offset: 0, 0
+  index: -1
+biankuang_03
+  rotate: false
+  xy: 2, 197
+  size: 241, 193
+  orig: 241, 193
+  offset: 0, 0
+  index: -1
+biankuang_04
+  rotate: false
+  xy: 245, 392
+  size: 241, 193
+  orig: 241, 193
+  offset: 0, 0
+  index: -1
+biankuang_05
+  rotate: false
+  xy: 488, 587
+  size: 241, 193
+  orig: 241, 193
+  offset: 0, 0
+  index: -1
+biankuang_06
+  rotate: false
+  xy: 2, 2
+  size: 241, 193
+  orig: 241, 193
+  offset: 0, 0
+  index: -1
+biankuang_07
+  rotate: false
+  xy: 245, 197
+  size: 241, 193
+  orig: 241, 193
+  offset: 0, 0
+  index: -1
+biankuang_08
+  rotate: false
+  xy: 488, 392
+  size: 241, 193
+  orig: 241, 193
+  offset: 0, 0
+  index: -1
+biankuang_09
+  rotate: false
+  xy: 245, 2
+  size: 241, 193
+  orig: 241, 193
+  offset: 0, 0
+  index: -1
+biankuang_10
+  rotate: false
+  xy: 488, 197
+  size: 241, 193
+  orig: 241, 193
+  offset: 0, 0
+  index: -1
+biankuang_11
+  rotate: false
+  xy: 488, 2
+  size: 241, 193
+  orig: 241, 193
+  offset: 0, 0
+  index: -1

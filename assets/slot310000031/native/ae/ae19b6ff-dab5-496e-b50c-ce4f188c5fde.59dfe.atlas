@@ -1,0 +1,27 @@
+
+Reel_Intro.png
+size: 212,84
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX_S_st_0065
+  rotate: false
+  xy: 162, 38
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+jpg/Light_04
+  rotate: false
+  xy: 162, 2
+  size: 34, 34
+  orig: 38, 38
+  offset: 1, 2
+  index: -1
+yun_w2
+  rotate: false
+  xy: 2, 2
+  size: 158, 78
+  orig: 158, 78
+  offset: 0, 0
+  index: -1

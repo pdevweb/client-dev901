@@ -1,0 +1,34 @@
+
+eff_aztk_ruchang.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangdian1
+  rotate: true
+  xy: 2, 41
+  size: 208, 201
+  orig: 256, 256
+  offset: 20, 29
+  index: -1
+guangshu5
+  rotate: false
+  xy: 331, 2
+  size: 108, 247
+  orig: 128, 256
+  offset: 10, 5
+  index: -1
+kuang/kuang_00
+  rotate: true
+  xy: 205, 3
+  size: 246, 124
+  orig: 286, 152
+  offset: 26, 13
+  index: -1
+saoguang
+  rotate: false
+  xy: 441, 121
+  size: 127, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

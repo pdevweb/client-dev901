@@ -1,0 +1,167 @@
+
+freejp_zhongjiang.png
+size: 1420,208
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xl_01
+  rotate: true
+  xy: 438, 7
+  size: 199, 60
+  orig: 230, 80
+  offset: 15, 11
+  index: -1
+xl_02
+  rotate: true
+  xy: 192, 2
+  size: 204, 59
+  orig: 230, 80
+  offset: 11, 11
+  index: -1
+xl_03
+  rotate: true
+  xy: 746, 2
+  size: 204, 58
+  orig: 230, 80
+  offset: 12, 12
+  index: -1
+xl_04
+  rotate: true
+  xy: 253, 2
+  size: 204, 59
+  orig: 230, 80
+  offset: 12, 11
+  index: -1
+xl_05
+  rotate: true
+  xy: 1237, 4
+  size: 202, 58
+  orig: 230, 80
+  offset: 13, 12
+  index: -1
+xl_06
+  rotate: true
+  xy: 624, 5
+  size: 201, 59
+  orig: 230, 80
+  offset: 14, 12
+  index: -1
+xl_07
+  rotate: true
+  xy: 2, 5
+  size: 201, 62
+  orig: 230, 80
+  offset: 14, 10
+  index: -1
+xl_08
+  rotate: true
+  xy: 66, 7
+  size: 199, 62
+  orig: 230, 80
+  offset: 16, 10
+  index: -1
+xl_09
+  rotate: true
+  xy: 806, 9
+  size: 197, 60
+  orig: 230, 80
+  offset: 17, 11
+  index: -1
+xl_10
+  rotate: true
+  xy: 868, 9
+  size: 197, 60
+  orig: 230, 80
+  offset: 17, 11
+  index: -1
+xl_11
+  rotate: true
+  xy: 930, 9
+  size: 197, 60
+  orig: 230, 80
+  offset: 17, 11
+  index: -1
+xl_12
+  rotate: true
+  xy: 992, 9
+  size: 197, 60
+  orig: 230, 80
+  offset: 17, 12
+  index: -1
+xl_13
+  rotate: true
+  xy: 1297, 11
+  size: 195, 60
+  orig: 230, 80
+  offset: 18, 11
+  index: -1
+xl_14
+  rotate: true
+  xy: 1054, 6
+  size: 200, 59
+  orig: 230, 80
+  offset: 15, 11
+  index: -1
+xl_15
+  rotate: true
+  xy: 130, 5
+  size: 201, 60
+  orig: 230, 80
+  offset: 15, 11
+  index: -1
+xl_16
+  rotate: true
+  xy: 685, 5
+  size: 201, 59
+  orig: 230, 80
+  offset: 15, 10
+  index: -1
+xl_17
+  rotate: true
+  xy: 1115, 6
+  size: 200, 59
+  orig: 230, 80
+  offset: 15, 10
+  index: -1
+xl_18
+  rotate: true
+  xy: 314, 6
+  size: 200, 60
+  orig: 230, 80
+  offset: 15, 10
+  index: -1
+xl_19
+  rotate: true
+  xy: 376, 6
+  size: 200, 60
+  orig: 230, 80
+  offset: 15, 10
+  index: -1
+xl_20
+  rotate: true
+  xy: 1176, 6
+  size: 200, 59
+  orig: 230, 80
+  offset: 15, 11
+  index: -1
+xl_21
+  rotate: true
+  xy: 1359, 8
+  size: 198, 59
+  orig: 230, 80
+  offset: 16, 10
+  index: -1
+xl_22
+  rotate: true
+  xy: 500, 8
+  size: 198, 60
+  orig: 230, 80
+  offset: 16, 11
+  index: -1
+xl_23
+  rotate: true
+  xy: 562, 8
+  size: 198, 60
+  orig: 230, 80
+  offset: 16, 11
+  index: -1

@@ -1,0 +1,146 @@
+
+fgzc.png
+size: 1492,400
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dc0
+  rotate: false
+  xy: 1466, 28
+  size: 22, 212
+  orig: 22, 212
+  offset: 0, 0
+  index: -1
+egg1
+  rotate: false
+  xy: 1185, 45
+  size: 132, 154
+  orig: 132, 154
+  offset: 0, 0
+  index: -1
+egg2
+  rotate: false
+  xy: 1319, 60
+  size: 145, 139
+  orig: 145, 139
+  offset: 0, 0
+  index: -1
+egg3
+  rotate: false
+  xy: 1354, 242
+  size: 128, 156
+  orig: 128, 156
+  offset: 0, 0
+  index: -1
+guangtu01
+  rotate: false
+  xy: 1484, 335
+  size: 5, 63
+  orig: 5, 63
+  offset: 0, 0
+  index: -1
+xx/lzzz_000
+  rotate: false
+  xy: 2, 201
+  size: 167, 197
+  orig: 167, 197
+  offset: 0, 0
+  index: -1
+xx/lzzz_001
+  rotate: false
+  xy: 2, 2
+  size: 167, 197
+  orig: 167, 197
+  offset: 0, 0
+  index: -1
+xx/lzzz_002
+  rotate: false
+  xy: 171, 201
+  size: 167, 197
+  orig: 167, 197
+  offset: 0, 0
+  index: -1
+xx/lzzz_003
+  rotate: false
+  xy: 171, 2
+  size: 167, 197
+  orig: 167, 197
+  offset: 0, 0
+  index: -1
+xx/lzzz_004
+  rotate: false
+  xy: 340, 201
+  size: 167, 197
+  orig: 167, 197
+  offset: 0, 0
+  index: -1
+xx/lzzz_005
+  rotate: false
+  xy: 340, 2
+  size: 167, 197
+  orig: 167, 197
+  offset: 0, 0
+  index: -1
+xx/lzzz_006
+  rotate: false
+  xy: 509, 201
+  size: 167, 197
+  orig: 167, 197
+  offset: 0, 0
+  index: -1
+xx/lzzz_007
+  rotate: false
+  xy: 509, 2
+  size: 167, 197
+  orig: 167, 197
+  offset: 0, 0
+  index: -1
+xx/lzzz_008
+  rotate: false
+  xy: 678, 201
+  size: 167, 197
+  orig: 167, 197
+  offset: 0, 0
+  index: -1
+xx/lzzz_009
+  rotate: false
+  xy: 678, 2
+  size: 167, 197
+  orig: 167, 197
+  offset: 0, 0
+  index: -1
+xx/lzzz_010
+  rotate: false
+  xy: 847, 201
+  size: 167, 197
+  orig: 167, 197
+  offset: 0, 0
+  index: -1
+xx/lzzz_011
+  rotate: false
+  xy: 847, 2
+  size: 167, 197
+  orig: 167, 197
+  offset: 0, 0
+  index: -1
+xx/lzzz_012
+  rotate: false
+  xy: 1016, 201
+  size: 167, 197
+  orig: 167, 197
+  offset: 0, 0
+  index: -1
+xx/lzzz_013
+  rotate: false
+  xy: 1016, 2
+  size: 167, 197
+  orig: 167, 197
+  offset: 0, 0
+  index: -1
+xx/lzzz_014
+  rotate: false
+  xy: 1185, 201
+  size: 167, 197
+  orig: 167, 197
+  offset: 0, 0
+  index: -1

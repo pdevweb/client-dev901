@@ -1,0 +1,34 @@
+
+syt_jieshou.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangxiao03
+  rotate: false
+  xy: 205, 90
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+guangxiao04
+  rotate: false
+  xy: 2, 65
+  size: 201, 197
+  orig: 201, 197
+  offset: 0, 0
+  index: -1
+lg
+  rotate: false
+  xy: 379, 41
+  size: 67, 221
+  orig: 88, 269
+  offset: 10, 32
+  index: -1
+xg_01
+  rotate: false
+  xy: 205, 2
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1

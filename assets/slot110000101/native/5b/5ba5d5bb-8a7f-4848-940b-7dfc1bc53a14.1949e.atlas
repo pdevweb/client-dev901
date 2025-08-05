@@ -1,0 +1,104 @@
+
+guochang.png
+size: 1052,1060
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+IceShatter
+  rotate: true
+  xy: 637, 462
+  size: 84, 79
+  orig: 86, 86
+  offset: 0, 4
+  index: -1
+SceneLogoWave
+  rotate: true
+  xy: 2, 2
+  size: 401, 389
+  orig: 402, 402
+  offset: 1, 13
+  index: -1
+SceneLogoWave2
+  rotate: true
+  xy: 393, 4
+  size: 399, 396
+  orig: 402, 402
+  offset: 3, 6
+  index: -1
+bowen
+  rotate: false
+  xy: 2, 405
+  size: 409, 409
+  orig: 409, 409
+  offset: 0, 0
+  index: -1
+chi
+  rotate: true
+  xy: 791, 399
+  size: 389, 241
+  orig: 389, 241
+  offset: 0, 0
+  index: -1
+fish
+  rotate: false
+  xy: 587, 706
+  size: 199, 82
+  orig: 199, 82
+  offset: 0, 0
+  index: -1
+frenzy
+  rotate: true
+  xy: 791, 82
+  size: 315, 95
+  orig: 315, 95
+  offset: 0, 0
+  index: -1
+glow
+  rotate: true
+  xy: 888, 74
+  size: 168, 156
+  orig: 172, 172
+  offset: 2, 8
+  index: -1
+glow1
+  rotate: false
+  xy: 413, 642
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+guanyun
+  rotate: true
+  xy: 413, 409
+  size: 231, 222
+  orig: 231, 234
+  offset: 0, 12
+  index: -1
+redshatter_000
+  rotate: false
+  xy: 888, 244
+  size: 161, 153
+  orig: 172, 172
+  offset: 6, 10
+  index: -1
+shanghu
+  rotate: false
+  xy: 599, 790
+  size: 431, 267
+  orig: 431, 267
+  offset: 0, 0
+  index: -1
+wenli_00376
+  rotate: false
+  xy: 637, 548
+  size: 149, 156
+  orig: 172, 172
+  offset: 13, 10
+  index: -1
+xw
+  rotate: false
+  xy: 2, 816
+  size: 595, 241
+  orig: 595, 241
+  offset: 0, 0
+  index: -1

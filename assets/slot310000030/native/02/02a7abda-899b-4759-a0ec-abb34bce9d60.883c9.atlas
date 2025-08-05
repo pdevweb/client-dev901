@@ -1,0 +1,20 @@
+
+402_jimao_b.png
+size: 132,24
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mao_b_1
+  rotate: false
+  xy: 2, 2
+  size: 63, 20
+  orig: 63, 20
+  offset: 0, 0
+  index: -1
+mao_b_2
+  rotate: false
+  xy: 67, 2
+  size: 63, 20
+  orig: 63, 20
+  offset: 0, 0
+  index: -1

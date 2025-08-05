@@ -1,0 +1,223 @@
+
+239_symbol_bonus_coin_low.png
+size: 1744,468
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: true
+  xy: 1528, 358
+  size: 108, 106
+  orig: 108, 106
+  offset: 0, 0
+  index: -1
+002_000
+  rotate: false
+  xy: 2, 11
+  size: 52, 23
+  orig: 52, 23
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 480, 30
+  size: 72, 70
+  orig: 80, 78
+  offset: 4, 4
+  index: -1
+cx/cx_000
+  rotate: true
+  xy: 366, 5
+  size: 97, 112
+  orig: 180, 180
+  offset: 38, 42
+  index: -1
+cx/cx_001
+  rotate: false
+  xy: 865, 10
+  size: 128, 130
+  orig: 180, 180
+  offset: 26, 24
+  index: -1
+cx/cx_003
+  rotate: false
+  xy: 725, 2
+  size: 138, 138
+  orig: 180, 180
+  offset: 21, 19
+  index: -1
+cx/cx_004
+  rotate: true
+  xy: 995, 5
+  size: 145, 143
+  orig: 180, 180
+  offset: 18, 17
+  index: -1
+cx/cx_006
+  rotate: false
+  xy: 2, 36
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+cx/cx_007
+  rotate: false
+  xy: 548, 109
+  size: 175, 175
+  orig: 180, 180
+  offset: 2, 3
+  index: -1
+cx/cx_009
+  rotate: false
+  xy: 184, 36
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+cx/cx_010
+  rotate: false
+  xy: 244, 286
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+cx/cx_012
+  rotate: false
+  xy: 366, 104
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+cx/cx_013
+  rotate: false
+  xy: 426, 286
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+cx/cx_015
+  rotate: false
+  xy: 725, 142
+  size: 155, 160
+  orig: 180, 180
+  offset: 12, 11
+  index: -1
+cx/cx_016
+  rotate: false
+  xy: 608, 304
+  size: 157, 162
+  orig: 180, 180
+  offset: 10, 8
+  index: -1
+cx/cx_018
+  rotate: false
+  xy: 767, 308
+  size: 151, 158
+  orig: 180, 180
+  offset: 13, 7
+  index: -1
+cx/cx_019
+  rotate: true
+  xy: 1608, 11
+  size: 143, 123
+  orig: 180, 180
+  offset: 19, 32
+  index: -1
+glow_004_000
+  rotate: true
+  xy: 1636, 358
+  size: 108, 106
+  orig: 108, 106
+  offset: 0, 0
+  index: -1
+luodi/bai_000
+  rotate: true
+  xy: 882, 152
+  size: 154, 150
+  orig: 154, 150
+  offset: 0, 0
+  index: -1
+luodi/bai_002
+  rotate: true
+  xy: 920, 312
+  size: 154, 150
+  orig: 154, 150
+  offset: 0, 0
+  index: -1
+luodi/bai_004
+  rotate: true
+  xy: 1034, 156
+  size: 154, 150
+  orig: 154, 150
+  offset: 0, 0
+  index: -1
+luodi/bai_008
+  rotate: true
+  xy: 1072, 312
+  size: 154, 150
+  orig: 154, 150
+  offset: 0, 0
+  index: -1
+luodi/bai_010
+  rotate: false
+  xy: 1140, 4
+  size: 154, 150
+  orig: 154, 150
+  offset: 0, 0
+  index: -1
+luodi/bai_012
+  rotate: true
+  xy: 1186, 156
+  size: 154, 150
+  orig: 154, 150
+  offset: 0, 0
+  index: -1
+luodi/bai_016
+  rotate: true
+  xy: 1224, 312
+  size: 154, 150
+  orig: 154, 150
+  offset: 0, 0
+  index: -1
+luodi/bai_018
+  rotate: false
+  xy: 1296, 4
+  size: 154, 150
+  orig: 154, 150
+  offset: 0, 0
+  index: -1
+luodi/bai_020
+  rotate: true
+  xy: 1338, 156
+  size: 154, 150
+  orig: 154, 150
+  offset: 0, 0
+  index: -1
+luodi/bai_024
+  rotate: true
+  xy: 1376, 312
+  size: 154, 150
+  orig: 154, 150
+  offset: 0, 0
+  index: -1
+luodi/bai_026
+  rotate: false
+  xy: 1452, 4
+  size: 154, 150
+  orig: 154, 150
+  offset: 0, 0
+  index: -1
+luodi/bai_028
+  rotate: true
+  xy: 1490, 156
+  size: 154, 150
+  orig: 154, 150
+  offset: 0, 0
+  index: -1
+theme239_s_141
+  rotate: true
+  xy: 2, 218
+  size: 248, 240
+  orig: 248, 240
+  offset: 0, 0
+  index: -1

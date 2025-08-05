@@ -1,0 +1,76 @@
+
+NG_box2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/bingchen5_3
+  rotate: false
+  xy: 64, 433
+  size: 49, 47
+  orig: 51, 50
+  offset: 1, 1
+  index: -1
+effect/d1
+  rotate: true
+  xy: 19, 441
+  size: 39, 43
+  orig: 41, 44
+  offset: 1, 0
+  index: -1
+effect/d2
+  rotate: false
+  xy: 115, 431
+  size: 50, 49
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+effect/xh1
+  rotate: false
+  xy: 115, 431
+  size: 50, 49
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+effect/xh2
+  rotate: false
+  xy: 115, 431
+  size: 50, 49
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+effect/xh3
+  rotate: false
+  xy: 115, 431
+  size: 50, 49
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+effect/d3
+  rotate: true
+  xy: 2, 466
+  size: 14, 15
+  orig: 15, 15
+  offset: 1, 0
+  index: -1
+effect/d4
+  rotate: true
+  xy: 167, 426
+  size: 54, 56
+  orig: 56, 57
+  offset: 1, 0
+  index: -1
+effect/xvedi
+  rotate: false
+  xy: 2, 2
+  size: 468, 394
+  orig: 531, 407
+  offset: 12, 9
+  index: -1
+tihuan/cg2
+  rotate: false
+  xy: 225, 398
+  size: 221, 82
+  orig: 313, 185
+  offset: 46, 52
+  index: -1

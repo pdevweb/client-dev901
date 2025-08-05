@@ -1,0 +1,391 @@
+
+239_popup_moneygrab01.png
+size: 1756,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang1_000
+  rotate: false
+  xy: 645, 211
+  size: 244, 244
+  orig: 256, 256
+  offset: 6, 6
+  index: -1
+lg/1_00000
+  rotate: false
+  xy: 1131, 173
+  size: 81, 38
+  orig: 324, 39
+  offset: 0, 0
+  index: -1
+lg/1_00001
+  rotate: false
+  xy: 1060, 7
+  size: 96, 37
+  orig: 324, 39
+  offset: 0, 0
+  index: -1
+lg/1_00002
+  rotate: true
+  xy: 1691, 226
+  size: 110, 37
+  orig: 324, 39
+  offset: 0, 0
+  index: -1
+lg/1_00003
+  rotate: false
+  xy: 1158, 9
+  size: 125, 36
+  orig: 324, 39
+  offset: 0, 0
+  index: -1
+lg/1_00004
+  rotate: true
+  xy: 1634, 136
+  size: 138, 35
+  orig: 324, 39
+  offset: 1, 0
+  index: -1
+lg/1_00005
+  rotate: true
+  xy: 1691, 75
+  size: 149, 32
+  orig: 324, 39
+  offset: 4, 0
+  index: -1
+lg/1_00006
+  rotate: false
+  xy: 1131, 65
+  size: 152, 30
+  orig: 324, 39
+  offset: 16, 0
+  index: -1
+lg/1_00007
+  rotate: true
+  xy: 1725, 31
+  size: 151, 29
+  orig: 324, 39
+  offset: 31, 0
+  index: -1
+lg/1_00008
+  rotate: false
+  xy: 1285, 61
+  size: 151, 28
+  orig: 324, 39
+  offset: 46, 0
+  index: -1
+lg/1_00009
+  rotate: false
+  xy: 645, 2
+  size: 152, 25
+  orig: 324, 39
+  offset: 60, 0
+  index: -1
+lg/1_00010
+  rotate: true
+  xy: 1730, 184
+  size: 152, 21
+  orig: 324, 39
+  offset: 75, 1
+  index: -1
+lg/1_00011
+  rotate: true
+  xy: 1671, 122
+  size: 152, 18
+  orig: 324, 39
+  offset: 89, 1
+  index: -1
+lg/1_00012
+  rotate: false
+  xy: 1131, 47
+  size: 152, 16
+  orig: 324, 39
+  offset: 104, 1
+  index: -1
+lg/1_00013
+  rotate: false
+  xy: 1438, 48
+  size: 150, 18
+  orig: 324, 39
+  offset: 119, 1
+  index: -1
+lg/1_00014
+  rotate: false
+  xy: 1285, 39
+  size: 149, 20
+  orig: 324, 39
+  offset: 134, 1
+  index: -1
+lg/1_00015
+  rotate: false
+  xy: 1285, 16
+  size: 147, 21
+  orig: 324, 39
+  offset: 149, 1
+  index: -1
+lg/1_00016
+  rotate: false
+  xy: 1438, 68
+  size: 145, 21
+  orig: 324, 39
+  offset: 163, 1
+  index: -1
+lg/1_00017
+  rotate: false
+  xy: 1436, 25
+  size: 138, 21
+  orig: 324, 39
+  offset: 178, 2
+  index: -1
+lg/1_00018
+  rotate: false
+  xy: 1434, 3
+  size: 126, 20
+  orig: 324, 39
+  offset: 193, 2
+  index: -1
+lg/1_00019
+  rotate: true
+  xy: 1595, 99
+  size: 113, 20
+  orig: 324, 39
+  offset: 207, 2
+  index: -1
+sg/1_00000
+  rotate: false
+  xy: 1519, 93
+  size: 74, 57
+  orig: 630, 63
+  offset: 1, 1
+  index: -1
+sg/1_00001
+  rotate: false
+  xy: 1131, 213
+  size: 92, 58
+  orig: 630, 63
+  offset: 1, 1
+  index: -1
+sg/1_00002
+  rotate: false
+  xy: 1134, 334
+  size: 117, 59
+  orig: 630, 63
+  offset: 1, 1
+  index: -1
+sg/1_00003
+  rotate: false
+  xy: 1375, 91
+  size: 142, 59
+  orig: 630, 63
+  offset: 1, 1
+  index: -1
+sg/1_00004
+  rotate: false
+  xy: 1412, 152
+  size: 169, 60
+  orig: 630, 63
+  offset: 2, 1
+  index: -1
+sg/1_00005
+  rotate: false
+  xy: 1444, 214
+  size: 188, 60
+  orig: 630, 63
+  offset: 3, 2
+  index: -1
+sg/1_00006
+  rotate: false
+  xy: 1475, 276
+  size: 214, 60
+  orig: 630, 63
+  offset: 4, 3
+  index: -1
+sg/1_00007
+  rotate: false
+  xy: 1519, 397
+  size: 233, 60
+  orig: 630, 63
+  offset: 9, 3
+  index: -1
+sg/1_00008
+  rotate: false
+  xy: 645, 90
+  size: 240, 58
+  orig: 630, 63
+  offset: 28, 5
+  index: -1
+sg/1_00009
+  rotate: false
+  xy: 891, 220
+  size: 238, 58
+  orig: 630, 63
+  offset: 55, 5
+  index: -1
+sg/1_00010
+  rotate: false
+  xy: 1509, 338
+  size: 224, 57
+  orig: 630, 63
+  offset: 76, 6
+  index: -1
+sg/1_00011
+  rotate: false
+  xy: 891, 280
+  size: 240, 57
+  orig: 630, 63
+  offset: 103, 6
+  index: -1
+sg/1_00012
+  rotate: false
+  xy: 1271, 343
+  size: 236, 56
+  orig: 630, 63
+  offset: 131, 7
+  index: -1
+sg/1_00013
+  rotate: false
+  xy: 891, 162
+  size: 238, 56
+  orig: 630, 63
+  offset: 154, 7
+  index: -1
+sg/1_00014
+  rotate: false
+  xy: 891, 399
+  size: 245, 56
+  orig: 630, 63
+  offset: 173, 7
+  index: -1
+sg/1_00015
+  rotate: false
+  xy: 888, 104
+  size: 242, 56
+  orig: 630, 63
+  offset: 198, 7
+  index: -1
+sg/1_00016
+  rotate: false
+  xy: 1253, 285
+  size: 220, 56
+  orig: 630, 63
+  offset: 238, 7
+  index: -1
+sg/1_00017
+  rotate: false
+  xy: 1277, 401
+  size: 240, 56
+  orig: 630, 63
+  offset: 247, 7
+  index: -1
+sg/1_00018
+  rotate: false
+  xy: 887, 46
+  size: 242, 56
+  orig: 630, 63
+  offset: 275, 7
+  index: -1
+sg/1_00019
+  rotate: false
+  xy: 891, 339
+  size: 241, 58
+  orig: 630, 63
+  offset: 295, 5
+  index: -1
+sg/1_00020
+  rotate: false
+  xy: 645, 29
+  size: 238, 59
+  orig: 630, 63
+  offset: 320, 4
+  index: -1
+sg/1_00021
+  rotate: false
+  xy: 645, 150
+  size: 241, 59
+  orig: 630, 63
+  offset: 345, 4
+  index: -1
+sg/1_00022
+  rotate: false
+  xy: 1277, 459
+  size: 246, 61
+  orig: 630, 63
+  offset: 370, 2
+  index: -1
+sg/1_00023
+  rotate: false
+  xy: 1525, 459
+  size: 225, 61
+  orig: 630, 63
+  offset: 401, 2
+  index: -1
+sg/1_00024
+  rotate: false
+  xy: 1245, 222
+  size: 197, 61
+  orig: 630, 63
+  offset: 431, 1
+  index: -1
+sg/1_00025
+  rotate: false
+  xy: 1225, 159
+  size: 185, 61
+  orig: 630, 63
+  offset: 444, 1
+  index: -1
+sg/1_00026
+  rotate: false
+  xy: 1216, 97
+  size: 157, 60
+  orig: 630, 63
+  offset: 472, 1
+  index: -1
+sg/1_00027
+  rotate: false
+  xy: 1138, 395
+  size: 131, 60
+  orig: 630, 63
+  offset: 499, 1
+  index: -1
+sg/1_00028
+  rotate: false
+  xy: 1133, 273
+  size: 110, 59
+  orig: 630, 63
+  offset: 519, 1
+  index: -1
+sg/1_00029
+  rotate: false
+  xy: 1132, 114
+  size: 82, 57
+  orig: 630, 63
+  offset: 547, 2
+  index: -1
+theme239_popup_MoneyGrab_js
+  rotate: false
+  xy: 2, 13
+  size: 641, 199
+  orig: 641, 199
+  offset: 0, 0
+  index: -1
+theme239_popup_MoneyGrab_js1
+  rotate: false
+  xy: 2, 214
+  size: 641, 306
+  orig: 641, 306
+  offset: 0, 0
+  index: -1
+theme239_popup_text1a
+  rotate: false
+  xy: 645, 457
+  size: 630, 63
+  orig: 630, 63
+  offset: 0, 0
+  index: -1
+theme239_popup_text3
+  rotate: false
+  xy: 885, 12
+  size: 173, 32
+  orig: 173, 32
+  offset: 0, 0
+  index: -1

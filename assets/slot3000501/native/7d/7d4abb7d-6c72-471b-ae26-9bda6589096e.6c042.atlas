@@ -1,0 +1,118 @@
+
+zj_huangguan.png
+size: 708,120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huang_1
+  rotate: false
+  xy: 354, 46
+  size: 117, 72
+  orig: 117, 73
+  offset: 0, 0
+  index: -1
+huang_2
+  rotate: true
+  xy: 228, 16
+  size: 102, 27
+  orig: 102, 27
+  offset: 0, 0
+  index: -1
+huang_3
+  rotate: true
+  xy: 257, 22
+  size: 96, 95
+  orig: 96, 95
+  offset: 0, 0
+  index: -1
+lq_00000
+  rotate: false
+  xy: 2, 2
+  size: 114, 116
+  orig: 120, 120
+  offset: 3, 2
+  index: -1
+qg_00000
+  rotate: true
+  xy: 670, 56
+  size: 62, 36
+  orig: 80, 45
+  offset: 9, 5
+  index: -1
+qg_00002
+  rotate: true
+  xy: 631, 56
+  size: 62, 37
+  orig: 80, 45
+  offset: 9, 5
+  index: -1
+qg_00004
+  rotate: true
+  xy: 553, 54
+  size: 64, 37
+  orig: 80, 45
+  offset: 8, 5
+  index: -1
+qg_00006
+  rotate: true
+  xy: 514, 53
+  size: 65, 37
+  orig: 80, 45
+  offset: 8, 5
+  index: -1
+qg_00008
+  rotate: false
+  xy: 354, 5
+  size: 67, 39
+  orig: 80, 45
+  offset: 7, 4
+  index: -1
+qg_00010
+  rotate: false
+  xy: 423, 5
+  size: 67, 39
+  orig: 80, 45
+  offset: 7, 4
+  index: -1
+qg_00012
+  rotate: true
+  xy: 473, 51
+  size: 67, 39
+  orig: 80, 45
+  offset: 7, 4
+  index: -1
+qg_00014
+  rotate: false
+  xy: 492, 12
+  size: 66, 37
+  orig: 80, 45
+  offset: 8, 6
+  index: -1
+qg_00016
+  rotate: true
+  xy: 592, 55
+  size: 63, 37
+  orig: 80, 45
+  offset: 10, 6
+  index: -1
+qg_00018
+  rotate: false
+  xy: 560, 15
+  size: 64, 37
+  orig: 80, 45
+  offset: 9, 6
+  index: -1
+sanguang_00000
+  rotate: false
+  xy: 626, 2
+  size: 53, 51
+  orig: 60, 60
+  offset: 3, 4
+  index: -1
+xg_00000
+  rotate: false
+  xy: 118, 10
+  size: 108, 108
+  orig: 120, 120
+  offset: 6, 6
+  index: -1

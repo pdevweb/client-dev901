@@ -1,0 +1,216 @@
+
+xiaoi.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaoi/xiaoi_00
+  rotate: true
+  xy: 301, 2
+  size: 13, 17
+  orig: 47, 40
+  offset: 9, 6
+  index: -1
+xiaoi/xiaoi_01
+  rotate: false
+  xy: 320, 42
+  size: 15, 20
+  orig: 47, 40
+  offset: 9, 5
+  index: -1
+xiaoi/xiaoi_02
+  rotate: false
+  xy: 282, 41
+  size: 18, 21
+  orig: 47, 40
+  offset: 8, 5
+  index: -1
+xiaoi/xiaoi_03
+  rotate: false
+  xy: 238, 38
+  size: 20, 24
+  orig: 47, 40
+  offset: 8, 4
+  index: -1
+xiaoi/xiaoi_04
+  rotate: false
+  xy: 214, 10
+  size: 21, 25
+  orig: 47, 40
+  offset: 8, 4
+  index: -1
+xiaoi/xiaoi_05
+  rotate: false
+  xy: 190, 36
+  size: 22, 26
+  orig: 47, 40
+  offset: 8, 4
+  index: -1
+xiaoi/xiaoi_06
+  rotate: false
+  xy: 139, 5
+  size: 24, 27
+  orig: 47, 40
+  offset: 8, 4
+  index: -1
+xiaoi/xiaoi_07
+  rotate: false
+  xy: 86, 34
+  size: 25, 28
+  orig: 47, 40
+  offset: 8, 4
+  index: -1
+xiaoi/xiaoi_08
+  rotate: false
+  xy: 86, 4
+  size: 25, 28
+  orig: 47, 40
+  offset: 9, 4
+  index: -1
+xiaoi/xiaoi_09
+  rotate: false
+  xy: 31, 33
+  size: 26, 29
+  orig: 47, 40
+  offset: 9, 4
+  index: -1
+xiaoi/xiaoi_10
+  rotate: false
+  xy: 31, 2
+  size: 26, 29
+  orig: 47, 40
+  offset: 10, 4
+  index: -1
+xiaoi/xiaoi_11
+  rotate: false
+  xy: 2, 33
+  size: 27, 29
+  orig: 47, 40
+  offset: 10, 4
+  index: -1
+xiaoi/xiaoi_12
+  rotate: false
+  xy: 2, 2
+  size: 27, 29
+  orig: 47, 40
+  offset: 11, 5
+  index: -1
+xiaoi/xiaoi_13
+  rotate: false
+  xy: 59, 33
+  size: 25, 29
+  orig: 47, 40
+  offset: 13, 5
+  index: -1
+xiaoi/xiaoi_14
+  rotate: false
+  xy: 59, 2
+  size: 25, 29
+  orig: 47, 40
+  offset: 13, 5
+  index: -1
+xiaoi/xiaoi_15
+  rotate: false
+  xy: 113, 34
+  size: 24, 28
+  orig: 47, 40
+  offset: 14, 6
+  index: -1
+xiaoi/xiaoi_16
+  rotate: false
+  xy: 113, 4
+  size: 24, 28
+  orig: 47, 40
+  offset: 15, 6
+  index: -1
+xiaoi/xiaoi_17
+  rotate: false
+  xy: 139, 34
+  size: 24, 28
+  orig: 47, 40
+  offset: 15, 6
+  index: -1
+xiaoi/xiaoi_18
+  rotate: false
+  xy: 165, 35
+  size: 23, 27
+  orig: 47, 40
+  offset: 16, 7
+  index: -1
+xiaoi/xiaoi_19
+  rotate: false
+  xy: 165, 6
+  size: 23, 27
+  orig: 47, 40
+  offset: 16, 7
+  index: -1
+xiaoi/xiaoi_20
+  rotate: false
+  xy: 190, 8
+  size: 22, 26
+  orig: 47, 40
+  offset: 17, 8
+  index: -1
+xiaoi/xiaoi_21
+  rotate: false
+  xy: 214, 37
+  size: 22, 25
+  orig: 47, 40
+  offset: 17, 8
+  index: -1
+xiaoi/xiaoi_22
+  rotate: false
+  xy: 237, 10
+  size: 21, 25
+  orig: 47, 40
+  offset: 18, 8
+  index: -1
+xiaoi/xiaoi_23
+  rotate: false
+  xy: 260, 38
+  size: 20, 24
+  orig: 47, 40
+  offset: 19, 9
+  index: -1
+xiaoi/xiaoi_24
+  rotate: false
+  xy: 260, 13
+  size: 19, 23
+  orig: 47, 40
+  offset: 20, 10
+  index: -1
+xiaoi/xiaoi_25
+  rotate: false
+  xy: 281, 13
+  size: 18, 23
+  orig: 47, 40
+  offset: 21, 10
+  index: -1
+xiaoi/xiaoi_26
+  rotate: false
+  xy: 301, 17
+  size: 17, 22
+  orig: 47, 40
+  offset: 21, 11
+  index: -1
+xiaoi/xiaoi_27
+  rotate: false
+  xy: 302, 41
+  size: 16, 21
+  orig: 47, 40
+  offset: 22, 12
+  index: -1
+xiaoi/xiaoi_28
+  rotate: false
+  xy: 320, 20
+  size: 15, 20
+  orig: 47, 40
+  offset: 23, 12
+  index: -1
+xiaoi/xiaoi_29
+  rotate: true
+  xy: 320, 4
+  size: 14, 19
+  orig: 47, 40
+  offset: 24, 13
+  index: -1

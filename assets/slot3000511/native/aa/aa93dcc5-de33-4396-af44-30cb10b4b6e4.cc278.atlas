@@ -1,0 +1,48 @@
+
+eff_icon_08.png
+size: 280,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 208, 13
+  size: 63, 66
+  orig: 63, 66
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 132, 2
+  size: 74, 77
+  orig: 74, 77
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 141, 81
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 141, 165
+  size: 109, 113
+  orig: 109, 113
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 2
+  size: 128, 133
+  orig: 128, 133
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 137
+  size: 137, 141
+  orig: 137, 141
+  offset: 0, 0
+  index: -1

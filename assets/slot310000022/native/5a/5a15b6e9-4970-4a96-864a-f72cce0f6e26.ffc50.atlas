@@ -1,0 +1,62 @@
+
+jiedian.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+003_glow
+  rotate: false
+  xy: 2, 64
+  size: 108, 108
+  orig: 120, 120
+  offset: 7, 6
+  index: -1
+06_Particle_7007
+  rotate: false
+  xy: 112, 117
+  size: 55, 55
+  orig: 60, 60
+  offset: 3, 2
+  index: -1
+Barbarian_callOfTheAncients_glow_burst_crimson
+  rotate: false
+  xy: 2, 2
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+Particle_Circle_Outerglow_01
+  rotate: false
+  xy: 64, 2
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+cmn_dis00
+  rotate: false
+  xy: 126, 17
+  size: 54, 54
+  orig: 60, 60
+  offset: 3, 3
+  index: -1
+honghua
+  rotate: false
+  xy: 158, 86
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+hua2_00
+  rotate: false
+  xy: 112, 73
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+huahua
+  rotate: false
+  xy: 169, 143
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+eff_jiachengbd.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangdian_000
+  rotate: true
+  xy: 410, 69
+  size: 182, 175
+  orig: 232, 232
+  offset: 21, 30
+  index: -1
+guangquan_000
+  rotate: false
+  xy: 212, 55
+  size: 196, 196
+  orig: 232, 232
+  offset: 18, 18
+  index: -1
+gx_0000
+  rotate: false
+  xy: 212, 2
+  size: 560, 51
+  orig: 600, 150
+  offset: 20, 46
+  index: -1
+sanguang_000
+  rotate: true
+  xy: 2, 32
+  size: 219, 208
+  orig: 232, 232
+  offset: 5, 14
+  index: -1

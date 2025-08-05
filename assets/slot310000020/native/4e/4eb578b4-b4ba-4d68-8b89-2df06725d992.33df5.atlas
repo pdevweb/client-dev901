@@ -1,0 +1,41 @@
+
+383_xjd_bjtc.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj_xg
+  rotate: false
+  xy: 555, 139
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+xjd_bj1
+  rotate: false
+  xy: 394, 158
+  size: 530, 140
+  orig: 530, 140
+  offset: 0, 0
+  index: -1
+xjd_bj2
+  rotate: true
+  xy: 926, 33
+  size: 265, 91
+  orig: 265, 91
+  offset: 0, 0
+  index: -1
+xjd_bj3
+  rotate: true
+  xy: 2, 33
+  size: 265, 390
+  orig: 265, 390
+  offset: 0, 0
+  index: -1
+xjd_q
+  rotate: false
+  xy: 394, 2
+  size: 159, 154
+  orig: 159, 154
+  offset: 0, 0
+  index: -1

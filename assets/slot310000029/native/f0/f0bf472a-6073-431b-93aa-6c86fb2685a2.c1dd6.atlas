@@ -1,0 +1,34 @@
+
+eff_cornucopia_di.png
+size: 448,792
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: true
+  xy: 260, 2
+  size: 569, 179
+  orig: 569, 179
+  offset: 0, 0
+  index: -1
+eff/guangdian1
+  rotate: false
+  xy: 2, 90
+  size: 255, 243
+  orig: 256, 256
+  offset: 0, 12
+  index: -1
+eff/guangdian4
+  rotate: true
+  xy: 2, 335
+  size: 236, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+pen_eff
+  rotate: false
+  xy: 2, 573
+  size: 444, 215
+  orig: 544, 245
+  offset: 50, 17
+  index: -1

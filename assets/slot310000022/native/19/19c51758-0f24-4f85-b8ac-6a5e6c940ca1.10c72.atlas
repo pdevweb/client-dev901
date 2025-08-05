@@ -1,0 +1,111 @@
+
+398_changanniu.png
+size: 512,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/anniu/chang_00000
+  rotate: true
+  xy: 2, 15
+  size: 4, 13
+  orig: 48, 21
+  offset: 1, 4
+  index: -1
+images/anniu/chang_00001
+  rotate: true
+  xy: 44, 8
+  size: 11, 16
+  orig: 48, 21
+  offset: 0, 2
+  index: -1
+images/anniu/chang_00002
+  rotate: true
+  xy: 81, 3
+  size: 16, 17
+  orig: 48, 21
+  offset: 0, 2
+  index: -1
+images/anniu/chang_00003
+  rotate: false
+  xy: 100, 2
+  size: 22, 17
+  orig: 48, 21
+  offset: 0, 2
+  index: -1
+images/anniu/chang_00004
+  rotate: false
+  xy: 124, 2
+  size: 26, 17
+  orig: 48, 21
+  offset: 0, 2
+  index: -1
+images/anniu/chang_00005
+  rotate: false
+  xy: 152, 2
+  size: 32, 17
+  orig: 48, 21
+  offset: 0, 2
+  index: -1
+images/anniu/chang_00006
+  rotate: false
+  xy: 186, 2
+  size: 37, 17
+  orig: 48, 21
+  offset: 1, 2
+  index: -1
+images/anniu/chang_00007
+  rotate: false
+  xy: 225, 2
+  size: 41, 17
+  orig: 48, 21
+  offset: 3, 2
+  index: -1
+images/anniu/chang_00008
+  rotate: false
+  xy: 268, 2
+  size: 37, 17
+  orig: 48, 21
+  offset: 10, 2
+  index: -1
+images/anniu/chang_00009
+  rotate: false
+  xy: 307, 2
+  size: 33, 17
+  orig: 48, 21
+  offset: 14, 2
+  index: -1
+images/anniu/chang_00010
+  rotate: false
+  xy: 342, 2
+  size: 29, 17
+  orig: 48, 21
+  offset: 18, 2
+  index: -1
+images/anniu/chang_00011
+  rotate: false
+  xy: 373, 2
+  size: 23, 17
+  orig: 48, 21
+  offset: 24, 2
+  index: -1
+images/anniu/chang_00012
+  rotate: true
+  xy: 62, 4
+  size: 15, 17
+  orig: 48, 21
+  offset: 32, 2
+  index: -1
+images/anniu/chang_00013
+  rotate: true
+  xy: 27, 10
+  size: 9, 15
+  orig: 48, 21
+  offset: 38, 3
+  index: -1
+images/anniu/chang_00014
+  rotate: true
+  xy: 17, 15
+  size: 4, 8
+  orig: 48, 21
+  offset: 43, 9
+  index: -1

@@ -1,0 +1,111 @@
+
+eff_beicheng.png
+size: 1056,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/2
+  rotate: false
+  xy: 2, 186
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+images/3
+  rotate: false
+  xy: 104, 186
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+images/Flare_Single_Yellow
+  rotate: false
+  xy: 206, 158
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/倍数出现特效/beishu_lizi_00000
+  rotate: false
+  xy: 336, 145
+  size: 142, 141
+  orig: 142, 141
+  offset: 0, 0
+  index: -1
+images/倍数出现特效/beishu_lizi_00001
+  rotate: false
+  xy: 480, 145
+  size: 142, 141
+  orig: 142, 141
+  offset: 0, 0
+  index: -1
+images/倍数出现特效/beishu_lizi_00002
+  rotate: false
+  xy: 624, 145
+  size: 142, 141
+  orig: 142, 141
+  offset: 0, 0
+  index: -1
+images/倍数出现特效/beishu_lizi_00003
+  rotate: false
+  xy: 768, 145
+  size: 142, 141
+  orig: 142, 141
+  offset: 0, 0
+  index: -1
+images/倍数出现特效/beishu_lizi_00004
+  rotate: false
+  xy: 912, 145
+  size: 142, 141
+  orig: 142, 141
+  offset: 0, 0
+  index: -1
+images/倍数出现特效/beishu_lizi_00005
+  rotate: false
+  xy: 2, 43
+  size: 142, 141
+  orig: 142, 141
+  offset: 0, 0
+  index: -1
+images/倍数出现特效/beishu_lizi_00006
+  rotate: false
+  xy: 146, 15
+  size: 142, 141
+  orig: 142, 141
+  offset: 0, 0
+  index: -1
+images/倍数出现特效/beishu_lizi_00007
+  rotate: false
+  xy: 290, 2
+  size: 142, 141
+  orig: 142, 141
+  offset: 0, 0
+  index: -1
+images/倍数出现特效/beishu_lizi_00008
+  rotate: false
+  xy: 434, 2
+  size: 142, 141
+  orig: 142, 141
+  offset: 0, 0
+  index: -1
+images/倍数出现特效/beishu_lizi_00009
+  rotate: false
+  xy: 578, 2
+  size: 142, 141
+  orig: 142, 141
+  offset: 0, 0
+  index: -1
+images/倍数出现特效/beishu_lizi_00010
+  rotate: false
+  xy: 722, 2
+  size: 142, 141
+  orig: 142, 141
+  offset: 0, 0
+  index: -1
+images/倍数出现特效/beishu_lizi_00011
+  rotate: false
+  xy: 866, 2
+  size: 142, 141
+  orig: 142, 141
+  offset: 0, 0
+  index: -1

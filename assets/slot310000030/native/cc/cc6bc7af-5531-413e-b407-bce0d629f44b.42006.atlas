@@ -1,0 +1,97 @@
+
+402_m5.png
+size: 372,160
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1dizuo
+  rotate: true
+  xy: 231, 57
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+1yumi
+  rotate: false
+  xy: 154, 57
+  size: 75, 98
+  orig: 75, 98
+  offset: 0, 0
+  index: -1
+2yumi
+  rotate: false
+  xy: 154, 57
+  size: 75, 98
+  orig: 75, 98
+  offset: 0, 0
+  index: -1
+2dizuo
+  rotate: true
+  xy: 251, 57
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+3yezil
+  rotate: false
+  xy: 306, 4
+  size: 59, 52
+  orig: 63, 52
+  offset: 4, 0
+  index: -1
+3yezim
+  rotate: false
+  xy: 230, 3
+  size: 74, 52
+  orig: 74, 52
+  offset: 0, 0
+  index: -1
+3yezir
+  rotate: false
+  xy: 288, 87
+  size: 27, 68
+  orig: 27, 68
+  offset: 0, 0
+  index: -1
+3yezir2
+  rotate: false
+  xy: 260, 82
+  size: 26, 73
+  orig: 26, 73
+  offset: 0, 0
+  index: -1
+4yezil
+  rotate: true
+  xy: 317, 96
+  size: 59, 51
+  orig: 63, 51
+  offset: 4, 0
+  index: -1
+4yezim
+  rotate: false
+  xy: 154, 2
+  size: 74, 53
+  orig: 74, 53
+  offset: 0, 0
+  index: -1
+4yezir
+  rotate: true
+  xy: 288, 58
+  size: 27, 68
+  orig: 27, 68
+  offset: 0, 0
+  index: -1
+4yezir2
+  rotate: false
+  xy: 231, 81
+  size: 27, 74
+  orig: 27, 74
+  offset: 0, 0
+  index: -1
+tyg
+  rotate: false
+  xy: 2, 5
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1

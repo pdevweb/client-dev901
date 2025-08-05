@@ -1,0 +1,174 @@
+
+s_scatter_a_atlas_symbols.png
+size: 188,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_s_s_bg_glow
+  rotate: false
+  xy: 124, 2
+  size: 62, 50
+  orig: 62, 52
+  offset: 0, 1
+  index: -1
+fx_scatter_shine_00
+  rotate: true
+  xy: 124, 334
+  size: 54, 59
+  orig: 63, 63
+  offset: 5, 2
+  index: -1
+fx_scatter_shine_01
+  rotate: true
+  xy: 124, 278
+  size: 54, 59
+  orig: 63, 63
+  offset: 5, 2
+  index: -1
+fx_scatter_shine_02
+  rotate: true
+  xy: 123, 222
+  size: 54, 59
+  orig: 63, 63
+  offset: 5, 2
+  index: -1
+fx_scatter_shine_03
+  rotate: true
+  xy: 2, 247
+  size: 54, 59
+  orig: 63, 63
+  offset: 5, 2
+  index: -1
+fx_scatter_shine_04
+  rotate: true
+  xy: 2, 191
+  size: 54, 59
+  orig: 63, 63
+  offset: 5, 2
+  index: -1
+fx_scatter_shine_05
+  rotate: false
+  xy: 63, 182
+  size: 54, 59
+  orig: 63, 63
+  offset: 5, 2
+  index: -1
+fx_scatter_shine_06
+  rotate: true
+  xy: 2, 135
+  size: 54, 59
+  orig: 63, 63
+  offset: 5, 2
+  index: -1
+fx_scatter_shine_07
+  rotate: true
+  xy: 119, 166
+  size: 54, 59
+  orig: 63, 63
+  offset: 5, 2
+  index: -1
+fx_scatter_shine_08
+  rotate: false
+  xy: 63, 121
+  size: 54, 59
+  orig: 63, 63
+  offset: 5, 2
+  index: -1
+fx_scatter_shine_09
+  rotate: true
+  xy: 2, 79
+  size: 54, 59
+  orig: 63, 63
+  offset: 5, 2
+  index: -1
+fx_scatter_shine_10
+  rotate: true
+  xy: 119, 110
+  size: 54, 59
+  orig: 63, 63
+  offset: 5, 2
+  index: -1
+fx_scatter_shine_11
+  rotate: false
+  xy: 63, 60
+  size: 54, 59
+  orig: 63, 63
+  offset: 5, 2
+  index: -1
+fx_scatter_shine_12
+  rotate: true
+  xy: 2, 23
+  size: 54, 59
+  orig: 63, 63
+  offset: 5, 2
+  index: -1
+fx_scatter_shine_13
+  rotate: true
+  xy: 63, 4
+  size: 54, 59
+  orig: 63, 63
+  offset: 5, 2
+  index: -1
+fx_scatter_shine_14
+  rotate: true
+  xy: 124, 54
+  size: 54, 59
+  orig: 63, 63
+  offset: 5, 2
+  index: -1
+fx_starburst
+  rotate: false
+  xy: 2, 303
+  size: 98, 93
+  orig: 98, 93
+  offset: 0, 0
+  index: -1
+s_s_diamond_glow
+  rotate: true
+  xy: 63, 276
+  size: 25, 29
+  orig: 35, 37
+  offset: 4, 2
+  index: -1
+s_s_frame
+  rotate: true
+  xy: 2, 398
+  size: 128, 131
+  orig: 131, 132
+  offset: 2, 0
+  index: -1
+s_s_fx_scatter_01
+  rotate: false
+  xy: 63, 255
+  size: 35, 19
+  orig: 45, 21
+  offset: 0, 1
+  index: -1
+s_s_fx_scatter_02
+  rotate: true
+  xy: 102, 275
+  size: 52, 19
+  orig: 56, 21
+  offset: 1, 1
+  index: -1
+s_s_fx_scatter_03
+  rotate: true
+  xy: 100, 243
+  size: 30, 19
+  orig: 37, 21
+  offset: 7, 1
+  index: -1
+s_s_fx_zoom
+  rotate: true
+  xy: 102, 329
+  size: 67, 20
+  orig: 69, 22
+  offset: 1, 1
+  index: -1
+s_s_scatter
+  rotate: true
+  xy: 135, 390
+  size: 136, 44
+  orig: 136, 46
+  offset: 0, 1
+  index: -1

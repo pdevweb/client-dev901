@@ -1,0 +1,97 @@
+
+eff_dakuang.png
+size: 1332,1332
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gunlunkuang_00000
+  rotate: true
+  xy: 531, 1024
+  size: 305, 398
+  orig: 640, 640
+  offset: 34, 147
+  index: -1
+gunlunkuang_00001
+  rotate: true
+  xy: 931, 1024
+  size: 305, 398
+  orig: 640, 640
+  offset: 34, 147
+  index: -1
+gunlunkuang_00002
+  rotate: true
+  xy: 531, 717
+  size: 305, 397
+  orig: 640, 640
+  offset: 34, 148
+  index: -1
+gunlunkuang_00003
+  rotate: true
+  xy: 930, 717
+  size: 305, 397
+  orig: 640, 640
+  offset: 34, 148
+  index: -1
+gunlunkuang_00004
+  rotate: true
+  xy: 2, 676
+  size: 304, 398
+  orig: 640, 640
+  offset: 35, 147
+  index: -1
+gunlunkuang_00005
+  rotate: false
+  xy: 402, 317
+  size: 304, 398
+  orig: 640, 640
+  offset: 35, 147
+  index: -1
+gunlunkuang_00006
+  rotate: true
+  xy: 2, 64
+  size: 304, 397
+  orig: 640, 640
+  offset: 35, 147
+  index: -1
+gunlunkuang_00007
+  rotate: true
+  xy: 800, 12
+  size: 304, 396
+  orig: 640, 640
+  offset: 35, 148
+  index: -1
+gunlunkuang_00008
+  rotate: false
+  xy: 1014, 319
+  size: 303, 396
+  orig: 640, 640
+  offset: 36, 148
+  index: -1
+gunlunkuang_00009
+  rotate: true
+  xy: 401, 11
+  size: 304, 397
+  orig: 640, 640
+  offset: 35, 147
+  index: -1
+gunlunkuang_00010
+  rotate: true
+  xy: 2, 370
+  size: 304, 398
+  orig: 640, 640
+  offset: 35, 147
+  index: -1
+gunlunkuang_00011
+  rotate: false
+  xy: 708, 318
+  size: 304, 397
+  orig: 640, 640
+  offset: 35, 148
+  index: -1
+tex_00000
+  rotate: false
+  xy: 2, 982
+  size: 527, 347
+  orig: 640, 640
+  offset: 57, 172
+  index: -1

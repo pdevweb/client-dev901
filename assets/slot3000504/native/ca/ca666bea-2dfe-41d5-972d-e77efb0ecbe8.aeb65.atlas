@@ -1,0 +1,376 @@
+
+eff_transitions_scene.png
+size: 1985,1968
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tou1/tou1_00001
+  rotate: true
+  xy: 1804, 876
+  size: 362, 179
+  orig: 444, 180
+  offset: 82, 0
+  index: -1
+tou1/tou1_00003
+  rotate: false
+  xy: 2, 1786
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+tou1/tou1_00004
+  rotate: true
+  xy: 448, 1522
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+tou1/tou1_00005
+  rotate: true
+  xy: 2, 1340
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+tou1/tou1_00006
+  rotate: true
+  xy: 184, 1340
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+tou1/tou1_00007
+  rotate: false
+  xy: 366, 1340
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+tou1/tou1_00008
+  rotate: false
+  xy: 630, 1786
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+tou1/tou1_00009
+  rotate: false
+  xy: 630, 1604
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+tou1/tou1_00010
+  rotate: true
+  xy: 812, 1158
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+tou1/tou1_00011
+  rotate: true
+  xy: 2, 894
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+tou1/tou1_00012
+  rotate: true
+  xy: 184, 894
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+tou1/tou1_00013
+  rotate: true
+  xy: 366, 894
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+tou1/tou1_00014
+  rotate: true
+  xy: 548, 894
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+tou1/tou1_00015
+  rotate: false
+  xy: 730, 976
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+tou1/tou1_00016
+  rotate: false
+  xy: 994, 1422
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+tou1/tou1_00017
+  rotate: false
+  xy: 1076, 1786
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+tou1/tou1_00018
+  rotate: false
+  xy: 1076, 1604
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+tou1/tou1_00019
+  rotate: false
+  xy: 994, 1240
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+tou1/tou1_00020
+  rotate: true
+  xy: 1176, 794
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+tou1/tou1_00021
+  rotate: true
+  xy: 730, 530
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+tou1/tou1_00022
+  rotate: true
+  xy: 2, 448
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+tou1/tou1_00023
+  rotate: true
+  xy: 184, 448
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+tou1/tou1_00024
+  rotate: true
+  xy: 366, 448
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+wei1/wei1_00000
+  rotate: true
+  xy: 548, 448
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+wei1/wei1_00001
+  rotate: true
+  xy: 912, 530
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+wei1/wei1_00002
+  rotate: false
+  xy: 1094, 612
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+wei1/wei1_00003
+  rotate: false
+  xy: 1358, 1058
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+wei1/wei1_00004
+  rotate: false
+  xy: 1440, 1422
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+wei1/wei1_00005
+  rotate: false
+  xy: 1440, 1240
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+wei1/wei1_00006
+  rotate: false
+  xy: 1522, 1786
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+wei1/wei1_00007
+  rotate: false
+  xy: 1522, 1604
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+wei1/wei1_00008
+  rotate: false
+  xy: 1358, 876
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+wei1/wei1_00009
+  rotate: true
+  xy: 1540, 430
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+wei1/wei1_00010
+  rotate: true
+  xy: 1094, 166
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+wei1/wei1_00011
+  rotate: true
+  xy: 730, 84
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+wei1/wei1_00012
+  rotate: true
+  xy: 912, 84
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+wei1/wei1_00013
+  rotate: true
+  xy: 1276, 166
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+wei1/wei1_00014
+  rotate: false
+  xy: 1458, 248
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+wei1/wei1_00015
+  rotate: true
+  xy: 1722, 430
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+wei1/wei1_00016
+  rotate: false
+  xy: 1458, 66
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+wei1/wei1_00017
+  rotate: false
+  xy: 2, 266
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+wei1/wei1_00018
+  rotate: true
+  xy: 448, 2
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+wei1/wei1_00019
+  rotate: false
+  xy: 2, 84
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+
+eff_transitions_scene2.png
+size: 1639,448
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tou1/tou1_00002
+  rotate: true
+  xy: 1276, 2
+  size: 444, 179
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+wei1/wei1_00020
+  rotate: true
+  xy: 2, 2
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+wei1/wei1_00021
+  rotate: true
+  xy: 184, 2
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+wei1/wei1_00022
+  rotate: true
+  xy: 366, 2
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+wei1/wei1_00023
+  rotate: true
+  xy: 548, 2
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+wei1/wei1_00024
+  rotate: true
+  xy: 730, 2
+  size: 444, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1
+wei1/wei1_00025
+  rotate: true
+  xy: 912, 3
+  size: 443, 180
+  orig: 444, 180
+  offset: 1, 0
+  index: -1
+wei1/wei1_00026
+  rotate: true
+  xy: 1094, 4
+  size: 442, 180
+  orig: 444, 180
+  offset: 2, 0
+  index: -1
+wei1/wei1_00027
+  rotate: true
+  xy: 1457, 36
+  size: 410, 180
+  orig: 444, 180
+  offset: 0, 0
+  index: -1

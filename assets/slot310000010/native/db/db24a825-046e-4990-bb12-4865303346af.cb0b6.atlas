@@ -1,0 +1,118 @@
+
+239_qipan_wild.png
+size: 1276,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+55
+  rotate: true
+  xy: 2, 28
+  size: 257, 147
+  orig: 257, 147
+  offset: 0, 0
+  index: -1
+wild/wild_000
+  rotate: false
+  xy: 902, 230
+  size: 372, 55
+  orig: 375, 55
+  offset: 0, 0
+  index: -1
+wild/wild_002
+  rotate: false
+  xy: 527, 173
+  size: 372, 55
+  orig: 375, 55
+  offset: 0, 0
+  index: -1
+wild/wild_004
+  rotate: false
+  xy: 901, 173
+  size: 372, 55
+  orig: 375, 55
+  offset: 0, 0
+  index: -1
+wild/wild_006
+  rotate: false
+  xy: 527, 116
+  size: 372, 55
+  orig: 375, 55
+  offset: 0, 0
+  index: -1
+wild/wild_008
+  rotate: false
+  xy: 901, 116
+  size: 372, 55
+  orig: 375, 55
+  offset: 0, 0
+  index: -1
+wild/wild_010
+  rotate: false
+  xy: 527, 59
+  size: 372, 55
+  orig: 375, 55
+  offset: 0, 0
+  index: -1
+wild/wild_012
+  rotate: false
+  xy: 901, 59
+  size: 372, 55
+  orig: 375, 55
+  offset: 0, 0
+  index: -1
+wild/wild_014
+  rotate: false
+  xy: 527, 2
+  size: 372, 55
+  orig: 375, 55
+  offset: 0, 0
+  index: -1
+wild/wild_016
+  rotate: false
+  xy: 527, 230
+  size: 373, 55
+  orig: 375, 55
+  offset: 0, 0
+  index: -1
+wild/wild_018
+  rotate: false
+  xy: 151, 230
+  size: 374, 55
+  orig: 375, 55
+  offset: 0, 0
+  index: -1
+wild/wild_020
+  rotate: false
+  xy: 151, 173
+  size: 374, 55
+  orig: 375, 55
+  offset: 0, 0
+  index: -1
+wild/wild_022
+  rotate: false
+  xy: 151, 116
+  size: 374, 55
+  orig: 375, 55
+  offset: 0, 0
+  index: -1
+wild/wild_024
+  rotate: false
+  xy: 151, 59
+  size: 374, 55
+  orig: 375, 55
+  offset: 0, 0
+  index: -1
+wild/wild_026
+  rotate: false
+  xy: 151, 2
+  size: 374, 55
+  orig: 375, 55
+  offset: 0, 0
+  index: -1
+wild/wild_028
+  rotate: false
+  xy: 901, 2
+  size: 372, 55
+  orig: 375, 55
+  offset: 0, 0
+  index: -1

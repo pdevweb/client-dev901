@@ -1,0 +1,97 @@
+
+FG_guochang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/qigan
+  rotate: true
+  xy: 2, 982
+  size: 24, 540
+  orig: 38, 540
+  offset: 6, 0
+  index: -1
+images/qiqi/qizi_00
+  rotate: false
+  xy: 544, 812
+  size: 361, 194
+  orig: 459, 300
+  offset: 49, 53
+  index: -1
+images/qiqi/qizi_01
+  rotate: false
+  xy: 2, 786
+  size: 361, 194
+  orig: 459, 300
+  offset: 49, 53
+  index: -1
+images/qiqi/qizi_02
+  rotate: false
+  xy: 365, 616
+  size: 361, 194
+  orig: 459, 300
+  offset: 49, 53
+  index: -1
+images/qiqi/qizi_03
+  rotate: false
+  xy: 2, 590
+  size: 361, 194
+  orig: 459, 300
+  offset: 49, 53
+  index: -1
+images/qiqi/qizi_04
+  rotate: true
+  xy: 728, 449
+  size: 361, 194
+  orig: 459, 300
+  offset: 49, 53
+  index: -1
+images/qiqi/qizi_05
+  rotate: false
+  xy: 365, 420
+  size: 361, 194
+  orig: 459, 300
+  offset: 49, 53
+  index: -1
+images/qiqi/qizi_06
+  rotate: false
+  xy: 2, 394
+  size: 361, 194
+  orig: 459, 300
+  offset: 49, 53
+  index: -1
+images/qiqi/qizi_07
+  rotate: false
+  xy: 365, 224
+  size: 361, 194
+  orig: 459, 300
+  offset: 49, 53
+  index: -1
+images/qiqi/qizi_08
+  rotate: false
+  xy: 2, 198
+  size: 361, 194
+  orig: 459, 300
+  offset: 49, 53
+  index: -1
+images/qiqi/qizi_09
+  rotate: true
+  xy: 728, 86
+  size: 361, 194
+  orig: 459, 300
+  offset: 49, 53
+  index: -1
+images/qiqi/qizi_10
+  rotate: false
+  xy: 365, 28
+  size: 361, 194
+  orig: 459, 300
+  offset: 49, 53
+  index: -1
+images/qiqi/qizi_11
+  rotate: false
+  xy: 2, 2
+  size: 361, 194
+  orig: 459, 300
+  offset: 49, 53
+  index: -1

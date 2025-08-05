@@ -1,0 +1,111 @@
+
+anticipation_jpReel.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuang/kuang_00
+  rotate: true
+  xy: 2, 3
+  size: 145, 109
+  orig: 148, 216
+  offset: 0, 53
+  index: -1
+kuang/kuang_02
+  rotate: true
+  xy: 996, 4
+  size: 144, 109
+  orig: 148, 216
+  offset: 3, 53
+  index: -1
+kuang/kuang_04
+  rotate: true
+  xy: 446, 2
+  size: 146, 108
+  orig: 148, 216
+  offset: 2, 53
+  index: -1
+kuang/kuang_06
+  rotate: true
+  xy: 1218, 3
+  size: 145, 108
+  orig: 148, 216
+  offset: 3, 53
+  index: -1
+kuang/kuang_08
+  rotate: true
+  xy: 556, 2
+  size: 146, 108
+  orig: 148, 216
+  offset: 2, 53
+  index: -1
+kuang/kuang_10
+  rotate: true
+  xy: 666, 2
+  size: 146, 108
+  orig: 148, 216
+  offset: 1, 53
+  index: -1
+kuang/kuang_12
+  rotate: true
+  xy: 776, 2
+  size: 146, 108
+  orig: 148, 216
+  offset: 1, 53
+  index: -1
+kuang/kuang_14
+  rotate: true
+  xy: 886, 2
+  size: 146, 108
+  orig: 148, 216
+  offset: 1, 53
+  index: -1
+kuang/kuang_16
+  rotate: true
+  xy: 113, 3
+  size: 145, 109
+  orig: 148, 216
+  offset: 2, 53
+  index: -1
+kuang/kuang_18
+  rotate: true
+  xy: 224, 3
+  size: 145, 109
+  orig: 148, 216
+  offset: 2, 53
+  index: -1
+kuang/kuang_20
+  rotate: true
+  xy: 335, 3
+  size: 145, 109
+  orig: 148, 216
+  offset: 2, 53
+  index: -1
+kuang/kuang_22
+  rotate: true
+  xy: 1107, 4
+  size: 144, 109
+  orig: 148, 216
+  offset: 2, 53
+  index: -1
+kuang/kuang_24
+  rotate: true
+  xy: 1438, 5
+  size: 143, 109
+  orig: 148, 216
+  offset: 2, 53
+  index: -1
+kuang/kuang_26
+  rotate: true
+  xy: 1549, 5
+  size: 143, 108
+  orig: 148, 216
+  offset: 2, 53
+  index: -1
+kuang/kuang_28
+  rotate: true
+  xy: 1328, 3
+  size: 145, 108
+  orig: 148, 216
+  offset: 1, 53
+  index: -1

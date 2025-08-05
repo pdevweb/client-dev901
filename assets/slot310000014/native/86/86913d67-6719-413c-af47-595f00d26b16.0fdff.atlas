@@ -1,0 +1,41 @@
+
+jp_shangsuo.png
+size: 396,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bkg1
+  rotate: false
+  xy: 2, 95
+  size: 260, 34
+  orig: 260, 34
+  offset: 0, 0
+  index: -1
+bkg2
+  rotate: false
+  xy: 2, 36
+  size: 132, 23
+  orig: 132, 23
+  offset: 0, 0
+  index: -1
+gx1
+  rotate: false
+  xy: 264, 2
+  size: 127, 127
+  orig: 128, 128
+  offset: 1, 1
+  index: -1
+ssg1
+  rotate: false
+  xy: 2, 61
+  size: 256, 32
+  orig: 284, 43
+  offset: 14, 6
+  index: -1
+ssg2
+  rotate: false
+  xy: 2, 15
+  size: 128, 19
+  orig: 142, 33
+  offset: 7, 7
+  index: -1

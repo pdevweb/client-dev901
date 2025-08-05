@@ -1,0 +1,69 @@
+
+383_base_jili.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bggh
+  rotate: true
+  xy: 2, 138
+  size: 371, 324
+  orig: 371, 334
+  offset: 0, 0
+  index: -1
+chuan
+  rotate: false
+  xy: 2, 39
+  size: 338, 97
+  orig: 338, 97
+  offset: 0, 0
+  index: -1
+dd
+  rotate: false
+  xy: 342, 31
+  size: 182, 132
+  orig: 183, 132
+  offset: 0, 0
+  index: -1
+dd1
+  rotate: false
+  xy: 389, 218
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+gux
+  rotate: false
+  xy: 328, 264
+  size: 244, 245
+  orig: 249, 248
+  offset: 3, 3
+  index: -1
+jdf
+  rotate: false
+  xy: 248, 28
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 2, 2
+  size: 244, 35
+  orig: 245, 38
+  offset: 0, 0
+  index: -1
+sgg
+  rotate: false
+  xy: 526, 41
+  size: 267, 221
+  orig: 267, 222
+  offset: 0, 1
+  index: -1
+wei
+  rotate: true
+  xy: 328, 165
+  size: 97, 59
+  orig: 97, 59
+  offset: 0, 0
+  index: -1

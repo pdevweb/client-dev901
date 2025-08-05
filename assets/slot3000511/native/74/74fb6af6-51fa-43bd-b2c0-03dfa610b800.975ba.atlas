@@ -1,0 +1,62 @@
+
+eff_FreeGame2.png
+size: 964,120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liudong/liudong_00000
+  rotate: false
+  xy: 2, 2
+  size: 118, 114
+  orig: 122, 114
+  offset: 2, 0
+  index: -1
+liudong/liudong_00001
+  rotate: false
+  xy: 122, 2
+  size: 118, 114
+  orig: 122, 114
+  offset: 2, 0
+  index: -1
+liudong/liudong_00002
+  rotate: false
+  xy: 242, 2
+  size: 118, 114
+  orig: 122, 114
+  offset: 2, 0
+  index: -1
+liudong/liudong_00003
+  rotate: false
+  xy: 362, 2
+  size: 118, 114
+  orig: 122, 114
+  offset: 2, 0
+  index: -1
+liudong/liudong_00004
+  rotate: false
+  xy: 482, 2
+  size: 118, 114
+  orig: 122, 114
+  offset: 2, 0
+  index: -1
+liudong/liudong_00005
+  rotate: false
+  xy: 602, 2
+  size: 118, 114
+  orig: 122, 114
+  offset: 2, 0
+  index: -1
+liudong/liudong_00006
+  rotate: false
+  xy: 722, 2
+  size: 118, 114
+  orig: 122, 114
+  offset: 2, 0
+  index: -1
+liudong/liudong_00007
+  rotate: false
+  xy: 842, 2
+  size: 118, 114
+  orig: 122, 114
+  offset: 2, 0
+  index: -1

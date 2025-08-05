@@ -1,0 +1,20 @@
+
+307_q.png
+size: 188,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: true
+  xy: 108, 22
+  size: 77, 76
+  orig: 114, 107
+  offset: 19, 14
+  index: -1
+q
+  rotate: true
+  xy: 2, 2
+  size: 97, 104
+  orig: 102, 106
+  offset: 3, 0
+  index: -1

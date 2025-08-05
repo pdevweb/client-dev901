@@ -1,0 +1,83 @@
+
+eff_icon_09.png
+size: 768,384
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bluejs_00000
+  rotate: false
+  xy: 678, 321
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+g/g_00
+  rotate: true
+  xy: 669, 158
+  size: 98, 95
+  orig: 143, 135
+  offset: 25, 19
+  index: -1
+g/g_01
+  rotate: true
+  xy: 661, 34
+  size: 108, 104
+  orig: 143, 135
+  offset: 20, 15
+  index: -1
+g/g_02
+  rotate: false
+  xy: 551, 144
+  size: 116, 112
+  orig: 143, 135
+  offset: 16, 11
+  index: -1
+g/g_03
+  rotate: false
+  xy: 419, 11
+  size: 121, 118
+  orig: 143, 135
+  offset: 13, 7
+  index: -1
+g/g_04
+  rotate: false
+  xy: 551, 258
+  size: 125, 121
+  orig: 143, 135
+  offset: 11, 5
+  index: -1
+g/g_05
+  rotate: false
+  xy: 419, 131
+  size: 129, 122
+  orig: 143, 135
+  offset: 9, 4
+  index: -1
+g/g_06
+  rotate: false
+  xy: 419, 255
+  size: 130, 124
+  orig: 143, 135
+  offset: 8, 4
+  index: -1
+g/g_07
+  rotate: true
+  xy: 542, 8
+  size: 121, 117
+  orig: 143, 135
+  offset: 13, 9
+  index: -1
+sg_00000
+  rotate: false
+  xy: 678, 264
+  size: 46, 55
+  orig: 60, 58
+  offset: 7, 2
+  index: -1
+zjm_icon_ptfdjz_5
+  rotate: true
+  xy: 2, 2
+  size: 377, 415
+  orig: 377, 415
+  offset: 0, 0
+  index: -1

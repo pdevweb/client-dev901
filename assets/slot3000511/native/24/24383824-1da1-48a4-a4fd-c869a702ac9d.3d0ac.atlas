@@ -1,0 +1,139 @@
+
+eff_icon_06.png
+size: 456,456
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liego_0
+  rotate: true
+  xy: 361, 76
+  size: 141, 31
+  orig: 141, 31
+  offset: 0, 0
+  index: -1
+liego_1
+  rotate: true
+  xy: 394, 81
+  size: 141, 33
+  orig: 141, 33
+  offset: 0, 0
+  index: -1
+liego_10
+  rotate: false
+  xy: 2, 2
+  size: 141, 9
+  orig: 141, 9
+  offset: 0, 0
+  index: -1
+liego_12
+  rotate: false
+  xy: 288, 318
+  size: 141, 136
+  orig: 141, 136
+  offset: 0, 0
+  index: -1
+liego_13
+  rotate: true
+  xy: 431, 313
+  size: 141, 20
+  orig: 141, 20
+  offset: 0, 0
+  index: -1
+liego_19
+  rotate: false
+  xy: 2, 228
+  size: 141, 226
+  orig: 141, 226
+  offset: 0, 0
+  index: -1
+liego_20
+  rotate: false
+  xy: 425, 277
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+liego_21
+  rotate: false
+  xy: 176, 9
+  size: 82, 74
+  orig: 82, 76
+  offset: 0, 2
+  index: -1
+liego_22
+  rotate: false
+  xy: 260, 2
+  size: 30, 39
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+liego_24
+  rotate: true
+  xy: 288, 219
+  size: 97, 100
+  orig: 97, 100
+  offset: 0, 0
+  index: -1
+liego_25
+  rotate: false
+  xy: 2, 77
+  size: 172, 149
+  orig: 185, 217
+  offset: 0, 68
+  index: -1
+liego_26
+  rotate: false
+  xy: 390, 224
+  size: 33, 92
+  orig: 41, 92
+  offset: 8, 0
+  index: -1
+liego_27
+  rotate: false
+  xy: 292, 3
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+liego_28
+  rotate: false
+  xy: 145, 228
+  size: 141, 226
+  orig: 141, 226
+  offset: 0, 0
+  index: -1
+liego_3
+  rotate: true
+  xy: 323, 76
+  size: 141, 36
+  orig: 141, 36
+  offset: 0, 0
+  index: -1
+liego_4
+  rotate: true
+  xy: 282, 76
+  size: 141, 39
+  orig: 141, 39
+  offset: 0, 0
+  index: -1
+liego_6
+  rotate: false
+  xy: 2, 13
+  size: 141, 62
+  orig: 141, 62
+  offset: 0, 0
+  index: -1
+liego_7
+  rotate: false
+  xy: 260, 43
+  size: 141, 31
+  orig: 141, 31
+  offset: 0, 0
+  index: -1
+liego_9
+  rotate: true
+  xy: 176, 85
+  size: 141, 104
+  orig: 141, 104
+  offset: 0, 0
+  index: -1

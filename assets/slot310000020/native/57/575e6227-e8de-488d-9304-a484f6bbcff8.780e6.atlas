@@ -1,0 +1,111 @@
+
+383_zjlx.png
+size: 1868,496
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0/0_00
+  rotate: false
+  xy: 2, 251
+  size: 244, 240
+  orig: 300, 300
+  offset: 26, 31
+  index: -1
+0/0_01
+  rotate: false
+  xy: 248, 252
+  size: 242, 239
+  orig: 300, 300
+  offset: 27, 31
+  index: -1
+0/0_02
+  rotate: false
+  xy: 925, 16
+  size: 238, 239
+  orig: 300, 300
+  offset: 29, 32
+  index: -1
+0/0_03
+  rotate: false
+  xy: 690, 13
+  size: 233, 240
+  orig: 300, 300
+  offset: 31, 31
+  index: -1
+0/0_04
+  rotate: false
+  xy: 1165, 15
+  size: 228, 240
+  orig: 300, 300
+  offset: 33, 31
+  index: -1
+0/0_05
+  rotate: false
+  xy: 1395, 19
+  size: 230, 239
+  orig: 300, 300
+  offset: 35, 30
+  index: -1
+0/0_06
+  rotate: true
+  xy: 1627, 21
+  size: 239, 237
+  orig: 300, 300
+  offset: 30, 31
+  index: -1
+0/0_07
+  rotate: false
+  xy: 492, 255
+  size: 245, 236
+  orig: 300, 300
+  offset: 26, 31
+  index: -1
+0/0_08
+  rotate: false
+  xy: 989, 257
+  size: 244, 234
+  orig: 300, 300
+  offset: 26, 32
+  index: -1
+0/0_09
+  rotate: false
+  xy: 1235, 260
+  size: 243, 231
+  orig: 300, 300
+  offset: 26, 33
+  index: -1
+0/0_10
+  rotate: false
+  xy: 1480, 262
+  size: 243, 229
+  orig: 300, 300
+  offset: 26, 34
+  index: -1
+0/0_11
+  rotate: true
+  xy: 463, 5
+  size: 245, 225
+  orig: 300, 300
+  offset: 26, 36
+  index: -1
+0/0_12
+  rotate: true
+  xy: 240, 2
+  size: 247, 221
+  orig: 300, 300
+  offset: 26, 38
+  index: -1
+0/0_13
+  rotate: false
+  xy: 739, 259
+  size: 248, 232
+  orig: 300, 300
+  offset: 26, 33
+  index: -1
+0/0_14
+  rotate: true
+  xy: 2, 3
+  size: 246, 236
+  orig: 300, 300
+  offset: 27, 31
+  index: -1

@@ -1,0 +1,90 @@
+
+eff_icon_chufa.png
+size: 704,704
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha/baozha_00000
+  rotate: true
+  xy: 599, 243
+  size: 74, 69
+  orig: 260, 240
+  offset: 94, 85
+  index: -1
+baozha/baozha_00001
+  rotate: true
+  xy: 407, 2
+  size: 137, 145
+  orig: 260, 240
+  offset: 71, 37
+  index: -1
+baozha/baozha_00003
+  rotate: true
+  xy: 234, 293
+  size: 172, 160
+  orig: 260, 240
+  offset: 48, 34
+  index: -1
+baozha/baozha_00005
+  rotate: false
+  xy: 407, 141
+  size: 190, 176
+  orig: 260, 240
+  offset: 35, 30
+  index: -1
+baozha/baozha_00007
+  rotate: false
+  xy: 2, 41
+  size: 210, 200
+  orig: 260, 240
+  offset: 25, 19
+  index: -1
+baozha/baozha_00009
+  rotate: false
+  xy: 2, 243
+  size: 230, 222
+  orig: 260, 240
+  offset: 15, 9
+  index: -1
+baozha/baozha_00011
+  rotate: false
+  xy: 2, 467
+  size: 236, 233
+  orig: 260, 240
+  offset: 12, 4
+  index: -1
+baozha/baozha_00013
+  rotate: false
+  xy: 240, 480
+  size: 202, 220
+  orig: 260, 240
+  offset: 20, 11
+  index: -1
+baozha/baozha_00015
+  rotate: false
+  xy: 214, 34
+  size: 191, 207
+  orig: 260, 240
+  offset: 19, 24
+  index: -1
+baozha/baozha_00017
+  rotate: true
+  xy: 444, 319
+  size: 178, 199
+  orig: 260, 240
+  offset: 29, 30
+  index: -1
+db00000
+  rotate: false
+  xy: 444, 499
+  size: 200, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+gy1_00000
+  rotate: false
+  xy: 554, 7
+  size: 126, 132
+  orig: 134, 134
+  offset: 4, 1
+  index: -1

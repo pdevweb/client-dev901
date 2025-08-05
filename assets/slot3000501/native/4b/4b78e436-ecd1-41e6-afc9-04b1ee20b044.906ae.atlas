@@ -1,0 +1,34 @@
+
+zj_hongbaoshi.png
+size: 352,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+redjs_00000
+  rotate: false
+  xy: 186, 6
+  size: 90, 86
+  orig: 90, 86
+  offset: 0, 0
+  index: -1
+sg_00000
+  rotate: false
+  xy: 278, 11
+  size: 69, 81
+  orig: 90, 86
+  offset: 11, 3
+  index: -1
+zjm_icon_ptfdjz_3
+  rotate: false
+  xy: 2, 2
+  size: 90, 90
+  orig: 116, 116
+  offset: 13, 14
+  index: -1
+zjm_icon_ptfdjz_3_1
+  rotate: false
+  xy: 94, 2
+  size: 90, 90
+  orig: 116, 116
+  offset: 13, 14
+  index: -1

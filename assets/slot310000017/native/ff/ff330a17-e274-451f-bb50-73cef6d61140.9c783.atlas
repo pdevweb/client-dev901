@@ -1,0 +1,104 @@
+
+icon_wild.png
+size: 2008,312
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ch
+  rotate: false
+  xy: 1888, 189
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+eff
+  rotate: false
+  xy: 2, 5
+  size: 302, 302
+  orig: 302, 302
+  offset: 0, 0
+  index: -1
+fangshe
+  rotate: false
+  xy: 914, 12
+  size: 295, 295
+  orig: 295, 295
+  offset: 0, 0
+  index: -1
+guangdian1
+  rotate: false
+  xy: 1716, 3
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+guanghuan
+  rotate: false
+  xy: 1438, 2
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+guanghuan14
+  rotate: false
+  xy: 1577, 2
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+light1
+  rotate: false
+  xy: 1211, 80
+  size: 225, 227
+  orig: 225, 227
+  offset: 0, 0
+  index: -1
+light2
+  rotate: true
+  xy: 1438, 141
+  size: 166, 156
+  orig: 166, 156
+  offset: 0, 0
+  index: -1
+whirlpool1
+  rotate: false
+  xy: 306, 5
+  size: 302, 302
+  orig: 302, 302
+  offset: 0, 0
+  index: -1
+whirlpool2
+  rotate: false
+  xy: 1749, 170
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+wild (2)
+  rotate: false
+  xy: 1596, 156
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+xuanwo
+  rotate: false
+  xy: 1869, 31
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+ys
+  rotate: false
+  xy: 610, 5
+  size: 302, 302
+  orig: 302, 302
+  offset: 0, 0
+  index: -1
+yuanbao2
+  rotate: true
+  xy: 1211, 14
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1

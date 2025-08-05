@@ -1,0 +1,174 @@
+
+zj_zhousi.png
+size: 564,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beardL
+  rotate: false
+  xy: 504, 470
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+beardR
+  rotate: true
+  xy: 513, 122
+  size: 52, 42
+  orig: 52, 42
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 232, 395
+  size: 270, 127
+  orig: 290, 129
+  offset: 19, 1
+  index: -1
+ciciz
+  rotate: true
+  xy: 232, 179
+  size: 124, 182
+  orig: 124, 188
+  offset: 0, 3
+  index: -1
+frame
+  rotate: true
+  xy: 2, 28
+  size: 243, 224
+  orig: 249, 227
+  offset: 3, 1
+  index: -1
+gem
+  rotate: false
+  xy: 406, 7
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 273
+  size: 228, 249
+  orig: 243, 249
+  offset: 15, 0
+  index: -1
+lightning
+  rotate: false
+  xy: 228, 123
+  size: 162, 54
+  orig: 164, 56
+  offset: 1, 1
+  index: -1
+sd/sd_00010
+  rotate: false
+  xy: 417, 51
+  size: 89, 60
+  orig: 108, 73
+  offset: 2, 6
+  index: -1
+sd/sd_00012
+  rotate: true
+  xy: 487, 305
+  size: 88, 62
+  orig: 108, 73
+  offset: 4, 4
+  index: -1
+sd/sd_00013
+  rotate: false
+  xy: 326, 58
+  size: 89, 63
+  orig: 108, 73
+  offset: 4, 3
+  index: -1
+sd/sd_00014
+  rotate: false
+  xy: 318, 9
+  size: 59, 47
+  orig: 108, 73
+  offset: 27, 4
+  index: -1
+sd/sd_00015
+  rotate: false
+  xy: 228, 58
+  size: 96, 63
+  orig: 108, 73
+  offset: 6, 3
+  index: -1
+sd/sd_00016
+  rotate: false
+  xy: 417, 113
+  size: 94, 61
+  orig: 108, 73
+  offset: 9, 4
+  index: -1
+sd/sd_00017
+  rotate: false
+  xy: 228, 8
+  size: 88, 48
+  orig: 108, 73
+  offset: 12, 14
+  index: -1
+sd/sd_00018
+  rotate: false
+  xy: 228, 8
+  size: 88, 48
+  orig: 108, 73
+  offset: 12, 14
+  index: -1
+shex
+  rotate: false
+  xy: 416, 176
+  size: 146, 127
+  orig: 225, 162
+  offset: 40, 15
+  index: -1
+xx
+  rotate: true
+  xy: 504, 406
+  size: 62, 53
+  orig: 64, 55
+  offset: 1, 1
+  index: -1
+yg
+  rotate: false
+  xy: 513, 89
+  size: 38, 31
+  orig: 40, 35
+  offset: 1, 2
+  index: -1
+yhh/yhh_00000
+  rotate: false
+  xy: 2, 2
+  size: 54, 24
+  orig: 64, 34
+  offset: 3, 7
+  index: -1
+yhh/yhh_00003
+  rotate: false
+  xy: 58, 2
+  size: 54, 24
+  orig: 64, 34
+  offset: 3, 7
+  index: -1
+yhh/yhh_00006
+  rotate: true
+  xy: 379, 2
+  size: 54, 25
+  orig: 64, 34
+  offset: 3, 7
+  index: -1
+yhh/yhh_00011
+  rotate: false
+  xy: 451, 24
+  size: 54, 25
+  orig: 64, 34
+  offset: 3, 7
+  index: -1
+zi
+  rotate: false
+  xy: 232, 305
+  size: 253, 88
+  orig: 255, 90
+  offset: 1, 1
+  index: -1

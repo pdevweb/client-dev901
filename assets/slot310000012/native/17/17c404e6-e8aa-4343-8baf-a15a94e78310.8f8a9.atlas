@@ -1,0 +1,167 @@
+
+277_jp_h.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0_10
+  rotate: true
+  xy: 1438, 87
+  size: 208, 199
+  orig: 208, 199
+  offset: 0, 0
+  index: -1
+0_11
+  rotate: true
+  xy: 899, 262
+  size: 241, 274
+  orig: 247, 281
+  offset: 3, 3
+  index: -1
+0_2
+  rotate: false
+  xy: 899, 90
+  size: 537, 170
+  orig: 537, 170
+  offset: 0, 0
+  index: -1
+0_3
+  rotate: false
+  xy: 1175, 297
+  size: 490, 206
+  orig: 490, 206
+  offset: 0, 0
+  index: -1
+0_6
+  rotate: false
+  xy: 1847, 303
+  size: 168, 200
+  orig: 168, 200
+  offset: 0, 0
+  index: -1
+0_7
+  rotate: true
+  xy: 2, 31
+  size: 472, 529
+  orig: 472, 529
+  offset: 0, 0
+  index: -1
+0_8
+  rotate: false
+  xy: 533, 222
+  size: 364, 281
+  orig: 364, 281
+  offset: 0, 0
+  index: -1
+0_9
+  rotate: true
+  xy: 533, 48
+  size: 172, 200
+  orig: 172, 200
+  offset: 0, 0
+  index: -1
+500x
+  rotate: true
+  xy: 1667, 70
+  size: 433, 178
+  orig: 433, 178
+  offset: 0, 0
+  index: -1
+bet
+  rotate: false
+  xy: 1073, 24
+  size: 253, 64
+  orig: 253, 64
+  offset: 0, 0
+  index: -1
+g1
+  rotate: true
+  xy: 735, 136
+  size: 84, 85
+  orig: 86, 86
+  offset: 1, 0
+  index: -1
+gl
+  rotate: false
+  xy: 822, 177
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+hs1
+  rotate: false
+  xy: 1416, 285
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+hs2
+  rotate: false
+  xy: 1393, 290
+  size: 21, 5
+  orig: 21, 5
+  offset: 0, 0
+  index: -1
+hs3
+  rotate: false
+  xy: 1393, 279
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+hs4
+  rotate: true
+  xy: 1379, 288
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+hs5
+  rotate: false
+  xy: 1223, 272
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+l1
+  rotate: false
+  xy: 1328, 2
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+s1
+  rotate: true
+  xy: 1175, 267
+  size: 28, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+s2
+  rotate: true
+  xy: 1358, 288
+  size: 7, 19
+  orig: 7, 19
+  offset: 0, 0
+  index: -1
+s3
+  rotate: false
+  xy: 1324, 282
+  size: 32, 13
+  orig: 32, 13
+  offset: 0, 0
+  index: -1
+s4
+  rotate: false
+  xy: 1259, 279
+  size: 63, 16
+  orig: 63, 16
+  offset: 0, 0
+  index: -1
+z1
+  rotate: false
+  xy: 735, 36
+  size: 336, 52
+  orig: 338, 54
+  offset: 1, 1
+  index: -1

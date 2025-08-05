@@ -1,0 +1,27 @@
+
+307_coin.png
+size: 103,88
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin1
+  rotate: true
+  xy: 89, 72
+  size: 14, 12
+  orig: 16, 14
+  offset: 1, 1
+  index: -1
+coin25
+  rotate: true
+  xy: 89, 54
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+xg_01
+  rotate: false
+  xy: 2, 2
+  size: 85, 84
+  orig: 109, 109
+  offset: 12, 12
+  index: -1

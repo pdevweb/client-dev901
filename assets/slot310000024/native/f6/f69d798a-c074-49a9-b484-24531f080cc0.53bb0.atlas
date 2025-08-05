@@ -1,0 +1,83 @@
+
+eff_icon_07.png
+size: 404,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g/g_00
+  rotate: true
+  xy: 300, 227
+  size: 85, 86
+  orig: 143, 135
+  offset: 31, 24
+  index: -1
+g/g_01
+  rotate: false
+  xy: 300, 314
+  size: 96, 95
+  orig: 143, 135
+  offset: 26, 19
+  index: -1
+g/g_02
+  rotate: true
+  xy: 299, 120
+  size: 105, 103
+  orig: 143, 135
+  offset: 21, 15
+  index: -1
+g/g_03
+  rotate: false
+  xy: 118, 2
+  size: 110, 109
+  orig: 143, 135
+  offset: 18, 11
+  index: -1
+g/g_04
+  rotate: true
+  xy: 238, 3
+  size: 115, 113
+  orig: 143, 135
+  offset: 16, 9
+  index: -1
+g/g_05
+  rotate: false
+  xy: 118, 113
+  size: 118, 113
+  orig: 143, 135
+  offset: 14, 9
+  index: -1
+g/g_06
+  rotate: true
+  xy: 2, 106
+  size: 120, 114
+  orig: 143, 135
+  offset: 13, 9
+  index: -1
+g/g_07
+  rotate: true
+  xy: 300, 411
+  size: 105, 101
+  orig: 143, 135
+  offset: 21, 18
+  index: -1
+redjs_00000
+  rotate: false
+  xy: 238, 168
+  size: 59, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+sg_00000
+  rotate: true
+  xy: 238, 122
+  size: 44, 55
+  orig: 60, 58
+  offset: 8, 2
+  index: -1
+zjm_icon_ptfdjz_3
+  rotate: true
+  xy: 2, 228
+  size: 288, 296
+  orig: 288, 296
+  offset: 0, 0
+  index: -1

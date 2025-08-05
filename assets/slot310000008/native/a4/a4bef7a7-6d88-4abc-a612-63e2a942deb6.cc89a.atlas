@@ -1,0 +1,34 @@
+
+map_bjxh.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lx
+  rotate: false
+  xy: 67, 84
+  size: 143, 115
+  orig: 170, 126
+  offset: 16, 11
+  index: -1
+xg_01
+  rotate: false
+  xy: 2, 136
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+图层-130
+  rotate: false
+  xy: 872, 2
+  size: 594, 197
+  orig: 594, 197
+  offset: 0, 0
+  index: -1
+图层-131
+  rotate: false
+  xy: 212, 15
+  size: 658, 184
+  orig: 673, 197
+  offset: 6, 0
+  index: -1

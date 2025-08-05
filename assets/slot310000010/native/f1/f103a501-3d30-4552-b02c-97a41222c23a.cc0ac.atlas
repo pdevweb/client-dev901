@@ -1,0 +1,55 @@
+
+239_popup_fgkstc01.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang
+  rotate: true
+  xy: 569, 224
+  size: 516, 372
+  orig: 529, 379
+  offset: 10, 7
+  index: -1
+guang1_000
+  rotate: false
+  xy: 403, 576
+  size: 164, 164
+  orig: 172, 172
+  offset: 4, 4
+  index: -1
+guang_00000
+  rotate: true
+  xy: 2, 2
+  size: 572, 563
+  orig: 595, 598
+  offset: 18, 18
+  index: -1
+text2
+  rotate: false
+  xy: 2, 744
+  size: 265, 59
+  orig: 265, 59
+  offset: 0, 0
+  index: -1
+theme239_popup_text1
+  rotate: false
+  xy: 482, 742
+  size: 443, 61
+  orig: 443, 61
+  offset: 0, 0
+  index: -1
+theme239_popup_wicked_1
+  rotate: false
+  xy: 2, 673
+  size: 399, 68
+  orig: 399, 68
+  offset: 0, 0
+  index: -1
+theme239_popup_wicked_2
+  rotate: false
+  xy: 269, 743
+  size: 211, 60
+  orig: 211, 60
+  offset: 0, 0
+  index: -1

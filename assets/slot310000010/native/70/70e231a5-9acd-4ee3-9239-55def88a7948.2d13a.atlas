@@ -1,0 +1,188 @@
+
+jl_1.png
+size: 1988,1060
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caihong1_0
+  rotate: false
+  xy: 957, 462
+  size: 346, 308
+  orig: 350, 350
+  offset: 2, 9
+  index: -1
+caihong4
+  rotate: false
+  xy: 1566, 86
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/chih1
+  rotate: false
+  xy: 2, 492
+  size: 574, 566
+  orig: 574, 566
+  offset: 0, 0
+  index: -1
+effect/lizi
+  rotate: false
+  xy: 1162, 220
+  size: 247, 240
+  orig: 247, 240
+  offset: 0, 0
+  index: -1
+effect/suduxian
+  rotate: true
+  xy: 1349, 518
+  size: 256, 368
+  orig: 256, 368
+  offset: 0, 0
+  index: -1
+shouji/shouji_0
+  rotate: true
+  xy: 1399, 117
+  size: 97, 165
+  orig: 432, 306
+  offset: 318, 57
+  index: -1
+shouji/shouji_1
+  rotate: false
+  xy: 693, 30
+  size: 141, 188
+  orig: 432, 306
+  offset: 273, 55
+  index: -1
+shouji/shouji_10
+  rotate: false
+  xy: 964, 772
+  size: 383, 286
+  orig: 432, 306
+  offset: 32, 8
+  index: -1
+shouji/shouji_11
+  rotate: false
+  xy: 389, 220
+  size: 384, 270
+  orig: 432, 306
+  offset: 32, 7
+  index: -1
+shouji/shouji_12
+  rotate: false
+  xy: 775, 222
+  size: 385, 238
+  orig: 432, 306
+  offset: 31, 11
+  index: -1
+shouji/shouji_13
+  rotate: false
+  xy: 2, 2
+  size: 353, 200
+  orig: 432, 306
+  offset: 31, 9
+  index: -1
+shouji/shouji_14
+  rotate: false
+  xy: 389, 30
+  size: 302, 188
+  orig: 432, 306
+  offset: 31, 11
+  index: -1
+shouji/shouji_15
+  rotate: false
+  xy: 1736, 874
+  size: 250, 184
+  orig: 432, 306
+  offset: 31, 16
+  index: -1
+shouji/shouji_16
+  rotate: false
+  xy: 1072, 71
+  size: 215, 147
+  orig: 432, 306
+  offset: 31, 57
+  index: -1
+shouji/shouji_17
+  rotate: true
+  xy: 1289, 59
+  size: 159, 108
+  orig: 432, 306
+  offset: 35, 96
+  index: -1
+shouji/shouji_18
+  rotate: false
+  xy: 1399, 17
+  size: 111, 98
+  orig: 432, 306
+  offset: 35, 105
+  index: -1
+shouji/shouji_2
+  rotate: true
+  xy: 836, 29
+  size: 191, 234
+  orig: 432, 306
+  offset: 223, 52
+  index: -1
+shouji/shouji_3
+  rotate: true
+  xy: 1713, 14
+  size: 234, 248
+  orig: 432, 306
+  offset: 179, 50
+  index: -1
+shouji/shouji_4
+  rotate: true
+  xy: 1736, 585
+  size: 287, 249
+  orig: 432, 306
+  offset: 126, 50
+  index: -1
+shouji/shouji_5
+  rotate: true
+  xy: 1719, 250
+  size: 333, 261
+  orig: 432, 306
+  offset: 76, 37
+  index: -1
+shouji/shouji_6
+  rotate: false
+  xy: 578, 492
+  size: 377, 278
+  orig: 432, 306
+  offset: 40, 17
+  index: -1
+shouji/shouji_7
+  rotate: false
+  xy: 1349, 776
+  size: 385, 282
+  orig: 432, 306
+  offset: 30, 13
+  index: -1
+shouji/shouji_8
+  rotate: false
+  xy: 2, 204
+  size: 385, 286
+  orig: 432, 306
+  offset: 31, 9
+  index: -1
+shouji/shouji_9
+  rotate: false
+  xy: 578, 772
+  size: 384, 286
+  orig: 432, 306
+  offset: 32, 10
+  index: -1
+tiao_5
+  rotate: false
+  xy: 1411, 216
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+zhezhao1
+  rotate: true
+  xy: 357, 162
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1

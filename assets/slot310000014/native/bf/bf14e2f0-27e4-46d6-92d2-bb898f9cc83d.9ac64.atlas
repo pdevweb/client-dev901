@@ -1,0 +1,83 @@
+
+jp_di.png
+size: 580,184
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_jin
+  rotate: true
+  xy: 515, 41
+  size: 68, 63
+  orig: 72, 67
+  offset: 2, 2
+  index: -1
+2_hong
+  rotate: true
+  xy: 377, 5
+  size: 71, 68
+  orig: 77, 72
+  offset: 3, 2
+  index: -1
+3_zi
+  rotate: true
+  xy: 447, 11
+  size: 71, 66
+  orig: 77, 72
+  offset: 3, 3
+  index: -1
+4_lan
+  rotate: true
+  xy: 509, 111
+  size: 71, 66
+  orig: 77, 72
+  offset: 3, 3
+  index: -1
+5_lv
+  rotate: true
+  xy: 306, 3
+  size: 73, 69
+  orig: 79, 75
+  offset: 3, 3
+  index: -1
+bao1
+  rotate: false
+  xy: 412, 84
+  size: 95, 98
+  orig: 116, 118
+  offset: 10, 11
+  index: -1
+chgy_00
+  rotate: true
+  xy: 189, 54
+  size: 128, 115
+  orig: 128, 115
+  offset: 0, 0
+  index: -1
+gq01
+  rotate: false
+  xy: 306, 78
+  size: 104, 104
+  orig: 124, 124
+  offset: 10, 10
+  index: -1
+lizi1
+  rotate: true
+  xy: 250, 19
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+qq_0
+  rotate: true
+  xy: 2, 3
+  size: 179, 185
+  orig: 213, 215
+  offset: 13, 19
+  index: -1
+zzz
+  rotate: true
+  xy: 189, 2
+  size: 50, 59
+  orig: 65, 66
+  offset: 8, 4
+  index: -1

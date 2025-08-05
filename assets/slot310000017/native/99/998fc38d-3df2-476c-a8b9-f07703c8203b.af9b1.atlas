@@ -1,0 +1,20 @@
+
+eff_zhuanchang.png
+size: 1128,500
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ch
+  rotate: true
+  xy: 2, 2
+  size: 494, 878
+  orig: 494, 878
+  offset: 0, 0
+  index: -1
+dicoin_3
+  rotate: true
+  xy: 882, 205
+  size: 291, 241
+  orig: 291, 241
+  offset: 0, 0
+  index: -1

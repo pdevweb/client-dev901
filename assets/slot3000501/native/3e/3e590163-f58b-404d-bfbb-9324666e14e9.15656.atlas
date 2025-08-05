@@ -1,0 +1,132 @@
+
+zj_shalou.png
+size: 404,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gdd_00000
+  rotate: true
+  xy: 185, 91
+  size: 87, 85
+  orig: 100, 100
+  offset: 5, 7
+  index: -1
+sg/sg_00000
+  rotate: false
+  xy: 62, 12
+  size: 69, 43
+  orig: 98, 115
+  offset: 1, 71
+  index: -1
+sg/sg_00002
+  rotate: false
+  xy: 331, 216
+  size: 71, 58
+  orig: 98, 115
+  offset: 1, 56
+  index: -1
+sg/sg_00004
+  rotate: false
+  xy: 257, 200
+  size: 72, 74
+  orig: 98, 115
+  offset: 1, 40
+  index: -1
+sg/sg_00006
+  rotate: false
+  xy: 104, 86
+  size: 79, 92
+  orig: 98, 115
+  offset: 3, 21
+  index: -1
+sg/sg_00008
+  rotate: true
+  xy: 133, 5
+  size: 79, 92
+  orig: 98, 115
+  offset: 15, 4
+  index: -1
+sg/sg_00009
+  rotate: false
+  xy: 227, 5
+  size: 75, 84
+  orig: 98, 115
+  offset: 21, 3
+  index: -1
+sg/sg_00010
+  rotate: false
+  xy: 331, 141
+  size: 69, 73
+  orig: 98, 115
+  offset: 27, 3
+  index: -1
+sg/sg_00012
+  rotate: true
+  xy: 272, 138
+  size: 60, 54
+  orig: 98, 115
+  offset: 36, 3
+  index: -1
+sg/sg_00014
+  rotate: false
+  xy: 295, 98
+  size: 59, 38
+  orig: 98, 115
+  offset: 37, 3
+  index: -1
+shalou_0_Mask
+  rotate: true
+  xy: 197, 191
+  size: 83, 58
+  orig: 84, 60
+  offset: 0, 1
+  index: -1
+shalou_1
+  rotate: false
+  xy: 2, 159
+  size: 98, 115
+  orig: 98, 115
+  offset: 0, 0
+  index: -1
+shalou_2
+  rotate: true
+  xy: 272, 93
+  size: 43, 21
+  orig: 45, 23
+  offset: 1, 1
+  index: -1
+shalou_3
+  rotate: false
+  xy: 34, 3
+  size: 26, 52
+  orig: 28, 54
+  offset: 1, 1
+  index: -1
+shalou_4
+  rotate: false
+  xy: 2, 2
+  size: 30, 53
+  orig: 32, 55
+  offset: 1, 1
+  index: -1
+shalou_5
+  rotate: true
+  xy: 102, 180
+  size: 94, 93
+  orig: 96, 95
+  offset: 1, 1
+  index: -1
+sheguang_00000
+  rotate: false
+  xy: 2, 57
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 304, 33
+  size: 61, 63
+  orig: 61, 63
+  offset: 0, 0
+  index: -1

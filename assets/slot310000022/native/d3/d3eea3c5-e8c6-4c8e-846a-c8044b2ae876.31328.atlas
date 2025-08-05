@@ -1,0 +1,111 @@
+
+398_anniu.png
+size: 64,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/anniu/dansg_00000
+  rotate: false
+  xy: 40, 104
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/anniu/dansg_00001
+  rotate: false
+  xy: 50, 31
+  size: 8, 13
+  orig: 58, 21
+  offset: 4, 1
+  index: -1
+images/anniu/dansg_00002
+  rotate: false
+  xy: 34, 24
+  size: 14, 18
+  orig: 58, 21
+  offset: 4, 1
+  index: -1
+images/anniu/dansg_00003
+  rotate: false
+  xy: 27, 2
+  size: 18, 19
+  orig: 58, 21
+  offset: 4, 1
+  index: -1
+images/anniu/dansg_00004
+  rotate: false
+  xy: 2, 2
+  size: 23, 19
+  orig: 58, 21
+  offset: 4, 1
+  index: -1
+images/anniu/dansg_00005
+  rotate: false
+  xy: 2, 44
+  size: 30, 19
+  orig: 58, 21
+  offset: 4, 1
+  index: -1
+images/anniu/dansg_00006
+  rotate: false
+  xy: 2, 86
+  size: 36, 19
+  orig: 58, 21
+  offset: 6, 1
+  index: -1
+images/anniu/dansg_00007
+  rotate: false
+  xy: 2, 107
+  size: 39, 19
+  orig: 58, 21
+  offset: 9, 1
+  index: -1
+images/anniu/dansg_00008
+  rotate: true
+  xy: 43, 87
+  size: 39, 19
+  orig: 58, 21
+  offset: 14, 1
+  index: -1
+images/anniu/dansg_00009
+  rotate: false
+  xy: 2, 65
+  size: 36, 19
+  orig: 58, 21
+  offset: 18, 1
+  index: -1
+images/anniu/dansg_00010
+  rotate: false
+  xy: 2, 23
+  size: 30, 19
+  orig: 58, 21
+  offset: 24, 1
+  index: -1
+images/anniu/dansg_00011
+  rotate: false
+  xy: 40, 66
+  size: 22, 19
+  orig: 58, 21
+  offset: 32, 1
+  index: -1
+images/anniu/dansg_00012
+  rotate: false
+  xy: 34, 44
+  size: 14, 19
+  orig: 58, 21
+  offset: 40, 1
+  index: -1
+images/anniu/dansg_00013
+  rotate: false
+  xy: 50, 46
+  size: 10, 18
+  orig: 58, 21
+  offset: 44, 1
+  index: -1
+images/anniu/dansg_00014
+  rotate: false
+  xy: 40, 101
+  size: 1, 1
+  orig: 58, 21
+  offset: 52, 11
+  index: -1

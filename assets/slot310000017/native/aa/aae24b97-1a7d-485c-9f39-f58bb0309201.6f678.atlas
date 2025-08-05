@@ -1,0 +1,118 @@
+
+eff_beicheng.png
+size: 240,740
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4
+  rotate: true
+  xy: 120, 2
+  size: 115, 116
+  orig: 131, 131
+  offset: 8, 7
+  index: -1
+images/2
+  rotate: false
+  xy: 132, 347
+  size: 103, 110
+  orig: 130, 130
+  offset: 11, 15
+  index: -1
+images/3
+  rotate: false
+  xy: 132, 245
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+images/Flare_Single_Yellow
+  rotate: false
+  xy: 2, 334
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/倍数出现特效/beishu_lizi_00000
+  rotate: false
+  xy: 235, 638
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/倍数出现特效/beishu_lizi_00001
+  rotate: true
+  xy: 68, 23
+  size: 19, 20
+  orig: 720, 1545
+  offset: 350, 760
+  index: -1
+images/倍数出现特效/beishu_lizi_00002
+  rotate: true
+  xy: 68, 44
+  size: 40, 43
+  orig: 720, 1545
+  offset: 341, 746
+  index: -1
+images/倍数出现特效/beishu_lizi_00003
+  rotate: true
+  xy: 2, 28
+  size: 56, 64
+  orig: 720, 1545
+  offset: 332, 738
+  index: -1
+images/倍数出现特效/beishu_lizi_00004
+  rotate: true
+  xy: 155, 570
+  size: 69, 78
+  orig: 720, 1545
+  offset: 327, 731
+  index: -1
+images/倍数出现特效/beishu_lizi_00005
+  rotate: false
+  xy: 155, 641
+  size: 81, 94
+  orig: 720, 1545
+  offset: 321, 722
+  index: -1
+images/倍数出现特效/beishu_lizi_00006
+  rotate: false
+  xy: 141, 459
+  size: 94, 109
+  orig: 720, 1545
+  offset: 314, 714
+  index: -1
+images/倍数出现特效/beishu_lizi_00007
+  rotate: false
+  xy: 125, 119
+  size: 108, 124
+  orig: 720, 1545
+  offset: 306, 706
+  index: -1
+images/倍数出现特效/beishu_lizi_00008
+  rotate: false
+  xy: 2, 212
+  size: 121, 120
+  orig: 720, 1545
+  offset: 299, 717
+  index: -1
+images/倍数出现特效/beishu_lizi_00009
+  rotate: true
+  xy: 2, 86
+  size: 124, 116
+  orig: 720, 1545
+  offset: 302, 724
+  index: -1
+images/倍数出现特效/beishu_lizi_00010
+  rotate: false
+  xy: 2, 464
+  size: 137, 128
+  orig: 720, 1545
+  offset: 296, 719
+  index: -1
+images/倍数出现特效/beishu_lizi_00011
+  rotate: false
+  xy: 2, 594
+  size: 151, 141
+  orig: 720, 1545
+  offset: 289, 714
+  index: -1

@@ -1,0 +1,237 @@
+
+Scatter_G.png
+size: 1560,356
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Scatter_G
+  rotate: false
+  xy: 2, 128
+  size: 221, 225
+  orig: 221, 225
+  offset: 0, 0
+  index: -1
+Scatter_G02
+  rotate: false
+  xy: 689, 191
+  size: 158, 162
+  orig: 180, 180
+  offset: 13, 8
+  index: -1
+Scatter_G3
+  rotate: false
+  xy: 362, 3
+  size: 133, 128
+  orig: 135, 138
+  offset: 1, 5
+  index: -1
+jpg/Light_04
+  rotate: false
+  xy: 497, 3
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+jpg/Scatter_G_10
+  rotate: false
+  xy: 590, 185
+  size: 97, 168
+  orig: 97, 168
+  offset: 0, 0
+  index: -1
+jpg/Scatter_G_ExplosionSmoke01_06
+  rotate: false
+  xy: 627, 21
+  size: 162, 162
+  orig: 162, 162
+  offset: 0, 0
+  index: -1
+jpg/Scatter_G_FX_Sparkles_03
+  rotate: false
+  xy: 2, 2
+  size: 138, 124
+  orig: 178, 135
+  offset: 23, 7
+  index: -1
+jpg/Scatter_G_PizzaHot_Smoke_0
+  rotate: false
+  xy: 1102, 7
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+jpg/Scatter_G_PizzaHot_Smoke_1
+  rotate: false
+  xy: 1204, 7
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+jpg/Scatter_G_PizzaHot_Smoke_2
+  rotate: false
+  xy: 1306, 7
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+jpg/Scatter_G_PizzaHot_Smoke_3
+  rotate: false
+  xy: 1346, 142
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+jpg/Scatter_G_PizzaHot_Smoke_4
+  rotate: false
+  xy: 1354, 253
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+jpg/Scatter_G_PizzaHot_Smoke_5
+  rotate: false
+  xy: 1456, 253
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+jpg/Scatter_G_PizzaHot_Smoke_6
+  rotate: false
+  xy: 1448, 151
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+jpg/Scatter_G_PizzaHot_Smoke_7
+  rotate: false
+  xy: 1448, 49
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+jpg/Scatter_G_TX_xz_0007
+  rotate: true
+  xy: 142, 4
+  size: 122, 117
+  orig: 122, 117
+  offset: 0, 0
+  index: -1
+jpg/Scatter_G_atk_dao_guang0009
+  rotate: true
+  xy: 942, 9
+  size: 76, 95
+  orig: 76, 98
+  offset: 0, 1
+  index: -1
+jpg/Scatter_G_atk_dao_guang0011
+  rotate: true
+  xy: 1039, 12
+  size: 73, 61
+  orig: 74, 64
+  offset: 1, 0
+  index: -1
+jpg/Scatter_G_f04
+  rotate: true
+  xy: 261, 5
+  size: 121, 99
+  orig: 121, 99
+  offset: 0, 0
+  index: -1
+jpg/Scatter_G_f05
+  rotate: true
+  xy: 942, 87
+  size: 121, 99
+  orig: 121, 99
+  offset: 0, 0
+  index: -1
+jpg/Scatter_G_f06
+  rotate: true
+  xy: 988, 232
+  size: 121, 99
+  orig: 121, 99
+  offset: 0, 0
+  index: -1
+jpg/Scatter_G_f07
+  rotate: true
+  xy: 1043, 109
+  size: 121, 99
+  orig: 121, 99
+  offset: 0, 0
+  index: -1
+jpg/Scatter_G_f08
+  rotate: true
+  xy: 1089, 232
+  size: 121, 99
+  orig: 121, 99
+  offset: 0, 0
+  index: -1
+jpg/Scatter_G_f09
+  rotate: true
+  xy: 1144, 109
+  size: 121, 99
+  orig: 121, 99
+  offset: 0, 0
+  index: -1
+jpg/Scatter_G_f10
+  rotate: true
+  xy: 1190, 232
+  size: 121, 99
+  orig: 121, 99
+  offset: 0, 0
+  index: -1
+jpg/Scatter_G_f11
+  rotate: true
+  xy: 1245, 109
+  size: 121, 99
+  orig: 121, 99
+  offset: 0, 0
+  index: -1
+png/Coin360
+  rotate: false
+  xy: 565, 155
+  size: 23, 198
+  orig: 23, 198
+  offset: 0, 0
+  index: -1
+png/Coin3602
+  rotate: false
+  xy: 590, 142
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+png/Scatter_G
+  rotate: false
+  xy: 343, 133
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+png/Scatter_G_Base
+  rotate: true
+  xy: 849, 210
+  size: 143, 137
+  orig: 153, 153
+  offset: 6, 13
+  index: -1
+png/Scatter_G_Idle
+  rotate: false
+  xy: 791, 38
+  size: 149, 151
+  orig: 180, 180
+  offset: 20, 23
+  index: -1
+png/_Txt_AwardAll
+  rotate: true
+  xy: 225, 128
+  size: 225, 116
+  orig: 225, 116
+  offset: 0, 0
+  index: -1
+png/_Txt_KOI
+  rotate: true
+  xy: 1291, 244
+  size: 109, 61
+  orig: 119, 75
+  offset: 5, 10
+  index: -1

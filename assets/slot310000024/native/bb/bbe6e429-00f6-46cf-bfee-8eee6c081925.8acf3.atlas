@@ -1,0 +1,118 @@
+
+eff_icon_kuang_2.png
+size: 1096,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qwe_00000
+  rotate: true
+  xy: 959, 67
+  size: 67, 62
+  orig: 67, 62
+  offset: 0, 0
+  index: -1
+yfk/yfk_0
+  rotate: false
+  xy: 278, 138
+  size: 135, 134
+  orig: 186, 170
+  offset: 25, 20
+  index: -1
+yfk/yfk_1
+  rotate: false
+  xy: 2, 3
+  size: 135, 133
+  orig: 186, 170
+  offset: 25, 21
+  index: -1
+yfk/yfk_10
+  rotate: true
+  xy: 413, 4
+  size: 132, 136
+  orig: 186, 170
+  offset: 27, 19
+  index: -1
+yfk/yfk_11
+  rotate: true
+  xy: 551, 4
+  size: 132, 136
+  orig: 186, 170
+  offset: 26, 19
+  index: -1
+yfk/yfk_12
+  rotate: false
+  xy: 958, 136
+  size: 133, 136
+  orig: 186, 170
+  offset: 26, 19
+  index: -1
+yfk/yfk_13
+  rotate: false
+  xy: 551, 138
+  size: 134, 134
+  orig: 186, 170
+  offset: 26, 20
+  index: -1
+yfk/yfk_14
+  rotate: false
+  xy: 687, 138
+  size: 134, 134
+  orig: 186, 170
+  offset: 26, 20
+  index: -1
+yfk/yfk_2
+  rotate: true
+  xy: 689, 2
+  size: 134, 132
+  orig: 186, 170
+  offset: 26, 21
+  index: -1
+yfk/yfk_3
+  rotate: false
+  xy: 823, 3
+  size: 134, 131
+  orig: 186, 170
+  offset: 26, 22
+  index: -1
+yfk/yfk_4
+  rotate: false
+  xy: 139, 3
+  size: 134, 133
+  orig: 186, 170
+  offset: 26, 21
+  index: -1
+yfk/yfk_5
+  rotate: false
+  xy: 415, 138
+  size: 134, 134
+  orig: 186, 170
+  offset: 26, 20
+  index: -1
+yfk/yfk_6
+  rotate: true
+  xy: 2, 138
+  size: 134, 136
+  orig: 186, 170
+  offset: 26, 19
+  index: -1
+yfk/yfk_7
+  rotate: true
+  xy: 140, 138
+  size: 134, 136
+  orig: 186, 170
+  offset: 26, 19
+  index: -1
+yfk/yfk_8
+  rotate: false
+  xy: 823, 136
+  size: 133, 136
+  orig: 186, 170
+  offset: 26, 19
+  index: -1
+yfk/yfk_9
+  rotate: true
+  xy: 275, 4
+  size: 132, 136
+  orig: 186, 170
+  offset: 27, 19
+  index: -1

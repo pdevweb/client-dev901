@@ -1,0 +1,181 @@
+
+eff_icon_13.png
+size: 420,420
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dlyan_01
+  rotate: true
+  xy: 392, 193
+  size: 54, 23
+  orig: 94, 40
+  offset: 24, 8
+  index: -1
+dlyan_02
+  rotate: true
+  xy: 283, 50
+  size: 81, 34
+  orig: 94, 40
+  offset: 9, 3
+  index: -1
+dlyan_03
+  rotate: false
+  xy: 2, 16
+  size: 88, 35
+  orig: 94, 40
+  offset: 5, 3
+  index: -1
+dlyan_04
+  rotate: false
+  xy: 145, 301
+  size: 91, 35
+  orig: 94, 40
+  offset: 3, 3
+  index: -1
+dlyan_05
+  rotate: false
+  xy: 92, 14
+  size: 90, 32
+  orig: 94, 40
+  offset: 3, 5
+  index: -1
+dlyan_06
+  rotate: true
+  xy: 319, 43
+  size: 88, 32
+  orig: 94, 40
+  offset: 5, 5
+  index: -1
+dlyan_07
+  rotate: true
+  xy: 359, 160
+  size: 87, 31
+  orig: 94, 40
+  offset: 5, 6
+  index: -1
+dlyan_08
+  rotate: true
+  xy: 353, 44
+  size: 87, 28
+  orig: 94, 40
+  offset: 5, 8
+  index: -1
+dlyan_09
+  rotate: false
+  xy: 254, 222
+  size: 76, 26
+  orig: 94, 40
+  offset: 14, 11
+  index: -1
+fg_00
+  rotate: false
+  xy: 98, 126
+  size: 87, 76
+  orig: 94, 80
+  offset: 7, 4
+  index: -1
+fg_01
+  rotate: true
+  xy: 337, 327
+  size: 90, 80
+  orig: 94, 80
+  offset: 4, 0
+  index: -1
+fg_02
+  rotate: false
+  xy: 2, 53
+  size: 92, 80
+  orig: 94, 80
+  offset: 2, 0
+  index: -1
+fg_03
+  rotate: false
+  xy: 2, 216
+  size: 94, 80
+  orig: 94, 80
+  offset: 0, 0
+  index: -1
+fg_04
+  rotate: false
+  xy: 145, 338
+  size: 94, 79
+  orig: 94, 80
+  offset: 0, 1
+  index: -1
+fg_05
+  rotate: false
+  xy: 2, 135
+  size: 94, 79
+  orig: 94, 80
+  offset: 0, 1
+  index: -1
+fg_06
+  rotate: false
+  xy: 241, 341
+  size: 94, 76
+  orig: 94, 80
+  offset: 0, 4
+  index: -1
+fg_07
+  rotate: true
+  xy: 98, 204
+  size: 92, 76
+  orig: 94, 80
+  offset: 2, 4
+  index: -1
+fg_08
+  rotate: false
+  xy: 96, 48
+  size: 92, 76
+  orig: 94, 80
+  offset: 2, 4
+  index: -1
+fg_09
+  rotate: true
+  xy: 176, 207
+  size: 92, 76
+  orig: 94, 80
+  offset: 2, 4
+  index: -1
+fg_10
+  rotate: false
+  xy: 187, 129
+  size: 92, 76
+  orig: 94, 80
+  offset: 2, 4
+  index: -1
+fg_11
+  rotate: false
+  xy: 190, 51
+  size: 91, 76
+  orig: 94, 80
+  offset: 3, 4
+  index: -1
+fg_12
+  rotate: true
+  xy: 254, 250
+  size: 89, 76
+  orig: 94, 80
+  offset: 5, 4
+  index: -1
+fg_13
+  rotate: true
+  xy: 281, 133
+  size: 87, 76
+  orig: 94, 80
+  offset: 7, 4
+  index: -1
+fg_14
+  rotate: false
+  xy: 332, 249
+  size: 85, 76
+  orig: 94, 80
+  offset: 9, 4
+  index: -1
+xz
+  rotate: false
+  xy: 2, 298
+  size: 141, 119
+  orig: 141, 119
+  offset: 0, 0
+  index: -1

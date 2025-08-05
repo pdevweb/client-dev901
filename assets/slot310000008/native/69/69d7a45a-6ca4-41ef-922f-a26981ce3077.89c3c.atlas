@@ -1,0 +1,41 @@
+
+map_zuobiao.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jg
+  rotate: true
+  xy: 138, 57
+  size: 74, 57
+  orig: 74, 57
+  offset: 0, 0
+  index: -1
+lg
+  rotate: true
+  xy: 2, 90
+  size: 117, 116
+  orig: 117, 116
+  offset: 0, 0
+  index: -1
+xm_475
+  rotate: false
+  xy: 2, 2
+  size: 85, 86
+  orig: 90, 90
+  offset: 1, 2
+  index: -1
+yh1
+  rotate: false
+  xy: 120, 133
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+zb
+  rotate: true
+  xy: 89, 7
+  size: 81, 47
+  orig: 81, 47
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+freejp_yuanquan.png
+size: 146,525
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diguang
+  rotate: true
+  xy: 2, 36
+  size: 487, 49
+  orig: 490, 95
+  offset: 1, 20
+  index: -1
+gx
+  rotate: true
+  xy: 53, 395
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+xg
+  rotate: false
+  xy: 53, 303
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+xl_01
+  rotate: true
+  xy: 119, 466
+  size: 21, 25
+  orig: 100, 33
+  offset: 79, 6
+  index: -1
+xl_02
+  rotate: true
+  xy: 117, 122
+  size: 28, 27
+  orig: 100, 33
+  offset: 72, 6
+  index: -1
+xl_03
+  rotate: true
+  xy: 117, 152
+  size: 35, 27
+  orig: 100, 33
+  offset: 65, 6
+  index: -1
+xl_04
+  rotate: true
+  xy: 95, 25
+  size: 41, 33
+  orig: 100, 33
+  offset: 59, 0
+  index: -1
+xl_05
+  rotate: true
+  xy: 60, 7
+  size: 47, 33
+  orig: 100, 33
+  offset: 53, 0
+  index: -1
+xl_06
+  rotate: false
+  xy: 53, 166
+  size: 51, 31
+  orig: 100, 33
+  offset: 48, 0
+  index: -1
+xl_07
+  rotate: true
+  xy: 113, 189
+  size: 56, 31
+  orig: 100, 33
+  offset: 43, 0
+  index: -1
+xl_08
+  rotate: false
+  xy: 53, 268
+  size: 60, 33
+  orig: 100, 33
+  offset: 38, 0
+  index: -1
+xl_09
+  rotate: false
+  xy: 53, 233
+  size: 58, 33
+  orig: 100, 33
+  offset: 33, 0
+  index: -1
+xl_10
+  rotate: false
+  xy: 2, 2
+  size: 56, 32
+  orig: 100, 33
+  offset: 28, 1
+  index: -1
+xl_11
+  rotate: false
+  xy: 53, 199
+  size: 55, 32
+  orig: 100, 33
+  offset: 23, 0
+  index: -1
+xl_12
+  rotate: true
+  xy: 115, 247
+  size: 54, 29
+  orig: 100, 33
+  offset: 17, 0
+  index: -1
+xl_13
+  rotate: true
+  xy: 53, 56
+  size: 53, 28
+  orig: 100, 33
+  offset: 11, 0
+  index: -1
+xl_14
+  rotate: true
+  xy: 53, 111
+  size: 53, 29
+  orig: 100, 33
+  offset: 5, 0
+  index: -1
+xl_15
+  rotate: true
+  xy: 84, 113
+  size: 51, 31
+  orig: 100, 33
+  offset: 0, 0
+  index: -1
+xl_16
+  rotate: true
+  xy: 84, 68
+  size: 43, 31
+  orig: 100, 33
+  offset: 1, 0
+  index: -1
+xl_17
+  rotate: true
+  xy: 119, 489
+  size: 34, 25
+  orig: 100, 33
+  offset: 2, 4
+  index: -1
+xl_18
+  rotate: false
+  xy: 117, 96
+  size: 27, 24
+  orig: 100, 33
+  offset: 3, 4
+  index: -1
+xl_19
+  rotate: true
+  xy: 95, 2
+  size: 21, 19
+  orig: 100, 33
+  offset: 5, 6
+  index: -1

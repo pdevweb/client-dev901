@@ -1,0 +1,174 @@
+
+239_wheel_huo.png
+size: 1572,536
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangtiao_002
+  rotate: false
+  xy: 1076, 3
+  size: 95, 32
+  orig: 98, 32
+  offset: 2, 0
+  index: -1
+huo2/huo2_000
+  rotate: true
+  xy: 1353, 7
+  size: 44, 53
+  orig: 416, 614
+  offset: 89, 122
+  index: -1
+huo2/huo2_001
+  rotate: true
+  xy: 1266, 482
+  size: 52, 79
+  orig: 416, 614
+  offset: 82, 109
+  index: -1
+huo2/huo2_002
+  rotate: false
+  xy: 1429, 24
+  size: 60, 92
+  orig: 416, 614
+  offset: 76, 101
+  index: -1
+huo2/huo2_003
+  rotate: false
+  xy: 441, 16
+  size: 67, 104
+  orig: 416, 614
+  offset: 70, 101
+  index: -1
+huo2/huo2_004
+  rotate: false
+  xy: 191, 5
+  size: 72, 112
+  orig: 416, 614
+  offset: 67, 102
+  index: -1
+huo2/huo2_005
+  rotate: false
+  xy: 1353, 53
+  size: 74, 120
+  orig: 416, 614
+  offset: 66, 101
+  index: -1
+huo2/huo2_006
+  rotate: false
+  xy: 1266, 355
+  size: 76, 125
+  orig: 416, 614
+  offset: 66, 102
+  index: -1
+huo2/huo2_008
+  rotate: false
+  xy: 991, 24
+  size: 83, 140
+  orig: 416, 614
+  offset: 62, 102
+  index: -1
+huo2/huo2_010
+  rotate: true
+  xy: 510, 23
+  size: 97, 161
+  orig: 416, 614
+  offset: 60, 103
+  index: -1
+huo2/huo2_012
+  rotate: true
+  xy: 265, 8
+  size: 109, 174
+  orig: 416, 614
+  offset: 58, 104
+  index: -1
+huo2/huo2_014
+  rotate: true
+  xy: 2, 2
+  size: 115, 187
+  orig: 416, 614
+  offset: 59, 105
+  index: -1
+huo2/huo2_016
+  rotate: false
+  xy: 1446, 118
+  size: 124, 236
+  orig: 416, 614
+  offset: 60, 104
+  index: -1
+huo2/huo2_018
+  rotate: true
+  xy: 1076, 37
+  size: 127, 275
+  orig: 416, 614
+  offset: 59, 105
+  index: -1
+huo2/huo2_020
+  rotate: true
+  xy: 673, 4
+  size: 127, 316
+  orig: 416, 614
+  offset: 59, 102
+  index: -1
+huo2/huo2_022
+  rotate: false
+  xy: 958, 166
+  size: 131, 368
+  orig: 416, 614
+  offset: 58, 103
+  index: -1
+huo2/huo2_024
+  rotate: false
+  xy: 826, 133
+  size: 130, 401
+  orig: 416, 614
+  offset: 58, 105
+  index: -1
+huo2/huo2_026
+  rotate: false
+  xy: 203, 119
+  size: 167, 415
+  orig: 416, 614
+  offset: 57, 107
+  index: -1
+huo2/huo2_028
+  rotate: false
+  xy: 2, 119
+  size: 199, 415
+  orig: 416, 614
+  offset: 59, 111
+  index: -1
+huo2/huo2_030
+  rotate: false
+  xy: 372, 122
+  size: 232, 412
+  orig: 416, 614
+  offset: 60, 114
+  index: -1
+huo2/huo2_032
+  rotate: false
+  xy: 606, 133
+  size: 218, 401
+  orig: 416, 614
+  offset: 66, 119
+  index: -1
+huo2/huo2_034
+  rotate: false
+  xy: 1091, 171
+  size: 173, 363
+  orig: 416, 614
+  offset: 90, 130
+  index: -1
+lizi_0007
+  rotate: false
+  xy: 1266, 175
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+suo2_xiaohuatcimage
+  rotate: false
+  xy: 1353, 356
+  size: 205, 178
+  orig: 205, 205
+  offset: 0, 10
+  index: -1

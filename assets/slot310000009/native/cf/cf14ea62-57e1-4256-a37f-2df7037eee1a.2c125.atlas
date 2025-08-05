@@ -1,0 +1,272 @@
+
+eff_lastgame.png
+size: 828,828
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gd
+  rotate: false
+  xy: 708, 289
+  size: 27, 44
+  orig: 50, 50
+  offset: 11, 2
+  index: -1
+lastgame
+  rotate: false
+  xy: 2, 709
+  size: 426, 50
+  orig: 427, 52
+  offset: 1, 1
+  index: -1
+lastgame_2
+  rotate: true
+  xy: 697, 139
+  size: 108, 30
+  orig: 108, 30
+  offset: 0, 0
+  index: -1
+lastgamenum_1
+  rotate: false
+  xy: 729, 140
+  size: 18, 30
+  orig: 21, 31
+  offset: 1, 1
+  index: -1
+lastgamenum_2
+  rotate: true
+  xy: 352, 687
+  size: 20, 30
+  orig: 21, 31
+  offset: 1, 1
+  index: -1
+lastgamenum_3
+  rotate: false
+  xy: 652, 27
+  size: 19, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+lz_z/lz_00001
+  rotate: false
+  xy: 412, 249
+  size: 300, 16
+  orig: 444, 110
+  offset: 49, 2
+  index: -1
+lz_z/lz_00002
+  rotate: false
+  xy: 350, 14
+  size: 300, 19
+  orig: 444, 110
+  offset: 49, 1
+  index: -1
+lz_z/lz_00003
+  rotate: false
+  xy: 350, 35
+  size: 300, 23
+  orig: 444, 110
+  offset: 49, 0
+  index: -1
+lz_z/lz_00004
+  rotate: true
+  xy: 798, 172
+  size: 326, 25
+  orig: 444, 110
+  offset: 50, 1
+  index: -1
+lz_z/lz_00005
+  rotate: true
+  xy: 798, 500
+  size: 326, 27
+  orig: 444, 110
+  offset: 50, 2
+  index: -1
+lz_z/lz_00006
+  rotate: false
+  xy: 350, 93
+  size: 342, 31
+  orig: 444, 110
+  offset: 50, 0
+  index: -1
+lz_z/lz_00007
+  rotate: false
+  xy: 350, 60
+  size: 342, 31
+  orig: 444, 110
+  offset: 50, 3
+  index: -1
+lz_z/lz_00008
+  rotate: false
+  xy: 351, 126
+  size: 343, 36
+  orig: 444, 110
+  offset: 49, 1
+  index: -1
+lz_z/lz_00009
+  rotate: true
+  xy: 758, 336
+  size: 344, 38
+  orig: 444, 110
+  offset: 49, 2
+  index: -1
+lz_z/lz_00010
+  rotate: false
+  xy: 351, 164
+  size: 344, 39
+  orig: 444, 110
+  offset: 49, 4
+  index: -1
+lz_z/lz_00011
+  rotate: false
+  xy: 351, 205
+  size: 344, 42
+  orig: 444, 110
+  offset: 49, 3
+  index: -1
+lz_z/lz_00012
+  rotate: true
+  xy: 658, 268
+  size: 345, 48
+  orig: 444, 110
+  offset: 49, 0
+  index: -1
+lz_z/lz_00013
+  rotate: true
+  xy: 708, 335
+  size: 345, 48
+  orig: 444, 110
+  offset: 49, 3
+  index: -1
+lz_z/lz_00014
+  rotate: true
+  xy: 604, 268
+  size: 345, 52
+  orig: 444, 110
+  offset: 49, 2
+  index: -1
+lz_z/lz_00015
+  rotate: true
+  xy: 549, 268
+  size: 345, 53
+  orig: 444, 110
+  offset: 49, 4
+  index: -1
+lz_z/lz_00016
+  rotate: true
+  xy: 351, 263
+  size: 346, 59
+  orig: 444, 110
+  offset: 49, 1
+  index: -1
+lz_z/lz_00017
+  rotate: true
+  xy: 484, 267
+  size: 346, 63
+  orig: 444, 110
+  offset: 49, 1
+  index: -1
+lz_z/lz_00018
+  rotate: false
+  xy: 352, 615
+  size: 346, 65
+  orig: 444, 110
+  offset: 49, 2
+  index: -1
+lz_z/lz_00019
+  rotate: true
+  xy: 412, 267
+  size: 346, 70
+  orig: 444, 110
+  offset: 49, 0
+  index: -1
+lz_z/lz_00020
+  rotate: false
+  xy: 443, 755
+  size: 347, 71
+  orig: 444, 110
+  offset: 49, 2
+  index: -1
+lz_z/lz_00021
+  rotate: false
+  xy: 430, 682
+  size: 347, 71
+  orig: 444, 110
+  offset: 49, 5
+  index: -1
+lz_z/lz_00022
+  rotate: false
+  xy: 2, 2
+  size: 346, 73
+  orig: 444, 110
+  offset: 50, 5
+  index: -1
+lz_z/lz_00023
+  rotate: false
+  xy: 2, 77
+  size: 346, 80
+  orig: 444, 110
+  offset: 50, 1
+  index: -1
+lz_z/lz_00024
+  rotate: false
+  xy: 2, 159
+  size: 347, 82
+  orig: 444, 110
+  offset: 50, 3
+  index: -1
+lz_z/lz_00025
+  rotate: false
+  xy: 2, 243
+  size: 347, 85
+  orig: 444, 110
+  offset: 50, 3
+  index: -1
+lz_z/lz_00026
+  rotate: false
+  xy: 2, 330
+  size: 347, 86
+  orig: 444, 110
+  offset: 50, 5
+  index: -1
+lz_z/lz_00027
+  rotate: false
+  xy: 2, 418
+  size: 347, 94
+  orig: 444, 110
+  offset: 50, 0
+  index: -1
+lz_z/lz_00028
+  rotate: false
+  xy: 2, 514
+  size: 347, 95
+  orig: 444, 110
+  offset: 50, 2
+  index: -1
+lz_z/lz_00029
+  rotate: false
+  xy: 2, 611
+  size: 348, 96
+  orig: 444, 110
+  offset: 50, 5
+  index: -1
+mf_diban01
+  rotate: true
+  xy: 760, 230
+  size: 104, 30
+  orig: 106, 30
+  offset: 1, 0
+  index: -1
+mf_diban02
+  rotate: true
+  xy: 729, 172
+  size: 115, 29
+  orig: 115, 29
+  offset: 0, 0
+  index: -1
+waikuang_glow
+  rotate: false
+  xy: 2, 761
+  size: 439, 65
+  orig: 450, 70
+  offset: 6, 4
+  index: -1

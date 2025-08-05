@@ -1,0 +1,118 @@
+
+eff_firework.png
+size: 616,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+111/kuang_01
+  rotate: false
+  xy: 75, 7
+  size: 96, 18
+  orig: 858, 482
+  offset: 400, 159
+  index: -1
+111/kuang_02
+  rotate: true
+  xy: 559, 64
+  size: 161, 38
+  orig: 858, 482
+  offset: 373, 159
+  index: -1
+111/kuang_03
+  rotate: false
+  xy: 395, 464
+  size: 207, 58
+  orig: 858, 482
+  offset: 354, 159
+  index: -1
+111/kuang_04
+  rotate: true
+  xy: 2, 2
+  size: 241, 71
+  orig: 858, 482
+  offset: 340, 159
+  index: -1
+111/kuang_05
+  rotate: true
+  xy: 230, 259
+  size: 263, 79
+  orig: 858, 482
+  offset: 329, 159
+  index: -1
+111/kuang_06
+  rotate: true
+  xy: 83, 250
+  size: 272, 82
+  orig: 858, 482
+  offset: 320, 159
+  index: -1
+111/kuang_07
+  rotate: true
+  xy: 311, 261
+  size: 261, 82
+  orig: 858, 482
+  offset: 343, 159
+  index: -1
+111/kuang_08
+  rotate: true
+  xy: 2, 245
+  size: 277, 79
+  orig: 858, 482
+  offset: 337, 159
+  index: -1
+111/kuang_09
+  rotate: true
+  xy: 167, 256
+  size: 266, 61
+  orig: 858, 482
+  offset: 355, 159
+  index: -1
+111/kuang_10
+  rotate: true
+  xy: 465, 22
+  size: 203, 54
+  orig: 858, 482
+  offset: 352, 159
+  index: -1
+111/kuang_11
+  rotate: true
+  xy: 395, 271
+  size: 191, 46
+  orig: 858, 482
+  offset: 366, 159
+  index: -1
+111/kuang_12
+  rotate: true
+  xy: 521, 34
+  size: 191, 36
+  orig: 858, 482
+  offset: 365, 159
+  index: -1
+bd_8
+  rotate: false
+  xy: 465, 227
+  size: 137, 67
+  orig: 137, 67
+  offset: 0, 0
+  index: -1
+effect/yhd
+  rotate: false
+  xy: 75, 27
+  size: 249, 216
+  orig: 249, 216
+  offset: 0, 0
+  index: -1
+light_00000
+  rotate: true
+  xy: 326, 4
+  size: 255, 137
+  orig: 268, 268
+  offset: 13, 131
+  index: -1
+xh1/xh_00014
+  rotate: true
+  xy: 443, 296
+  size: 166, 169
+  orig: 172, 170
+  offset: 0, 0
+  index: -1

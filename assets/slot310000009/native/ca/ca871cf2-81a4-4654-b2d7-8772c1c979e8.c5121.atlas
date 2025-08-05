@@ -1,0 +1,286 @@
+
+eff_bg_gundong.png
+size: 1684,1312
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinbi1_00000
+  rotate: false
+  xy: 2, 707
+  size: 575, 600
+  orig: 575, 600
+  offset: 0, 0
+  index: -1
+jinbi2_00000
+  rotate: false
+  xy: 2, 110
+  size: 562, 595
+  orig: 562, 596
+  offset: 0, 0
+  index: -1
+jinchang - 副本/light1_00000
+  rotate: true
+  xy: 1446, 510
+  size: 334, 97
+  orig: 363, 102
+  offset: 24, 0
+  index: -1
+jinchang - 副本/light1_00002
+  rotate: true
+  xy: 1052, 344
+  size: 339, 98
+  orig: 363, 102
+  offset: 18, 0
+  index: -1
+jinchang - 副本/light1_00004
+  rotate: true
+  xy: 852, 338
+  size: 346, 98
+  orig: 363, 102
+  offset: 10, 0
+  index: -1
+jinchang - 副本/light1_00006
+  rotate: true
+  xy: 952, 339
+  size: 345, 98
+  orig: 363, 102
+  offset: 9, 0
+  index: -1
+jinchang - 副本/light1_00008
+  rotate: true
+  xy: 1348, 173
+  size: 327, 98
+  orig: 363, 102
+  offset: 15, 1
+  index: -1
+jinchang - 副本/light1_00010
+  rotate: true
+  xy: 1047, 25
+  size: 312, 95
+  orig: 363, 102
+  offset: 26, 4
+  index: -1
+jinchang - 副本/light1_00012
+  rotate: true
+  xy: 1144, 31
+  size: 311, 94
+  orig: 363, 102
+  offset: 26, 5
+  index: -1
+jinchang - 副本/light1_00014
+  rotate: false
+  xy: 1348, 75
+  size: 309, 94
+  orig: 363, 102
+  offset: 27, 5
+  index: -1
+jinchang - 副本/light1_00016
+  rotate: false
+  xy: 471, 15
+  size: 310, 93
+  orig: 363, 102
+  offset: 23, 5
+  index: -1
+jinchang - 副本/light1_00018
+  rotate: true
+  xy: 951, 20
+  size: 316, 94
+  orig: 363, 102
+  offset: 20, 4
+  index: -1
+jinchang - 副本/light1_00020
+  rotate: true
+  xy: 1448, 183
+  size: 325, 95
+  orig: 363, 102
+  offset: 18, 3
+  index: -1
+jinchang - 副本/light1_00022
+  rotate: true
+  xy: 1545, 508
+  size: 334, 95
+  orig: 363, 102
+  offset: 18, 2
+  index: -1
+jinchang - 副本/light1_00024
+  rotate: true
+  xy: 1250, 345
+  size: 338, 96
+  orig: 363, 102
+  offset: 17, 1
+  index: -1
+jinchang - 副本/light1_00026
+  rotate: true
+  xy: 1152, 344
+  size: 339, 96
+  orig: 363, 102
+  offset: 17, 0
+  index: -1
+jinchang - 副本/light1_00028
+  rotate: true
+  xy: 1348, 502
+  size: 338, 96
+  orig: 363, 102
+  offset: 19, 0
+  index: -1
+jinchang - 副本/light1_00030
+  rotate: true
+  xy: 1545, 171
+  size: 335, 96
+  orig: 363, 102
+  offset: 23, 0
+  index: -1
+jinchang - 副本/light1_00032
+  rotate: true
+  xy: 1250, 9
+  size: 334, 96
+  orig: 363, 102
+  offset: 24, 0
+  index: -1
+jinchang - 副本/light1_00034
+  rotate: true
+  xy: 852, 2
+  size: 334, 97
+  orig: 363, 102
+  offset: 24, 0
+  index: -1
+light
+  rotate: false
+  xy: 1129, 685
+  size: 165, 622
+  orig: 176, 630
+  offset: 6, 4
+  index: -1
+respin_vfx_p_add_00
+  rotate: false
+  xy: 759, 233
+  size: 46, 451
+  orig: 56, 467
+  offset: 0, 2
+  index: -1
+respin_vfx_p_add_01
+  rotate: false
+  xy: 566, 232
+  size: 47, 452
+  orig: 56, 467
+  offset: 0, 5
+  index: -1
+respin_vfx_p_add_02
+  rotate: true
+  xy: 2, 61
+  size: 47, 467
+  orig: 56, 467
+  offset: 0, 0
+  index: -1
+respin_vfx_p_add_03
+  rotate: false
+  xy: 1440, 846
+  size: 47, 461
+  orig: 56, 467
+  offset: 0, 4
+  index: -1
+respin_vfx_p_add_04
+  rotate: false
+  xy: 1632, 849
+  size: 47, 458
+  orig: 56, 467
+  offset: 0, 2
+  index: -1
+respin_vfx_p_add_05
+  rotate: true
+  xy: 2, 12
+  size: 47, 464
+  orig: 56, 467
+  offset: 0, 0
+  index: -1
+respin_vfx_p_add_06
+  rotate: false
+  xy: 615, 231
+  size: 46, 453
+  orig: 56, 467
+  offset: 0, 0
+  index: -1
+respin_vfx_p_add_07
+  rotate: true
+  xy: 579, 686
+  size: 45, 458
+  orig: 56, 467
+  offset: 0, 0
+  index: -1
+respin_vfx_p_add_08
+  rotate: false
+  xy: 663, 231
+  size: 45, 453
+  orig: 56, 467
+  offset: 0, 2
+  index: -1
+respin_vfx_p_add_09
+  rotate: false
+  xy: 1489, 846
+  size: 46, 461
+  orig: 56, 467
+  offset: 0, 1
+  index: -1
+respin_vfx_p_add_10
+  rotate: false
+  xy: 1393, 842
+  size: 45, 465
+  orig: 56, 467
+  offset: 0, 0
+  index: -1
+respin_vfx_p_add_11
+  rotate: false
+  xy: 807, 233
+  size: 43, 451
+  orig: 56, 467
+  offset: 0, 2
+  index: -1
+respin_vfx_p_add_12
+  rotate: false
+  xy: 1537, 846
+  size: 46, 461
+  orig: 56, 467
+  offset: 0, 0
+  index: -1
+respin_vfx_p_add_13
+  rotate: false
+  xy: 1296, 840
+  size: 46, 467
+  orig: 56, 467
+  offset: 0, 0
+  index: -1
+respin_vfx_p_add_14
+  rotate: false
+  xy: 1344, 843
+  size: 47, 464
+  orig: 56, 467
+  offset: 0, 3
+  index: -1
+respin_vfx_p_add_15
+  rotate: true
+  xy: 579, 733
+  size: 47, 467
+  orig: 56, 467
+  offset: 0, 0
+  index: -1
+respin_vfx_p_add_16
+  rotate: false
+  xy: 1585, 844
+  size: 45, 463
+  orig: 56, 467
+  offset: 0, 0
+  index: -1
+respin_vfx_p_add_17
+  rotate: false
+  xy: 710, 233
+  size: 47, 451
+  orig: 56, 467
+  offset: 0, 1
+  index: -1
+yuanbao1_00000
+  rotate: false
+  xy: 579, 782
+  size: 548, 525
+  orig: 548, 525
+  offset: 0, 0
+  index: -1

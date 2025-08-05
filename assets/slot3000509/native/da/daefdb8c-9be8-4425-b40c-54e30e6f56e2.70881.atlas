@@ -1,0 +1,27 @@
+
+eff_zmdchang.png
+size: 727,535
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangshu5
+  rotate: false
+  xy: 2, 326
+  size: 695, 207
+  orig: 695, 207
+  offset: 0, 0
+  index: -1
+hx
+  rotate: false
+  xy: 2, 2
+  size: 564, 202
+  orig: 566, 204
+  offset: 1, 1
+  index: -1
+hx2
+  rotate: false
+  xy: 2, 206
+  size: 723, 118
+  orig: 723, 118
+  offset: 0, 0
+  index: -1

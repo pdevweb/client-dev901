@@ -1,0 +1,146 @@
+
+398_shejiaochufa.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 235, 41
+  size: 178, 212
+  orig: 178, 212
+  offset: 0, 0
+  index: -1
+effect/bai
+  rotate: false
+  xy: 2, 13
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hot
+  rotate: false
+  xy: 495, 8
+  size: 150, 69
+  orig: 150, 69
+  offset: 0, 0
+  index: -1
+huotou
+  rotate: true
+  xy: 415, 79
+  size: 174, 123
+  orig: 174, 123
+  offset: 0, 0
+  index: -1
+huoxing
+  rotate: true
+  xy: 57, 32
+  size: 221, 176
+  orig: 221, 176
+  offset: 0, 0
+  index: -1
+hx01
+  rotate: true
+  xy: 235, 2
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+hx02
+  rotate: true
+  xy: 57, 3
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+hx03
+  rotate: true
+  xy: 645, 119
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+lanzi
+  rotate: true
+  xy: 2, 16
+  size: 237, 53
+  orig: 237, 53
+  offset: 0, 0
+  index: -1
+tuoweixl/tuowei_00
+  rotate: true
+  xy: 540, 92
+  size: 79, 33
+  orig: 101, 35
+  offset: 3, 0
+  index: -1
+tuoweixl/tuowei_02
+  rotate: false
+  xy: 267, 5
+  size: 79, 34
+  orig: 101, 35
+  offset: 3, 0
+  index: -1
+tuoweixl/tuowei_04
+  rotate: false
+  xy: 348, 5
+  size: 79, 34
+  orig: 101, 35
+  offset: 3, 0
+  index: -1
+tuoweixl/tuowei_06
+  rotate: false
+  xy: 415, 43
+  size: 78, 34
+  orig: 101, 35
+  offset: 4, 0
+  index: -1
+tuoweixl/tuowei_08
+  rotate: true
+  xy: 575, 174
+  size: 79, 33
+  orig: 101, 35
+  offset: 3, 0
+  index: -1
+tuoweixl/tuowei_10
+  rotate: true
+  xy: 575, 93
+  size: 79, 33
+  orig: 101, 35
+  offset: 3, 0
+  index: -1
+tuoweixl/tuowei_12
+  rotate: true
+  xy: 540, 173
+  size: 80, 33
+  orig: 101, 35
+  offset: 2, 0
+  index: -1
+tuoweixl/tuowei_14
+  rotate: true
+  xy: 610, 174
+  size: 79, 33
+  orig: 101, 35
+  offset: 3, 0
+  index: -1
+tuoweixl/tuowei_16
+  rotate: true
+  xy: 610, 93
+  size: 79, 33
+  orig: 101, 35
+  offset: 3, 0
+  index: -1
+tuoweixl/tuowei_18
+  rotate: true
+  xy: 645, 174
+  size: 79, 33
+  orig: 101, 35
+  offset: 3, 0
+  index: -1
+ziying
+  rotate: false
+  xy: 90, 9
+  size: 137, 21
+  orig: 147, 23
+  offset: 5, 1
+  index: -1

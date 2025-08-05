@@ -1,0 +1,41 @@
+
+NG_H5.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangyun
+  rotate: true
+  xy: 1107, 0
+  size: 172, 164
+  orig: 172, 172
+  offset: 0, 8
+  index: -1
+lizi
+  rotate: true
+  xy: 0, 67
+  size: 441, 429
+  orig: 441, 429
+  offset: 0, 0
+  index: -1
+sdwdi
+  rotate: true
+  xy: 769, 121
+  size: 387, 336
+  orig: 387, 336
+  offset: 0, 0
+  index: -1
+sdwkuang
+  rotate: true
+  xy: 431, 115
+  size: 393, 336
+  orig: 393, 336
+  offset: 0, 0
+  index: -1
+xuezi
+  rotate: false
+  xy: 1107, 174
+  size: 316, 334
+  orig: 316, 334
+  offset: 0, 0
+  index: -1

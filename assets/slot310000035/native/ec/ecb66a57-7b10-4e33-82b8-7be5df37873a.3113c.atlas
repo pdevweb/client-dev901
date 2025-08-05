@@ -1,0 +1,174 @@
+
+free_start.png
+size: 1804,440
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5443c29c-e3c7-4406-8f19-cfc7e7c23ae8.0c6d4_unpack/bg_spark_add_00
+  rotate: true
+  xy: 893, 112
+  size: 162, 112
+  orig: 162, 113
+  offset: 0, 0
+  index: -1
+5443c29c-e3c7-4406-8f19-cfc7e7c23ae8.0c6d4_unpack/bg_spark_add_01
+  rotate: true
+  xy: 1007, 112
+  size: 162, 112
+  orig: 162, 113
+  offset: 0, 0
+  index: -1
+5443c29c-e3c7-4406-8f19-cfc7e7c23ae8.0c6d4_unpack/bg_spark_add_02
+  rotate: true
+  xy: 1008, 276
+  size: 162, 112
+  orig: 162, 113
+  offset: 0, 0
+  index: -1
+5443c29c-e3c7-4406-8f19-cfc7e7c23ae8.0c6d4_unpack/bg_spark_add_03
+  rotate: true
+  xy: 893, 276
+  size: 162, 113
+  orig: 162, 113
+  offset: 0, 0
+  index: -1
+5443c29c-e3c7-4406-8f19-cfc7e7c23ae8.0c6d4_unpack/bg_spark_add_04
+  rotate: true
+  xy: 1122, 276
+  size: 162, 111
+  orig: 162, 113
+  offset: 0, 0
+  index: -1
+5443c29c-e3c7-4406-8f19-cfc7e7c23ae8.0c6d4_unpack/bg_spark_add_05
+  rotate: true
+  xy: 1121, 112
+  size: 162, 112
+  orig: 162, 113
+  offset: 0, 0
+  index: -1
+5443c29c-e3c7-4406-8f19-cfc7e7c23ae8.0c6d4_unpack/bg_spark_add_06
+  rotate: false
+  xy: 1549, 5
+  size: 162, 105
+  orig: 162, 113
+  offset: 0, 0
+  index: -1
+5443c29c-e3c7-4406-8f19-cfc7e7c23ae8.0c6d4_unpack/bg_spark_add_07
+  rotate: false
+  xy: 893, 2
+  size: 162, 108
+  orig: 162, 113
+  offset: 0, 0
+  index: -1
+5443c29c-e3c7-4406-8f19-cfc7e7c23ae8.0c6d4_unpack/bg_spark_add_08
+  rotate: false
+  xy: 1057, 2
+  size: 162, 108
+  orig: 162, 113
+  offset: 0, 0
+  index: -1
+5443c29c-e3c7-4406-8f19-cfc7e7c23ae8.0c6d4_unpack/bg_spark_add_09
+  rotate: true
+  xy: 1348, 112
+  size: 162, 110
+  orig: 162, 113
+  offset: 0, 0
+  index: -1
+5443c29c-e3c7-4406-8f19-cfc7e7c23ae8.0c6d4_unpack/bg_spark_add_10
+  rotate: true
+  xy: 1235, 276
+  size: 162, 111
+  orig: 162, 113
+  offset: 0, 0
+  index: -1
+5443c29c-e3c7-4406-8f19-cfc7e7c23ae8.0c6d4_unpack/bg_spark_add_11
+  rotate: true
+  xy: 1460, 112
+  size: 162, 110
+  orig: 162, 113
+  offset: 0, 0
+  index: -1
+5443c29c-e3c7-4406-8f19-cfc7e7c23ae8.0c6d4_unpack/bg_spark_add_12
+  rotate: true
+  xy: 1572, 112
+  size: 162, 109
+  orig: 162, 113
+  offset: 0, 0
+  index: -1
+5443c29c-e3c7-4406-8f19-cfc7e7c23ae8.0c6d4_unpack/bg_spark_add_13
+  rotate: true
+  xy: 1235, 112
+  size: 162, 111
+  orig: 162, 113
+  offset: 0, 0
+  index: -1
+5443c29c-e3c7-4406-8f19-cfc7e7c23ae8.0c6d4_unpack/bg_spark_add_14
+  rotate: false
+  xy: 1221, 2
+  size: 162, 108
+  orig: 162, 113
+  offset: 0, 0
+  index: -1
+5443c29c-e3c7-4406-8f19-cfc7e7c23ae8.0c6d4_unpack/bg_spark_add_15
+  rotate: true
+  xy: 1573, 276
+  size: 162, 109
+  orig: 162, 113
+  offset: 0, 0
+  index: -1
+5443c29c-e3c7-4406-8f19-cfc7e7c23ae8.0c6d4_unpack/bg_spark_add_16
+  rotate: true
+  xy: 1683, 112
+  size: 162, 109
+  orig: 162, 113
+  offset: 0, 0
+  index: -1
+5443c29c-e3c7-4406-8f19-cfc7e7c23ae8.0c6d4_unpack/bg_spark_add_17
+  rotate: true
+  xy: 1684, 277
+  size: 161, 111
+  orig: 162, 113
+  offset: 1, 0
+  index: -1
+5443c29c-e3c7-4406-8f19-cfc7e7c23ae8.0c6d4_unpack/bg_spark_add_18
+  rotate: false
+  xy: 1385, 3
+  size: 162, 107
+  orig: 162, 113
+  offset: 0, 0
+  index: -1
+5443c29c-e3c7-4406-8f19-cfc7e7c23ae8.0c6d4_unpack/bg_spark_add_19
+  rotate: true
+  xy: 1461, 276
+  size: 162, 110
+  orig: 162, 113
+  offset: 0, 0
+  index: -1
+5443c29c-e3c7-4406-8f19-cfc7e7c23ae8.0c6d4_unpack/bg_spark_add_20
+  rotate: true
+  xy: 1348, 276
+  size: 162, 111
+  orig: 162, 113
+  offset: 0, 0
+  index: -1
+mianfeikaishjiemianheduogetexiao_unpack/ComfyUI_00126
+  rotate: true
+  xy: 2, 78
+  size: 360, 889
+  orig: 360, 889
+  offset: 0, 0
+  index: -1
+mianfeikaishjiemianheduogetexiao_unpack/ib_vfx_f_add
+  rotate: true
+  xy: 1713, 24
+  size: 86, 87
+  orig: 86, 87
+  offset: 0, 0
+  index: -1
+mianfeikaishjiemianheduogetexiao_unpack/mh_vfx_add_05
+  rotate: false
+  xy: 2, 11
+  size: 192, 65
+  orig: 192, 65
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,265 @@
+
+eff_lastgame.png
+size: 816,816
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gd
+  rotate: false
+  xy: 753, 426
+  size: 27, 44
+  orig: 50, 50
+  offset: 11, 2
+  index: -1
+lastgame
+  rotate: true
+  xy: 699, 390
+  size: 267, 52
+  orig: 427, 52
+  offset: 80, 0
+  index: -1
+lastgamenum_1
+  rotate: false
+  xy: 761, 352
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+lastgamenum_2
+  rotate: true
+  xy: 753, 390
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+lastgamenum_3
+  rotate: false
+  xy: 715, 49
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+lz_z/lz_00001
+  rotate: true
+  xy: 697, 49
+  size: 300, 16
+  orig: 444, 110
+  offset: 49, 2
+  index: -1
+lz_z/lz_00002
+  rotate: true
+  xy: 740, 88
+  size: 300, 19
+  orig: 444, 110
+  offset: 49, 1
+  index: -1
+lz_z/lz_00003
+  rotate: true
+  xy: 715, 88
+  size: 300, 23
+  orig: 444, 110
+  offset: 49, 0
+  index: -1
+lz_z/lz_00004
+  rotate: true
+  xy: 786, 488
+  size: 326, 25
+  orig: 444, 110
+  offset: 50, 1
+  index: -1
+lz_z/lz_00005
+  rotate: false
+  xy: 349, 4
+  size: 326, 27
+  orig: 444, 110
+  offset: 50, 2
+  index: -1
+lz_z/lz_00006
+  rotate: false
+  xy: 351, 33
+  size: 342, 31
+  orig: 444, 110
+  offset: 50, 0
+  index: -1
+lz_z/lz_00007
+  rotate: true
+  xy: 753, 472
+  size: 342, 31
+  orig: 444, 110
+  offset: 50, 3
+  index: -1
+lz_z/lz_00008
+  rotate: false
+  xy: 351, 66
+  size: 343, 36
+  orig: 444, 110
+  offset: 49, 1
+  index: -1
+lz_z/lz_00009
+  rotate: false
+  xy: 351, 104
+  size: 344, 38
+  orig: 444, 110
+  offset: 49, 2
+  index: -1
+lz_z/lz_00010
+  rotate: false
+  xy: 351, 144
+  size: 344, 39
+  orig: 444, 110
+  offset: 49, 4
+  index: -1
+lz_z/lz_00011
+  rotate: false
+  xy: 351, 185
+  size: 344, 42
+  orig: 444, 110
+  offset: 49, 3
+  index: -1
+lz_z/lz_00012
+  rotate: false
+  xy: 351, 351
+  size: 345, 48
+  orig: 444, 110
+  offset: 49, 0
+  index: -1
+lz_z/lz_00013
+  rotate: false
+  xy: 350, 229
+  size: 345, 48
+  orig: 444, 110
+  offset: 49, 3
+  index: -1
+lz_z/lz_00014
+  rotate: false
+  xy: 351, 401
+  size: 345, 52
+  orig: 444, 110
+  offset: 49, 2
+  index: -1
+lz_z/lz_00015
+  rotate: false
+  xy: 2, 4
+  size: 345, 53
+  orig: 444, 110
+  offset: 49, 4
+  index: -1
+lz_z/lz_00016
+  rotate: false
+  xy: 352, 659
+  size: 346, 59
+  orig: 444, 110
+  offset: 49, 1
+  index: -1
+lz_z/lz_00017
+  rotate: false
+  xy: 351, 455
+  size: 346, 63
+  orig: 444, 110
+  offset: 49, 1
+  index: -1
+lz_z/lz_00018
+  rotate: false
+  xy: 351, 520
+  size: 346, 65
+  orig: 444, 110
+  offset: 49, 2
+  index: -1
+lz_z/lz_00019
+  rotate: false
+  xy: 351, 587
+  size: 346, 70
+  orig: 444, 110
+  offset: 49, 0
+  index: -1
+lz_z/lz_00020
+  rotate: false
+  xy: 2, 132
+  size: 347, 71
+  orig: 444, 110
+  offset: 49, 2
+  index: -1
+lz_z/lz_00021
+  rotate: false
+  xy: 2, 59
+  size: 347, 71
+  orig: 444, 110
+  offset: 49, 5
+  index: -1
+lz_z/lz_00022
+  rotate: false
+  xy: 2, 205
+  size: 346, 73
+  orig: 444, 110
+  offset: 50, 5
+  index: -1
+lz_z/lz_00023
+  rotate: false
+  xy: 2, 280
+  size: 346, 80
+  orig: 444, 110
+  offset: 50, 1
+  index: -1
+lz_z/lz_00024
+  rotate: false
+  xy: 2, 362
+  size: 347, 82
+  orig: 444, 110
+  offset: 50, 3
+  index: -1
+lz_z/lz_00025
+  rotate: false
+  xy: 2, 446
+  size: 347, 85
+  orig: 444, 110
+  offset: 50, 3
+  index: -1
+lz_z/lz_00026
+  rotate: false
+  xy: 2, 533
+  size: 347, 86
+  orig: 444, 110
+  offset: 50, 5
+  index: -1
+lz_z/lz_00027
+  rotate: false
+  xy: 352, 720
+  size: 347, 94
+  orig: 444, 110
+  offset: 50, 0
+  index: -1
+lz_z/lz_00028
+  rotate: false
+  xy: 2, 621
+  size: 347, 95
+  orig: 444, 110
+  offset: 50, 2
+  index: -1
+lz_z/lz_00029
+  rotate: false
+  xy: 2, 718
+  size: 348, 96
+  orig: 444, 110
+  offset: 50, 5
+  index: -1
+mf_diban01
+  rotate: true
+  xy: 701, 747
+  size: 67, 30
+  orig: 106, 30
+  offset: 19, 0
+  index: -1
+mf_diban02
+  rotate: false
+  xy: 677, 2
+  size: 61, 29
+  orig: 115, 29
+  offset: 27, 0
+  index: -1
+waikuang_glow
+  rotate: false
+  xy: 350, 279
+  size: 327, 70
+  orig: 450, 70
+  offset: 61, 0
+  index: -1

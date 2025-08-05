@@ -1,0 +1,90 @@
+
+307_pick.png
+size: 404,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 113, 43
+  size: 84, 69
+  orig: 84, 69
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 273
+  size: 390, 249
+  orig: 390, 249
+  offset: 0, 0
+  index: -1
+bglight
+  rotate: false
+  xy: 113, 2
+  size: 53, 39
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 2, 11
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+blue2
+  rotate: false
+  xy: 2, 114
+  size: 257, 79
+  orig: 257, 79
+  offset: 0, 0
+  index: -1
+lz
+  rotate: false
+  xy: 310, 221
+  size: 92, 50
+  orig: 92, 50
+  offset: 0, 0
+  index: -1
+lz2
+  rotate: false
+  xy: 168, 3
+  size: 69, 38
+  orig: 69, 38
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 261, 38
+  size: 141, 155
+  orig: 141, 155
+  offset: 0, 0
+  index: -1
+sy
+  rotate: false
+  xy: 2, 14
+  size: 109, 98
+  orig: 128, 128
+  offset: 14, 4
+  index: -1
+tx1
+  rotate: false
+  xy: 239, 11
+  size: 101, 25
+  orig: 105, 31
+  offset: 2, 3
+  index: -1
+yellow
+  rotate: false
+  xy: 2, 195
+  size: 306, 76
+  orig: 306, 76
+  offset: 0, 0
+  index: -1
+yw
+  rotate: false
+  xy: 199, 55
+  size: 60, 57
+  orig: 64, 64
+  offset: 2, 4
+  index: -1

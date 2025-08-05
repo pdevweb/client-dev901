@@ -1,0 +1,125 @@
+
+eff_icon_01.png
+size: 1488,496
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+22/22_000
+  rotate: true
+  xy: 1389, 2
+  size: 22, 37
+  orig: 86, 56
+  offset: 0, 0
+  index: -1
+22/22_001
+  rotate: true
+  xy: 1431, 162
+  size: 29, 38
+  orig: 86, 56
+  offset: 0, 0
+  index: -1
+22/22_002
+  rotate: true
+  xy: 1431, 230
+  size: 35, 39
+  orig: 86, 56
+  offset: 2, 0
+  index: -1
+22/22_003
+  rotate: true
+  xy: 1431, 383
+  size: 35, 54
+  orig: 86, 56
+  offset: 10, 1
+  index: -1
+22/22_004
+  rotate: true
+  xy: 1431, 457
+  size: 35, 55
+  orig: 86, 56
+  offset: 18, 1
+  index: -1
+22/22_005
+  rotate: true
+  xy: 1431, 420
+  size: 35, 55
+  orig: 86, 56
+  offset: 25, 1
+  index: -1
+22/22_006
+  rotate: true
+  xy: 1431, 346
+  size: 35, 54
+  orig: 86, 56
+  offset: 33, 2
+  index: -1
+22/22_007
+  rotate: true
+  xy: 1431, 309
+  size: 35, 52
+  orig: 86, 56
+  offset: 41, 2
+  index: -1
+22/22_008
+  rotate: true
+  xy: 1431, 193
+  size: 35, 37
+  orig: 86, 56
+  offset: 49, 1
+  index: -1
+22/22_009
+  rotate: false
+  xy: 1431, 123
+  size: 29, 37
+  orig: 86, 56
+  offset: 57, 1
+  index: -1
+huang_1
+  rotate: true
+  xy: 942, 10
+  size: 482, 351
+  orig: 482, 351
+  offset: 0, 0
+  index: -1
+huang_2
+  rotate: true
+  xy: 1295, 114
+  size: 378, 134
+  orig: 378, 134
+  offset: 0, 0
+  index: -1
+huang_3
+  rotate: false
+  xy: 2, 2
+  size: 482, 490
+  orig: 482, 490
+  offset: 0, 0
+  index: -1
+lq_00000
+  rotate: false
+  xy: 1295, 20
+  size: 92, 92
+  orig: 96, 96
+  offset: 2, 2
+  index: -1
+sanguang_00000
+  rotate: false
+  xy: 1431, 267
+  size: 40, 40
+  orig: 48, 48
+  offset: 4, 4
+  index: -1
+waikuang
+  rotate: false
+  xy: 486, 14
+  size: 454, 478
+  orig: 454, 478
+  offset: 0, 0
+  index: -1
+xg_00000
+  rotate: false
+  xy: 1389, 26
+  size: 86, 86
+  orig: 96, 96
+  offset: 5, 5
+  index: -1

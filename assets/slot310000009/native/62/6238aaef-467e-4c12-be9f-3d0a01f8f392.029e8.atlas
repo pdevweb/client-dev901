@@ -1,0 +1,244 @@
+
+eff_dakuang.png
+size: 692,1044
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bkg
+  rotate: true
+  xy: 462, 763
+  size: 93, 227
+  orig: 119, 274
+  offset: 13, 23
+  index: -1
+bklg
+  rotate: false
+  xy: 2, 2
+  size: 53, 110
+  orig: 67, 131
+  offset: 7, 11
+  index: -1
+guangxiao03
+  rotate: true
+  xy: 281, 40
+  size: 155, 156
+  orig: 200, 200
+  offset: 23, 20
+  index: -1
+xg_01
+  rotate: true
+  xy: 228, 139
+  size: 56, 50
+  orig: 64, 64
+  offset: 5, 5
+  index: -1
+xl_01
+  rotate: true
+  xy: 462, 858
+  size: 85, 228
+  orig: 119, 274
+  offset: 17, 23
+  index: -1
+xl_02
+  rotate: true
+  xy: 2, 763
+  size: 87, 228
+  orig: 119, 274
+  offset: 16, 23
+  index: -1
+xl_03
+  rotate: true
+  xy: 2, 852
+  size: 89, 228
+  orig: 119, 274
+  offset: 15, 23
+  index: -1
+xl_04
+  rotate: true
+  xy: 230, 290
+  size: 87, 226
+  orig: 119, 274
+  offset: 16, 24
+  index: -1
+xl_05
+  rotate: true
+  xy: 439, 23
+  size: 87, 222
+  orig: 119, 274
+  offset: 16, 26
+  index: -1
+xl_06
+  rotate: true
+  xy: 2, 205
+  size: 87, 225
+  orig: 119, 274
+  offset: 16, 25
+  index: -1
+xl_07
+  rotate: true
+  xy: 458, 387
+  size: 89, 226
+  orig: 119, 274
+  offset: 15, 24
+  index: -1
+xl_08
+  rotate: true
+  xy: 230, 379
+  size: 89, 226
+  orig: 119, 274
+  offset: 15, 24
+  index: -1
+xl_09
+  rotate: true
+  xy: 2, 294
+  size: 89, 226
+  orig: 119, 274
+  offset: 15, 24
+  index: -1
+xl_10
+  rotate: true
+  xy: 458, 297
+  size: 88, 226
+  orig: 119, 274
+  offset: 16, 24
+  index: -1
+xl_11
+  rotate: true
+  xy: 2, 114
+  size: 89, 224
+  orig: 119, 274
+  offset: 15, 25
+  index: -1
+xl_12
+  rotate: true
+  xy: 455, 112
+  size: 89, 224
+  orig: 119, 274
+  offset: 15, 25
+  index: -1
+xl_13
+  rotate: true
+  xy: 230, 563
+  size: 91, 226
+  orig: 119, 274
+  offset: 14, 24
+  index: -1
+xl_14
+  rotate: true
+  xy: 230, 656
+  size: 93, 226
+  orig: 119, 274
+  offset: 13, 24
+  index: -1
+xl_15
+  rotate: true
+  xy: 2, 478
+  size: 91, 226
+  orig: 119, 274
+  offset: 14, 24
+  index: -1
+xl_16
+  rotate: true
+  xy: 57, 19
+  size: 93, 222
+  orig: 119, 274
+  offset: 13, 26
+  index: -1
+xl_17
+  rotate: true
+  xy: 458, 478
+  size: 91, 226
+  orig: 119, 274
+  offset: 14, 24
+  index: -1
+xl_18
+  rotate: true
+  xy: 458, 203
+  size: 92, 224
+  orig: 119, 274
+  offset: 14, 25
+  index: -1
+xl_19
+  rotate: true
+  xy: 229, 197
+  size: 91, 224
+  orig: 119, 274
+  offset: 14, 25
+  index: -1
+xl_20
+  rotate: true
+  xy: 2, 571
+  size: 93, 226
+  orig: 119, 274
+  offset: 13, 24
+  index: -1
+xl_21
+  rotate: true
+  xy: 2, 666
+  size: 95, 226
+  orig: 119, 274
+  offset: 12, 24
+  index: -1
+xl_22
+  rotate: true
+  xy: 232, 945
+  size: 95, 228
+  orig: 119, 274
+  offset: 12, 23
+  index: -1
+xl_23
+  rotate: true
+  xy: 2, 943
+  size: 97, 228
+  orig: 119, 274
+  offset: 11, 23
+  index: -1
+xl_24
+  rotate: true
+  xy: 232, 850
+  size: 93, 228
+  orig: 119, 274
+  offset: 13, 23
+  index: -1
+xl_25
+  rotate: true
+  xy: 462, 945
+  size: 95, 228
+  orig: 119, 274
+  offset: 12, 23
+  index: -1
+xl_26
+  rotate: true
+  xy: 460, 666
+  size: 95, 226
+  orig: 119, 274
+  offset: 12, 24
+  index: -1
+xl_27
+  rotate: true
+  xy: 232, 751
+  size: 97, 226
+  orig: 119, 274
+  offset: 11, 24
+  index: -1
+xl_28
+  rotate: true
+  xy: 230, 470
+  size: 91, 226
+  orig: 119, 274
+  offset: 14, 24
+  index: -1
+xl_29
+  rotate: true
+  xy: 2, 385
+  size: 91, 226
+  orig: 119, 274
+  offset: 14, 24
+  index: -1
+xl_30
+  rotate: true
+  xy: 458, 571
+  size: 93, 226
+  orig: 119, 274
+  offset: 13, 24
+  index: -1

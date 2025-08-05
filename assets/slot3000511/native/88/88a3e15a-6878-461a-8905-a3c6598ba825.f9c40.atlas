@@ -1,0 +1,160 @@
+
+eff_icon_07.png
+size: 444,444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huolieniao_0
+  rotate: true
+  xy: 288, 162
+  size: 141, 55
+  orig: 141, 55
+  offset: 0, 0
+  index: -1
+huolieniao_1
+  rotate: true
+  xy: 399, 301
+  size: 141, 17
+  orig: 141, 17
+  offset: 0, 0
+  index: -1
+huolieniao_10
+  rotate: true
+  xy: 418, 301
+  size: 141, 12
+  orig: 141, 12
+  offset: 0, 0
+  index: -1
+huolieniao_12
+  rotate: false
+  xy: 2, 72
+  size: 141, 142
+  orig: 141, 142
+  offset: 0, 0
+  index: -1
+huolieniao_13
+  rotate: false
+  xy: 145, 2
+  size: 141, 21
+  orig: 141, 21
+  offset: 0, 0
+  index: -1
+huolieniao_15
+  rotate: false
+  xy: 266, 71
+  size: 20, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1
+huolieniao_16
+  rotate: true
+  xy: 379, 92
+  size: 15, 39
+  orig: 15, 39
+  offset: 0, 0
+  index: -1
+huolieniao_17
+  rotate: true
+  xy: 379, 109
+  size: 56, 39
+  orig: 58, 41
+  offset: 1, 1
+  index: -1
+huolieniao_18
+  rotate: true
+  xy: 288, 85
+  size: 75, 89
+  orig: 80, 91
+  offset: 5, 1
+  index: -1
+huolieniao_19
+  rotate: true
+  xy: 266, 27
+  size: 37, 52
+  orig: 43, 52
+  offset: 6, 0
+  index: -1
+huolieniao_20
+  rotate: false
+  xy: 375, 167
+  size: 33, 66
+  orig: 33, 66
+  offset: 0, 0
+  index: -1
+huolieniao_21
+  rotate: true
+  xy: 288, 66
+  size: 17, 62
+  orig: 17, 62
+  offset: 0, 0
+  index: -1
+huolieniao_22
+  rotate: false
+  xy: 145, 25
+  size: 119, 90
+  orig: 119, 91
+  offset: 0, 1
+  index: -1
+huolieniao_23
+  rotate: true
+  xy: 410, 207
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+huolieniao_24
+  rotate: false
+  xy: 375, 235
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+huolieniao_29
+  rotate: false
+  xy: 2, 216
+  size: 141, 226
+  orig: 141, 226
+  offset: 0, 0
+  index: -1
+huolieniao_3
+  rotate: false
+  xy: 2, 3
+  size: 141, 67
+  orig: 141, 67
+  offset: 0, 0
+  index: -1
+huolieniao_30
+  rotate: true
+  xy: 145, 305
+  size: 137, 230
+  orig: 137, 230
+  offset: 0, 0
+  index: -1
+huolieniao_4
+  rotate: true
+  xy: 377, 301
+  size: 141, 20
+  orig: 141, 20
+  offset: 0, 0
+  index: -1
+huolieniao_6
+  rotate: false
+  xy: 145, 117
+  size: 141, 81
+  orig: 141, 81
+  offset: 0, 0
+  index: -1
+huolieniao_7
+  rotate: true
+  xy: 345, 162
+  size: 141, 28
+  orig: 141, 28
+  offset: 0, 0
+  index: -1
+huolieniao_9
+  rotate: false
+  xy: 145, 200
+  size: 141, 103
+  orig: 141, 103
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+lhjtanchuang.png
+size: 740,888
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+theme2011_popup_1
+  rotate: true
+  xy: 2, 240
+  size: 644, 519
+  orig: 644, 519
+  offset: 0, 0
+  index: -1
+theme2011_popup_2
+  rotate: false
+  xy: 2, 102
+  size: 735, 136
+  orig: 735, 136
+  offset: 0, 0
+  index: -1
+theme2011_popup_3
+  rotate: false
+  xy: 2, 2
+  size: 672, 98
+  orig: 672, 98
+  offset: 0, 0
+  index: -1
+theme2011_popup_4
+  rotate: true
+  xy: 689, 612
+  size: 272, 45
+  orig: 272, 45
+  offset: 0, 0
+  index: -1
+theme2011_popup_5
+  rotate: true
+  xy: 523, 261
+  size: 479, 81
+  orig: 479, 81
+  offset: 0, 0
+  index: -1
+theme2011_popup_6
+  rotate: true
+  xy: 606, 346
+  size: 394, 81
+  orig: 394, 81
+  offset: 0, 0
+  index: -1
+xxglow_00
+  rotate: true
+  xy: 523, 742
+  size: 142, 139
+  orig: 185, 179
+  offset: 16, 16
+  index: -1

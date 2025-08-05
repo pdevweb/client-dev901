@@ -1,0 +1,41 @@
+
+Symbol_09.png
+size: 729,450
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jpg/Sybmol_Frame
+  rotate: false
+  xy: 2, 2
+  size: 500, 446
+  orig: 500, 446
+  offset: 0, 0
+  index: -1
+jpg/Symbol_09_Bg
+  rotate: true
+  xy: 504, 198
+  size: 250, 223
+  orig: 250, 223
+  offset: 0, 0
+  index: -1
+png/Symbol_09_Body
+  rotate: false
+  xy: 504, 78
+  size: 99, 118
+  orig: 99, 118
+  offset: 0, 0
+  index: -1
+png/Symbol_09_Head
+  rotate: false
+  xy: 605, 98
+  size: 103, 98
+  orig: 103, 98
+  offset: 0, 0
+  index: -1
+png/Symbol_09_Mouth
+  rotate: false
+  xy: 504, 31
+  size: 76, 45
+  orig: 80, 45
+  offset: 0, 0
+  index: -1

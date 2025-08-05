@@ -1,0 +1,27 @@
+
+eff_bonus.png
+size: 132,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buybouns1
+  rotate: false
+  xy: 2, 46
+  size: 125, 110
+  orig: 125, 110
+  offset: 0, 0
+  index: -1
+buybouns_
+  rotate: false
+  xy: 2, 2
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+x1
+  rotate: true
+  xy: 2, 158
+  size: 128, 125
+  orig: 128, 125
+  offset: 0, 0
+  index: -1

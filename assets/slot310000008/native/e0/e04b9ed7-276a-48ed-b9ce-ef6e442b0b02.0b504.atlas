@@ -1,0 +1,20 @@
+
+383_zjlx.png
+size: 245,226
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fk
+  rotate: false
+  xy: 2, 2
+  size: 229, 222
+  orig: 256, 256
+  offset: 12, 16
+  index: -1
+yd
+  rotate: false
+  xy: 233, 214
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1

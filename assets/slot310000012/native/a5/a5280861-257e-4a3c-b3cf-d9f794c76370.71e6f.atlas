@@ -1,0 +1,48 @@
+
+277_djdbctr.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gx/dg
+  rotate: false
+  xy: 636, 47
+  size: 66, 66
+  orig: 86, 86
+  offset: 10, 10
+  index: -1
+gx/fangkuangxian_06
+  rotate: false
+  xy: 293, 115
+  size: 366, 130
+  orig: 366, 130
+  offset: 0, 0
+  index: -1
+gx/ggg
+  rotate: false
+  xy: 2, 2
+  size: 258, 243
+  orig: 311, 268
+  offset: 28, 14
+  index: -1
+gx/gx2_00
+  rotate: false
+  xy: 262, 88
+  size: 29, 157
+  orig: 54, 172
+  offset: 12, 7
+  index: -1
+gx/gy_00
+  rotate: true
+  xy: 262, 18
+  size: 68, 35
+  orig: 86, 86
+  offset: 9, 26
+  index: -1
+gx/kbg_00
+  rotate: false
+  xy: 299, 14
+  size: 335, 99
+  orig: 689, 171
+  offset: 243, 32
+  index: -1

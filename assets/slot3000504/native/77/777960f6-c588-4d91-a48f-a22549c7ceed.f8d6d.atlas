@@ -1,0 +1,248 @@
+
+eff_xibu_zchang.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4-cigar
+  rotate: true
+  xy: 1085, 1738
+  size: 143, 148
+  orig: 151, 156
+  offset: 4, 4
+  index: -1
+4-smoke1
+  rotate: false
+  xy: 1355, 562
+  size: 689, 469
+  orig: 811, 578
+  offset: 69, 30
+  index: -1
+4-smoke2
+  rotate: false
+  xy: 1476, 1033
+  size: 507, 358
+  orig: 522, 373
+  offset: 7, 10
+  index: -1
+5-cigar
+  rotate: false
+  xy: 2, 1796
+  size: 134, 85
+  orig: 142, 101
+  offset: 4, 12
+  index: -1
+5-gun
+  rotate: true
+  xy: 1035, 2
+  size: 558, 940
+  orig: 566, 949
+  offset: 4, 5
+  index: -1
+ball
+  rotate: false
+  xy: 397, 1754
+  size: 127, 127
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+gxx
+  rotate: false
+  xy: 547, 296
+  size: 486, 482
+  orig: 496, 484
+  offset: 5, 0
+  index: -1
+h1-leg
+  rotate: true
+  xy: 1638, 1393
+  size: 310, 406
+  orig: 313, 410
+  offset: 0, 0
+  index: -1
+h2-leg
+  rotate: true
+  xy: 656, 1744
+  size: 137, 231
+  orig: 137, 231
+  offset: 0, 0
+  index: -1
+h2-leg2
+  rotate: true
+  xy: 138, 1768
+  size: 113, 257
+  orig: 121, 265
+  offset: 4, 4
+  index: -1
+human1
+  rotate: true
+  xy: 2, 1279
+  size: 222, 738
+  orig: 222, 738
+  offset: 0, 0
+  index: -1
+human2
+  rotate: true
+  xy: 609, 1503
+  size: 218, 746
+  orig: 218, 746
+  offset: 0, 0
+  index: -1
+human3
+  rotate: true
+  xy: 742, 1216
+  size: 237, 732
+  orig: 237, 732
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 373, 1525
+  size: 234, 226
+  orig: 256, 256
+  offset: 13, 15
+  index: -1
+ring
+  rotate: false
+  xy: 526, 1753
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 1357, 1455
+  size: 279, 254
+  orig: 287, 263
+  offset: 4, 5
+  index: -1
+s2
+  rotate: true
+  xy: 2, 1569
+  size: 197, 369
+  orig: 205, 377
+  offset: 4, 4
+  index: -1
+s3
+  rotate: false
+  xy: 1235, 1723
+  size: 253, 158
+  orig: 261, 177
+  offset: 4, 15
+  index: -1
+s3-s
+  rotate: false
+  xy: 1490, 1711
+  size: 252, 170
+  orig: 261, 190
+  offset: 4, 15
+  index: -1
+s4
+  rotate: false
+  xy: 1744, 1705
+  size: 211, 176
+  orig: 219, 185
+  offset: 4, 5
+  index: -1
+s4-s
+  rotate: false
+  xy: 889, 1741
+  size: 194, 140
+  orig: 203, 148
+  offset: 5, 4
+  index: -1
+shadow1
+  rotate: true
+  xy: 2, 375
+  size: 478, 543
+  orig: 740, 559
+  offset: 48, 8
+  index: -1
+shadow2
+  rotate: false
+  xy: 2, 855
+  size: 591, 422
+  orig: 611, 435
+  offset: 8, 7
+  index: -1
+shadow3
+  rotate: false
+  xy: 595, 780
+  size: 758, 434
+  orig: 758, 434
+  offset: 0, 0
+  index: -1
+
+eff_xibu_zchang2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4-hat
+  rotate: false
+  xy: 2, 54
+  size: 753, 602
+  orig: 753, 617
+  offset: 0, 4
+  index: -1
+5-head
+  rotate: true
+  xy: 757, 2
+  size: 654, 683
+  orig: 690, 698
+  offset: 0, 15
+  index: -1
+door1
+  rotate: true
+  xy: 2, 1240
+  size: 511, 1813
+  orig: 822, 1813
+  offset: 0, 0
+  index: -1
+door2
+  rotate: true
+  xy: 2, 658
+  size: 580, 1842
+  orig: 898, 1842
+  offset: 318, 0
+  index: -1
+
+eff_xibu_zchang3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5-body
+  rotate: true
+  xy: 2, 732
+  size: 720, 818
+  orig: 728, 1034
+  offset: 4, 4
+  index: -1
+5-hat
+  rotate: true
+  xy: 822, 724
+  size: 728, 816
+  orig: 728, 816
+  offset: 0, 0
+  index: -1
+bg
+  rotate: true
+  xy: 2, 2
+  size: 720, 1777
+  orig: 720, 1777
+  offset: 0, 0
+  index: -1
+
+eff_xibu_zchang4.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4-h
+  rotate: false
+  xy: 2, 2
+  size: 753, 1216
+  orig: 753, 1216
+  offset: 0, 0
+  index: -1

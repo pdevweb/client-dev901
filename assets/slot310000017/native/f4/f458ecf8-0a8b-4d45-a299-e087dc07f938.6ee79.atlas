@@ -1,0 +1,27 @@
+
+eff_nianxingdi.png
+size: 728,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gq4
+  rotate: false
+  xy: 2, 2
+  size: 518, 518
+  orig: 550, 550
+  offset: 16, 16
+  index: -1
+zhanlian-bg
+  rotate: true
+  xy: 522, 67
+  size: 217, 187
+  orig: 217, 187
+  offset: 0, 0
+  index: -1
+zhanlian-bg2
+  rotate: true
+  xy: 522, 286
+  size: 234, 202
+  orig: 234, 202
+  offset: 0, 0
+  index: -1

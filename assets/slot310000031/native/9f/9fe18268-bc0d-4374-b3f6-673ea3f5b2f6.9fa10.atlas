@@ -1,0 +1,251 @@
+
+FG_Compliment.png
+size: 1972,884
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ceiling
+  rotate: false
+  xy: 882, 225
+  size: 514, 146
+  orig: 514, 259
+  offset: 0, 0
+  index: -1
+Door_L
+  rotate: true
+  xy: 2, 626
+  size: 256, 884
+  orig: 256, 884
+  offset: 0, 0
+  index: -1
+Door_LB
+  rotate: true
+  xy: 2, 372
+  size: 252, 878
+  orig: 252, 878
+  offset: 0, 0
+  index: -1
+Exp_Light
+  rotate: false
+  xy: 1742, 311
+  size: 207, 120
+  orig: 218, 128
+  offset: 5, 3
+  index: -1
+FX/Light_04
+  rotate: false
+  xy: 1598, 187
+  size: 119, 115
+  orig: 128, 128
+  offset: 2, 6
+  index: -1
+FX_Glow
+  rotate: false
+  xy: 1202, 15
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+FX_LT03
+  rotate: false
+  xy: 1674, 73
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+FX_Light_Spot_3
+  rotate: false
+  xy: 1266, 95
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Floor
+  rotate: true
+  xy: 1568, 433
+  size: 449, 402
+  orig: 449, 526
+  offset: 0, 124
+  index: -1
+Frame
+  rotate: false
+  xy: 2, 117
+  size: 552, 253
+  orig: 552, 253
+  offset: 0, 0
+  index: -1
+Frame_B
+  rotate: false
+  xy: 888, 573
+  size: 654, 63
+  orig: 654, 63
+  offset: 0, 0
+  index: -1
+Frame_U
+  rotate: false
+  xy: 888, 732
+  size: 678, 150
+  orig: 682, 150
+  offset: 1, 0
+  index: -1
+Frame_Ug
+  rotate: false
+  xy: 882, 496
+  size: 634, 75
+  orig: 636, 75
+  offset: 1, 0
+  index: -1
+Fx_Flare2
+  rotate: false
+  xy: 1837, 123
+  size: 127, 54
+  orig: 128, 55
+  offset: 0, 0
+  index: -1
+Fx_Star4
+  rotate: true
+  xy: 1118, 2
+  size: 88, 82
+  orig: 100, 100
+  offset: 6, 9
+  index: -1
+Light
+  rotate: true
+  xy: 1920, 64
+  size: 57, 50
+  orig: 66, 69
+  offset: 6, 6
+  index: -1
+Pillar01
+  rotate: true
+  xy: 888, 638
+  size: 92, 676
+  orig: 92, 676
+  offset: 0, 0
+  index: -1
+Pillar02
+  rotate: true
+  xy: 868, 92
+  size: 131, 396
+  orig: 131, 396
+  offset: 0, 0
+  index: -1
+Pillar03
+  rotate: true
+  xy: 477, 12
+  size: 96, 357
+  orig: 96, 357
+  offset: 0, 0
+  index: -1
+Pillar_R
+  rotate: true
+  xy: 1449, 304
+  size: 89, 245
+  orig: 89, 245
+  offset: 0, 0
+  index: -1
+Sand_01
+  rotate: false
+  xy: 1544, 6
+  size: 113, 95
+  orig: 113, 95
+  offset: 0, 0
+  index: -1
+Sand_03
+  rotate: true
+  xy: 1674, 139
+  size: 40, 161
+  orig: 40, 161
+  offset: 0, 0
+  index: -1
+Sand_04
+  rotate: false
+  xy: 1449, 436
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+SmallSpots_06
+  rotate: false
+  xy: 556, 110
+  size: 310, 260
+  orig: 320, 320
+  offset: 2, 22
+  index: -1
+Smoke_01
+  rotate: false
+  xy: 1719, 181
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Smoke_02
+  rotate: true
+  xy: 1544, 103
+  size: 82, 128
+  orig: 128, 128
+  offset: 1, 0
+  index: -1
+TX_zsj_0013
+  rotate: false
+  xy: 1849, 179
+  size: 119, 130
+  orig: 125, 133
+  offset: 3, 0
+  index: -1
+Wall
+  rotate: false
+  xy: 1449, 395
+  size: 291, 36
+  orig: 293, 38
+  offset: 1, 1
+  index: -1
+Wall2
+  rotate: true
+  xy: 836, 26
+  size: 64, 280
+  orig: 66, 282
+  offset: 1, 1
+  index: -1
+Wall_L
+  rotate: true
+  xy: 882, 373
+  size: 121, 565
+  orig: 174, 565
+  offset: 53, 0
+  index: -1
+black
+  rotate: false
+  xy: 1920, 12
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+congrats
+  rotate: false
+  xy: 2, 17
+  size: 473, 98
+  orig: 473, 98
+  offset: 0, 0
+  index: -1
+lizi_01
+  rotate: false
+  xy: 1804, 7
+  size: 114, 114
+  orig: 128, 128
+  offset: 8, 9
+  index: -1
+wind_07
+  rotate: false
+  xy: 1396, 94
+  size: 146, 108
+  orig: 153, 116
+  offset: 5, 1
+  index: -1
+yun_w2
+  rotate: false
+  xy: 1398, 204
+  size: 198, 98
+  orig: 198, 98
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+eff_bg.png
+size: 384,1324
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+denglong1
+  rotate: false
+  xy: 2, 32
+  size: 96, 91
+  orig: 96, 91
+  offset: 0, 0
+  index: -1
+fan1
+  rotate: false
+  xy: 2, 818
+  size: 285, 501
+  orig: 285, 501
+  offset: 0, 0
+  index: -1
+fan2
+  rotate: true
+  xy: 2, 415
+  size: 186, 340
+  orig: 186, 340
+  offset: 0, 0
+  index: -1
+hg_0
+  rotate: false
+  xy: 2, 603
+  size: 298, 213
+  orig: 298, 213
+  offset: 0, 0
+  index: -1
+piaodai
+  rotate: false
+  xy: 344, 385
+  size: 26, 136
+  orig: 26, 136
+  offset: 0, 0
+  index: -1
+shu1
+  rotate: true
+  xy: 200, 234
+  size: 150, 181
+  orig: 202, 390
+  offset: 0, 209
+  index: -1
+shu2
+  rotate: true
+  xy: 209, 3
+  size: 153, 161
+  orig: 174, 354
+  offset: 21, 193
+  index: -1
+xian
+  rotate: false
+  xy: 2, 125
+  size: 292, 114
+  orig: 292, 114
+  offset: 0, 0
+  index: -1
+xiaodenglong1
+  rotate: false
+  xy: 100, 81
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+xiaodenglong2
+  rotate: false
+  xy: 100, 51
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+yh_15
+  rotate: false
+  xy: 2, 241
+  size: 196, 172
+  orig: 196, 172
+  offset: 0, 0
+  index: -1

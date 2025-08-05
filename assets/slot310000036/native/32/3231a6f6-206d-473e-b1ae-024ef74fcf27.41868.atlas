@@ -1,0 +1,279 @@
+
+bgFX.png
+size: 2004,1952
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boom3/boom3_00
+  rotate: false
+  xy: 786, 1225
+  size: 388, 361
+  orig: 390, 390
+  offset: 2, 0
+  index: -1
+boom3/boom3_01
+  rotate: false
+  xy: 786, 1588
+  size: 390, 361
+  orig: 390, 390
+  offset: 0, 0
+  index: -1
+boom3/boom3_02
+  rotate: false
+  xy: 394, 1211
+  size: 388, 359
+  orig: 390, 390
+  offset: 2, 0
+  index: -1
+boom3/boom3_03
+  rotate: false
+  xy: 2, 890
+  size: 386, 373
+  orig: 390, 390
+  offset: 4, 0
+  index: -1
+boom3/boom3_04
+  rotate: false
+  xy: 784, 854
+  size: 380, 369
+  orig: 390, 390
+  offset: 10, 0
+  index: -1
+boom3/boom3_05
+  rotate: false
+  xy: 2, 525
+  size: 376, 363
+  orig: 390, 390
+  offset: 14, 0
+  index: -1
+boom3/boom3_06
+  rotate: false
+  xy: 1560, 547
+  size: 374, 369
+  orig: 390, 390
+  offset: 16, 0
+  index: -1
+boom3/boom3_07
+  rotate: false
+  xy: 2, 1570
+  size: 390, 379
+  orig: 390, 390
+  offset: 0, 0
+  index: -1
+boom3/boom3_08
+  rotate: false
+  xy: 394, 1572
+  size: 390, 377
+  orig: 390, 390
+  offset: 0, 0
+  index: -1
+boom3/boom3_09
+  rotate: false
+  xy: 1570, 1574
+  size: 388, 375
+  orig: 390, 390
+  offset: 2, 0
+  index: -1
+boom3/boom3_10
+  rotate: false
+  xy: 1166, 539
+  size: 374, 363
+  orig: 390, 390
+  offset: 16, 0
+  index: -1
+boom3/boom3_11
+  rotate: false
+  xy: 1176, 904
+  size: 382, 327
+  orig: 390, 390
+  offset: 8, 0
+  index: -1
+boom3/boom3_12
+  rotate: false
+  xy: 390, 906
+  size: 380, 303
+  orig: 390, 390
+  offset: 10, 0
+  index: -1
+boom3/boom3_13
+  rotate: false
+  xy: 2, 1265
+  size: 388, 303
+  orig: 390, 390
+  offset: 2, 0
+  index: -1
+boom3/boom3_14
+  rotate: false
+  xy: 1176, 1233
+  size: 386, 353
+  orig: 390, 390
+  offset: 4, 0
+  index: -1
+boom3/boom3_15
+  rotate: false
+  xy: 1564, 1245
+  size: 384, 327
+  orig: 390, 390
+  offset: 6, 0
+  index: -1
+boom3/boom3_16
+  rotate: false
+  xy: 1564, 918
+  size: 384, 325
+  orig: 390, 390
+  offset: 6, 0
+  index: -1
+boom3/boom3_17
+  rotate: false
+  xy: 390, 541
+  size: 378, 363
+  orig: 390, 390
+  offset: 12, 0
+  index: -1
+boom3/boom3_18
+  rotate: false
+  xy: 1178, 1588
+  size: 390, 361
+  orig: 390, 390
+  offset: 0, 0
+  index: -1
+fx_boom/bw_firework_00
+  rotate: true
+  xy: 1936, 858
+  size: 58, 63
+  orig: 58, 63
+  offset: 0, 0
+  index: -1
+fx_boom/bw_firework_01
+  rotate: true
+  xy: 242, 413
+  size: 110, 115
+  orig: 110, 115
+  offset: 0, 0
+  index: -1
+fx_boom/bw_firework_02
+  rotate: true
+  xy: 1603, 403
+  size: 142, 147
+  orig: 142, 147
+  offset: 0, 0
+  index: -1
+fx_boom/bw_firework_03
+  rotate: true
+  xy: 1806, 25
+  size: 154, 159
+  orig: 154, 159
+  offset: 0, 0
+  index: -1
+fx_boom/bw_firework_04
+  rotate: true
+  xy: 1806, 181
+  size: 174, 177
+  orig: 174, 177
+  offset: 0, 0
+  index: -1
+fx_boom/bw_firework_05
+  rotate: true
+  xy: 1806, 357
+  size: 188, 193
+  orig: 188, 193
+  offset: 0, 0
+  index: -1
+fx_boom/bw_firework_06
+  rotate: false
+  xy: 908, 295
+  size: 202, 205
+  orig: 202, 205
+  offset: 0, 0
+  index: -1
+fx_boom/bw_firework_07
+  rotate: false
+  xy: 694, 283
+  size: 212, 217
+  orig: 212, 217
+  offset: 0, 0
+  index: -1
+fx_boom/bw_firework_08
+  rotate: false
+  xy: 1582, 75
+  size: 222, 225
+  orig: 222, 225
+  offset: 0, 0
+  index: -1
+fx_boom/bw_firework_09
+  rotate: false
+  xy: 1369, 302
+  size: 232, 235
+  orig: 232, 235
+  offset: 0, 0
+  index: -1
+fx_boom/bw_firework_10
+  rotate: false
+  xy: 2, 280
+  size: 238, 243
+  orig: 238, 243
+  offset: 0, 0
+  index: -1
+fx_boom/bw_firework_11
+  rotate: true
+  xy: 1122, 295
+  size: 242, 245
+  orig: 242, 245
+  offset: 0, 0
+  index: -1
+fx_boom/bw_firework_12
+  rotate: false
+  xy: 1332, 42
+  size: 248, 251
+  orig: 248, 251
+  offset: 0, 0
+  index: -1
+fx_boom/bw_firework_13
+  rotate: false
+  xy: 1076, 34
+  size: 254, 259
+  orig: 254, 259
+  offset: 0, 0
+  index: -1
+fx_boom/bw_firework_14
+  rotate: false
+  xy: 814, 18
+  size: 260, 263
+  orig: 260, 263
+  offset: 0, 0
+  index: -1
+fx_boom/bw_firework_15
+  rotate: false
+  xy: 546, 8
+  size: 266, 269
+  orig: 266, 269
+  offset: 0, 0
+  index: -1
+fx_boom/bw_firework_16
+  rotate: false
+  xy: 274, 4
+  size: 270, 273
+  orig: 270, 273
+  offset: 0, 0
+  index: -1
+fx_boom/bw_firework_17
+  rotate: false
+  xy: 2, 2
+  size: 270, 275
+  orig: 270, 275
+  offset: 0, 0
+  index: -1
+glow
+  rotate: true
+  xy: 380, 279
+  size: 260, 312
+  orig: 260, 312
+  offset: 0, 0
+  index: -1
+shine
+  rotate: false
+  xy: 770, 502
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1

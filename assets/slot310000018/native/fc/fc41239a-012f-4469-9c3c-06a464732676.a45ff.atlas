@@ -1,0 +1,153 @@
+
+239_qipan_yushi.png
+size: 668,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huo/huo_000
+  rotate: false
+  xy: 665, 814
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+huo/huo_001
+  rotate: true
+  xy: 172, 334
+  size: 121, 88
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+huo/huo_002
+  rotate: false
+  xy: 2, 45
+  size: 161, 94
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+huo/huo_003
+  rotate: true
+  xy: 566, 615
+  size: 200, 97
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+huo/huo_004
+  rotate: true
+  xy: 528, 817
+  size: 200, 137
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+huo/huo_005
+  rotate: false
+  xy: 2, 141
+  size: 200, 187
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+huo/huo_006
+  rotate: false
+  xy: 262, 184
+  size: 200, 237
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+huo/huo_007
+  rotate: false
+  xy: 2, 330
+  size: 168, 283
+  orig: 200, 300
+  offset: 32, 0
+  index: -1
+huo/huo_008
+  rotate: true
+  xy: 264, 647
+  size: 168, 300
+  orig: 200, 300
+  offset: 32, 0
+  index: -1
+huo/huo_009
+  rotate: false
+  xy: 488, 313
+  size: 159, 300
+  orig: 200, 300
+  offset: 41, 0
+  index: -1
+huo/huo_010
+  rotate: true
+  xy: 2, 817
+  size: 200, 262
+  orig: 200, 300
+  offset: 0, 38
+  index: -1
+huo/huo_011
+  rotate: true
+  xy: 266, 817
+  size: 200, 260
+  orig: 200, 300
+  offset: 0, 40
+  index: -1
+huo/huo_012
+  rotate: true
+  xy: 2, 615
+  size: 200, 260
+  orig: 200, 300
+  offset: 0, 40
+  index: -1
+huo/huo_013
+  rotate: false
+  xy: 464, 99
+  size: 200, 212
+  orig: 200, 300
+  offset: 0, 88
+  index: -1
+huo/huo_014
+  rotate: false
+  xy: 204, 29
+  size: 200, 153
+  orig: 200, 300
+  offset: 0, 147
+  index: -1
+huo/huo_015
+  rotate: false
+  xy: 406, 2
+  size: 165, 95
+  orig: 200, 300
+  offset: 0, 205
+  index: -1
+huo/huo_016
+  rotate: true
+  xy: 172, 457
+  size: 156, 89
+  orig: 200, 300
+  offset: 0, 211
+  index: -1
+huo/huo_017
+  rotate: false
+  xy: 488, 640
+  size: 76, 5
+  orig: 200, 300
+  offset: 32, 252
+  index: -1
+huo/huo_018
+  rotate: false
+  xy: 488, 633
+  size: 37, 5
+  orig: 200, 300
+  offset: 32, 252
+  index: -1
+huo/huo_019
+  rotate: false
+  xy: 527, 633
+  size: 11, 5
+  orig: 200, 300
+  offset: 32, 252
+  index: -1
+lizi_0007
+  rotate: false
+  xy: 264, 423
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1

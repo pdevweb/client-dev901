@@ -1,0 +1,34 @@
+
+eff_zhuanpan_zj.png
+size: 776,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sjb
+  rotate: true
+  xy: 313, 31
+  size: 138, 233
+  orig: 139, 233
+  offset: 1, 0
+  index: -1
+sjg
+  rotate: true
+  xy: 548, 35
+  size: 134, 223
+  orig: 148, 226
+  offset: 7, 3
+  index: -1
+sjk
+  rotate: true
+  xy: 2, 2
+  size: 167, 309
+  orig: 168, 309
+  offset: 1, 0
+  index: -1
+xg_00
+  rotate: false
+  xy: 313, 8
+  size: 79, 21
+  orig: 90, 39
+  offset: 7, 11
+  index: -1

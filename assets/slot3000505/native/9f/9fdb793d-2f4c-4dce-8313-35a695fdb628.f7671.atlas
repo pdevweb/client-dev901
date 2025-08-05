@@ -1,0 +1,139 @@
+
+eff_SPIN.png
+size: 676,676
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+STOP
+  rotate: true
+  xy: 589, 46
+  size: 138, 39
+  orig: 140, 41
+  offset: 1, 1
+  index: -1
+STOP_hui
+  rotate: true
+  xy: 630, 46
+  size: 138, 39
+  orig: 138, 39
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 2, 438
+  size: 431, 234
+  orig: 431, 234
+  offset: 0, 0
+  index: -1
+light3
+  rotate: true
+  xy: 435, 348
+  size: 324, 132
+  orig: 324, 132
+  offset: 0, 0
+  index: -1
+lizi1
+  rotate: true
+  xy: 569, 436
+  size: 236, 79
+  orig: 238, 81
+  offset: 1, 1
+  index: -1
+lizi1_1
+  rotate: false
+  xy: 632, 416
+  size: 18, 18
+  orig: 20, 20
+  offset: 1, 1
+  index: -1
+lizi2
+  rotate: false
+  xy: 435, 267
+  size: 237, 79
+  orig: 239, 81
+  offset: 1, 1
+  index: -1
+lizi2_hui
+  rotate: false
+  xy: 435, 186
+  size: 237, 79
+  orig: 237, 79
+  offset: 0, 0
+  index: -1
+lizi_2_2
+  rotate: false
+  xy: 632, 396
+  size: 18, 18
+  orig: 20, 20
+  offset: 1, 1
+  index: -1
+lizi_2_2_hui
+  rotate: false
+  xy: 632, 376
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+spin
+  rotate: true
+  xy: 228, 57
+  size: 119, 39
+  orig: 121, 41
+  offset: 1, 1
+  index: -1
+spin_bg
+  rotate: true
+  xy: 332, 179
+  size: 257, 101
+  orig: 257, 101
+  offset: 0, 0
+  index: -1
+spin_bg_hui
+  rotate: false
+  xy: 332, 78
+  size: 255, 99
+  orig: 255, 99
+  offset: 0, 0
+  index: -1
+spin_db
+  rotate: true
+  xy: 2, 178
+  size: 258, 108
+  orig: 258, 109
+  offset: 0, 1
+  index: -1
+spin_db2
+  rotate: true
+  xy: 222, 178
+  size: 258, 108
+  orig: 258, 109
+  offset: 0, 1
+  index: -1
+spin_db2_hui
+  rotate: true
+  xy: 112, 178
+  size: 258, 108
+  orig: 258, 109
+  offset: 0, 1
+  index: -1
+spin_gg
+  rotate: false
+  xy: 2, 109
+  size: 224, 67
+  orig: 224, 67
+  offset: 0, 0
+  index: -1
+spin_gg_hui
+  rotate: false
+  xy: 2, 42
+  size: 222, 65
+  orig: 222, 65
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 569, 389
+  size: 61, 45
+  orig: 61, 45
+  offset: 0, 0
+  index: -1

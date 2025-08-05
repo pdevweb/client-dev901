@@ -1,0 +1,41 @@
+
+GameFever_slot_icon.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g_CN
+  rotate: false
+  xy: 83, 2
+  size: 66, 65
+  orig: 79, 74
+  offset: 7, 7
+  index: -1
+g_EN
+  rotate: false
+  xy: 151, 2
+  size: 67, 65
+  orig: 79, 74
+  offset: 6, 7
+  index: -1
+kuang
+  rotate: false
+  xy: 2, 39
+  size: 79, 28
+  orig: 79, 74
+  offset: 0, 0
+  index: -1
+n_CN
+  rotate: false
+  xy: 220, 2
+  size: 65, 65
+  orig: 79, 74
+  offset: 8, 9
+  index: -1
+n_EN
+  rotate: false
+  xy: 287, 2
+  size: 65, 65
+  orig: 79, 74
+  offset: 8, 8
+  index: -1

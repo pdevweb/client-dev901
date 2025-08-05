@@ -1,0 +1,118 @@
+
+eff_icon_beizeng.png
+size: 572,572
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gy1_00000
+  rotate: false
+  xy: 209, 372
+  size: 188, 198
+  orig: 200, 200
+  offset: 6, 1
+  index: -1
+yinxinguang/yinxinguang_00000
+  rotate: false
+  xy: 446, 289
+  size: 102, 102
+  orig: 142, 142
+  offset: 19, 23
+  index: -1
+yinxinguang/yinxinguang_00001
+  rotate: false
+  xy: 321, 242
+  size: 123, 128
+  orig: 142, 142
+  offset: 15, 2
+  index: -1
+yinxinguang/yinxinguang_00002
+  rotate: true
+  xy: 399, 458
+  size: 112, 133
+  orig: 142, 142
+  offset: 15, 0
+  index: -1
+yinxinguang/yinxinguang_00003
+  rotate: false
+  xy: 433, 119
+  size: 117, 121
+  orig: 142, 142
+  offset: 13, 15
+  index: -1
+yinxinguang/yinxinguang_00004
+  rotate: true
+  xy: 175, 2
+  size: 115, 110
+  orig: 142, 142
+  offset: 11, 12
+  index: -1
+yinxinguang/yinxinguang_00005
+  rotate: false
+  xy: 311, 4
+  size: 115, 115
+  orig: 142, 142
+  offset: 10, 9
+  index: -1
+yinxinguang/yinxinguang_00006
+  rotate: true
+  xy: 311, 121
+  size: 119, 120
+  orig: 142, 142
+  offset: 8, 6
+  index: -1
+yinxinguang/yinxinguang_00007
+  rotate: false
+  xy: 189, 119
+  size: 120, 125
+  orig: 142, 142
+  offset: 10, 3
+  index: -1
+yinxinguang/yinxinguang_00008
+  rotate: true
+  xy: 189, 246
+  size: 124, 130
+  orig: 142, 142
+  offset: 8, 0
+  index: -1
+yinxinguang/yinxinguang_00009
+  rotate: false
+  xy: 2, 51
+  size: 119, 131
+  orig: 142, 142
+  offset: 5, 0
+  index: -1
+zhadan_1
+  rotate: true
+  xy: 123, 50
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+zhadan_2
+  rotate: false
+  xy: 123, 120
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+zhadan_3
+  rotate: false
+  xy: 399, 393
+  size: 115, 63
+  orig: 115, 63
+  offset: 0, 0
+  index: -1
+zhadan_4
+  rotate: true
+  xy: 2, 184
+  size: 194, 185
+  orig: 194, 185
+  offset: 0, 0
+  index: -1
+zhadan_5
+  rotate: false
+  xy: 2, 380
+  size: 205, 190
+  orig: 205, 190
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+feidie_tx_hou.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chacao_1
+  rotate: false
+  xy: 39, 85
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+chengtu
+  rotate: true
+  xy: 143, 30
+  size: 197, 213
+  orig: 270, 254
+  offset: 39, 22
+  index: -1
+liuxing
+  rotate: false
+  xy: 2, 70
+  size: 35, 432
+  orig: 59, 462
+  offset: 13, 17
+  index: -1
+qiliu
+  rotate: false
+  xy: 39, 229
+  size: 346, 273
+  orig: 434, 338
+  offset: 28, 33
+  index: -1
+suduxian_2
+  rotate: false
+  xy: 39, 89
+  size: 8, 138
+  orig: 8, 178
+  offset: 0, 20
+  index: -1
+tuowei_2
+  rotate: false
+  xy: 2, 2
+  size: 139, 66
+  orig: 139, 66
+  offset: 0, 0
+  index: -1
+yunshi_1
+  rotate: false
+  xy: 49, 158
+  size: 49, 69
+  orig: 50, 80
+  offset: 0, 5
+  index: -1

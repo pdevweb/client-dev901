@@ -1,0 +1,13 @@
+
+eff_icon_q.png
+size: 116,112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+png/Symbol_03
+  rotate: false
+  xy: 2, 2
+  size: 110, 106
+  orig: 145, 145
+  offset: 22, 18
+  index: -1

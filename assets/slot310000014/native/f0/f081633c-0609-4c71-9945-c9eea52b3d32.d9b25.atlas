@@ -1,0 +1,181 @@
+
+pickjp_zhongjiang.png
+size: 988,296
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A041_25
+  rotate: false
+  xy: 2, 226
+  size: 184, 68
+  orig: 184, 68
+  offset: 0, 0
+  index: -1
+xl_01
+  rotate: true
+  xy: 2, 31
+  size: 193, 56
+  orig: 195, 56
+  offset: 2, 0
+  index: -1
+xl_02
+  rotate: false
+  xy: 188, 238
+  size: 193, 56
+  orig: 195, 56
+  offset: 2, 0
+  index: -1
+xl_03
+  rotate: true
+  xy: 60, 31
+  size: 193, 56
+  orig: 195, 56
+  offset: 2, 0
+  index: -1
+xl_05
+  rotate: true
+  xy: 118, 32
+  size: 192, 56
+  orig: 195, 56
+  offset: 3, 0
+  index: -1
+xl_06
+  rotate: false
+  xy: 578, 238
+  size: 192, 56
+  orig: 195, 56
+  offset: 3, 0
+  index: -1
+xl_07
+  rotate: false
+  xy: 772, 238
+  size: 192, 56
+  orig: 195, 56
+  offset: 3, 0
+  index: -1
+xl_09
+  rotate: false
+  xy: 774, 180
+  size: 191, 56
+  orig: 195, 56
+  offset: 4, 0
+  index: -1
+xl_10
+  rotate: false
+  xy: 370, 67
+  size: 191, 56
+  orig: 195, 56
+  offset: 4, 0
+  index: -1
+xl_11
+  rotate: false
+  xy: 758, 122
+  size: 189, 56
+  orig: 195, 56
+  offset: 4, 0
+  index: -1
+xl_13
+  rotate: false
+  xy: 366, 9
+  size: 185, 56
+  orig: 195, 56
+  offset: 6, 0
+  index: -1
+xl_14
+  rotate: false
+  xy: 553, 9
+  size: 183, 56
+  orig: 195, 56
+  offset: 7, 0
+  index: -1
+xl_15
+  rotate: false
+  xy: 176, 125
+  size: 192, 56
+  orig: 195, 56
+  offset: 2, 0
+  index: -1
+xl_17
+  rotate: false
+  xy: 188, 183
+  size: 194, 53
+  orig: 195, 56
+  offset: 1, 2
+  index: -1
+xl_18
+  rotate: false
+  xy: 384, 182
+  size: 193, 54
+  orig: 195, 56
+  offset: 2, 1
+  index: -1
+xl_19
+  rotate: false
+  xy: 383, 238
+  size: 193, 56
+  orig: 195, 56
+  offset: 2, 0
+  index: -1
+xl_21
+  rotate: false
+  xy: 579, 182
+  size: 193, 54
+  orig: 195, 56
+  offset: 2, 1
+  index: -1
+xl_22
+  rotate: false
+  xy: 370, 125
+  size: 193, 55
+  orig: 195, 56
+  offset: 2, 0
+  index: -1
+xl_23
+  rotate: false
+  xy: 176, 67
+  size: 192, 56
+  orig: 195, 56
+  offset: 3, 0
+  index: -1
+xl_25
+  rotate: false
+  xy: 563, 67
+  size: 190, 56
+  orig: 195, 56
+  offset: 3, 0
+  index: -1
+xl_26
+  rotate: false
+  xy: 755, 64
+  size: 189, 56
+  orig: 195, 56
+  offset: 4, 0
+  index: -1
+xl_27
+  rotate: false
+  xy: 176, 9
+  size: 188, 56
+  orig: 195, 56
+  offset: 4, 0
+  index: -1
+xl_29
+  rotate: false
+  xy: 738, 7
+  size: 184, 55
+  orig: 195, 56
+  offset: 7, 1
+  index: -1
+xl_30
+  rotate: false
+  xy: 565, 125
+  size: 191, 55
+  orig: 195, 56
+  offset: 2, 1
+  index: -1
+xm_475
+  rotate: false
+  xy: 924, 2
+  size: 60, 60
+  orig: 64, 64
+  offset: 1, 2
+  index: -1

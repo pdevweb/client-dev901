@@ -1,0 +1,146 @@
+
+TC_JP_chengbei.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/g/g_00
+  rotate: false
+  xy: 2, 171
+  size: 50, 55
+  orig: 67, 58
+  offset: 8, 2
+  index: -1
+images/g/g_01
+  rotate: false
+  xy: 54, 117
+  size: 49, 53
+  orig: 67, 58
+  offset: 9, 3
+  index: -1
+images/g/g_02
+  rotate: false
+  xy: 207, 65
+  size: 48, 51
+  orig: 67, 58
+  offset: 9, 4
+  index: -1
+images/g/g_03
+  rotate: false
+  xy: 207, 10
+  size: 45, 53
+  orig: 67, 58
+  offset: 11, 3
+  index: -1
+images/g/g_04
+  rotate: false
+  xy: 207, 173
+  size: 47, 53
+  orig: 67, 58
+  offset: 10, 3
+  index: -1
+images/g/g_05
+  rotate: false
+  xy: 207, 118
+  size: 47, 53
+  orig: 67, 58
+  offset: 10, 3
+  index: -1
+images/g/g_06
+  rotate: false
+  xy: 55, 62
+  size: 49, 53
+  orig: 67, 58
+  offset: 9, 3
+  index: -1
+images/g/g_07
+  rotate: false
+  xy: 105, 7
+  size: 49, 53
+  orig: 67, 58
+  offset: 9, 3
+  index: -1
+images/g/g_08
+  rotate: false
+  xy: 2, 59
+  size: 51, 53
+  orig: 67, 58
+  offset: 8, 3
+  index: -1
+images/g/g_09
+  rotate: false
+  xy: 2, 114
+  size: 50, 55
+  orig: 67, 58
+  offset: 8, 2
+  index: -1
+images/g/g_10
+  rotate: false
+  xy: 2, 3
+  size: 50, 54
+  orig: 67, 58
+  offset: 8, 2
+  index: -1
+images/g/g_11
+  rotate: false
+  xy: 54, 2
+  size: 49, 55
+  orig: 67, 58
+  offset: 9, 2
+  index: -1
+images/g/g_12
+  rotate: false
+  xy: 54, 172
+  size: 49, 54
+  orig: 67, 58
+  offset: 9, 3
+  index: -1
+images/g/g_13
+  rotate: false
+  xy: 105, 173
+  size: 49, 53
+  orig: 67, 58
+  offset: 9, 3
+  index: -1
+images/g/g_14
+  rotate: false
+  xy: 105, 118
+  size: 49, 53
+  orig: 67, 58
+  offset: 9, 3
+  index: -1
+images/g/g_15
+  rotate: false
+  xy: 106, 63
+  size: 49, 53
+  orig: 67, 58
+  offset: 9, 3
+  index: -1
+images/g/g_16
+  rotate: false
+  xy: 156, 8
+  size: 49, 53
+  orig: 67, 58
+  offset: 9, 3
+  index: -1
+images/g/g_17
+  rotate: false
+  xy: 156, 173
+  size: 49, 53
+  orig: 67, 58
+  offset: 9, 3
+  index: -1
+images/g/g_18
+  rotate: false
+  xy: 156, 118
+  size: 49, 53
+  orig: 67, 58
+  offset: 9, 3
+  index: -1
+images/g/g_19
+  rotate: false
+  xy: 157, 63
+  size: 48, 53
+  orig: 67, 58
+  offset: 9, 2
+  index: -1

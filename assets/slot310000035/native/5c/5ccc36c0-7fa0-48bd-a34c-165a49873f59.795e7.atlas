@@ -1,0 +1,20 @@
+
+eff_bjyz.png
+size: 316,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: false
+  xy: 2, 138
+  size: 159, 175
+  orig: 163, 175
+  offset: 2, 0
+  index: -1
+112
+  rotate: true
+  xy: 2, 2
+  size: 134, 158
+  orig: 134, 158
+  offset: 0, 0
+  index: -1

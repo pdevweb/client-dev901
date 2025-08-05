@@ -1,0 +1,118 @@
+
+eff_icon_5.png
+size: 644,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 597, 75
+  size: 18, 19
+  orig: 20, 21
+  offset: 1, 1
+  index: -1
+di
+  rotate: false
+  xy: 2, 43
+  size: 212, 159
+  orig: 214, 161
+  offset: 1, 1
+  index: -1
+di2
+  rotate: false
+  xy: 216, 55
+  size: 214, 147
+  orig: 214, 161
+  offset: 0, 0
+  index: -1
+duzi
+  rotate: false
+  xy: 432, 59
+  size: 73, 67
+  orig: 75, 68
+  offset: 2, 1
+  index: -1
+j1
+  rotate: false
+  xy: 417, 2
+  size: 113, 51
+  orig: 115, 53
+  offset: 1, 1
+  index: -1
+j2
+  rotate: false
+  xy: 592, 145
+  size: 49, 57
+  orig: 51, 59
+  offset: 1, 1
+  index: -1
+j3
+  rotate: false
+  xy: 532, 9
+  size: 47, 57
+  orig: 49, 59
+  offset: 1, 1
+  index: -1
+lian
+  rotate: false
+  xy: 432, 128
+  size: 158, 74
+  orig: 160, 76
+  offset: 1, 1
+  index: -1
+s
+  rotate: false
+  xy: 507, 68
+  size: 88, 26
+  orig: 90, 28
+  offset: 1, 1
+  index: -1
+shitou
+  rotate: true
+  xy: 581, 37
+  size: 29, 27
+  orig: 32, 28
+  offset: 3, 1
+  index: -1
+x
+  rotate: false
+  xy: 276, 3
+  size: 139, 50
+  orig: 146, 52
+  offset: 4, 1
+  index: -1
+y1
+  rotate: false
+  xy: 611, 129
+  size: 16, 14
+  orig: 18, 16
+  offset: 1, 1
+  index: -1
+y2
+  rotate: false
+  xy: 592, 128
+  size: 17, 15
+  orig: 19, 17
+  offset: 1, 1
+  index: -1
+yanb
+  rotate: false
+  xy: 507, 96
+  size: 117, 30
+  orig: 119, 32
+  offset: 1, 1
+  index: -1
+z1
+  rotate: false
+  xy: 139, 9
+  size: 135, 32
+  orig: 135, 32
+  offset: 0, 0
+  index: -1
+z2
+  rotate: false
+  xy: 2, 8
+  size: 135, 33
+  orig: 135, 33
+  offset: 0, 0
+  index: -1

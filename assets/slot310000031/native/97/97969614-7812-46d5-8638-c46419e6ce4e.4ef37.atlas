@@ -1,0 +1,34 @@
+
+Symbol_07.png
+size: 208,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jpg/Light_05
+  rotate: false
+  xy: 114, 2
+  size: 86, 85
+  orig: 96, 96
+  offset: 3, 5
+  index: -1
+jpg/Symbol_06_Bg
+  rotate: false
+  xy: 2, 89
+  size: 140, 125
+  orig: 140, 125
+  offset: 0, 0
+  index: -1
+png/Symbol_06_Fan
+  rotate: false
+  xy: 2, 7
+  size: 110, 80
+  orig: 110, 80
+  offset: 0, 0
+  index: -1
+png/Symbol_06_shadow
+  rotate: true
+  xy: 144, 93
+  size: 121, 62
+  orig: 121, 63
+  offset: 0, 1
+  index: -1

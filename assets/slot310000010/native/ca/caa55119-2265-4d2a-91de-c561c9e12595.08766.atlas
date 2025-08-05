@@ -1,0 +1,90 @@
+
+239_symbol_m3.png
+size: 312,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 113, 8
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+bg1
+  rotate: false
+  xy: 2, 2
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+bz
+  rotate: false
+  xy: 260, 3
+  size: 46, 10
+  orig: 46, 10
+  offset: 0, 0
+  index: -1
+bz1
+  rotate: false
+  xy: 246, 56
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+k
+  rotate: false
+  xy: 260, 15
+  size: 50, 9
+  orig: 50, 9
+  offset: 0, 0
+  index: -1
+k1
+  rotate: true
+  xy: 296, 62
+  size: 49, 6
+  orig: 49, 6
+  offset: 0, 0
+  index: -1
+sd
+  rotate: false
+  xy: 260, 34
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+sg1
+  rotate: false
+  xy: 260, 26
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+ss
+  rotate: true
+  xy: 279, 31
+  size: 50, 15
+  orig: 50, 16
+  offset: 0, 0
+  index: -1
+t
+  rotate: true
+  xy: 218, 56
+  size: 55, 26
+  orig: 55, 26
+  offset: 0, 0
+  index: -1
+u
+  rotate: false
+  xy: 246, 83
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+xg03
+  rotate: false
+  xy: 218, 14
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+eff_dakuang.png
+size: 1696,344
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jili/jili_0
+  rotate: false
+  xy: 1377, 2
+  size: 106, 338
+  orig: 128, 349
+  offset: 11, 4
+  index: -1
+jili/jili_1
+  rotate: false
+  xy: 1268, 2
+  size: 107, 338
+  orig: 128, 349
+  offset: 11, 4
+  index: -1
+jili/jili_10
+  rotate: false
+  xy: 119, 2
+  size: 115, 338
+  orig: 128, 349
+  offset: 9, 4
+  index: -1
+jili/jili_11
+  rotate: false
+  xy: 236, 2
+  size: 115, 338
+  orig: 128, 349
+  offset: 10, 4
+  index: -1
+jili/jili_12
+  rotate: false
+  xy: 931, 2
+  size: 112, 338
+  orig: 128, 349
+  offset: 11, 4
+  index: -1
+jili/jili_13
+  rotate: false
+  xy: 816, 2
+  size: 113, 338
+  orig: 128, 349
+  offset: 11, 4
+  index: -1
+jili/jili_14
+  rotate: false
+  xy: 1045, 2
+  size: 111, 338
+  orig: 128, 349
+  offset: 12, 4
+  index: -1
+jili/jili_2
+  rotate: false
+  xy: 1158, 2
+  size: 108, 338
+  orig: 128, 349
+  offset: 11, 4
+  index: -1
+jili/jili_3
+  rotate: false
+  xy: 1592, 2
+  size: 100, 338
+  orig: 128, 349
+  offset: 11, 4
+  index: -1
+jili/jili_4
+  rotate: false
+  xy: 1485, 2
+  size: 105, 338
+  orig: 128, 349
+  offset: 10, 4
+  index: -1
+jili/jili_5
+  rotate: false
+  xy: 701, 2
+  size: 113, 338
+  orig: 128, 349
+  offset: 9, 4
+  index: -1
+jili/jili_6
+  rotate: false
+  xy: 353, 2
+  size: 114, 338
+  orig: 128, 349
+  offset: 10, 4
+  index: -1
+jili/jili_7
+  rotate: false
+  xy: 469, 2
+  size: 114, 338
+  orig: 128, 349
+  offset: 10, 4
+  index: -1
+jili/jili_8
+  rotate: false
+  xy: 585, 2
+  size: 114, 338
+  orig: 128, 349
+  offset: 10, 4
+  index: -1
+jili/jili_9
+  rotate: false
+  xy: 2, 2
+  size: 115, 338
+  orig: 128, 349
+  offset: 10, 4
+  index: -1

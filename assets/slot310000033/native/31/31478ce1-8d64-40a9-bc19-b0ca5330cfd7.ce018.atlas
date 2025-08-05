@@ -1,0 +1,160 @@
+
+eff_firework.png
+size: 1116,1116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+RingGlowWhite1
+  rotate: false
+  xy: 2, 710
+  size: 254, 254
+  orig: 256, 256
+  offset: 1, 1
+  index: -1
+eff
+  rotate: false
+  xy: 486, 647
+  size: 464, 464
+  orig: 512, 512
+  offset: 24, 24
+  index: -1
+guangdian1
+  rotate: false
+  xy: 486, 448
+  size: 205, 197
+  orig: 256, 256
+  offset: 22, 31
+  index: -1
+gx_00
+  rotate: true
+  xy: 453, 522
+  size: 199, 31
+  orig: 222, 31
+  offset: 10, 0
+  index: -1
+huabanlizi/huabanlizi_00001
+  rotate: true
+  xy: 385, 425
+  size: 217, 64
+  orig: 493, 157
+  offset: 128, 0
+  index: -1
+huabanlizi/huabanlizi_00002
+  rotate: false
+  xy: 344, 35
+  size: 286, 103
+  orig: 493, 157
+  offset: 96, 0
+  index: -1
+huabanlizi/huabanlizi_00003
+  rotate: false
+  xy: 2, 110
+  size: 340, 130
+  orig: 493, 157
+  offset: 72, 0
+  index: -1
+huabanlizi/huabanlizi_00004
+  rotate: true
+  xy: 932, 67
+  size: 383, 146
+  orig: 493, 157
+  offset: 53, 0
+  index: -1
+huabanlizi/huabanlizi_00005
+  rotate: false
+  xy: 693, 491
+  size: 418, 154
+  orig: 493, 157
+  offset: 38, 0
+  index: -1
+huabanlizi/huabanlizi_00006
+  rotate: false
+  xy: 372, 266
+  size: 445, 157
+  orig: 493, 157
+  offset: 26, 0
+  index: -1
+huabanlizi/huabanlizi_00007
+  rotate: true
+  xy: 2, 242
+  size: 466, 152
+  orig: 493, 157
+  offset: 18, 0
+  index: -1
+huabanlizi/huabanlizi_00008
+  rotate: false
+  xy: 2, 966
+  size: 482, 145
+  orig: 493, 157
+  offset: 9, 0
+  index: -1
+huabanlizi/huabanlizi_00009
+  rotate: true
+  xy: 952, 667
+  size: 444, 135
+  orig: 493, 157
+  offset: 1, 0
+  index: -1
+huabanlizi/huabanlizi_00010
+  rotate: false
+  xy: 372, 140
+  size: 390, 124
+  orig: 493, 157
+  offset: 54, 0
+  index: -1
+huabanlizi/huabanlizi_00011
+  rotate: true
+  xy: 819, 54
+  size: 396, 111
+  orig: 493, 157
+  offset: 52, 0
+  index: -1
+huabanlizi/huabanlizi_00012
+  rotate: false
+  xy: 693, 452
+  size: 361, 37
+  orig: 493, 157
+  offset: 50, 0
+  index: -1
+huabanlizi/huabanlizi_00013
+  rotate: true
+  xy: 451, 488
+  size: 32, 16
+  orig: 493, 157
+  offset: 380, 1
+  index: -1
+huabanlizi/huabanlizi_00014
+  rotate: true
+  xy: 451, 454
+  size: 32, 16
+  orig: 493, 157
+  offset: 380, 1
+  index: -1
+selight2
+  rotate: false
+  xy: 156, 480
+  size: 227, 228
+  orig: 232, 232
+  offset: 2, 2
+  index: -1
+selight3
+  rotate: true
+  xy: 156, 259
+  size: 219, 214
+  orig: 232, 232
+  offset: 4, 9
+  index: -1
+tga_l_po03
+  rotate: false
+  xy: 258, 723
+  size: 225, 241
+  orig: 256, 256
+  offset: 16, 7
+  index: -1
+xx
+  rotate: true
+  xy: 385, 644
+  size: 77, 66
+  orig: 96, 71
+  offset: 17, 1
+  index: -1

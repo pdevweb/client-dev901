@@ -1,0 +1,27 @@
+
+398_jp_lock.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lockfg
+  rotate: false
+  xy: 115, 2
+  size: 94, 30
+  orig: 94, 30
+  offset: 0, 0
+  index: -1
+lockfg01
+  rotate: false
+  xy: 2, 4
+  size: 55, 28
+  orig: 55, 28
+  offset: 0, 0
+  index: -1
+lockfg02
+  rotate: false
+  xy: 59, 4
+  size: 54, 28
+  orig: 54, 28
+  offset: 0, 0
+  index: -1

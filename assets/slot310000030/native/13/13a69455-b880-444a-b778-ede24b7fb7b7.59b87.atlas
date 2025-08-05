@@ -1,0 +1,48 @@
+
+402_ji_tx1.png
+size: 424,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caihong_guangyun_d
+  rotate: true
+  xy: 2, 49
+  size: 54, 317
+  orig: 58, 319
+  offset: 1, 1
+  index: -1
+dizuo_g
+  rotate: false
+  xy: 2, 105
+  size: 341, 146
+  orig: 345, 150
+  offset: 2, 3
+  index: -1
+guangquan
+  rotate: false
+  xy: 2, 2
+  size: 297, 45
+  orig: 297, 45
+  offset: 0, 0
+  index: -1
+hanshui
+  rotate: true
+  xy: 393, 213
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+jb_gx
+  rotate: false
+  xy: 321, 5
+  size: 99, 98
+  orig: 102, 102
+  offset: 1, 2
+  index: -1
+tuqi
+  rotate: false
+  xy: 345, 206
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1

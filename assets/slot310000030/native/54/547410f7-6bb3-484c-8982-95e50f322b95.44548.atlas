@@ -1,0 +1,69 @@
+
+402_fgks_tc.png
+size: 696,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biaoqian
+  rotate: true
+  xy: 624, 49
+  size: 210, 70
+  orig: 210, 70
+  offset: 0, 0
+  index: -1
+blue_chicken
+  rotate: false
+  xy: 209, 2
+  size: 384, 67
+  orig: 386, 68
+  offset: 1, 1
+  index: -1
+ddd
+  rotate: false
+  xy: 608, 191
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+double_combo
+  rotate: false
+  xy: 209, 134
+  size: 397, 58
+  orig: 399, 59
+  offset: 1, 1
+  index: -1
+gd
+  rotate: false
+  xy: 597, 112
+  size: 20, 20
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+green_chicken
+  rotate: false
+  xy: 209, 194
+  size: 413, 65
+  orig: 414, 66
+  offset: 0, 1
+  index: -1
+hd
+  rotate: false
+  xy: 608, 188
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+triple_combo
+  rotate: false
+  xy: 209, 71
+  size: 386, 61
+  orig: 388, 62
+  offset: 1, 1
+  index: -1
+xing001
+  rotate: false
+  xy: 2, 54
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+eff_icon_02.png
+size: 524,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WILD_11
+  rotate: true
+  xy: 313, 3
+  size: 146, 111
+  orig: 146, 111
+  offset: 0, 0
+  index: -1
+WILD_14
+  rotate: false
+  xy: 292, 151
+  size: 141, 149
+  orig: 141, 149
+  offset: 0, 0
+  index: -1
+WILD_19
+  rotate: false
+  xy: 2, 296
+  size: 141, 226
+  orig: 141, 226
+  offset: 0, 0
+  index: -1
+WILD_2
+  rotate: false
+  xy: 295, 305
+  size: 146, 68
+  orig: 146, 68
+  offset: 0, 0
+  index: -1
+WILD_21
+  rotate: true
+  xy: 268, 375
+  size: 147, 42
+  orig: 147, 42
+  offset: 0, 0
+  index: -1
+WILD_22
+  rotate: false
+  xy: 145, 304
+  size: 36, 87
+  orig: 36, 87
+  offset: 0, 0
+  index: -1
+WILD_23
+  rotate: false
+  xy: 466, 413
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+WILD_24
+  rotate: true
+  xy: 135, 104
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+WILD_25
+  rotate: true
+  xy: 183, 302
+  size: 71, 110
+  orig: 71, 110
+  offset: 0, 0
+  index: -1
+WILD_26
+  rotate: false
+  xy: 145, 393
+  size: 121, 129
+  orig: 150, 129
+  offset: 0, 0
+  index: -1
+WILD_27
+  rotate: true
+  xy: 2, 5
+  size: 63, 84
+  orig: 65, 84
+  offset: 0, 0
+  index: -1
+WILD_28
+  rotate: false
+  xy: 466, 450
+  size: 50, 72
+  orig: 50, 72
+  offset: 0, 0
+  index: -1
+WILD_29
+  rotate: false
+  xy: 313, 393
+  size: 151, 129
+  orig: 151, 129
+  offset: 0, 0
+  index: -1
+WILD_30
+  rotate: true
+  xy: 135, 91
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+WILD_31
+  rotate: false
+  xy: 88, 11
+  size: 78, 57
+  orig: 78, 57
+  offset: 0, 0
+  index: -1
+WILD_32
+  rotate: false
+  xy: 2, 70
+  size: 131, 224
+  orig: 131, 224
+  offset: 0, 0
+  index: -1
+WILD_5
+  rotate: true
+  xy: 435, 157
+  size: 146, 81
+  orig: 146, 81
+  offset: 0, 0
+  index: -1
+WILD_8
+  rotate: true
+  xy: 426, 3
+  size: 146, 96
+  orig: 146, 96
+  offset: 0, 0
+  index: -1
+dibuyan_00000
+  rotate: true
+  xy: 168, 2
+  size: 135, 143
+  orig: 147, 147
+  offset: 2, 2
+  index: -1
+hongyan
+  rotate: false
+  xy: 135, 139
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1

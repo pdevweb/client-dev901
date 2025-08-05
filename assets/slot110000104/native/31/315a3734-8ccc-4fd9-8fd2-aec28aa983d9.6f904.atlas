@@ -1,0 +1,125 @@
+
+jinbi_shouji.png
+size: 688,344
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0010
+  rotate: true
+  xy: 255, 191
+  size: 150, 98
+  orig: 150, 98
+  offset: 0, 0
+  index: -1
+eff1
+  rotate: true
+  xy: 2, 86
+  size: 255, 251
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+jinbi/coin_01
+  rotate: true
+  xy: 366, 88
+  size: 107, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+jinbi/coin_02
+  rotate: false
+  xy: 585, 10
+  size: 98, 109
+  orig: 109, 109
+  offset: 2, 0
+  index: -1
+jinbi/coin_03
+  rotate: true
+  xy: 2, 4
+  size: 80, 109
+  orig: 109, 109
+  offset: 10, 0
+  index: -1
+jinbi/coin_04
+  rotate: true
+  xy: 335, 31
+  size: 55, 109
+  orig: 109, 109
+  offset: 23, 0
+  index: -1
+jinbi/coin_05
+  rotate: true
+  xy: 335, 2
+  size: 27, 109
+  orig: 109, 109
+  offset: 39, 0
+  index: -1
+jinbi/coin_06
+  rotate: true
+  xy: 355, 197
+  size: 33, 109
+  orig: 109, 109
+  offset: 40, 0
+  index: -1
+jinbi/coin_07
+  rotate: true
+  xy: 224, 26
+  size: 58, 109
+  orig: 109, 109
+  offset: 29, 0
+  index: -1
+jinbi/coin_08
+  rotate: true
+  xy: 113, 6
+  size: 78, 109
+  orig: 109, 109
+  offset: 20, 0
+  index: -1
+jinbi/coin_09
+  rotate: false
+  xy: 588, 121
+  size: 92, 109
+  orig: 109, 109
+  offset: 12, 0
+  index: -1
+jinbi/coin_10
+  rotate: true
+  xy: 255, 88
+  size: 101, 109
+  orig: 109, 109
+  offset: 7, 0
+  index: -1
+jinbi/coin_11
+  rotate: false
+  xy: 477, 10
+  size: 106, 109
+  orig: 109, 109
+  offset: 3, 0
+  index: -1
+jinbi/coin_12
+  rotate: false
+  xy: 577, 232
+  size: 108, 109
+  orig: 109, 109
+  offset: 1, 0
+  index: -1
+jinbi/coin_13
+  rotate: false
+  xy: 355, 232
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+jinbi/coin_14
+  rotate: false
+  xy: 466, 232
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+jinbi/coin_15
+  rotate: false
+  xy: 477, 121
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1

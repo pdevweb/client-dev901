@@ -1,0 +1,111 @@
+
+eff_icon_06.png
+size: 1348,384
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diji2
+  rotate: true
+  xy: 864, 24
+  size: 177, 174
+  orig: 220, 220
+  offset: 16, 20
+  index: -1
+diji2_1
+  rotate: false
+  xy: 1164, 220
+  size: 162, 162
+  orig: 220, 220
+  offset: 24, 27
+  index: -1
+diji2_add
+  rotate: false
+  xy: 2, 162
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+diji2_y
+  rotate: false
+  xy: 224, 162
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+ks_diji2_00
+  rotate: true
+  xy: 1201, 72
+  size: 146, 142
+  orig: 213, 202
+  offset: 37, 29
+  index: -1
+ks_diji2_01
+  rotate: false
+  xy: 169, 4
+  size: 161, 156
+  orig: 213, 202
+  offset: 30, 22
+  index: -1
+ks_diji2_02
+  rotate: true
+  xy: 994, 210
+  size: 172, 168
+  orig: 213, 202
+  offset: 24, 16
+  index: -1
+ks_diji2_03
+  rotate: true
+  xy: 816, 203
+  size: 179, 176
+  orig: 213, 202
+  offset: 20, 11
+  index: -1
+ks_diji2_04
+  rotate: true
+  xy: 633, 196
+  size: 186, 181
+  orig: 213, 202
+  offset: 17, 8
+  index: -1
+ks_diji2_05
+  rotate: false
+  xy: 494, 3
+  size: 191, 183
+  orig: 213, 202
+  offset: 14, 6
+  index: -1
+ks_diji2_06
+  rotate: true
+  xy: 446, 188
+  size: 194, 185
+  orig: 213, 202
+  offset: 12, 6
+  index: -1
+ks_diji2_07
+  rotate: true
+  xy: 687, 13
+  size: 181, 175
+  orig: 213, 202
+  offset: 19, 14
+  index: -1
+ks_diji2_08
+  rotate: false
+  xy: 332, 6
+  size: 160, 154
+  orig: 213, 202
+  offset: 29, 26
+  index: -1
+ks_diji2_09
+  rotate: false
+  xy: 2, 2
+  size: 165, 158
+  orig: 213, 202
+  offset: 26, 24
+  index: -1
+ks_diji2_10
+  rotate: true
+  xy: 1040, 44
+  size: 164, 159
+  orig: 213, 202
+  offset: 23, 22
+  index: -1

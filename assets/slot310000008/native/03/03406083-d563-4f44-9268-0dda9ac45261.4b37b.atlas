@@ -1,0 +1,160 @@
+
+fg_gx_tc.png
+size: 569,519
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chgy_00
+  rotate: true
+  xy: 314, 225
+  size: 128, 115
+  orig: 128, 115
+  offset: 0, 0
+  index: -1
+cong
+  rotate: true
+  xy: 2, 10
+  size: 295, 59
+  orig: 295, 59
+  offset: 0, 0
+  index: -1
+cong_fg
+  rotate: true
+  xy: 63, 13
+  size: 292, 55
+  orig: 292, 55
+  offset: 0, 0
+  index: -1
+effect/yhd
+  rotate: false
+  xy: 214, 355
+  size: 186, 162
+  orig: 186, 162
+  offset: 0, 0
+  index: -1
+free_g
+  rotate: true
+  xy: 120, 3
+  size: 302, 40
+  orig: 302, 40
+  offset: 0, 0
+  index: -1
+g
+  rotate: false
+  xy: 314, 157
+  size: 139, 66
+  orig: 139, 66
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 2, 307
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: -1
+hd
+  rotate: false
+  xy: 214, 307
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lzhs
+  rotate: false
+  xy: 402, 356
+  size: 165, 161
+  orig: 165, 161
+  offset: 0, 0
+  index: -1
+tx/3
+  rotate: true
+  xy: 162, 132
+  size: 173, 150
+  orig: 173, 150
+  offset: 0, 0
+  index: -1
+tx/cc_01
+  rotate: false
+  xy: 273, 315
+  size: 35, 38
+  orig: 85, 109
+  offset: 23, 17
+  index: -1
+tx/cc_02
+  rotate: true
+  xy: 214, 310
+  size: 43, 57
+  orig: 85, 109
+  offset: 21, 19
+  index: -1
+tx/cc_03
+  rotate: true
+  xy: 455, 109
+  size: 50, 81
+  orig: 85, 109
+  offset: 20, 19
+  index: -1
+tx/cc_04
+  rotate: false
+  xy: 388, 46
+  size: 64, 82
+  orig: 85, 109
+  offset: 16, 21
+  index: -1
+tx/cc_05
+  rotate: true
+  xy: 455, 161
+  size: 69, 83
+  orig: 85, 109
+  offset: 13, 22
+  index: -1
+tx/cc_06
+  rotate: true
+  xy: 454, 4
+  size: 48, 72
+  orig: 85, 109
+  offset: 12, 33
+  index: -1
+tx/cc_07
+  rotate: true
+  xy: 454, 54
+  size: 53, 71
+  orig: 85, 109
+  offset: 7, 34
+  index: -1
+tx/gx_00
+  rotate: false
+  xy: 292, 8
+  size: 43, 120
+  orig: 61, 123
+  offset: 10, 2
+  index: -1
+tx/hg_00001
+  rotate: false
+  xy: 431, 232
+  size: 122, 122
+  orig: 129, 127
+  offset: 2, 3
+  index: -1
+xxg
+  rotate: false
+  xy: 162, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+yangjing_g_2
+  rotate: true
+  xy: 337, 16
+  size: 112, 49
+  orig: 112, 49
+  offset: 0, 0
+  index: -1
+you_win
+  rotate: false
+  xy: 314, 130
+  size: 131, 25
+  orig: 131, 25
+  offset: 0, 0
+  index: -1

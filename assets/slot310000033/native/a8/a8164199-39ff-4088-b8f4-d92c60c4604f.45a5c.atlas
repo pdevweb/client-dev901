@@ -1,0 +1,55 @@
+
+h_maraca_atlas_symbols.png
+size: 144,440
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h_maraca_BG
+  rotate: true
+  xy: 2, 312
+  size: 125, 138
+  orig: 125, 151
+  offset: 0, 6
+  index: -1
+h_maraca_FG
+  rotate: false
+  xy: 2, 150
+  size: 131, 160
+  orig: 131, 160
+  offset: 0, 0
+  index: -1
+h_maraca_confetti1
+  rotate: true
+  xy: 2, 2
+  size: 49, 64
+  orig: 50, 64
+  offset: 1, 0
+  index: -1
+h_maraca_confetti_21
+  rotate: true
+  xy: 97, 73
+  size: 75, 40
+  orig: 76, 40
+  offset: 0, 0
+  index: -1
+h_maraca_confetti_31
+  rotate: false
+  xy: 2, 92
+  size: 93, 56
+  orig: 94, 56
+  offset: 0, 0
+  index: -1
+h_maraca_confetti_41
+  rotate: false
+  xy: 2, 53
+  size: 80, 37
+  orig: 81, 37
+  offset: 0, 0
+  index: -1
+h_maraca_confetti_51
+  rotate: false
+  xy: 84, 18
+  size: 55, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1

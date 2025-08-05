@@ -1,0 +1,48 @@
+
+eff_icon_6.png
+size: 764,764
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bskuang
+  rotate: false
+  xy: 313, 50
+  size: 272, 289
+  orig: 509, 419
+  offset: 134, 65
+  index: -1
+images/di
+  rotate: false
+  xy: 2, 341
+  size: 509, 419
+  orig: 509, 419
+  offset: 0, 0
+  index: -1
+images/gx_0000
+  rotate: true
+  xy: 513, 392
+  size: 368, 34
+  orig: 402, 101
+  offset: 20, 31
+  index: -1
+images/hen_0000
+  rotate: false
+  xy: 313, 25
+  size: 92, 23
+  orig: 92, 92
+  offset: 0, 30
+  index: -1
+images/lieheng_0000
+  rotate: false
+  xy: 2, 2
+  size: 209, 13
+  orig: 402, 101
+  offset: 99, 43
+  index: -1
+images/zmg
+  rotate: false
+  xy: 2, 17
+  size: 309, 322
+  orig: 509, 419
+  offset: 111, 49
+  index: -1

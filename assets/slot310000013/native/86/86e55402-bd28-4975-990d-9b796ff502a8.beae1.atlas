@@ -1,0 +1,146 @@
+
+245_jili_02.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jili02/jili_000
+  rotate: true
+  xy: 2, 147
+  size: 27, 147
+  orig: 27, 147
+  offset: 0, 0
+  index: -1
+jili02/jili_001
+  rotate: true
+  xy: 151, 147
+  size: 27, 147
+  orig: 27, 147
+  offset: 0, 0
+  index: -1
+jili02/jili_002
+  rotate: true
+  xy: 300, 147
+  size: 27, 147
+  orig: 27, 147
+  offset: 0, 0
+  index: -1
+jili02/jili_003
+  rotate: true
+  xy: 2, 118
+  size: 27, 147
+  orig: 27, 147
+  offset: 0, 0
+  index: -1
+jili02/jili_004
+  rotate: true
+  xy: 151, 118
+  size: 27, 147
+  orig: 27, 147
+  offset: 0, 0
+  index: -1
+jili02/jili_005
+  rotate: true
+  xy: 300, 118
+  size: 27, 147
+  orig: 27, 147
+  offset: 0, 0
+  index: -1
+jili02/jili_006
+  rotate: true
+  xy: 2, 89
+  size: 27, 147
+  orig: 27, 147
+  offset: 0, 0
+  index: -1
+jili02/jili_007
+  rotate: true
+  xy: 151, 89
+  size: 27, 147
+  orig: 27, 147
+  offset: 0, 0
+  index: -1
+jili02/jili_008
+  rotate: true
+  xy: 300, 89
+  size: 27, 147
+  orig: 27, 147
+  offset: 0, 0
+  index: -1
+jili02/jili_009
+  rotate: true
+  xy: 2, 60
+  size: 27, 147
+  orig: 27, 147
+  offset: 0, 0
+  index: -1
+jili02/jili_010
+  rotate: true
+  xy: 151, 60
+  size: 27, 147
+  orig: 27, 147
+  offset: 0, 0
+  index: -1
+jili02/jili_011
+  rotate: true
+  xy: 300, 60
+  size: 27, 147
+  orig: 27, 147
+  offset: 0, 0
+  index: -1
+jili02/jili_012
+  rotate: true
+  xy: 2, 31
+  size: 27, 147
+  orig: 27, 147
+  offset: 0, 0
+  index: -1
+jili02/jili_013
+  rotate: true
+  xy: 151, 31
+  size: 27, 147
+  orig: 27, 147
+  offset: 0, 0
+  index: -1
+jili02/jili_014
+  rotate: true
+  xy: 300, 31
+  size: 27, 147
+  orig: 27, 147
+  offset: 0, 0
+  index: -1
+jili02/jili_015
+  rotate: false
+  xy: 449, 27
+  size: 27, 147
+  orig: 27, 147
+  offset: 0, 0
+  index: -1
+jili02/jili_016
+  rotate: false
+  xy: 478, 27
+  size: 27, 147
+  orig: 27, 147
+  offset: 0, 0
+  index: -1
+jili02/jili_017
+  rotate: true
+  xy: 2, 2
+  size: 27, 147
+  orig: 27, 147
+  offset: 0, 0
+  index: -1
+jili02/jili_018
+  rotate: true
+  xy: 151, 2
+  size: 27, 147
+  orig: 27, 147
+  offset: 0, 0
+  index: -1
+jili02/jili_019
+  rotate: true
+  xy: 300, 2
+  size: 27, 147
+  orig: 27, 147
+  offset: 0, 0
+  index: -1

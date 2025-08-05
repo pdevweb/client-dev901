@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+
+  <title></title>
+
+  <!--http://www.html5rocks.com/en/mobile/mobifying/-->
+  <meta name="viewport"
+        content="width=device-width,user-scalable=no,initial-scale=1,minimum-scale=1,maximum-scale=1,minimal-ui=true"/>
+
+  <!--https://developer.apple.com/library/safari/documentation/AppleApplications/Reference/SafariHTMLRef/Articles/MetaTags.html-->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="format-detection" content="telephone=no">
+
+  <!-- force webkit on 360 -->
+  <meta name="renderer" content="webkit"/>
+  <meta name="force-rendering" content="webkit"/>
+  <!-- force edge on IE -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+  <meta name="msapplication-tap-highlight" content="no">
+
+  <!-- force full screen on some browser -->
+  <meta name="full-screen" content="yes"/>
+  <meta name="x5-fullscreen" content="true"/>
+  <meta name="360-fullscreen" content="true"/>
+
+  <!--fix fireball/issues/3568 -->
+  <!--<meta name="browsermode" content="application">-->
+  <meta name="x5-page-mode" content="app">
+
+  <!--<link rel="apple-touch-icon" href=".png" />-->
+  <!--<link rel="apple-touch-icon-precomposed" href=".png" />-->
+
+  <link rel="stylesheet" type="text/css" href="style.3a5a8.css"/>
+
+  <script>
+    window.onload = function() {
+        // 阻止双击放大
+        var lastTouchEnd = 0;
+        document.addEventListener('touchstart', function(event) {
+            if (event.touches.length > 1) {
+                event.preventDefault();
+            }
+        });
+        document.addEventListener('touchend', function(event) {
+            var now = (new Date()).getTime();
+            if (now - lastTouchEnd <= 300) {
+                event.preventDefault();
+            }
+            lastTouchEnd = now;
+        }, false);
+
+        // 阻止双指放大
+        document.addEventListener('gesturestart', function(event) {
+            event.preventDefault();
+        });
+        document.body.addEventListener('touchmove',function (event) {
+            event.preventDefault()
+        },{passive:false})
+    };
+  </script>
+
+  <script>
+    function fetchLocal(url) { 
+      // 不完善接口，用了物理引擎会出现Error4
+      return new Promise(function (resolve, reject) {
+        var xhr = new XMLHttpRequest
+        xhr.onload = function () {
+          resolve(new Response(xhr.responseText, { status: 200 }))
+        }
+        xhr.onerror = function () {
+          reject(new TypeError("Local request failed"))
+        }
+        xhr.open("GET", url)
+        xhr.send(null)
+      })
+    }
+    window.fetch = fetchLocal;
+
+    function fetchLocal(url) {
+      return new Promise(function (resolve, reject) {
+        var xhr = new XMLHttpRequest
+        xhr.onload = function () {
+          resolve(new Response(xhr.response, {
+            status: 200
+          }))
+        }
+        xhr.onerror = function () {
+          reject(new TypeError("Local request failed"))
+        }
+        xhr.open("GET", url)
+        xhr.responseType = "arraybuffer";
+        xhr.send(null)
+      })
+    };
+    window.fetch = fetchLocal;
+  </script>
+
+</head>
+<body>
+  <div id="GameDiv" cc_exact_fit_screen="true">
+      <div id="Cocos3dGameContainer">
+        <canvas id="GameCanvas" oncontextmenu="event.preventDefault()" tabindex="99"></canvas>
+      </div>
+    </div>
+  
+
+<!-- Polyfills bundle. -->
+
+<script src="src/polyfills.bundle.5adbf.js" charset="utf-8"></script>
+
+
+<!-- SystemJS support. -->
+<script src="src/system.bundle.543e6.js" charset="utf-8"></script>
+
+<!-- Import map -->
+<script
+    src="src/import-map.7b393.json"
+    type="systemjs-importmap"
+    charset="utf-8"
+></script>
+
+<script>
+    System.import("./index.07e37.js").catch(function (err) {
+        console.error(err);
+    });
+</script>
+
+<div id="splash">
+    <div class="progress-bar stripes">
+        <span style="width: 0%"></span>
+    </div>
+</div>
+
+<!-- Add your SVG animation below the canvas -->
+<div id="frames">
+    <svg id="defSvg" style="display: none" width="200" height="120" viewBox="0 0 200 120">
+        <circle cx="60" cy="110" r="5" fill="#ffa502">
+            <animate
+                attributeName="r"
+                values="5;7.5;5"
+                dur="1.5s"
+                begin="0s"
+                repeatCount="indefinite"
+            />
+            <animate
+                attributeName="fill"
+                values="orange; #ffa502; #ff6348; orange"
+                dur="1.5s"
+                begin="0s"
+                repeatCount="indefinite"
+            />
+        </circle>
+        <circle cx="100" cy="110" r="5" fill="#ffa502">
+            <animate
+                attributeName="r"
+                values="5;7.5;5"
+                dur="1.5s"
+                begin="0.2s"
+                repeatCount="indefinite"
+            />
+            <animate
+                attributeName="fill"
+                values="orange; #ffa502; #ff6348; orange"
+                dur="1.5s"
+                begin="0s"
+                repeatCount="indefinite"
+            />
+        </circle>
+        <circle cx="140" cy="110" r="5" fill="#ffa502">
+            <animate
+                attributeName="r"
+                values="5;7.5;5"
+                dur="1.5s"
+                begin="0.4s"
+                repeatCount="indefinite"
+            />
+            <animate
+                attributeName="fill"
+                values="orange; #ffa502; #ff6348; orange"
+                dur="1.5s"
+                begin="0s"
+                repeatCount="indefinite"
+            />
+        </circle>
+    </svg>
+    <img id="logoSvg" style="display: none" index.07e37.jssrc="" alt="SVG Animation" />
+</div>
+
+<script type="text/javascript">
+    var search = window.location.search;
+    var srh = search.substring(1, search.length);
+    var searchURL = decodeURIComponent(srh);
+
+    const urlParams = new URLSearchParams(searchURL);
+    const svgParam = urlParams.get("svg"); // 获取 'svg' 参数
+    if (svgParam) {
+        // 判断资源是否存在
+        var img = document.getElementById("logoSvg");
+        img.onload = function () {
+            document.getElementById("defSvg").style.display = "none";
+            document.getElementById("logoSvg").style.display = "block";
+        };
+        img.onerror = function () {
+            console.warn("SVG does not exist.");
+            document.getElementById("defSvg").style.display = "block";
+            document.getElementById("logoSvg").style.display = "none";
+        };
+        img.src = `logo/${svgParam}`;
+    }else{
+        document.getElementById("defSvg").style.display = "block";
+        document.getElementById("logoSvg").style.display = "none";
+    }
+
+    (function () {
+        let width = document.body.clientWidth;
+        let height = document.body.clientHeight;
+        let orientation = width > height ? "landscape" : "portrait";
+        let orientation2 = width > height ? "h_" : "v_";
+        console.log("Screen orientation changed:", orientation);
+        console.log("searchStr = ", searchURL);
+        if (searchURL) {
+            // 创建 URLSearchParams 对象
+            const urlParams = new URLSearchParams(searchURL);
+            let direct = urlParams.get("direct");
+            console.log("1 direct = ", direct);
+            if (direct == null || direct == undefined || direct == "") {
+                direct = false;
+            } else {
+                if (direct.toLowerCase() == "true") {
+                    direct = true;
+                } else {
+                    direct = false;
+                }
+            }
+            console.log("2 direct = ", direct);
+            if (direct) {
+                if (urlParams.get("back") == "thback") {
+                    orientation = "landscape";
+                    orientation2 = "h_";
+                }
+            } else {
+                if (urlParams.get("homeUrl") == "thback") {
+                    orientation = "landscape";
+                    orientation2 = "h_";
+                }
+            }
+
+            let gameId = urlParams.get("id");
+            let game_url = orientation2 + gameId;
+            let background_url = `poster/${orientation}/${game_url}.jpg`;
+            console.log("gameId = ", gameId, background_url);
+
+            var splash = document.getElementById("splash");
+            //splash.style.backgroundImage = 'url("' + background_url + '")';
+            splash.style.backgroundRepeat = "no-repeat"; // 设置为不重复
+            splash.style.backgroundPosition = "center"; // 设置居中显示
+            splash.style.backgroundSize = "cover"; // 设置背景图片全屏展示
+            splash.style.display = "none";
+
+            var gameName = document.getElementById("name");
+            console.log("1 gameName = ", gameName);
+            document.title = gameName;
+        }
+    })();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,27 @@
+
+383_major_tc.png
+size: 398,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4_bj4_1
+  rotate: false
+  xy: 2, 4
+  size: 229, 263
+  orig: 229, 263
+  offset: 0, 0
+  index: -1
+4_bj5
+  rotate: true
+  xy: 233, 2
+  size: 265, 160
+  orig: 265, 160
+  offset: 0, 0
+  index: -1
+hd
+  rotate: false
+  xy: 395, 266
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+307_epiclink_gx.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baselight
+  rotate: false
+  xy: 1070, 15
+  size: 54, 19
+  orig: 54, 46
+  offset: 0, 0
+  index: -1
+baseparticular
+  rotate: false
+  xy: 2, 5
+  size: 309, 85
+  orig: 309, 86
+  offset: 0, 0
+  index: -1
+bgeffect1
+  rotate: true
+  xy: 1125, 157
+  size: 97, 96
+  orig: 101, 101
+  offset: 2, 4
+  index: -1
+bgfirexl/bgfire_00000
+  rotate: true
+  xy: 445, 8
+  size: 97, 121
+  orig: 119, 192
+  offset: 8, 12
+  index: -1
+bgfirexl/bgfire_00001
+  rotate: true
+  xy: 313, 3
+  size: 100, 130
+  orig: 119, 192
+  offset: 7, 12
+  index: -1
+bgfirexl/bgfire_00002
+  rotate: false
+  xy: 1017, 142
+  size: 106, 112
+  orig: 119, 192
+  offset: 4, 12
+  index: -1
+bgfirexl/bgfire_00003
+  rotate: false
+  xy: 823, 5
+  size: 104, 115
+  orig: 119, 192
+  offset: 7, 13
+  index: -1
+bgfirexl/bgfire_00004
+  rotate: false
+  xy: 787, 122
+  size: 105, 132
+  orig: 119, 192
+  offset: 6, 12
+  index: -1
+bgfirexl/bgfire_00005
+  rotate: false
+  xy: 566, 110
+  size: 106, 144
+  orig: 119, 192
+  offset: 6, 12
+  index: -1
+bgfirexl/bgfire_00006
+  rotate: true
+  xy: 568, 2
+  size: 106, 124
+  orig: 119, 192
+  offset: 5, 13
+  index: -1
+bgfirexl/bgfire_00007
+  rotate: false
+  xy: 929, 4
+  size: 107, 123
+  orig: 119, 192
+  offset: 4, 14
+  index: -1
+bgfirexl/bgfire_00008
+  rotate: true
+  xy: 694, 6
+  size: 107, 127
+  orig: 119, 192
+  offset: 3, 14
+  index: -1
+bgfirexl/bgfire_00009
+  rotate: false
+  xy: 456, 110
+  size: 108, 144
+  orig: 119, 192
+  offset: 2, 14
+  index: -1
+bgfirexl/bgfire_00010
+  rotate: false
+  xy: 348, 107
+  size: 106, 147
+  orig: 119, 192
+  offset: 2, 14
+  index: -1
+bgfirexl/bgfire_00011
+  rotate: false
+  xy: 674, 115
+  size: 111, 139
+  orig: 119, 192
+  offset: 1, 14
+  index: -1
+bgfirexl/bgfire_00012
+  rotate: false
+  xy: 229, 105
+  size: 117, 149
+  orig: 119, 192
+  offset: 1, 14
+  index: -1
+bgfirexl/bgfire_00013
+  rotate: false
+  xy: 113, 98
+  size: 114, 156
+  orig: 119, 192
+  offset: 0, 13
+  index: -1
+bgfirexl/bgfire_00014
+  rotate: false
+  xy: 2, 92
+  size: 109, 162
+  orig: 119, 192
+  offset: 1, 12
+  index: -1
+light
+  rotate: false
+  xy: 1038, 2
+  size: 30, 32
+  orig: 38, 36
+  offset: 5, 2
+  index: -1
+theme307_s_12
+  rotate: true
+  xy: 894, 129
+  size: 125, 121
+  orig: 125, 121
+  offset: 0, 0
+  index: -1
+tiger
+  rotate: true
+  xy: 1038, 36
+  size: 104, 93
+  orig: 104, 97
+  offset: 0, 4
+  index: -1
+tx1
+  rotate: false
+  xy: 1133, 7
+  size: 305, 62
+  orig: 314, 76
+  offset: 5, 7
+  index: -1
+xx1
+  rotate: true
+  xy: 1133, 71
+  size: 84, 70
+  orig: 85, 70
+  offset: 1, 0
+  index: -1

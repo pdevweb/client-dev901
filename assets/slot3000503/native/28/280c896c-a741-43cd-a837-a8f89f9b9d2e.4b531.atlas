@@ -1,0 +1,111 @@
+
+eff_gunlunkuang.png
+size: 1628,1628
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fire_00000
+  rotate: true
+  xy: 2, 981
+  size: 322, 515
+  orig: 1024, 576
+  offset: 355, 29
+  index: -1
+fire_00002
+  rotate: true
+  xy: 2, 1305
+  size: 321, 516
+  orig: 1024, 576
+  offset: 356, 28
+  index: -1
+fire_00004
+  rotate: true
+  xy: 1032, 329
+  size: 325, 517
+  orig: 1024, 576
+  offset: 355, 27
+  index: -1
+fire_00006
+  rotate: true
+  xy: 514, 4
+  size: 325, 514
+  orig: 1024, 576
+  offset: 355, 27
+  index: -1
+fire_00008
+  rotate: true
+  xy: 519, 981
+  size: 322, 514
+  orig: 1024, 576
+  offset: 355, 27
+  index: -1
+fire_00010
+  rotate: true
+  xy: 520, 1305
+  size: 321, 513
+  orig: 1024, 576
+  offset: 356, 28
+  index: -1
+fire_00012
+  rotate: true
+  xy: 2, 5
+  size: 325, 510
+  orig: 1024, 576
+  offset: 355, 31
+  index: -1
+fire_00014
+  rotate: true
+  xy: 1035, 1305
+  size: 321, 510
+  orig: 1024, 576
+  offset: 356, 31
+  index: -1
+fire_00016
+  rotate: true
+  xy: 1030, 2
+  size: 325, 516
+  orig: 1024, 576
+  offset: 355, 28
+  index: -1
+fire_00018
+  rotate: true
+  xy: 1035, 981
+  size: 322, 514
+  orig: 1024, 576
+  offset: 355, 27
+  index: -1
+fire_00020
+  rotate: true
+  xy: 2, 657
+  size: 322, 513
+  orig: 1024, 576
+  offset: 355, 27
+  index: -1
+fire_00022
+  rotate: true
+  xy: 1033, 656
+  size: 323, 517
+  orig: 1024, 576
+  offset: 355, 27
+  index: -1
+fire_00024
+  rotate: true
+  xy: 517, 657
+  size: 322, 514
+  orig: 1024, 576
+  offset: 355, 27
+  index: -1
+fire_00026
+  rotate: true
+  xy: 517, 331
+  size: 324, 513
+  orig: 1024, 576
+  offset: 356, 28
+  index: -1
+fire_00028
+  rotate: true
+  xy: 2, 332
+  size: 323, 513
+  orig: 1024, 576
+  offset: 355, 31
+  index: -1

@@ -1,0 +1,97 @@
+
+398_zheye.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chibang
+  rotate: false
+  xy: 443, 23
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+images/chujiao
+  rotate: true
+  xy: 2, 2
+  size: 3, 14
+  orig: 3, 14
+  offset: 0, 0
+  index: -1
+images/effect/cgx
+  rotate: false
+  xy: 443, 67
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+images/effect/gy
+  rotate: false
+  xy: 164, 15
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+images/effect/tuowei_kh
+  rotate: false
+  xy: 84, 13
+  size: 78, 87
+  orig: 78, 87
+  offset: 0, 0
+  index: -1
+images/effect/yw3
+  rotate: true
+  xy: 252, 23
+  size: 78, 68
+  orig: 78, 76
+  offset: 0, 4
+  index: -1
+images/shenti
+  rotate: true
+  xy: 84, 5
+  size: 6, 24
+  orig: 6, 24
+  offset: 0, 0
+  index: -1
+images/ye01
+  rotate: false
+  xy: 379, 112
+  size: 135, 142
+  orig: 135, 142
+  offset: 0, 0
+  index: -1
+images/ye02
+  rotate: true
+  xy: 262, 111
+  size: 143, 115
+  orig: 143, 115
+  offset: 0, 0
+  index: -1
+images/ye03
+  rotate: true
+  xy: 2, 102
+  size: 152, 129
+  orig: 152, 129
+  offset: 0, 0
+  index: -1
+images/ye04
+  rotate: true
+  xy: 133, 103
+  size: 151, 127
+  orig: 151, 127
+  offset: 0, 0
+  index: -1
+images/ye05
+  rotate: true
+  xy: 322, 32
+  size: 77, 119
+  orig: 77, 119
+  offset: 0, 0
+  index: -1
+images/ye06
+  rotate: true
+  xy: 2, 7
+  size: 93, 80
+  orig: 93, 80
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+eff_dakuang.png
+size: 1492,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s/di_000
+  rotate: true
+  xy: 452, 68
+  size: 64, 342
+  orig: 80, 360
+  offset: 10, 13
+  index: -1
+s/di_001
+  rotate: true
+  xy: 796, 68
+  size: 64, 342
+  orig: 80, 360
+  offset: 10, 13
+  index: -1
+s/di_002
+  rotate: true
+  xy: 1140, 4
+  size: 64, 342
+  orig: 80, 360
+  offset: 10, 13
+  index: -1
+s/di_003
+  rotate: true
+  xy: 2, 2
+  size: 64, 342
+  orig: 80, 360
+  offset: 10, 13
+  index: -1
+s/di_004
+  rotate: true
+  xy: 346, 2
+  size: 64, 342
+  orig: 80, 360
+  offset: 10, 13
+  index: -1
+s/di_005
+  rotate: true
+  xy: 690, 2
+  size: 64, 342
+  orig: 80, 360
+  offset: 10, 13
+  index: -1
+s/di_006
+  rotate: true
+  xy: 455, 134
+  size: 66, 342
+  orig: 80, 360
+  offset: 9, 13
+  index: -1
+s/di_007
+  rotate: true
+  xy: 799, 134
+  size: 66, 342
+  orig: 80, 360
+  offset: 9, 13
+  index: -1
+s/di_008
+  rotate: true
+  xy: 106, 134
+  size: 66, 347
+  orig: 80, 360
+  offset: 9, 13
+  index: -1
+s/di_009
+  rotate: true
+  xy: 1143, 136
+  size: 64, 347
+  orig: 80, 360
+  offset: 10, 13
+  index: -1
+s/di_010
+  rotate: true
+  xy: 1143, 70
+  size: 64, 346
+  orig: 80, 360
+  offset: 10, 13
+  index: -1
+s/di_011
+  rotate: true
+  xy: 106, 68
+  size: 64, 344
+  orig: 80, 360
+  offset: 10, 13
+  index: -1
+star_3
+  rotate: false
+  xy: 2, 100
+  size: 102, 100
+  orig: 102, 102
+  offset: 0, 0
+  index: -1

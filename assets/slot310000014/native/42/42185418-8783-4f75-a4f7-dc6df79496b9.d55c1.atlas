@@ -1,0 +1,447 @@
+
+307_double_grand.png
+size: 1096,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+backlight
+  rotate: false
+  xy: 1017, 91
+  size: 64, 55
+  orig: 66, 60
+  offset: 1, 0
+  index: -1
+backlight2
+  rotate: false
+  xy: 465, 93
+  size: 142, 166
+  orig: 161, 201
+  offset: 6, 14
+  index: -1
+base
+  rotate: true
+  xy: 927, 212
+  size: 120, 131
+  orig: 120, 131
+  offset: 0, 0
+  index: -1
+betprize
+  rotate: true
+  xy: 1060, 226
+  size: 106, 24
+  orig: 106, 24
+  offset: 0, 0
+  index: -1
+bgfire/bgfire_00000
+  rotate: true
+  xy: 858, 202
+  size: 77, 66
+  orig: 93, 150
+  offset: 10, 29
+  index: -1
+bgfire/bgfire_00001
+  rotate: true
+  xy: 732, 24
+  size: 81, 70
+  orig: 93, 150
+  offset: 6, 30
+  index: -1
+bgfire/bgfire_00002
+  rotate: true
+  xy: 420, 7
+  size: 83, 75
+  orig: 93, 150
+  offset: 5, 29
+  index: -1
+bgfire/bgfire_00003
+  rotate: true
+  xy: 618, 273
+  size: 81, 75
+  orig: 93, 150
+  offset: 7, 28
+  index: -1
+bgfire/bgfire_00004
+  rotate: true
+  xy: 653, 11
+  size: 81, 77
+  orig: 93, 150
+  offset: 8, 28
+  index: -1
+bgfire/bgfire_00005
+  rotate: false
+  xy: 804, 27
+  size: 79, 79
+  orig: 93, 150
+  offset: 9, 29
+  index: -1
+bgfire/bgfire_00006
+  rotate: false
+  xy: 572, 10
+  size: 79, 81
+  orig: 93, 150
+  offset: 9, 29
+  index: -1
+bgfire/bgfire_00007
+  rotate: true
+  xy: 885, 40
+  size: 79, 77
+  orig: 93, 150
+  offset: 9, 29
+  index: -1
+bgfire/bgfire_00008
+  rotate: true
+  xy: 858, 121
+  size: 79, 78
+  orig: 93, 150
+  offset: 10, 29
+  index: -1
+bgfire/bgfire_00009
+  rotate: false
+  xy: 846, 281
+  size: 79, 79
+  orig: 93, 150
+  offset: 10, 28
+  index: -1
+bgfire/bgfire_00010
+  rotate: false
+  xy: 938, 133
+  size: 77, 77
+  orig: 93, 150
+  offset: 10, 28
+  index: -1
+bgfire/bgfire_00011
+  rotate: false
+  xy: 695, 273
+  size: 75, 81
+  orig: 93, 150
+  offset: 10, 28
+  index: -1
+bgfire/bgfire_00012
+  rotate: false
+  xy: 772, 276
+  size: 72, 80
+  orig: 93, 150
+  offset: 11, 29
+  index: -1
+bgfire/bgfire_00013
+  rotate: false
+  xy: 497, 8
+  size: 73, 83
+  orig: 93, 150
+  offset: 11, 30
+  index: -1
+bgfire/bgfire_00014
+  rotate: true
+  xy: 340, 2
+  size: 76, 78
+  orig: 93, 150
+  offset: 10, 30
+  index: -1
+bu
+  rotate: true
+  xy: 163, 73
+  size: 4, 128
+  orig: 4, 128
+  offset: 0, 0
+  index: -1
+bu2
+  rotate: true
+  xy: 95, 71
+  size: 6, 66
+  orig: 6, 66
+  offset: 0, 0
+  index: -1
+doublegrandjackpotislockedraisebettounlock
+  rotate: true
+  xy: 95, 248
+  size: 274, 12
+  orig: 274, 12
+  offset: 0, 0
+  index: -1
+fonts1
+  rotate: true
+  xy: 178, 315
+  size: 207, 55
+  orig: 207, 55
+  offset: 0, 0
+  index: -1
+fonts2
+  rotate: true
+  xy: 109, 290
+  size: 232, 67
+  orig: 232, 67
+  offset: 0, 0
+  index: -1
+frame
+  rotate: false
+  xy: 934, 361
+  size: 147, 66
+  orig: 147, 66
+  offset: 0, 0
+  index: -1
+label
+  rotate: false
+  xy: 95, 68
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+midfire/midfire_00001
+  rotate: false
+  xy: 927, 334
+  size: 142, 25
+  orig: 202, 72
+  offset: 31, 5
+  index: -1
+midfire/midfire_00002
+  rotate: false
+  xy: 934, 429
+  size: 153, 36
+  orig: 202, 72
+  offset: 26, 0
+  index: -1
+midfire/midfire_00003
+  rotate: true
+  xy: 818, 114
+  size: 160, 38
+  orig: 202, 72
+  offset: 22, 0
+  index: -1
+midfire/midfire_00004
+  rotate: false
+  xy: 109, 248
+  size: 164, 40
+  orig: 202, 72
+  offset: 20, 0
+  index: -1
+midfire/midfire_00005
+  rotate: true
+  xy: 708, 107
+  size: 164, 42
+  orig: 202, 72
+  offset: 20, 0
+  index: -1
+midfire/midfire_00006
+  rotate: true
+  xy: 700, 357
+  size: 165, 43
+  orig: 202, 72
+  offset: 19, 0
+  index: -1
+midfire/midfire_00007
+  rotate: true
+  xy: 662, 105
+  size: 166, 44
+  orig: 202, 72
+  offset: 19, 0
+  index: -1
+midfire/midfire_00008
+  rotate: true
+  xy: 653, 356
+  size: 166, 45
+  orig: 202, 72
+  offset: 19, 0
+  index: -1
+midfire/midfire_00009
+  rotate: true
+  xy: 417, 92
+  size: 167, 46
+  orig: 202, 72
+  offset: 18, 0
+  index: -1
+midfire/midfire_00010
+  rotate: true
+  xy: 462, 355
+  size: 167, 47
+  orig: 202, 72
+  offset: 18, 0
+  index: -1
+midfire/midfire_00011
+  rotate: true
+  xy: 412, 355
+  size: 167, 48
+  orig: 202, 72
+  offset: 18, 0
+  index: -1
+midfire/midfire_00012
+  rotate: true
+  xy: 365, 80
+  size: 167, 50
+  orig: 202, 72
+  offset: 18, 0
+  index: -1
+midfire/midfire_00013
+  rotate: true
+  xy: 609, 94
+  size: 166, 51
+  orig: 202, 72
+  offset: 19, 0
+  index: -1
+midfire/midfire_00014
+  rotate: true
+  xy: 310, 80
+  size: 167, 53
+  orig: 202, 72
+  offset: 18, 0
+  index: -1
+midfire/midfire_00015
+  rotate: true
+  xy: 355, 355
+  size: 167, 55
+  orig: 202, 72
+  offset: 18, 0
+  index: -1
+midfire/midfire_00016
+  rotate: true
+  xy: 296, 355
+  size: 167, 57
+  orig: 202, 72
+  offset: 18, 0
+  index: -1
+midfire/midfire_00017
+  rotate: true
+  xy: 235, 355
+  size: 167, 59
+  orig: 202, 72
+  offset: 18, 0
+  index: -1
+midfire/midfire_00018
+  rotate: false
+  xy: 2, 3
+  size: 167, 62
+  orig: 202, 72
+  offset: 18, 0
+  index: -1
+midfire/midfire_00019
+  rotate: true
+  xy: 242, 79
+  size: 167, 66
+  orig: 202, 72
+  offset: 18, 0
+  index: -1
+midfire/midfire_00020
+  rotate: false
+  xy: 171, 3
+  size: 167, 68
+  orig: 202, 72
+  offset: 18, 0
+  index: -1
+midfire/midfire_00021
+  rotate: true
+  xy: 169, 79
+  size: 167, 71
+  orig: 202, 72
+  offset: 18, 0
+  index: -1
+midfire/midfire_00022
+  rotate: true
+  xy: 95, 79
+  size: 167, 72
+  orig: 202, 72
+  offset: 18, 0
+  index: -1
+midfire/midfire_00023
+  rotate: true
+  xy: 511, 356
+  size: 166, 70
+  orig: 202, 72
+  offset: 18, 2
+  index: -1
+midfire/midfire_00024
+  rotate: true
+  xy: 583, 356
+  size: 166, 68
+  orig: 202, 72
+  offset: 18, 4
+  index: -1
+midfire/midfire_00025
+  rotate: true
+  xy: 745, 358
+  size: 164, 67
+  orig: 202, 72
+  offset: 19, 5
+  index: -1
+midfire/midfire_00026
+  rotate: true
+  xy: 752, 108
+  size: 163, 64
+  orig: 202, 72
+  offset: 19, 8
+  index: -1
+midfire/midfire_00027
+  rotate: true
+  xy: 814, 362
+  size: 160, 60
+  orig: 202, 72
+  offset: 20, 12
+  index: -1
+midfire/midfire_00028
+  rotate: true
+  xy: 876, 365
+  size: 157, 56
+  orig: 202, 72
+  offset: 22, 16
+  index: -1
+midfire/midfire_00029
+  rotate: false
+  xy: 934, 467
+  size: 153, 55
+  orig: 202, 72
+  offset: 26, 17
+  index: -1
+tx1
+  rotate: true
+  xy: 2, 67
+  size: 455, 91
+  orig: 469, 113
+  offset: 7, 11
+  index: -1
+xtimes
+  rotate: false
+  xy: 98, 68
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xx1
+  rotate: false
+  xy: 275, 249
+  size: 119, 104
+  orig: 119, 104
+  offset: 0, 0
+  index: -1
+xx2
+  rotate: false
+  xy: 510, 262
+  size: 106, 91
+  orig: 106, 91
+  offset: 0, 0
+  index: -1
+xx3
+  rotate: false
+  xy: 510, 262
+  size: 106, 91
+  orig: 106, 91
+  offset: 0, 0
+  index: -1
+xx4
+  rotate: false
+  xy: 1017, 148
+  size: 75, 62
+  orig: 75, 62
+  offset: 0, 0
+  index: -1
+xx5
+  rotate: false
+  xy: 1017, 148
+  size: 75, 62
+  orig: 75, 62
+  offset: 0, 0
+  index: -1
+xx6
+  rotate: false
+  xy: 396, 261
+  size: 112, 92
+  orig: 112, 92
+  offset: 0, 0
+  index: -1

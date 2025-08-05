@@ -1,0 +1,139 @@
+
+tbl_shuaxin.png
+size: 272,1044
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arclg_01
+  rotate: true
+  xy: 227, 53
+  size: 47, 43
+  orig: 135, 240
+  offset: 38, 197
+  index: -1
+arclg_02
+  rotate: true
+  xy: 98, 2
+  size: 59, 69
+  orig: 135, 240
+  offset: 24, 171
+  index: -1
+arclg_03
+  rotate: true
+  xy: 168, 403
+  size: 66, 100
+  orig: 135, 240
+  offset: 15, 138
+  index: -1
+arclg_04
+  rotate: false
+  xy: 98, 63
+  size: 65, 129
+  orig: 135, 240
+  offset: 15, 108
+  index: -1
+arclg_05
+  rotate: false
+  xy: 102, 479
+  size: 64, 153
+  orig: 135, 240
+  offset: 15, 83
+  index: -1
+arclg_06
+  rotate: false
+  xy: 100, 221
+  size: 74, 176
+  orig: 135, 240
+  offset: 15, 59
+  index: -1
+arclg_07
+  rotate: false
+  xy: 171, 618
+  size: 92, 202
+  orig: 135, 240
+  offset: 15, 33
+  index: -1
+arclg_08
+  rotate: false
+  xy: 2, 399
+  size: 98, 233
+  orig: 135, 240
+  offset: 15, 2
+  index: -1
+arclg_09
+  rotate: false
+  xy: 171, 822
+  size: 97, 220
+  orig: 135, 240
+  offset: 16, 2
+  index: -1
+arclg_10
+  rotate: false
+  xy: 2, 194
+  size: 96, 203
+  orig: 135, 240
+  offset: 17, 2
+  index: -1
+arclg_11
+  rotate: false
+  xy: 2, 17
+  size: 94, 175
+  orig: 135, 240
+  offset: 19, 2
+  index: -1
+arclg_12
+  rotate: false
+  xy: 168, 471
+  size: 87, 145
+  orig: 135, 240
+  offset: 26, 2
+  index: -1
+arclg_13
+  rotate: false
+  xy: 165, 102
+  size: 78, 115
+  orig: 135, 240
+  offset: 35, 2
+  index: -1
+arclg_14
+  rotate: true
+  xy: 176, 219
+  size: 53, 84
+  orig: 135, 240
+  offset: 60, 2
+  index: -1
+arclg_15
+  rotate: true
+  xy: 165, 68
+  size: 32, 51
+  orig: 135, 240
+  offset: 81, 2
+  index: -1
+xg_01
+  rotate: false
+  xy: 102, 413
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+xm_475
+  rotate: false
+  xy: 169, 7
+  size: 56, 59
+  orig: 64, 64
+  offset: 3, 2
+  index: -1
+ydg
+  rotate: true
+  xy: 176, 274
+  size: 127, 90
+  orig: 128, 128
+  offset: 0, 20
+  index: -1
+ydgx
+  rotate: true
+  xy: 2, 634
+  size: 408, 167
+  orig: 516, 174
+  offset: 63, 3
+  index: -1

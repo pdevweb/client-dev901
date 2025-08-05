@@ -1,0 +1,13 @@
+
+FX_NearWin.png
+size: 88,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_NearWin/speed2
+  rotate: false
+  xy: 2, 2
+  size: 82, 93
+  orig: 99, 99
+  offset: 8, 3
+  index: -1

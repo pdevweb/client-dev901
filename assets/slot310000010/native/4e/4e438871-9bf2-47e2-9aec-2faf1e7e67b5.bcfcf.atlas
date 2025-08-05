@@ -1,0 +1,27 @@
+
+239_popup_wheel01.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huoy
+  rotate: false
+  xy: 2, 133
+  size: 503, 358
+  orig: 503, 359
+  offset: 0, 1
+  index: -1
+lizi_00000
+  rotate: false
+  xy: 507, 149
+  size: 458, 342
+  orig: 458, 342
+  offset: 0, 0
+  index: -1
+theme239_popup_bonuswheel
+  rotate: false
+  xy: 507, 2
+  size: 298, 145
+  orig: 298, 145
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+Symbol_06.png
+size: 328,132
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jpg/Light_05
+  rotate: false
+  xy: 144, 42
+  size: 86, 85
+  orig: 96, 96
+  offset: 3, 5
+  index: -1
+jpg/Symbol_07_Bg
+  rotate: false
+  xy: 2, 2
+  size: 140, 125
+  orig: 140, 125
+  offset: 0, 0
+  index: -1
+png/Symbol_07_Bamboo
+  rotate: false
+  xy: 232, 37
+  size: 82, 90
+  orig: 82, 91
+  offset: 0, 1
+  index: -1
+png/Symbol_07_Shadow
+  rotate: false
+  xy: 144, 22
+  size: 79, 18
+  orig: 80, 18
+  offset: 0, 0
+  index: -1
+png/Symbol_07_leaf1
+  rotate: true
+  xy: 274, 18
+  size: 17, 38
+  orig: 17, 38
+  offset: 0, 0
+  index: -1
+png/Symbol_07_leaf2
+  rotate: false
+  xy: 314, 19
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+png/Symbol_07_leaf4
+  rotate: true
+  xy: 314, 7
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+png/Symbol_07_leaf5
+  rotate: true
+  xy: 225, 10
+  size: 25, 47
+  orig: 25, 48
+  offset: 0, 1
+  index: -1

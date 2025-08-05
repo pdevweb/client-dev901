@@ -1,0 +1,20 @@
+
+eff_daiji.png
+size: 380,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/xuehua
+  rotate: false
+  xy: 2, 2
+  size: 335, 335
+  orig: 335, 335
+  offset: 0, 0
+  index: -1
+shizi4
+  rotate: false
+  xy: 339, 298
+  size: 36, 39
+  orig: 38, 39
+  offset: 1, 0
+  index: -1

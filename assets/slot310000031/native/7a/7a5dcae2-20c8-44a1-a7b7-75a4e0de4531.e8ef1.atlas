@@ -1,0 +1,34 @@
+
+Scatter_JP.png
+size: 132,224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+png/Scatter_JP_Ribbon
+  rotate: true
+  xy: 2, 74
+  size: 147, 90
+  orig: 148, 92
+  offset: 0, 1
+  index: -1
+png/Scatter_JP_Txt_MAJOR
+  rotate: false
+  xy: 2, 38
+  size: 125, 34
+  orig: 125, 34
+  offset: 0, 0
+  index: -1
+png/Scatter_JP_Txt_MINI
+  rotate: false
+  xy: 2, 2
+  size: 86, 34
+  orig: 86, 34
+  offset: 0, 0
+  index: -1
+png/Scatter_JP_Txt_MINOR
+  rotate: true
+  xy: 94, 112
+  size: 109, 34
+  orig: 109, 34
+  offset: 0, 0
+  index: -1

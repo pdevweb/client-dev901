@@ -1,0 +1,20 @@
+
+BG_shouji.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ciguang_00006
+  rotate: false
+  xy: 2, 79
+  size: 318, 86
+  orig: 444, 92
+  offset: 79, 6
+  index: -1
+guangyun_00003
+  rotate: false
+  xy: 2, 2
+  size: 300, 75
+  orig: 333, 98
+  offset: 19, 17
+  index: -1

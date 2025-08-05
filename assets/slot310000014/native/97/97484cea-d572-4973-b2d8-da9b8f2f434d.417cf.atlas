@@ -1,0 +1,111 @@
+
+307_shuiqp.png
+size: 536,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gg_00
+  rotate: false
+  xy: 143, 34
+  size: 117, 90
+  orig: 117, 90
+  offset: 0, 0
+  index: -1
+ggx_00
+  rotate: false
+  xy: 313, 3
+  size: 89, 49
+  orig: 153, 98
+  offset: 25, 15
+  index: -1
+gy_0
+  rotate: false
+  xy: 2, 47
+  size: 139, 223
+  orig: 145, 255
+  offset: 2, 12
+  index: -1
+l
+  rotate: true
+  xy: 469, 22
+  size: 62, 52
+  orig: 63, 61
+  offset: 0, 4
+  index: -1
+lh
+  rotate: false
+  xy: 404, 15
+  size: 63, 69
+  orig: 70, 85
+  offset: 7, 8
+  index: -1
+noise2_00
+  rotate: false
+  xy: 143, 126
+  size: 144, 144
+  orig: 144, 144
+  offset: 0, 0
+  index: -1
+sdb
+  rotate: true
+  xy: 130, 3
+  size: 29, 109
+  orig: 29, 109
+  offset: 0, 0
+  index: -1
+sdb2
+  rotate: true
+  xy: 262, 54
+  size: 31, 109
+  orig: 31, 109
+  offset: 0, 0
+  index: -1
+sdx_00
+  rotate: false
+  xy: 419, 86
+  size: 106, 77
+  orig: 107, 77
+  offset: 0, 0
+  index: -1
+shui
+  rotate: true
+  xy: 289, 87
+  size: 65, 128
+  orig: 65, 128
+  offset: 0, 0
+  index: -1
+shui_07
+  rotate: true
+  xy: 408, 165
+  size: 105, 126
+  orig: 128, 128
+  offset: 10, 2
+  index: -1
+shuihua2
+  rotate: true
+  xy: 2, 2
+  size: 30, 126
+  orig: 32, 128
+  offset: 0, 1
+  index: -1
+shuizhu
+  rotate: false
+  xy: 262, 110
+  size: 14, 14
+  orig: 16, 16
+  offset: 1, 1
+  index: -1
+xg_01
+  rotate: true
+  xy: 262, 2
+  size: 50, 49
+  orig: 64, 64
+  offset: 7, 7
+  index: -1
+y_00
+  rotate: false
+  xy: 289, 154
+  size: 117, 116
+  orig: 128, 128
+  offset: 7, 7
+  index: -1

@@ -1,0 +1,83 @@
+
+eff_icon_baozha.png
+size: 964,580
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha/baozha_00000
+  rotate: false
+  xy: 629, 19
+  size: 139, 146
+  orig: 235, 235
+  offset: 50, 35
+  index: -1
+baozha/baozha_00002
+  rotate: true
+  xy: 464, 4
+  size: 161, 163
+  orig: 235, 235
+  offset: 39, 32
+  index: -1
+baozha/baozha_00004
+  rotate: false
+  xy: 770, 2
+  size: 189, 175
+  orig: 235, 235
+  offset: 25, 26
+  index: -1
+baozha/baozha_00006
+  rotate: false
+  xy: 236, 136
+  size: 226, 217
+  orig: 235, 235
+  offset: 7, 5
+  index: -1
+baozha/baozha_00008
+  rotate: false
+  xy: 236, 355
+  size: 229, 222
+  orig: 235, 235
+  offset: 6, 3
+  index: -1
+baozha/baozha_00010
+  rotate: false
+  xy: 2, 350
+  size: 232, 227
+  orig: 235, 235
+  offset: 2, 3
+  index: -1
+baozha/baozha_00012
+  rotate: false
+  xy: 2, 126
+  size: 232, 222
+  orig: 235, 235
+  offset: 0, 7
+  index: -1
+baozha/baozha_00014
+  rotate: false
+  xy: 467, 359
+  size: 232, 218
+  orig: 235, 235
+  offset: 0, 10
+  index: -1
+baozha/baozha_00016
+  rotate: false
+  xy: 701, 371
+  size: 225, 206
+  orig: 235, 235
+  offset: 3, 19
+  index: -1
+baozha/baozha_00018
+  rotate: false
+  xy: 701, 179
+  size: 197, 190
+  orig: 235, 235
+  offset: 20, 29
+  index: -1
+baozha/baozha_00020
+  rotate: false
+  xy: 467, 167
+  size: 192, 190
+  orig: 235, 235
+  offset: 20, 30
+  index: -1

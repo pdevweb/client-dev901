@@ -1,0 +1,202 @@
+
+jp_jiesuo.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gd
+  rotate: false
+  xy: 2, 6
+  size: 9, 10
+  orig: 13, 13
+  offset: 2, 1
+  index: -1
+guangxiao03
+  rotate: false
+  xy: 1871, 428
+  size: 145, 60
+  orig: 200, 116
+  offset: 26, 28
+  index: -1
+js_01
+  rotate: true
+  xy: 1808, 147
+  size: 211, 96
+  orig: 256, 128
+  offset: 27, 32
+  index: -1
+js_03
+  rotate: false
+  xy: 2, 81
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+js_05
+  rotate: false
+  xy: 518, 277
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+js_07
+  rotate: false
+  xy: 839, 360
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+js_09
+  rotate: false
+  xy: 1097, 360
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+js_10
+  rotate: false
+  xy: 1355, 360
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+js_11
+  rotate: false
+  xy: 1613, 360
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+js_12
+  rotate: false
+  xy: 260, 81
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+js_13
+  rotate: false
+  xy: 518, 147
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+js_14
+  rotate: false
+  xy: 776, 230
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+js_15
+  rotate: false
+  xy: 1034, 230
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+js_16
+  rotate: false
+  xy: 1292, 230
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+js_17
+  rotate: false
+  xy: 1550, 230
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+js_18
+  rotate: false
+  xy: 776, 100
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+js_19
+  rotate: false
+  xy: 1034, 100
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+js_20
+  rotate: false
+  xy: 1292, 100
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+js_21
+  rotate: false
+  xy: 1550, 100
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+js_22
+  rotate: false
+  xy: 1550, 100
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+js_23
+  rotate: false
+  xy: 2, 18
+  size: 256, 61
+  orig: 256, 128
+  offset: 0, 49
+  index: -1
+js_24
+  rotate: false
+  xy: 518, 90
+  size: 256, 55
+  orig: 256, 128
+  offset: 0, 49
+  index: -1
+theme383_b_jp1_2
+  rotate: false
+  xy: 2, 211
+  size: 428, 97
+  orig: 447, 99
+  offset: 9, 2
+  index: -1
+theme383_b_jp2_2
+  rotate: false
+  xy: 518, 407
+  size: 319, 81
+  orig: 331, 83
+  offset: 3, 2
+  index: -1
+theme383_b_jp4_2
+  rotate: false
+  xy: 260, 2
+  size: 233, 77
+  orig: 240, 78
+  offset: 4, 1
+  index: -1
+theme383_b_jp5_2
+  rotate: false
+  xy: 2, 310
+  size: 514, 178
+  orig: 526, 194
+  offset: 7, 9
+  index: -1
+xg_01
+  rotate: false
+  xy: 776, 386
+  size: 18, 19
+  orig: 23, 23
+  offset: 3, 2
+  index: -1
+xm_475
+  rotate: false
+  xy: 432, 265
+  size: 43, 43
+  orig: 64, 64
+  offset: 10, 11
+  index: -1

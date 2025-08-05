@@ -1,0 +1,153 @@
+
+sjt_shangzhang.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A039_39
+  rotate: true
+  xy: 260, 2
+  size: 47, 15
+  orig: 52, 26
+  offset: 2, 6
+  index: -1
+XM_474
+  rotate: true
+  xy: 2, 44
+  size: 81, 165
+  orig: 109, 172
+  offset: 22, 4
+  index: -1
+XM_476
+  rotate: true
+  xy: 732, 52
+  size: 73, 70
+  orig: 86, 86
+  offset: 10, 6
+  index: -1
+fangshe1
+  rotate: false
+  xy: 169, 51
+  size: 146, 74
+  orig: 172, 86
+  offset: 20, 6
+  index: -1
+fangshe2
+  rotate: false
+  xy: 317, 39
+  size: 145, 86
+  orig: 172, 86
+  offset: 4, 0
+  index: -1
+yt_01
+  rotate: true
+  xy: 141, 13
+  size: 29, 48
+  orig: 86, 86
+  offset: 29, 0
+  index: -1
+yt_02
+  rotate: true
+  xy: 191, 4
+  size: 45, 67
+  orig: 86, 86
+  offset: 19, 0
+  index: -1
+yt_03
+  rotate: true
+  xy: 919, 3
+  size: 52, 76
+  orig: 86, 86
+  offset: 15, 0
+  index: -1
+yt_04
+  rotate: false
+  xy: 863, 40
+  size: 54, 85
+  orig: 86, 86
+  offset: 15, 0
+  index: -1
+yt_05
+  rotate: false
+  xy: 804, 39
+  size: 57, 86
+  orig: 86, 86
+  offset: 16, 0
+  index: -1
+yt_06
+  rotate: false
+  xy: 668, 39
+  size: 62, 86
+  orig: 86, 86
+  offset: 15, 0
+  index: -1
+yt_07
+  rotate: false
+  xy: 601, 42
+  size: 65, 83
+  orig: 86, 86
+  offset: 13, 3
+  index: -1
+yt_08
+  rotate: false
+  xy: 533, 42
+  size: 66, 83
+  orig: 86, 86
+  offset: 13, 3
+  index: -1
+yt_09
+  rotate: false
+  xy: 464, 43
+  size: 67, 82
+  orig: 86, 86
+  offset: 13, 4
+  index: -1
+yt_10
+  rotate: true
+  xy: 919, 57
+  size: 68, 61
+  orig: 86, 86
+  offset: 13, 25
+  index: -1
+yt_11
+  rotate: true
+  xy: 982, 57
+  size: 68, 58
+  orig: 86, 86
+  offset: 13, 28
+  index: -1
+yt_12
+  rotate: true
+  xy: 1042, 57
+  size: 68, 57
+  orig: 86, 86
+  offset: 13, 28
+  index: -1
+yt_13
+  rotate: false
+  xy: 2, 4
+  size: 68, 38
+  orig: 86, 86
+  offset: 13, 43
+  index: -1
+yt_14
+  rotate: false
+  xy: 72, 8
+  size: 67, 34
+  orig: 86, 86
+  offset: 14, 46
+  index: -1
+yt_15
+  rotate: false
+  xy: 277, 34
+  size: 12, 15
+  orig: 86, 86
+  offset: 29, 49
+  index: -1
+yt_16
+  rotate: false
+  xy: 277, 20
+  size: 11, 12
+  orig: 86, 86
+  offset: 29, 51
+  index: -1

@@ -1,0 +1,307 @@
+
+sym_fea.png
+size: 840,840
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10X
+  rotate: false
+  xy: 604, 608
+  size: 179, 96
+  orig: 256, 256
+  offset: 41, 80
+  index: -1
+15X
+  rotate: true
+  xy: 506, 522
+  size: 182, 96
+  orig: 256, 256
+  offset: 38, 80
+  index: -1
+1X
+  rotate: false
+  xy: 619, 740
+  size: 116, 96
+  orig: 256, 256
+  offset: 75, 80
+  index: -1
+2X
+  rotate: true
+  xy: 508, 187
+  size: 146, 95
+  orig: 256, 256
+  offset: 61, 81
+  index: -1
+3X
+  rotate: false
+  xy: 620, 436
+  size: 139, 95
+  orig: 256, 256
+  offset: 61, 80
+  index: -1
+5X
+  rotate: false
+  xy: 508, 91
+  size: 131, 94
+  orig: 256, 256
+  offset: 66, 81
+  index: -1
+Ray_15FPS_0.75/Ray_00001
+  rotate: true
+  xy: 508, 26
+  size: 63, 64
+  orig: 69, 70
+  offset: 3, 3
+  index: -1
+Ray_15FPS_0.75/Ray_00002
+  rotate: false
+  xy: 574, 25
+  size: 63, 64
+  orig: 69, 70
+  offset: 3, 3
+  index: -1
+Ray_15FPS_0.75/Ray_00003
+  rotate: true
+  xy: 707, 57
+  size: 63, 64
+  orig: 69, 70
+  offset: 3, 3
+  index: -1
+Ray_15FPS_0.75/Ray_00004
+  rotate: false
+  xy: 773, 56
+  size: 63, 64
+  orig: 69, 70
+  offset: 3, 3
+  index: -1
+Ray_15FPS_0.75/Ray_00005
+  rotate: false
+  xy: 2, 18
+  size: 64, 63
+  orig: 69, 70
+  offset: 3, 3
+  index: -1
+Ray_15FPS_0.75/Ray_00006
+  rotate: true
+  xy: 68, 18
+  size: 63, 64
+  orig: 69, 70
+  offset: 3, 3
+  index: -1
+Ray_15FPS_0.75/Ray_00007
+  rotate: true
+  xy: 134, 18
+  size: 63, 64
+  orig: 69, 70
+  offset: 3, 3
+  index: -1
+Ray_15FPS_0.75/Ray_00008
+  rotate: true
+  xy: 200, 18
+  size: 63, 64
+  orig: 69, 70
+  offset: 3, 3
+  index: -1
+Ray_15FPS_0.75/Ray_00009
+  rotate: true
+  xy: 266, 18
+  size: 63, 64
+  orig: 69, 70
+  offset: 3, 3
+  index: -1
+Ray_15FPS_0.75/Ray_00010
+  rotate: true
+  xy: 332, 18
+  size: 63, 64
+  orig: 69, 70
+  offset: 3, 3
+  index: -1
+Ray_15FPS_0.75/Ray_00011
+  rotate: false
+  xy: 748, 229
+  size: 64, 64
+  orig: 69, 70
+  offset: 3, 3
+  index: -1
+Ray_15FPS_0.75/Ray_00012
+  rotate: false
+  xy: 750, 302
+  size: 64, 64
+  orig: 69, 70
+  offset: 3, 3
+  index: -1
+Ray_15FPS_0.75/Ray_00013
+  rotate: false
+  xy: 641, 56
+  size: 64, 64
+  orig: 69, 70
+  offset: 3, 3
+  index: -1
+Ray_15FPS_0.75/Ray_00014
+  rotate: true
+  xy: 398, 18
+  size: 63, 64
+  orig: 69, 70
+  offset: 3, 3
+  index: -1
+Ray_Particular_Loop_60FPS/Ray_Particular_Loop_00001
+  rotate: false
+  xy: 729, 368
+  size: 67, 66
+  orig: 87, 84
+  offset: 12, 6
+  index: -1
+Ray_Particular_Loop_60FPS/Ray_Particular_Loop_00002
+  rotate: true
+  xy: 714, 122
+  size: 69, 65
+  orig: 87, 84
+  offset: 11, 8
+  index: -1
+Ray_Particular_Loop_60FPS/Ray_Particular_Loop_00003
+  rotate: false
+  xy: 605, 192
+  size: 69, 69
+  orig: 87, 84
+  offset: 11, 6
+  index: -1
+Ray_Particular_Loop_60FPS/Ray_Particular_Loop_00004
+  rotate: true
+  xy: 761, 467
+  size: 67, 66
+  orig: 87, 84
+  offset: 13, 10
+  index: -1
+Ray_Particular_Loop_60FPS/Ray_Particular_Loop_00005
+  rotate: false
+  xy: 676, 193
+  size: 70, 68
+  orig: 87, 84
+  offset: 12, 9
+  index: -1
+Ray_Particular_Loop_60FPS/Ray_Particular_Loop_00006
+  rotate: false
+  xy: 678, 295
+  size: 70, 68
+  orig: 87, 84
+  offset: 10, 11
+  index: -1
+Ray_Particular_Loop_60FPS/Ray_Particular_Loop_00007
+  rotate: true
+  xy: 641, 122
+  size: 68, 71
+  orig: 87, 84
+  offset: 8, 9
+  index: -1
+Ray_Particular_Loop_60FPS/Ray_Particular_Loop_00008
+  rotate: true
+  xy: 605, 263
+  size: 70, 71
+  orig: 87, 84
+  offset: 6, 7
+  index: -1
+Ray_Particular_Loop_60FPS/Ray_Particular_Loop_00009
+  rotate: true
+  xy: 604, 533
+  size: 73, 74
+  orig: 87, 84
+  offset: 5, 5
+  index: -1
+Ray_Particular_Loop_60FPS/Ray_Particular_Loop_00010
+  rotate: false
+  xy: 680, 535
+  size: 73, 71
+  orig: 87, 84
+  offset: 4, 10
+  index: -1
+Ray_Particular_Loop_60FPS/Ray_Particular_Loop_00011
+  rotate: false
+  xy: 657, 365
+  size: 70, 69
+  orig: 87, 84
+  offset: 7, 8
+  index: -1
+Ray_Particular_Loop_60FPS/Ray_Particular_Loop_00012
+  rotate: true
+  xy: 582, 335
+  size: 72, 73
+  orig: 87, 84
+  offset: 5, 6
+  index: -1
+Ray_Particular_Loop_60FPS/Ray_Particular_Loop_00013
+  rotate: true
+  xy: 506, 335
+  size: 72, 74
+  orig: 87, 84
+  offset: 7, 5
+  index: -1
+Ray_Particular_Loop_60FPS/Ray_Particular_Loop_00014
+  rotate: false
+  xy: 737, 758
+  size: 75, 78
+  orig: 87, 84
+  offset: 5, 3
+  index: -1
+Ray_Particular_Loop_60FPS/Ray_Particular_Loop_00015
+  rotate: true
+  xy: 755, 536
+  size: 70, 75
+  orig: 87, 84
+  offset: 8, 7
+  index: -1
+light2
+  rotate: true
+  xy: 506, 706
+  size: 130, 111
+  orig: 133, 133
+  offset: 1, 11
+  index: -1
+xs2_1
+  rotate: false
+  xy: 2, 585
+  size: 249, 251
+  orig: 256, 256
+  offset: 4, 1
+  index: -1
+xs2_10
+  rotate: true
+  xy: 2, 83
+  size: 249, 251
+  orig: 256, 256
+  offset: 4, 1
+  index: -1
+xs2_15
+  rotate: true
+  xy: 255, 83
+  size: 249, 251
+  orig: 256, 256
+  offset: 4, 1
+  index: -1
+xs2_15_Glow_0.66
+  rotate: false
+  xy: 506, 409
+  size: 112, 111
+  orig: 170, 170
+  offset: 29, 30
+  index: -1
+xs2_2
+  rotate: true
+  xy: 2, 334
+  size: 249, 251
+  orig: 256, 256
+  offset: 4, 1
+  index: -1
+xs2_3
+  rotate: true
+  xy: 253, 587
+  size: 249, 251
+  orig: 256, 256
+  offset: 4, 1
+  index: -1
+xs2_5
+  rotate: false
+  xy: 255, 334
+  size: 249, 251
+  orig: 256, 256
+  offset: 4, 1
+  index: -1

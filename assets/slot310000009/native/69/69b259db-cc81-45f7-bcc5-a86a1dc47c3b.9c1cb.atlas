@@ -1,0 +1,118 @@
+
+eff_jinbi.png
+size: 1008,1000
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin/coin_00001
+  rotate: true
+  xy: 878, 135
+  size: 92, 114
+  orig: 600, 500
+  offset: 258, 238
+  index: -1
+coin/coin_00002
+  rotate: false
+  xy: 874, 386
+  size: 112, 153
+  orig: 600, 500
+  offset: 246, 240
+  index: -1
+coin/coin_00003
+  rotate: false
+  xy: 730, 296
+  size: 142, 188
+  orig: 600, 500
+  offset: 231, 235
+  index: -1
+coin/coin_00004
+  rotate: false
+  xy: 703, 116
+  size: 173, 178
+  orig: 600, 500
+  offset: 215, 262
+  index: -1
+coin/coin_00005
+  rotate: false
+  xy: 802, 541
+  size: 204, 179
+  orig: 600, 500
+  offset: 200, 266
+  index: -1
+coin/coin_00006
+  rotate: true
+  xy: 867, 762
+  size: 234, 130
+  orig: 600, 500
+  offset: 185, 314
+  index: -1
+coin/coin_00007
+  rotate: false
+  xy: 692, 16
+  size: 265, 98
+  orig: 600, 500
+  offset: 170, 348
+  index: -1
+coin/coin_00008
+  rotate: false
+  xy: 395, 2
+  size: 295, 123
+  orig: 600, 500
+  offset: 155, 313
+  index: -1
+coin/coin_00009
+  rotate: false
+  xy: 402, 312
+  size: 326, 172
+  orig: 600, 500
+  offset: 140, 263
+  index: -1
+coin/coin_00010
+  rotate: false
+  xy: 438, 486
+  size: 362, 234
+  orig: 600, 500
+  offset: 121, 198
+  index: -1
+coin/coin_00011
+  rotate: false
+  xy: 2, 309
+  size: 398, 305
+  orig: 600, 500
+  offset: 102, 117
+  index: -1
+coin/coin_00012
+  rotate: false
+  xy: 2, 616
+  size: 434, 380
+  orig: 600, 500
+  offset: 82, 20
+  index: -1
+coin/coin_00013
+  rotate: false
+  xy: 2, 15
+  size: 391, 292
+  orig: 600, 500
+  offset: 83, 74
+  index: -1
+coin/coin_00014
+  rotate: false
+  xy: 438, 722
+  size: 427, 274
+  orig: 600, 500
+  offset: 63, 45
+  index: -1
+coin/coin_00015
+  rotate: false
+  xy: 402, 127
+  size: 299, 183
+  orig: 600, 500
+  offset: 126, 76
+  index: -1
+coin/coin_00016
+  rotate: true
+  xy: 878, 229
+  size: 155, 96
+  orig: 600, 500
+  offset: 110, 91
+  index: -1

@@ -1,0 +1,153 @@
+
+kuang.png
+size: 1560,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+k2/k_00
+  rotate: false
+  xy: 706, 4
+  size: 77, 86
+  orig: 85, 97
+  offset: 6, 8
+  index: -1
+k2/k_20
+  rotate: false
+  xy: 706, 4
+  size: 77, 86
+  orig: 85, 97
+  offset: 6, 8
+  index: -1
+k2/k_01
+  rotate: false
+  xy: 2, 2
+  size: 77, 88
+  orig: 85, 97
+  offset: 6, 7
+  index: -1
+k2/k_02
+  rotate: false
+  xy: 160, 2
+  size: 76, 88
+  orig: 85, 97
+  offset: 7, 7
+  index: -1
+k2/k_03
+  rotate: false
+  xy: 238, 2
+  size: 76, 88
+  orig: 85, 97
+  offset: 7, 7
+  index: -1
+k2/k_04
+  rotate: false
+  xy: 1175, 2
+  size: 74, 88
+  orig: 85, 97
+  offset: 8, 7
+  index: -1
+k2/k_05
+  rotate: false
+  xy: 1251, 2
+  size: 74, 88
+  orig: 85, 97
+  offset: 8, 7
+  index: -1
+k2/k_06
+  rotate: false
+  xy: 316, 2
+  size: 76, 88
+  orig: 85, 97
+  offset: 7, 7
+  index: -1
+k2/k_07
+  rotate: false
+  xy: 394, 2
+  size: 76, 88
+  orig: 85, 97
+  offset: 7, 7
+  index: -1
+k2/k_08
+  rotate: false
+  xy: 1019, 4
+  size: 76, 86
+  orig: 85, 97
+  offset: 7, 8
+  index: -1
+k2/k_09
+  rotate: false
+  xy: 1402, 6
+  size: 76, 84
+  orig: 85, 97
+  offset: 7, 9
+  index: -1
+k2/k_10
+  rotate: false
+  xy: 1097, 4
+  size: 76, 86
+  orig: 85, 97
+  offset: 7, 8
+  index: -1
+k2/k_11
+  rotate: false
+  xy: 864, 3
+  size: 76, 87
+  orig: 85, 97
+  offset: 7, 8
+  index: -1
+k2/k_12
+  rotate: false
+  xy: 472, 2
+  size: 76, 88
+  orig: 85, 97
+  offset: 7, 7
+  index: -1
+k2/k_13
+  rotate: false
+  xy: 942, 2
+  size: 75, 88
+  orig: 85, 97
+  offset: 7, 7
+  index: -1
+k2/k_14
+  rotate: false
+  xy: 1327, 2
+  size: 73, 88
+  orig: 85, 97
+  offset: 8, 7
+  index: -1
+k2/k_15
+  rotate: false
+  xy: 550, 2
+  size: 76, 88
+  orig: 85, 97
+  offset: 7, 7
+  index: -1
+k2/k_16
+  rotate: false
+  xy: 628, 2
+  size: 76, 88
+  orig: 85, 97
+  offset: 7, 7
+  index: -1
+k2/k_17
+  rotate: false
+  xy: 81, 3
+  size: 77, 87
+  orig: 85, 97
+  offset: 6, 8
+  index: -1
+k2/k_18
+  rotate: false
+  xy: 785, 4
+  size: 77, 86
+  orig: 85, 97
+  offset: 6, 8
+  index: -1
+k2/k_19
+  rotate: false
+  xy: 1480, 8
+  size: 77, 82
+  orig: 85, 97
+  offset: 6, 10
+  index: -1

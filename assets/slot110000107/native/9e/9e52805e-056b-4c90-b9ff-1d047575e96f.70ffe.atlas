@@ -1,0 +1,279 @@
+
+bigwin.png
+size: 1740,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+16
+  rotate: false
+  xy: 692, 52
+  size: 103, 32
+  orig: 113, 75
+  offset: 7, 34
+  index: -1
+17
+  rotate: true
+  xy: 577, 16
+  size: 68, 96
+  orig: 90, 140
+  offset: 10, 9
+  index: -1
+18
+  rotate: false
+  xy: 365, 2
+  size: 142, 81
+  orig: 175, 170
+  offset: 19, 40
+  index: -1
+19
+  rotate: true
+  xy: 842, 113
+  size: 157, 91
+  orig: 208, 133
+  offset: 25, 21
+  index: -1
+20
+  rotate: true
+  xy: 236, 82
+  size: 188, 98
+  orig: 310, 200
+  offset: 61, 50
+  index: -1
+21
+  rotate: false
+  xy: 935, 118
+  size: 318, 152
+  orig: 414, 238
+  offset: 58, 41
+  index: -1
+22
+  rotate: false
+  xy: 883, 6
+  size: 270, 105
+  orig: 300, 200
+  offset: 8, 42
+  index: -1
+23
+  rotate: true
+  xy: 2, 34
+  size: 236, 232
+  orig: 340, 385
+  offset: 51, 108
+  index: -1
+24
+  rotate: true
+  xy: 1284, 40
+  size: 89, 87
+  orig: 125, 125
+  offset: 16, 15
+  index: -1
+25
+  rotate: false
+  xy: 272, 4
+  size: 91, 76
+  orig: 125, 100
+  offset: 13, 8
+  index: -1
+26
+  rotate: false
+  xy: 376, 86
+  size: 347, 184
+  orig: 450, 350
+  offset: 15, 64
+  index: -1
+27
+  rotate: true
+  xy: 725, 90
+  size: 180, 115
+  orig: 354, 213
+  offset: 93, 49
+  index: -1
+bace_gg
+  rotate: true
+  xy: 1155, 2
+  size: 114, 110
+  orig: 117, 112
+  offset: 1, 1
+  index: -1
+fantasy_Turntable_bg_01
+  rotate: false
+  xy: 1255, 131
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1
+fantasy_Turntable_bg_02
+  rotate: true
+  xy: 336, 85
+  size: 185, 38
+  orig: 185, 38
+  offset: 0, 0
+  index: -1
+light/light_000
+  rotate: false
+  xy: 797, 2
+  size: 84, 86
+  orig: 175, 175
+  offset: 43, 45
+  index: -1
+light/light_001
+  rotate: false
+  xy: 1373, 43
+  size: 84, 86
+  orig: 175, 175
+  offset: 44, 45
+  index: -1
+light/light_002
+  rotate: false
+  xy: 1459, 97
+  size: 85, 85
+  orig: 175, 175
+  offset: 43, 46
+  index: -1
+light/light_003
+  rotate: false
+  xy: 1481, 185
+  size: 85, 85
+  orig: 175, 175
+  offset: 43, 46
+  index: -1
+light/light_004
+  rotate: false
+  xy: 1655, 185
+  size: 83, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_005
+  rotate: false
+  xy: 1655, 98
+  size: 83, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_006
+  rotate: true
+  xy: 1568, 186
+  size: 84, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_007
+  rotate: true
+  xy: 1568, 100
+  size: 84, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_008
+  rotate: false
+  xy: 1546, 11
+  size: 84, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_009
+  rotate: false
+  xy: 1459, 10
+  size: 85, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_010
+  rotate: false
+  xy: 1632, 11
+  size: 84, 85
+  orig: 175, 175
+  offset: 44, 46
+  index: -1
+light/light_011
+  rotate: false
+  xy: 1396, 184
+  size: 83, 86
+  orig: 175, 175
+  offset: 44, 45
+  index: -1
+mingzi/zp_Bigeye shark
+  rotate: false
+  xy: 1267, 19
+  size: 88, 15
+  orig: 88, 15
+  offset: 0, 0
+  index: -1
+mingzi/zp_Bomb crab
+  rotate: true
+  xy: 543, 12
+  size: 72, 15
+  orig: 72, 15
+  offset: 0, 0
+  index: -1
+mingzi/zp_Crazy bison
+  rotate: true
+  xy: 526, 5
+  size: 79, 15
+  orig: 79, 15
+  offset: 0, 0
+  index: -1
+mingzi/zp_Deep sea shark
+  rotate: false
+  xy: 675, 8
+  size: 103, 15
+  orig: 103, 15
+  offset: 0, 0
+  index: -1
+mingzi/zp_Drill crab
+  rotate: true
+  xy: 560, 13
+  size: 71, 15
+  orig: 71, 15
+  offset: 0, 0
+  index: -1
+mingzi/zp_Golden rays
+  rotate: false
+  xy: 1267, 2
+  size: 84, 15
+  orig: 84, 15
+  offset: 0, 0
+  index: -1
+mingzi/zp_Ice Crystal Phoenix
+  rotate: false
+  xy: 138, 17
+  size: 132, 15
+  orig: 132, 15
+  offset: 0, 0
+  index: -1
+mingzi/zp_Mermaid elves
+  rotate: false
+  xy: 692, 35
+  size: 99, 15
+  orig: 99, 15
+  offset: 0, 0
+  index: -1
+mingzi/zp_Poisonous jellyfish
+  rotate: false
+  xy: 2, 17
+  size: 134, 15
+  orig: 134, 15
+  offset: 0, 0
+  index: -1
+mingzi/zp_Void Ray
+  rotate: true
+  xy: 675, 25
+  size: 59, 15
+  orig: 59, 15
+  offset: 0, 0
+  index: -1
+mingzi/zp_blue whale
+  rotate: true
+  xy: 509, 4
+  size: 80, 15
+  orig: 80, 15
+  offset: 0, 0
+  index: -1
+mingzi/zp_golden shark
+  rotate: true
+  xy: 1267, 36
+  size: 93, 15
+  orig: 93, 15
+  offset: 0, 0
+  index: -1

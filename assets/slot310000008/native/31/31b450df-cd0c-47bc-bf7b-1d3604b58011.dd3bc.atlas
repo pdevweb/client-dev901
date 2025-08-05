@@ -1,0 +1,27 @@
+
+383_an.png
+size: 232,112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+an1
+  rotate: false
+  xy: 2, 57
+  size: 175, 53
+  orig: 175, 53
+  offset: 0, 0
+  index: -1
+an2
+  rotate: false
+  xy: 2, 2
+  size: 175, 53
+  orig: 175, 53
+  offset: 0, 0
+  index: -1
+xg_01
+  rotate: false
+  xy: 179, 59
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1

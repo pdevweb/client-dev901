@@ -1,0 +1,41 @@
+
+jintiao.png
+size: 64,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/jintiao1
+  rotate: false
+  xy: 2, 84
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+images/jintiao2
+  rotate: false
+  xy: 2, 142
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+images/yiniying1
+  rotate: false
+  xy: 25, 188
+  size: 32, 29
+  orig: 32, 31
+  offset: 0, 1
+  index: -1
+images/yinying2
+  rotate: true
+  xy: 2, 2
+  size: 80, 36
+  orig: 80, 36
+  offset: 0, 0
+  index: -1
+xxx
+  rotate: true
+  xy: 2, 197
+  size: 20, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1

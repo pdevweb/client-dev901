@@ -1,0 +1,76 @@
+
+eff_icon_15.png
+size: 1292,1228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hy_00000
+  rotate: false
+  xy: 2, 612
+  size: 260, 611
+  orig: 402, 724
+  offset: 80, 57
+  index: -1
+hy_00001
+  rotate: false
+  xy: 261, 2
+  size: 256, 608
+  orig: 402, 724
+  offset: 82, 58
+  index: -1
+hy_00002
+  rotate: false
+  xy: 1035, 618
+  size: 255, 605
+  orig: 402, 724
+  offset: 83, 59
+  index: -1
+hy_00003
+  rotate: false
+  xy: 1035, 11
+  size: 255, 605
+  orig: 402, 724
+  offset: 83, 59
+  index: -1
+hy_00004
+  rotate: false
+  xy: 519, 7
+  size: 255, 607
+  orig: 402, 724
+  offset: 83, 58
+  index: -1
+hy_00005
+  rotate: false
+  xy: 779, 617
+  size: 254, 606
+  orig: 402, 724
+  offset: 84, 58
+  index: -1
+hy_00006
+  rotate: false
+  xy: 264, 616
+  size: 256, 607
+  orig: 402, 724
+  offset: 82, 58
+  index: -1
+hy_00007
+  rotate: false
+  xy: 522, 616
+  size: 255, 607
+  orig: 402, 724
+  offset: 83, 58
+  index: -1
+hy_00008
+  rotate: false
+  xy: 776, 7
+  size: 255, 607
+  orig: 402, 724
+  offset: 83, 58
+  index: -1
+hy_00009
+  rotate: false
+  xy: 2, 2
+  size: 257, 608
+  orig: 402, 724
+  offset: 82, 58
+  index: -1

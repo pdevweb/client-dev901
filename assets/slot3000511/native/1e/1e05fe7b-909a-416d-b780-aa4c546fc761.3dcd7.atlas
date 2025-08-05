@@ -1,0 +1,146 @@
+
+eff_icon_bz.png
+size: 832,728
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liekai/liekai_00000
+  rotate: false
+  xy: 2, 450
+  size: 170, 274
+  orig: 181, 281
+  offset: 5, 3
+  index: -1
+liekai/liekai_00001
+  rotate: false
+  xy: 2, 174
+  size: 170, 274
+  orig: 181, 281
+  offset: 5, 3
+  index: -1
+liekai/liekai_00002
+  rotate: false
+  xy: 174, 450
+  size: 170, 274
+  orig: 181, 281
+  offset: 5, 3
+  index: -1
+liekai/liekai_00003
+  rotate: false
+  xy: 174, 174
+  size: 170, 274
+  orig: 181, 281
+  offset: 5, 3
+  index: -1
+liekai/liekai_00004
+  rotate: true
+  xy: 2, 2
+  size: 170, 274
+  orig: 181, 281
+  offset: 5, 3
+  index: -1
+liekai/liekai_00005
+  rotate: false
+  xy: 346, 450
+  size: 170, 274
+  orig: 181, 281
+  offset: 5, 3
+  index: -1
+liekai/liekai_00006
+  rotate: false
+  xy: 346, 174
+  size: 170, 274
+  orig: 181, 281
+  offset: 5, 3
+  index: -1
+liekai/liekai_00007
+  rotate: false
+  xy: 518, 450
+  size: 170, 274
+  orig: 181, 281
+  offset: 5, 3
+  index: -1
+liekai/liekai_00008
+  rotate: false
+  xy: 518, 174
+  size: 170, 274
+  orig: 181, 281
+  offset: 5, 3
+  index: -1
+liekai/liekai_00009
+  rotate: true
+  xy: 278, 2
+  size: 170, 274
+  orig: 181, 281
+  offset: 5, 3
+  index: -1
+liekai/liekai_00010
+  rotate: true
+  xy: 554, 2
+  size: 170, 274
+  orig: 181, 281
+  offset: 5, 3
+  index: -1
+lizi/lizi_00011
+  rotate: false
+  xy: 690, 614
+  size: 69, 110
+  orig: 74, 114
+  offset: 3, 2
+  index: -1
+lizi/lizi_00013
+  rotate: false
+  xy: 761, 614
+  size: 69, 110
+  orig: 74, 114
+  offset: 3, 2
+  index: -1
+lizi/lizi_00015
+  rotate: false
+  xy: 690, 502
+  size: 69, 110
+  orig: 74, 114
+  offset: 3, 2
+  index: -1
+lizi/lizi_00017
+  rotate: false
+  xy: 761, 502
+  size: 69, 110
+  orig: 74, 114
+  offset: 3, 2
+  index: -1
+lizi/lizi_00019
+  rotate: false
+  xy: 690, 390
+  size: 69, 110
+  orig: 74, 114
+  offset: 3, 2
+  index: -1
+lizi/lizi_00021
+  rotate: false
+  xy: 761, 390
+  size: 69, 110
+  orig: 74, 114
+  offset: 3, 2
+  index: -1
+lizi/lizi_00023
+  rotate: false
+  xy: 690, 278
+  size: 69, 110
+  orig: 74, 114
+  offset: 3, 2
+  index: -1
+lizi/lizi_00025
+  rotate: false
+  xy: 761, 278
+  size: 69, 110
+  orig: 74, 114
+  offset: 3, 2
+  index: -1
+lizi/lizi_00027
+  rotate: true
+  xy: 690, 207
+  size: 69, 110
+  orig: 74, 114
+  offset: 3, 2
+  index: -1

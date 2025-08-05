@@ -1,0 +1,111 @@
+
+NG_yfk.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/yfk/1_00
+  rotate: true
+  xy: 312, 7
+  size: 115, 103
+  orig: 201, 201
+  offset: 44, 47
+  index: -1
+images/yfk/1_01
+  rotate: true
+  xy: 417, 6
+  size: 116, 102
+  orig: 201, 201
+  offset: 43, 48
+  index: -1
+images/yfk/1_02
+  rotate: true
+  xy: 105, 5
+  size: 117, 102
+  orig: 201, 201
+  offset: 42, 48
+  index: -1
+images/yfk/1_03
+  rotate: true
+  xy: 209, 4
+  size: 118, 101
+  orig: 201, 201
+  offset: 41, 48
+  index: -1
+images/yfk/1_04
+  rotate: true
+  xy: 623, 4
+  size: 118, 99
+  orig: 201, 201
+  offset: 41, 50
+  index: -1
+images/yfk/1_05
+  rotate: true
+  xy: 724, 3
+  size: 119, 98
+  orig: 201, 201
+  offset: 41, 50
+  index: -1
+images/yfk/1_06
+  rotate: true
+  xy: 824, 3
+  size: 119, 98
+  orig: 201, 201
+  offset: 41, 50
+  index: -1
+images/yfk/1_07
+  rotate: true
+  xy: 924, 3
+  size: 119, 98
+  orig: 201, 201
+  offset: 41, 51
+  index: -1
+images/yfk/1_08
+  rotate: true
+  xy: 1127, 3
+  size: 119, 97
+  orig: 201, 201
+  offset: 42, 51
+  index: -1
+images/yfk/1_09
+  rotate: true
+  xy: 521, 4
+  size: 118, 100
+  orig: 201, 201
+  offset: 42, 49
+  index: -1
+images/yfk/1_10
+  rotate: true
+  xy: 2, 2
+  size: 120, 101
+  orig: 201, 201
+  offset: 41, 49
+  index: -1
+images/yfk/1_11
+  rotate: true
+  xy: 1024, 7
+  size: 115, 101
+  orig: 201, 201
+  offset: 43, 49
+  index: -1
+images/yfk/1_12
+  rotate: true
+  xy: 1226, 9
+  size: 113, 101
+  orig: 201, 201
+  offset: 44, 48
+  index: -1
+images/yfk/1_13
+  rotate: true
+  xy: 1329, 8
+  size: 114, 100
+  orig: 201, 201
+  offset: 43, 48
+  index: -1
+images/yfk/1_14
+  rotate: true
+  xy: 1431, 10
+  size: 112, 101
+  orig: 201, 201
+  offset: 45, 48
+  index: -1

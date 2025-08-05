@@ -1,0 +1,27 @@
+
+383_l3.png
+size: 176,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l3ng
+  rotate: true
+  xy: 2, 12
+  size: 77, 74
+  orig: 77, 74
+  offset: 0, 0
+  index: -1
+l3ngyy
+  rotate: true
+  xy: 138, 2
+  size: 87, 35
+  orig: 87, 36
+  offset: 0, 0
+  index: -1
+xxx1
+  rotate: true
+  xy: 78, 28
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+groupjieshou.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+groupwinjieshou/groupwinjieshou_00
+  rotate: true
+  xy: 2, 95
+  size: 135, 89
+  orig: 135, 89
+  offset: 0, 0
+  index: -1
+groupwinjieshou/groupwinjieshou_01
+  rotate: false
+  xy: 2, 4
+  size: 135, 89
+  orig: 135, 89
+  offset: 0, 0
+  index: -1
+groupwinjieshou/groupwinjieshou_02
+  rotate: true
+  xy: 93, 95
+  size: 135, 89
+  orig: 135, 89
+  offset: 0, 0
+  index: -1
+groupwinjieshou/groupwinjieshou_03
+  rotate: false
+  xy: 139, 4
+  size: 135, 89
+  orig: 135, 89
+  offset: 0, 0
+  index: -1
+groupwinjieshou/groupwinjieshou_04
+  rotate: true
+  xy: 184, 95
+  size: 135, 89
+  orig: 135, 89
+  offset: 0, 0
+  index: -1
+groupwinjieshou/groupwinjieshou_05
+  rotate: true
+  xy: 275, 95
+  size: 135, 89
+  orig: 135, 89
+  offset: 0, 0
+  index: -1
+groupwinjieshou/groupwinjieshou_06
+  rotate: false
+  xy: 276, 4
+  size: 135, 89
+  orig: 135, 89
+  offset: 0, 0
+  index: -1
+groupwinjieshou/groupwinjieshou_07
+  rotate: true
+  xy: 366, 95
+  size: 135, 89
+  orig: 135, 89
+  offset: 0, 0
+  index: -1
+groupwinjieshou/groupwinjieshou_08
+  rotate: false
+  xy: 413, 4
+  size: 135, 89
+  orig: 135, 89
+  offset: 0, 0
+  index: -1
+groupwinjieshou/groupwinjieshou_09
+  rotate: true
+  xy: 457, 95
+  size: 135, 89
+  orig: 135, 89
+  offset: 0, 0
+  index: -1
+groupwinjieshou/groupwinjieshou_10
+  rotate: true
+  xy: 548, 95
+  size: 135, 89
+  orig: 135, 89
+  offset: 0, 0
+  index: -1
+groupwinjieshou/groupwinjieshou_11
+  rotate: false
+  xy: 550, 20
+  size: 117, 73
+  orig: 135, 89
+  offset: 10, 11
+  index: -1
+groupwinjieshou/groupwinjieshou_12
+  rotate: true
+  xy: 639, 117
+  size: 113, 73
+  orig: 135, 89
+  offset: 12, 12
+  index: -1
+groupwinjieshou/groupwinjieshou_13
+  rotate: true
+  xy: 669, 2
+  size: 113, 71
+  orig: 135, 89
+  offset: 14, 13
+  index: -1
+groupwinjieshou/groupwinjieshou_14
+  rotate: true
+  xy: 714, 121
+  size: 109, 66
+  orig: 135, 89
+  offset: 16, 17
+  index: -1
+groupwinjieshou/groupwinjieshou_15
+  rotate: true
+  xy: 742, 11
+  size: 108, 62
+  orig: 135, 89
+  offset: 16, 19
+  index: -1
+groupwinjieshou/groupwinjieshou_16
+  rotate: true
+  xy: 782, 129
+  size: 101, 62
+  orig: 135, 89
+  offset: 19, 18
+  index: -1
+groupwinjieshou/groupwinjieshou_17
+  rotate: true
+  xy: 846, 134
+  size: 96, 55
+  orig: 135, 89
+  offset: 19, 21
+  index: -1
+groupwinjieshou/groupwinjieshou_18
+  rotate: true
+  xy: 806, 24
+  size: 103, 52
+  orig: 135, 89
+  offset: 20, 24
+  index: -1
+groupwinjieshou/groupwinjieshou_19
+  rotate: true
+  xy: 860, 43
+  size: 89, 46
+  orig: 135, 89
+  offset: 25, 30
+  index: -1

@@ -1,0 +1,13 @@
+
+eff_gunluozhongjiang.png
+size: 16,16
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xing1
+  rotate: false
+  xy: 2, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1

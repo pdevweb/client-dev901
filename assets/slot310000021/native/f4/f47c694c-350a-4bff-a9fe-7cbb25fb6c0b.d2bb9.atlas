@@ -1,0 +1,27 @@
+
+eff_propfall.png
+size: 728,728
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangshu5
+  rotate: false
+  xy: 2, 518
+  size: 695, 207
+  orig: 695, 207
+  offset: 0, 0
+  index: -1
+hx
+  rotate: false
+  xy: 2, 192
+  size: 566, 204
+  orig: 566, 204
+  offset: 0, 0
+  index: -1
+hx2
+  rotate: false
+  xy: 2, 398
+  size: 723, 118
+  orig: 723, 118
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,181 @@
+
+scatter_lunzhou_jili.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/1_10
+  rotate: true
+  xy: 662, 4
+  size: 64, 162
+  orig: 84, 168
+  offset: 11, 4
+  index: -1
+1/1_11
+  rotate: true
+  xy: 497, 3
+  size: 64, 163
+  orig: 84, 168
+  offset: 11, 3
+  index: -1
+1/1_12
+  rotate: false
+  xy: 2, 69
+  size: 64, 164
+  orig: 84, 168
+  offset: 11, 3
+  index: -1
+1/1_13
+  rotate: false
+  xy: 68, 69
+  size: 64, 164
+  orig: 84, 168
+  offset: 11, 3
+  index: -1
+1/1_14
+  rotate: false
+  xy: 134, 69
+  size: 64, 164
+  orig: 84, 168
+  offset: 11, 3
+  index: -1
+1/1_15
+  rotate: true
+  xy: 165, 3
+  size: 64, 164
+  orig: 84, 168
+  offset: 11, 3
+  index: -1
+1/1_16
+  rotate: false
+  xy: 332, 69
+  size: 63, 164
+  orig: 84, 168
+  offset: 11, 3
+  index: -1
+1/1_17
+  rotate: false
+  xy: 659, 70
+  size: 63, 163
+  orig: 84, 168
+  offset: 11, 3
+  index: -1
+1/1_18
+  rotate: false
+  xy: 855, 71
+  size: 63, 162
+  orig: 84, 168
+  offset: 12, 4
+  index: -1
+1/1_19
+  rotate: false
+  xy: 920, 72
+  size: 63, 161
+  orig: 84, 168
+  offset: 12, 4
+  index: -1
+1/1_20
+  rotate: true
+  xy: 826, 5
+  size: 64, 160
+  orig: 84, 168
+  offset: 11, 5
+  index: -1
+1/1_21
+  rotate: false
+  xy: 1050, 75
+  size: 64, 158
+  orig: 84, 168
+  offset: 11, 5
+  index: -1
+1/1_22
+  rotate: true
+  xy: 2, 2
+  size: 65, 161
+  orig: 84, 168
+  offset: 11, 4
+  index: -1
+1/1_23
+  rotate: false
+  xy: 200, 69
+  size: 64, 164
+  orig: 84, 168
+  offset: 11, 3
+  index: -1
+1/1_24
+  rotate: false
+  xy: 397, 69
+  size: 63, 164
+  orig: 84, 168
+  offset: 12, 3
+  index: -1
+1/1_25
+  rotate: false
+  xy: 462, 69
+  size: 63, 164
+  orig: 84, 168
+  offset: 12, 3
+  index: -1
+1/1_26
+  rotate: false
+  xy: 266, 69
+  size: 64, 164
+  orig: 84, 168
+  offset: 11, 3
+  index: -1
+1/1_27
+  rotate: true
+  xy: 331, 3
+  size: 64, 164
+  orig: 84, 168
+  offset: 11, 3
+  index: -1
+1/1_28
+  rotate: false
+  xy: 527, 70
+  size: 64, 163
+  orig: 84, 168
+  offset: 11, 4
+  index: -1
+1/1_29
+  rotate: false
+  xy: 593, 70
+  size: 64, 163
+  orig: 84, 168
+  offset: 11, 4
+  index: -1
+1/1_30
+  rotate: false
+  xy: 724, 70
+  size: 63, 163
+  orig: 84, 168
+  offset: 11, 4
+  index: -1
+1/1_31
+  rotate: false
+  xy: 789, 71
+  size: 64, 162
+  orig: 84, 168
+  offset: 11, 5
+  index: -1
+1/1_32
+  rotate: false
+  xy: 985, 72
+  size: 63, 161
+  orig: 84, 168
+  offset: 11, 5
+  index: -1
+1/1_33
+  rotate: true
+  xy: 988, 6
+  size: 64, 160
+  orig: 84, 168
+  offset: 11, 5
+  index: -1
+1/1_34
+  rotate: false
+  xy: 1116, 75
+  size: 64, 158
+  orig: 84, 168
+  offset: 11, 6
+  index: -1

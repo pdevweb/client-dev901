@@ -1,0 +1,41 @@
+
+383_l4.png
+size: 150,112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l4xhs1
+  rotate: true
+  xy: 92, 2
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+l4xhs2
+  rotate: true
+  xy: 94, 61
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+l4yy1
+  rotate: false
+  xy: 65, 27
+  size: 25, 41
+  orig: 26, 42
+  offset: 1, 0
+  index: -1
+l4yy2
+  rotate: false
+  xy: 2, 70
+  size: 90, 40
+  orig: 94, 41
+  offset: 4, 0
+  index: -1
+xxx1
+  rotate: false
+  xy: 2, 11
+  size: 61, 57
+  orig: 61, 58
+  offset: 0, 0
+  index: -1

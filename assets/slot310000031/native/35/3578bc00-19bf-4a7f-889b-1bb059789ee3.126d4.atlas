@@ -1,0 +1,34 @@
+
+FX_NearWin_Back.png
+size: 380,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_NearWin/Bg
+  rotate: false
+  xy: 129, 45
+  size: 138, 59
+  orig: 138, 59
+  offset: 0, 0
+  index: -1
+FX_NearWin/Bg_L
+  rotate: true
+  xy: 129, 11
+  size: 32, 143
+  orig: 32, 143
+  offset: 0, 0
+  index: -1
+FX_NearWin/Light_04
+  rotate: false
+  xy: 274, 2
+  size: 104, 102
+  orig: 115, 115
+  offset: 3, 6
+  index: -1
+FX_NearWin/LineWinLight_2
+  rotate: true
+  xy: 2, 11
+  size: 93, 125
+  orig: 99, 140
+  offset: 4, 1
+  index: -1

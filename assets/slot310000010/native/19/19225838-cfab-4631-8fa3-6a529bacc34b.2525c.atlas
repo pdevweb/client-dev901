@@ -1,0 +1,118 @@
+
+239_qipan_shangsheng.png
+size: 760,200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi01/lizi01_000
+  rotate: true
+  xy: 655, 4
+  size: 96, 90
+  orig: 121, 111
+  offset: 16, 11
+  index: -1
+lizi01/lizi01_001
+  rotate: false
+  xy: 379, 96
+  size: 97, 102
+  orig: 121, 111
+  offset: 14, 0
+  index: -1
+lizi01/lizi01_002
+  rotate: true
+  xy: 287, 95
+  size: 103, 90
+  orig: 121, 111
+  offset: 15, 12
+  index: -1
+lizi01/lizi01_003
+  rotate: true
+  xy: 115, 93
+  size: 105, 92
+  orig: 121, 111
+  offset: 16, 8
+  index: -1
+lizi01/lizi01_004
+  rotate: false
+  xy: 575, 102
+  size: 96, 96
+  orig: 121, 111
+  offset: 25, 0
+  index: -1
+lizi01/lizi01_005
+  rotate: false
+  xy: 491, 2
+  size: 81, 95
+  orig: 121, 111
+  offset: 25, 0
+  index: -1
+lizi01/lizi01_006
+  rotate: false
+  xy: 574, 2
+  size: 79, 95
+  orig: 121, 111
+  offset: 25, 0
+  index: -1
+lizi01/lizi01_007
+  rotate: true
+  xy: 204, 6
+  size: 85, 97
+  orig: 121, 111
+  offset: 22, 0
+  index: -1
+lizi01/lizi01_008
+  rotate: false
+  xy: 303, 2
+  size: 93, 91
+  orig: 121, 111
+  offset: 17, 6
+  index: -1
+lizi01/lizi01_009
+  rotate: false
+  xy: 105, 3
+  size: 97, 82
+  orig: 121, 111
+  offset: 11, 15
+  index: -1
+lizi01/lizi01_010
+  rotate: false
+  xy: 2, 3
+  size: 101, 82
+  orig: 121, 111
+  offset: 7, 14
+  index: -1
+lizi01/lizi01_011
+  rotate: true
+  xy: 209, 94
+  size: 104, 76
+  orig: 121, 111
+  offset: 8, 16
+  index: -1
+lizi01/lizi01_012
+  rotate: true
+  xy: 673, 107
+  size: 91, 85
+  orig: 121, 111
+  offset: 20, 9
+  index: -1
+lizi01/lizi01_013
+  rotate: true
+  xy: 398, 2
+  size: 92, 91
+  orig: 121, 111
+  offset: 19, 6
+  index: -1
+lizi01/lizi01_014
+  rotate: true
+  xy: 478, 99
+  size: 99, 95
+  orig: 121, 111
+  offset: 15, 5
+  index: -1
+lizi_0007
+  rotate: false
+  xy: 2, 87
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+qinzhu.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bk/bk_00005
+  rotate: true
+  xy: 1132, 194
+  size: 156, 154
+  orig: 200, 188
+  offset: 27, 19
+  index: -1
+images/bk/bk_00006
+  rotate: false
+  xy: 807, 175
+  size: 163, 167
+  orig: 200, 188
+  offset: 21, 17
+  index: -1
+images/bk/bk_00007
+  rotate: true
+  xy: 639, 165
+  size: 168, 166
+  orig: 200, 188
+  offset: 15, 12
+  index: -1
+images/bk/bk_00008
+  rotate: true
+  xy: 476, 335
+  size: 175, 171
+  orig: 200, 188
+  offset: 10, 9
+  index: -1
+images/bk/bk_00009
+  rotate: false
+  xy: 465, 164
+  size: 172, 160
+  orig: 200, 188
+  offset: 14, 15
+  index: -1
+images/bk/bk_00010
+  rotate: false
+  xy: 681, 2
+  size: 164, 161
+  orig: 200, 188
+  offset: 23, 15
+  index: -1
+images/bk/bk_00011
+  rotate: false
+  xy: 847, 9
+  size: 162, 164
+  orig: 200, 188
+  offset: 24, 14
+  index: -1
+images/bk/bk_00012
+  rotate: false
+  xy: 982, 352
+  size: 158, 158
+  orig: 200, 188
+  offset: 25, 13
+  index: -1
+images/bk/bk_00013
+  rotate: false
+  xy: 342, 2
+  size: 163, 157
+  orig: 200, 188
+  offset: 19, 15
+  index: -1
+images/bk/bk_00014
+  rotate: true
+  xy: 972, 179
+  size: 165, 158
+  orig: 200, 188
+  offset: 15, 16
+  index: -1
+images/bk/bk_00015
+  rotate: false
+  xy: 507, 2
+  size: 172, 160
+  orig: 200, 188
+  offset: 12, 15
+  index: -1
+images/bk/bk_00016
+  rotate: false
+  xy: 816, 346
+  size: 164, 164
+  orig: 200, 188
+  offset: 16, 13
+  index: -1
+images/bk/bk_00017
+  rotate: true
+  xy: 649, 344
+  size: 166, 165
+  orig: 200, 188
+  offset: 15, 13
+  index: -1
+images/bk/bk_00019
+  rotate: false
+  xy: 290, 161
+  size: 173, 163
+  orig: 200, 188
+  offset: 9, 15
+  index: -1
+images/bk/bk_00021
+  rotate: true
+  xy: 2, 2
+  size: 150, 144
+  orig: 200, 188
+  offset: 32, 25
+  index: -1
+images/hg_00000
+  rotate: true
+  xy: 2, 154
+  size: 356, 286
+  orig: 440, 341
+  offset: 53, 0
+  index: -1
+images/jj_00739
+  rotate: false
+  xy: 290, 326
+  size: 184, 184
+  orig: 200, 198
+  offset: 7, 7
+  index: -1
+images/kgg_00010
+  rotate: false
+  xy: 148, 64
+  size: 192, 88
+  orig: 245, 136
+  offset: 20, 25
+  index: -1
+images/q_00742
+  rotate: false
+  xy: 1011, 20
+  size: 157, 157
+  orig: 172, 172
+  offset: 8, 7
+  index: -1

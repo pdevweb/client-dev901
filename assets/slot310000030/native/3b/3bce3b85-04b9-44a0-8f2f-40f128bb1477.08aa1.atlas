@@ -1,0 +1,27 @@
+
+pick_bzsj.png
+size: 292,220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bk_0
+  rotate: true
+  xy: 184, 22
+  size: 194, 104
+  orig: 206, 104
+  offset: 6, 0
+  index: -1
+effect/hg_00000_00000
+  rotate: false
+  xy: 2, 36
+  size: 180, 180
+  orig: 206, 202
+  offset: 11, 11
+  index: -1
+effect/lz
+  rotate: true
+  xy: 2, 2
+  size: 32, 33
+  orig: 39, 40
+  offset: 3, 3
+  index: -1

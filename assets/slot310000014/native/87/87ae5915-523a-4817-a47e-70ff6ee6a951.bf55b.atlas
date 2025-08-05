@@ -1,0 +1,153 @@
+
+307_footerjieshou.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sc/1_00000
+  rotate: true
+  xy: 324, 34
+  size: 97, 88
+  orig: 100, 94
+  offset: 2, 6
+  index: -1
+收集/2
+  rotate: false
+  xy: 2, 2
+  size: 100, 75
+  orig: 116, 116
+  offset: 8, 20
+  index: -1
+收集/2/0_00000
+  rotate: true
+  xy: 251, 11
+  size: 72, 71
+  orig: 76, 72
+  offset: 1, 1
+  index: -1
+收集/2/0_00001
+  rotate: false
+  xy: 414, 107
+  size: 71, 71
+  orig: 76, 72
+  offset: 1, 1
+  index: -1
+收集/2/0_00002
+  rotate: false
+  xy: 469, 182
+  size: 69, 70
+  orig: 76, 72
+  offset: 1, 1
+  index: -1
+收集/2/0_00003
+  rotate: false
+  xy: 483, 34
+  size: 65, 71
+  orig: 76, 72
+  offset: 3, 1
+  index: -1
+收集/2/0_00004
+  rotate: true
+  xy: 540, 192
+  size: 60, 71
+  orig: 76, 72
+  offset: 5, 1
+  index: -1
+收集/2/0_00005
+  rotate: false
+  xy: 550, 119
+  size: 56, 71
+  orig: 76, 72
+  offset: 8, 1
+  index: -1
+收集/2/0_00006
+  rotate: false
+  xy: 606, 46
+  size: 48, 71
+  orig: 76, 72
+  offset: 12, 1
+  index: -1
+收集/2/0_00007
+  rotate: true
+  xy: 227, 85
+  size: 39, 71
+  orig: 76, 72
+  offset: 17, 1
+  index: -1
+收集/2/0_00008
+  rotate: true
+  xy: 154, 84
+  size: 40, 71
+  orig: 76, 72
+  offset: 18, 1
+  index: -1
+收集/2/0_00009
+  rotate: false
+  xy: 608, 119
+  size: 48, 71
+  orig: 76, 72
+  offset: 14, 1
+  index: -1
+收集/2/0_00010
+  rotate: false
+  xy: 550, 46
+  size: 54, 71
+  orig: 76, 72
+  offset: 11, 1
+  index: -1
+收集/2/0_00011
+  rotate: false
+  xy: 487, 109
+  size: 61, 71
+  orig: 76, 72
+  offset: 8, 1
+  index: -1
+收集/2/0_00012
+  rotate: false
+  xy: 414, 34
+  size: 67, 71
+  orig: 76, 72
+  offset: 5, 1
+  index: -1
+收集/2/0_00013
+  rotate: true
+  xy: 396, 180
+  size: 72, 71
+  orig: 76, 72
+  offset: 2, 1
+  index: -1
+收集/2/0_00014
+  rotate: true
+  xy: 104, 4
+  size: 73, 72
+  orig: 76, 72
+  offset: 1, 0
+  index: -1
+收集/2/0_00015
+  rotate: true
+  xy: 178, 9
+  size: 73, 71
+  orig: 76, 72
+  offset: 1, 1
+  index: -1
+收集/3
+  rotate: true
+  xy: 2, 79
+  size: 173, 150
+  orig: 173, 150
+  offset: 0, 0
+  index: -1
+收集/impact_base
+  rotate: false
+  xy: 154, 126
+  size: 125, 126
+  orig: 128, 128
+  offset: 2, 0
+  index: -1
+收集/z01
+  rotate: false
+  xy: 281, 133
+  size: 113, 119
+  orig: 115, 119
+  offset: 2, 0
+  index: -1

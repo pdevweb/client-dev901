@@ -1,0 +1,370 @@
+
+eff_zhuanchang.png
+size: 1684,384
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin02
+  rotate: true
+  xy: 696, 252
+  size: 130, 84
+  orig: 130, 84
+  offset: 0, 0
+  index: -1
+coin03
+  rotate: true
+  xy: 242, 99
+  size: 136, 88
+  orig: 142, 88
+  offset: 3, 0
+  index: -1
+coin05
+  rotate: true
+  xy: 958, 2
+  size: 124, 84
+  orig: 134, 86
+  offset: 5, 1
+  index: -1
+coin07
+  rotate: true
+  xy: 466, 2
+  size: 113, 116
+  orig: 113, 116
+  offset: 0, 0
+  index: -1
+coin08
+  rotate: true
+  xy: 315, 248
+  size: 134, 100
+  orig: 134, 100
+  offset: 0, 0
+  index: -1
+coin10
+  rotate: true
+  xy: 332, 113
+  size: 133, 104
+  orig: 133, 104
+  offset: 0, 0
+  index: -1
+coin11
+  rotate: false
+  xy: 329, 2
+  size: 135, 95
+  orig: 135, 95
+  offset: 0, 0
+  index: -1
+coin14
+  rotate: true
+  xy: 669, 2
+  size: 116, 94
+  orig: 116, 94
+  offset: 0, 0
+  index: -1
+coin15
+  rotate: true
+  xy: 1386, 179
+  size: 97, 84
+  orig: 97, 84
+  offset: 0, 0
+  index: -1
+coin16
+  rotate: false
+  xy: 967, 257
+  size: 110, 125
+  orig: 110, 125
+  offset: 0, 0
+  index: -1
+coin19
+  rotate: false
+  xy: 1164, 23
+  size: 111, 112
+  orig: 111, 112
+  offset: 0, 0
+  index: -1
+coin20
+  rotate: true
+  xy: 604, 252
+  size: 130, 90
+  orig: 137, 97
+  offset: 5, 3
+  index: -1
+coin21
+  rotate: true
+  xy: 1290, 164
+  size: 105, 94
+  orig: 105, 94
+  offset: 0, 0
+  index: -1
+coin23
+  rotate: true
+  xy: 438, 117
+  size: 131, 108
+  orig: 131, 108
+  offset: 0, 0
+  index: -1
+coin24
+  rotate: true
+  xy: 1277, 43
+  size: 110, 107
+  orig: 110, 107
+  offset: 0, 0
+  index: -1
+coin25
+  rotate: true
+  xy: 870, 256
+  size: 126, 95
+  orig: 126, 95
+  offset: 0, 0
+  index: -1
+coin28
+  rotate: false
+  xy: 99, 3
+  size: 118, 76
+  orig: 118, 76
+  offset: 0, 0
+  index: -1
+coin30
+  rotate: true
+  xy: 731, 121
+  size: 129, 83
+  orig: 129, 83
+  offset: 0, 0
+  index: -1
+coin31
+  rotate: true
+  xy: 1181, 269
+  size: 113, 84
+  orig: 113, 84
+  offset: 0, 0
+  index: -1
+coin32
+  rotate: true
+  xy: 1073, 137
+  size: 118, 110
+  orig: 120, 110
+  offset: 1, 0
+  index: -1
+coin35
+  rotate: true
+  xy: 1386, 80
+  size: 97, 80
+  orig: 97, 80
+  offset: 0, 0
+  index: -1
+coin37
+  rotate: true
+  xy: 1079, 269
+  size: 113, 100
+  orig: 113, 100
+  offset: 0, 0
+  index: -1
+coin43
+  rotate: true
+  xy: 765, 2
+  size: 117, 99
+  orig: 117, 99
+  offset: 0, 0
+  index: -1
+coin46
+  rotate: true
+  xy: 1376, 278
+  size: 104, 96
+  orig: 104, 96
+  offset: 0, 0
+  index: -1
+coin47
+  rotate: true
+  xy: 904, 128
+  size: 126, 84
+  orig: 126, 84
+  offset: 0, 0
+  index: -1
+coin55
+  rotate: true
+  xy: 782, 255
+  size: 127, 86
+  orig: 127, 86
+  offset: 0, 0
+  index: -1
+coin56
+  rotate: true
+  xy: 643, 120
+  size: 130, 86
+  orig: 130, 86
+  offset: 0, 0
+  index: -1
+coin60
+  rotate: true
+  xy: 548, 119
+  size: 130, 93
+  orig: 130, 93
+  offset: 0, 0
+  index: -1
+coin65
+  rotate: true
+  xy: 990, 133
+  size: 122, 81
+  orig: 122, 81
+  offset: 0, 0
+  index: -1
+coin67
+  rotate: true
+  xy: 816, 126
+  size: 127, 86
+  orig: 127, 86
+  offset: 0, 0
+  index: -1
+coin68
+  rotate: false
+  xy: 1474, 293
+  size: 103, 89
+  orig: 103, 89
+  offset: 0, 0
+  index: -1
+coin69
+  rotate: true
+  xy: 866, 2
+  size: 122, 90
+  orig: 122, 90
+  offset: 0, 0
+  index: -1
+coin72
+  rotate: false
+  xy: 219, 5
+  size: 108, 74
+  orig: 108, 74
+  offset: 0, 0
+  index: -1
+coin74
+  rotate: false
+  xy: 1474, 205
+  size: 99, 86
+  orig: 99, 86
+  offset: 0, 0
+  index: -1
+coin77
+  rotate: false
+  xy: 1468, 38
+  size: 94, 89
+  orig: 94, 89
+  offset: 0, 0
+  index: -1
+coin78
+  rotate: true
+  xy: 1579, 202
+  size: 99, 100
+  orig: 99, 100
+  offset: 0, 0
+  index: -1
+coin79
+  rotate: false
+  xy: 1572, 121
+  size: 97, 79
+  orig: 97, 79
+  offset: 0, 0
+  index: -1
+coin84
+  rotate: true
+  xy: 1564, 26
+  size: 93, 92
+  orig: 93, 92
+  offset: 0, 0
+  index: -1
+coin85
+  rotate: false
+  xy: 1579, 303
+  size: 103, 79
+  orig: 103, 79
+  offset: 0, 0
+  index: -1
+coin86
+  rotate: false
+  xy: 1472, 129
+  size: 98, 74
+  orig: 98, 74
+  offset: 0, 0
+  index: -1
+coin87
+  rotate: true
+  xy: 584, 2
+  size: 115, 83
+  orig: 129, 83
+  offset: 7, 0
+  index: -1
+coin89
+  rotate: false
+  xy: 1185, 155
+  size: 103, 112
+  orig: 103, 112
+  offset: 0, 0
+  index: -1
+coin91
+  rotate: false
+  xy: 417, 250
+  size: 89, 132
+  orig: 89, 132
+  offset: 0, 0
+  index: -1
+coin93
+  rotate: false
+  xy: 508, 251
+  size: 94, 131
+  orig: 94, 131
+  offset: 0, 0
+  index: -1
+coin98
+  rotate: true
+  xy: 1267, 271
+  size: 111, 107
+  orig: 111, 107
+  offset: 0, 0
+  index: -1
+mj1
+  rotate: true
+  xy: 94, 232
+  size: 150, 127
+  orig: 150, 127
+  offset: 0, 0
+  index: -1
+mj11
+  rotate: false
+  xy: 1044, 13
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+mj3
+  rotate: true
+  xy: 2, 214
+  size: 168, 90
+  orig: 168, 90
+  offset: 0, 0
+  index: -1
+mj5
+  rotate: true
+  xy: 223, 237
+  size: 145, 90
+  orig: 145, 90
+  offset: 0, 0
+  index: -1
+mj7
+  rotate: true
+  xy: 2, 58
+  size: 154, 95
+  orig: 154, 95
+  offset: 0, 0
+  index: -1
+mj12
+  rotate: true
+  xy: 2, 58
+  size: 154, 95
+  orig: 154, 95
+  offset: 0, 0
+  index: -1
+mj8
+  rotate: false
+  xy: 99, 81
+  size: 141, 149
+  orig: 141, 149
+  offset: 0, 0
+  index: -1

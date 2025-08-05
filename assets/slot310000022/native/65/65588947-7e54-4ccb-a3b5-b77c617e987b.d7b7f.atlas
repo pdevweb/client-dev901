@@ -1,0 +1,41 @@
+
+398_tstc4.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+areyou
+  rotate: false
+  xy: 5, 54
+  size: 185, 19
+  orig: 185, 19
+  offset: 0, 0
+  index: -1
+effect/cg2
+  rotate: false
+  xy: 78, 23
+  size: 75, 29
+  orig: 105, 62
+  offset: 15, 17
+  index: -1
+effect/rongqi
+  rotate: false
+  xy: 2, 72
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+room
+  rotate: false
+  xy: 2, 33
+  size: 74, 19
+  orig: 74, 19
+  offset: 0, 0
+  index: -1
+the
+  rotate: false
+  xy: 2, 2
+  size: 188, 19
+  orig: 188, 19
+  offset: 0, 0
+  index: -1

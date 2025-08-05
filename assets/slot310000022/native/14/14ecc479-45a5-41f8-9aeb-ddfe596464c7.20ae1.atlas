@@ -1,0 +1,111 @@
+
+398_ewaics.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 333, 76
+  size: 36, 74
+  orig: 36, 74
+  offset: 0, 0
+  index: -1
+1y
+  rotate: true
+  xy: 311, 2
+  size: 54, 23
+  orig: 64, 23
+  offset: 7, 0
+  index: -1
+bgg
+  rotate: false
+  xy: 2, 94
+  size: 207, 159
+  orig: 207, 159
+  offset: 0, 0
+  index: -1
+cg1
+  rotate: false
+  xy: 211, 152
+  size: 189, 101
+  orig: 189, 105
+  offset: 0, 0
+  index: -1
+effect/bai
+  rotate: false
+  xy: 199, 91
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+effect/cg2
+  rotate: true
+  xy: 371, 75
+  size: 75, 29
+  orig: 105, 62
+  offset: 15, 17
+  index: -1
+effect/gy
+  rotate: false
+  xy: 336, 19
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+effect/hg_00034
+  rotate: true
+  xy: 482, 53
+  size: 22, 26
+  orig: 24, 26
+  offset: 1, 0
+  index: -1
+effect/qqq_00000
+  rotate: true
+  xy: 402, 64
+  size: 77, 78
+  orig: 82, 80
+  offset: 3, 1
+  index: -1
+effect/xlz_00000
+  rotate: false
+  xy: 402, 143
+  size: 103, 110
+  orig: 117, 116
+  offset: 8, 4
+  index: -1
+extra
+  rotate: false
+  xy: 199, 22
+  size: 110, 34
+  orig: 110, 34
+  offset: 0, 0
+  index: -1
+hy1
+  rotate: false
+  xy: 211, 58
+  size: 120, 92
+  orig: 126, 92
+  offset: 6, 0
+  index: -1
+spin
+  rotate: true
+  xy: 482, 77
+  size: 64, 23
+  orig: 64, 23
+  offset: 0, 0
+  index: -1
+spiny
+  rotate: false
+  xy: 199, 2
+  size: 86, 18
+  orig: 86, 18
+  offset: 0, 0
+  index: -1
+yun1
+  rotate: false
+  xy: 2, 9
+  size: 195, 83
+  orig: 209, 83
+  offset: 8, 0
+  index: -1

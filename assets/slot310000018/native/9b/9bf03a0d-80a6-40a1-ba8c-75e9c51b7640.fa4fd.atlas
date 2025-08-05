@@ -1,0 +1,132 @@
+
+239_qipan_kuang.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_000
+  rotate: true
+  xy: 80, 228
+  size: 79, 92
+  orig: 79, 92
+  offset: 0, 0
+  index: -1
+faguang
+  rotate: true
+  xy: 2, 241
+  size: 66, 76
+  orig: 66, 76
+  offset: 0, 0
+  index: -1
+jili/jili_000
+  rotate: false
+  xy: 2, 8
+  size: 152, 218
+  orig: 186, 247
+  offset: 24, 13
+  index: -1
+jili/jili_001
+  rotate: true
+  xy: 156, 2
+  size: 152, 218
+  orig: 186, 247
+  offset: 24, 13
+  index: -1
+jili/jili_002
+  rotate: true
+  xy: 376, 2
+  size: 152, 218
+  orig: 186, 247
+  offset: 24, 13
+  index: -1
+jili/jili_003
+  rotate: true
+  xy: 596, 2
+  size: 152, 218
+  orig: 186, 247
+  offset: 24, 13
+  index: -1
+jili/jili_004
+  rotate: true
+  xy: 816, 2
+  size: 152, 219
+  orig: 186, 247
+  offset: 24, 12
+  index: -1
+jili/jili_005
+  rotate: true
+  xy: 1037, 2
+  size: 152, 218
+  orig: 186, 247
+  offset: 24, 13
+  index: -1
+jili/jili_006
+  rotate: true
+  xy: 174, 156
+  size: 151, 218
+  orig: 186, 247
+  offset: 24, 13
+  index: -1
+jili/jili_007
+  rotate: true
+  xy: 394, 156
+  size: 151, 218
+  orig: 186, 247
+  offset: 24, 13
+  index: -1
+jili/jili_008
+  rotate: true
+  xy: 614, 156
+  size: 151, 218
+  orig: 186, 247
+  offset: 24, 13
+  index: -1
+jili/jili_009
+  rotate: true
+  xy: 834, 156
+  size: 151, 218
+  orig: 186, 247
+  offset: 24, 13
+  index: -1
+jili/jili_010
+  rotate: true
+  xy: 1054, 156
+  size: 151, 218
+  orig: 186, 247
+  offset: 24, 13
+  index: -1
+jili/jili_011
+  rotate: true
+  xy: 1274, 156
+  size: 151, 218
+  orig: 186, 247
+  offset: 24, 13
+  index: -1
+jili/jili_012
+  rotate: true
+  xy: 1494, 156
+  size: 151, 218
+  orig: 186, 247
+  offset: 24, 13
+  index: -1
+jili/jili_013
+  rotate: true
+  xy: 1714, 156
+  size: 151, 218
+  orig: 186, 247
+  offset: 24, 13
+  index: -1
+jili/jili_014
+  rotate: true
+  xy: 1257, 2
+  size: 152, 218
+  orig: 186, 247
+  offset: 24, 13
+  index: -1
+jili/jili_015
+  rotate: true
+  xy: 1477, 2
+  size: 152, 218
+  orig: 186, 247
+  offset: 24, 13
+  index: -1

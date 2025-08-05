@@ -1,0 +1,76 @@
+
+eff_icon_05.png
+size: 656,564
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diji1
+  rotate: false
+  xy: 172, 170
+  size: 166, 170
+  orig: 220, 220
+  offset: 30, 24
+  index: -1
+diji1_1
+  rotate: true
+  xy: 340, 14
+  size: 166, 170
+  orig: 220, 220
+  offset: 30, 24
+  index: -1
+diji1_add
+  rotate: false
+  xy: 2, 342
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+diji1_y
+  rotate: false
+  xy: 224, 342
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+kuosan_00
+  rotate: true
+  xy: 512, 34
+  size: 146, 142
+  orig: 250, 200
+  offset: 49, 29
+  index: -1
+kuosan_01
+  rotate: true
+  xy: 2, 168
+  size: 172, 168
+  orig: 250, 200
+  offset: 36, 16
+  index: -1
+kuosan_02
+  rotate: true
+  xy: 446, 182
+  size: 186, 181
+  orig: 250, 200
+  offset: 29, 8
+  index: -1
+kuosan_03
+  rotate: true
+  xy: 446, 370
+  size: 192, 184
+  orig: 250, 200
+  offset: 24, 7
+  index: -1
+kuosan_04
+  rotate: true
+  xy: 163, 6
+  size: 160, 154
+  orig: 250, 200
+  offset: 41, 26
+  index: -1
+kuosan_05
+  rotate: true
+  xy: 2, 2
+  size: 164, 159
+  orig: 250, 200
+  offset: 35, 22
+  index: -1
