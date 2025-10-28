@@ -1,0 +1,48 @@
+
+baoxianxiang.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/beimian
+  rotate: false
+  xy: 130, 64
+  size: 29, 59
+  orig: 29, 59
+  offset: 0, 0
+  index: -1
+images/lunpan
+  rotate: false
+  xy: 153, 28
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+images/wangge
+  rotate: false
+  xy: 2, 7
+  size: 35, 7
+  orig: 35, 7
+  offset: 0, 0
+  index: -1
+images/yingzi
+  rotate: true
+  xy: 92, 54
+  size: 69, 36
+  orig: 70, 37
+  offset: 0, 0
+  index: -1
+images/zhengmian
+  rotate: true
+  xy: 92, 2
+  size: 50, 59
+  orig: 50, 59
+  offset: 0, 0
+  index: -1
+lizi
+  rotate: false
+  xy: 2, 16
+  size: 88, 107
+  orig: 111, 107
+  offset: 0, 0
+  index: -1

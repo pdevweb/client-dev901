@@ -1,0 +1,132 @@
+
+m1.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/beihou
+  rotate: false
+  xy: 246, 5
+  size: 57, 39
+  orig: 57, 39
+  offset: 0, 0
+  index: -1
+images/beijing
+  rotate: true
+  xy: 72, 28
+  size: 98, 84
+  orig: 98, 84
+  offset: 0, 0
+  index: -1
+images/kuang
+  rotate: true
+  xy: 158, 29
+  size: 97, 84
+  orig: 97, 84
+  offset: 0, 0
+  index: -1
+images/lian
+  rotate: false
+  xy: 280, 58
+  size: 59, 68
+  orig: 60, 68
+  offset: 0, 0
+  index: -1
+images/maozi
+  rotate: false
+  xy: 77, 2
+  size: 41, 24
+  orig: 44, 25
+  offset: 3, 1
+  index: -1
+images/shenti
+  rotate: true
+  xy: 2, 19
+  size: 107, 68
+  orig: 109, 68
+  offset: 2, 0
+  index: -1
+images/shou
+  rotate: false
+  xy: 244, 46
+  size: 34, 80
+  orig: 36, 80
+  offset: 0, 0
+  index: -1
+images/toufa1
+  rotate: true
+  xy: 45, 6
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+images/toufa2
+  rotate: false
+  xy: 207, 2
+  size: 19, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+images/toufa3
+  rotate: false
+  xy: 228, 4
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+images/yanbai1
+  rotate: false
+  xy: 66, 8
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+images/yanbai2
+  rotate: true
+  xy: 55, 7
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+images/yanjing
+  rotate: false
+  xy: 2, 5
+  size: 41, 12
+  orig: 41, 12
+  offset: 0, 0
+  index: -1
+images/yanjing2
+  rotate: false
+  xy: 45, 2
+  size: 3, 2
+  orig: 3, 2
+  offset: 0, 0
+  index: -1
+images/yanzhu1
+  rotate: false
+  xy: 288, 51
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+images/yanzhu2
+  rotate: false
+  xy: 280, 50
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+theme122_s_3
+  rotate: true
+  xy: 184, 2
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+zaoyin
+  rotate: true
+  xy: 120, 3
+  size: 23, 62
+  orig: 84, 84
+  offset: 28, 16
+  index: -1

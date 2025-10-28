@@ -1,0 +1,13 @@
+
+slot_bigwin_text1.png
+size: 360,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dk
+  rotate: false
+  xy: 2, 2
+  size: 354, 102
+  orig: 354, 106
+  offset: 0, 2
+  index: -1

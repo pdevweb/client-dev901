@@ -1,0 +1,20 @@
+
+collect_progress.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaoliang03
+  rotate: false
+  xy: 2, 15
+  size: 232, 27
+  orig: 232, 27
+  offset: 0, 0
+  index: -1
+gaoliang04
+  rotate: false
+  xy: 2, 2
+  size: 170, 11
+  orig: 170, 11
+  offset: 0, 0
+  index: -1

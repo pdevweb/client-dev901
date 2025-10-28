@@ -1,0 +1,97 @@
+
+eff_propfall_idle.png
+size: 2048,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+led_00000
+  rotate: false
+  xy: 1694, 2
+  size: 33, 32
+  orig: 230, 32
+  offset: 99, 0
+  index: -1
+led_00001
+  rotate: false
+  xy: 1639, 2
+  size: 53, 32
+  orig: 230, 32
+  offset: 89, 0
+  index: -1
+led_00002
+  rotate: false
+  xy: 1564, 2
+  size: 73, 32
+  orig: 230, 32
+  offset: 79, 0
+  index: -1
+led_00003
+  rotate: false
+  xy: 1468, 2
+  size: 94, 32
+  orig: 230, 32
+  offset: 68, 0
+  index: -1
+led_00004
+  rotate: false
+  xy: 1351, 2
+  size: 115, 32
+  orig: 230, 32
+  offset: 57, 0
+  index: -1
+led_00005
+  rotate: false
+  xy: 1213, 2
+  size: 136, 32
+  orig: 230, 32
+  offset: 46, 0
+  index: -1
+led_00006
+  rotate: false
+  xy: 1055, 2
+  size: 156, 32
+  orig: 230, 32
+  offset: 36, 0
+  index: -1
+led_00007
+  rotate: false
+  xy: 878, 2
+  size: 175, 32
+  orig: 230, 32
+  offset: 26, 0
+  index: -1
+led_00008
+  rotate: false
+  xy: 680, 2
+  size: 196, 32
+  orig: 230, 32
+  offset: 16, 0
+  index: -1
+led_00009
+  rotate: false
+  xy: 464, 2
+  size: 214, 32
+  orig: 230, 32
+  offset: 6, 0
+  index: -1
+led_00010
+  rotate: false
+  xy: 234, 2
+  size: 228, 32
+  orig: 230, 32
+  offset: 0, 0
+  index: -1
+led_00011
+  rotate: false
+  xy: 2, 2
+  size: 230, 32
+  orig: 230, 32
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 1729, 3
+  size: 31, 31
+  orig: 38, 38
+  offset: 3, 4
+  index: -1

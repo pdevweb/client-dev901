@@ -1,0 +1,34 @@
+
+coin_collect_fly.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaoliang01
+  rotate: false
+  xy: 230, 102
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+theme122_collect_1
+  rotate: false
+  xy: 125, 5
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+waiquan
+  rotate: false
+  xy: 2, 2
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+zhutou
+  rotate: false
+  xy: 125, 20
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1

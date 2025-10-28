@@ -1,0 +1,181 @@
+
+jackpot_logo_01.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/theme122_jpReel_logo1
+  rotate: false
+  xy: 2, 2
+  size: 176, 91
+  orig: 176, 95
+  offset: 0, 2
+  index: -1
+liuguang/liuguang_1
+  rotate: false
+  xy: 180, 2
+  size: 8, 13
+  orig: 143, 105
+  offset: 16, 44
+  index: -1
+liuguang/liuguang_10
+  rotate: false
+  xy: 1782, 2
+  size: 57, 42
+  orig: 143, 105
+  offset: 17, 26
+  index: -1
+liuguang/liuguang_11
+  rotate: false
+  xy: 2, 95
+  size: 59, 41
+  orig: 143, 105
+  offset: 21, 27
+  index: -1
+liuguang/liuguang_12
+  rotate: false
+  xy: 180, 95
+  size: 60, 41
+  orig: 143, 105
+  offset: 23, 27
+  index: -1
+liuguang/liuguang_13
+  rotate: false
+  xy: 358, 95
+  size: 59, 40
+  orig: 143, 105
+  offset: 29, 27
+  index: -1
+liuguang/liuguang_14
+  rotate: false
+  xy: 536, 95
+  size: 57, 38
+  orig: 143, 105
+  offset: 36, 27
+  index: -1
+liuguang/liuguang_15
+  rotate: false
+  xy: 714, 95
+  size: 55, 39
+  orig: 143, 105
+  offset: 42, 27
+  index: -1
+liuguang/liuguang_16
+  rotate: false
+  xy: 892, 95
+  size: 54, 42
+  orig: 143, 105
+  offset: 46, 27
+  index: -1
+liuguang/liuguang_17
+  rotate: false
+  xy: 1070, 95
+  size: 51, 43
+  orig: 143, 105
+  offset: 51, 27
+  index: -1
+liuguang/liuguang_18
+  rotate: false
+  xy: 1248, 95
+  size: 47, 43
+  orig: 143, 105
+  offset: 56, 27
+  index: -1
+liuguang/liuguang_19
+  rotate: false
+  xy: 1426, 95
+  size: 41, 44
+  orig: 143, 105
+  offset: 62, 27
+  index: -1
+liuguang/liuguang_2
+  rotate: false
+  xy: 358, 2
+  size: 13, 23
+  orig: 143, 105
+  offset: 16, 43
+  index: -1
+liuguang/liuguang_20
+  rotate: false
+  xy: 1604, 95
+  size: 35, 43
+  orig: 143, 105
+  offset: 68, 28
+  index: -1
+liuguang/liuguang_21
+  rotate: false
+  xy: 1782, 95
+  size: 30, 40
+  orig: 143, 105
+  offset: 73, 31
+  index: -1
+liuguang/liuguang_22
+  rotate: false
+  xy: 2, 188
+  size: 25, 32
+  orig: 143, 105
+  offset: 78, 39
+  index: -1
+liuguang/liuguang_23
+  rotate: false
+  xy: 180, 188
+  size: 20, 26
+  orig: 143, 105
+  offset: 83, 44
+  index: -1
+liuguang/liuguang_24
+  rotate: false
+  xy: 358, 188
+  size: 15, 25
+  orig: 143, 105
+  offset: 88, 45
+  index: -1
+liuguang/liuguang_3
+  rotate: false
+  xy: 536, 2
+  size: 22, 41
+  orig: 143, 105
+  offset: 16, 27
+  index: -1
+liuguang/liuguang_4
+  rotate: false
+  xy: 714, 2
+  size: 27, 41
+  orig: 143, 105
+  offset: 16, 27
+  index: -1
+liuguang/liuguang_5
+  rotate: false
+  xy: 892, 2
+  size: 32, 42
+  orig: 143, 105
+  offset: 16, 26
+  index: -1
+liuguang/liuguang_6
+  rotate: false
+  xy: 1070, 2
+  size: 37, 42
+  orig: 143, 105
+  offset: 16, 26
+  index: -1
+liuguang/liuguang_7
+  rotate: false
+  xy: 1248, 2
+  size: 41, 42
+  orig: 143, 105
+  offset: 16, 26
+  index: -1
+liuguang/liuguang_8
+  rotate: false
+  xy: 1426, 2
+  size: 47, 42
+  orig: 143, 105
+  offset: 16, 26
+  index: -1
+liuguang/liuguang_9
+  rotate: false
+  xy: 1604, 2
+  size: 53, 42
+  orig: 143, 105
+  offset: 16, 26
+  index: -1

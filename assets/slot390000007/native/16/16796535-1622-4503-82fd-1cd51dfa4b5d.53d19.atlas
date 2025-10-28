@@ -1,0 +1,195 @@
+
+symbol_jb_01.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base_game_scene_0
+  rotate: false
+  xy: 230, 42
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+jinbiliuguang/jinbiliuguang_1
+  rotate: true
+  xy: 211, 2
+  size: 4, 8
+  orig: 14, 14
+  offset: 0, 4
+  index: -1
+jinbiliuguang/jinbiliuguang_10
+  rotate: false
+  xy: 163, 7
+  size: 10, 14
+  orig: 14, 14
+  offset: 1, 0
+  index: -1
+jinbiliuguang/jinbiliuguang_11
+  rotate: false
+  xy: 125, 7
+  size: 11, 14
+  orig: 14, 14
+  offset: 1, 0
+  index: -1
+jinbiliuguang/jinbiliuguang_12
+  rotate: false
+  xy: 175, 7
+  size: 10, 14
+  orig: 14, 14
+  offset: 2, 0
+  index: -1
+jinbiliuguang/jinbiliuguang_13
+  rotate: false
+  xy: 138, 7
+  size: 11, 14
+  orig: 14, 14
+  offset: 2, 0
+  index: -1
+jinbiliuguang/jinbiliuguang_14
+  rotate: false
+  xy: 187, 7
+  size: 10, 14
+  orig: 14, 14
+  offset: 3, 0
+  index: -1
+jinbiliuguang/jinbiliuguang_15
+  rotate: false
+  xy: 199, 7
+  size: 10, 14
+  orig: 14, 14
+  offset: 4, 0
+  index: -1
+jinbiliuguang/jinbiliuguang_16
+  rotate: false
+  xy: 223, 8
+  size: 10, 13
+  orig: 14, 14
+  offset: 4, 0
+  index: -1
+jinbiliuguang/jinbiliuguang_17
+  rotate: false
+  xy: 235, 12
+  size: 9, 13
+  orig: 14, 14
+  offset: 5, 0
+  index: -1
+jinbiliuguang/jinbiliuguang_18
+  rotate: false
+  xy: 241, 27
+  size: 8, 13
+  orig: 14, 14
+  offset: 6, 0
+  index: -1
+jinbiliuguang/jinbiliuguang_19
+  rotate: false
+  xy: 246, 13
+  size: 8, 12
+  orig: 14, 14
+  offset: 6, 0
+  index: -1
+jinbiliuguang/jinbiliuguang_2
+  rotate: false
+  xy: 264, 8
+  size: 5, 8
+  orig: 14, 14
+  offset: 0, 4
+  index: -1
+jinbiliuguang/jinbiliuguang_20
+  rotate: false
+  xy: 251, 28
+  size: 7, 12
+  orig: 14, 14
+  offset: 7, 0
+  index: -1
+jinbiliuguang/jinbiliuguang_21
+  rotate: false
+  xy: 264, 18
+  size: 6, 10
+  orig: 14, 14
+  offset: 8, 1
+  index: -1
+jinbiliuguang/jinbiliuguang_22
+  rotate: false
+  xy: 268, 31
+  size: 5, 9
+  orig: 14, 14
+  offset: 9, 1
+  index: -1
+jinbiliuguang/jinbiliuguang_23
+  rotate: true
+  xy: 221, 2
+  size: 4, 8
+  orig: 14, 14
+  offset: 10, 2
+  index: -1
+jinbiliuguang/jinbiliuguang_24
+  rotate: true
+  xy: 125, 2
+  size: 3, 7
+  orig: 14, 14
+  offset: 11, 2
+  index: -1
+jinbiliuguang/jinbiliuguang_3
+  rotate: false
+  xy: 260, 30
+  size: 6, 10
+  orig: 14, 14
+  offset: 0, 3
+  index: -1
+jinbiliuguang/jinbiliuguang_4
+  rotate: false
+  xy: 256, 15
+  size: 6, 11
+  orig: 14, 14
+  offset: 0, 2
+  index: -1
+jinbiliuguang/jinbiliuguang_5
+  rotate: true
+  xy: 250, 4
+  size: 7, 12
+  orig: 14, 14
+  offset: 0, 2
+  index: -1
+jinbiliuguang/jinbiliuguang_6
+  rotate: true
+  xy: 235, 2
+  size: 8, 13
+  orig: 14, 14
+  offset: 0, 1
+  index: -1
+jinbiliuguang/jinbiliuguang_7
+  rotate: false
+  xy: 230, 27
+  size: 9, 13
+  orig: 14, 14
+  offset: 0, 1
+  index: -1
+jinbiliuguang/jinbiliuguang_8
+  rotate: false
+  xy: 211, 8
+  size: 10, 13
+  orig: 14, 14
+  offset: 0, 1
+  index: -1
+jinbiliuguang/jinbiliuguang_9
+  rotate: false
+  xy: 151, 7
+  size: 10, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+waiquan
+  rotate: false
+  xy: 2, 5
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+zhutou
+  rotate: false
+  xy: 125, 23
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1

@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
 
-  <title></title>
-
+  <title>Cocos Creator | Slots</title>
+  <link rel="icon" index.1ac8e.jshref="" type="image/x-icon"></link>
   <!--http://www.html5rocks.com/en/mobile/mobifying/-->
   <meta name="viewport"
         content="width=device-width,user-scalable=no,initial-scale=1,minimum-scale=1,maximum-scale=1,minimal-ui=true"/>
@@ -29,11 +29,8 @@
   <!--fix fireball/issues/3568 -->
   <!--<meta name="browsermode" content="application">-->
   <meta name="x5-page-mode" content="app">
-
-  <!--<link rel="apple-touch-icon" href=".png" />-->
-  <!--<link rel="apple-touch-icon-precomposed" href=".png" />-->
-
-  <link rel="stylesheet" type="text/css" href="style.3a5a8.css"/>
+  
+  <link rel="stylesheet" href="style.3a5a8.css">
 
   <script>
     window.onload = function() {
@@ -123,7 +120,7 @@
 ></script>
 
 <script>
-    System.import("./index.07e37.js").catch(function (err) {
+    System.import("./index.1ac8e.js").catch(function (err) {
         console.error(err);
     });
 </script>
@@ -186,7 +183,7 @@
             />
         </circle>
     </svg>
-    <img id="logoSvg" style="display: none" index.07e37.jssrc="" alt="SVG Animation" />
+    <embed id="logoSvg" index.1ac8e.jssrc="" type="image/svg+xml" style="display: none;" alt="SVG Animation" />
 </div>
 
 <script type="text/javascript">
@@ -195,20 +192,26 @@
     var searchURL = decodeURIComponent(srh);
 
     const urlParams = new URLSearchParams(searchURL);
+    // title
+    document.title = urlParams.get("name") || 'Cocos Creator | Slots';
+
     const svgParam = urlParams.get("svg"); // 获取 'svg' 参数
     if (svgParam) {
-        // 判断资源是否存在
-        var img = document.getElementById("logoSvg");
-        img.onload = function () {
+        let svgInfo = svgParam.split(/\./);
+        // favicon
+        const favicon = document.querySelector('link[rel="icon"]');
+        if(favicon){
+            favicon.href = `./logo/${svgInfo[0]}.ico`;
+        }else{
+            console.log('没找到favicon');
+        }
+
+        var svgElement = document.getElementById("logoSvg");
+        if(svgElement){
+            svgElement.src = `./logo/${svgParam}`;
             document.getElementById("defSvg").style.display = "none";
             document.getElementById("logoSvg").style.display = "block";
-        };
-        img.onerror = function () {
-            console.warn("SVG does not exist.");
-            document.getElementById("defSvg").style.display = "block";
-            document.getElementById("logoSvg").style.display = "none";
-        };
-        img.src = `logo/${svgParam}`;
+        }
     }else{
         document.getElementById("defSvg").style.display = "block";
         document.getElementById("logoSvg").style.display = "none";
@@ -260,9 +263,9 @@
             splash.style.backgroundSize = "cover"; // 设置背景图片全屏展示
             splash.style.display = "none";
 
-            var gameName = document.getElementById("name");
-            console.log("1 gameName = ", gameName);
-            document.title = gameName;
+            // var gameName = document.getElementById("name");
+            // console.log("1 gameName = ", gameName);
+            // document.title = gameName;
         }
     })();
 </script>
